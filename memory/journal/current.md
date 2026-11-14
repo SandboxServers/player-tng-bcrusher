@@ -6,3 +6,12 @@
 - 17:49 act: {"actions":[{"do":"mine","block":"oak_log","count":4}]}
 - 17:49 act: {"actions":[{"do":"goto","target":{"x":-240,"y":67,"z":375}},{"do":"mine","block":"oak_log","count":4}]}
 - 17:50 act: {"actions":[{"do":"craft","item":"oak_planks","count":4}],"say":"I have 7 oak logs and 4 sticks. Making planks now; I'll share with Laforge and Troi, and any food I find goes to Kimberly first."}
+- 17:53 act: {"actions":[{"do":"goto","target":{"x":-292,"y":69,"z":312}}],"say":"Dal here, joining the west grass search. I have 4 planks and 6 logs to share. Calling out any animal I see."}
+- 18:02 act: {"actions":[{"do":"goto","target":{"x":-294,"y":69,"z":350}},{"do":"sleep"}],"say":"Dal heading to the white bed to the south for the night. Share any food you find."}
+- 18:11 say: {"text":"Trader, I have oak planks and oak logs. Do you have any food to trade?"}
+- 18:12 act: {"intent":{"goal":"join_west_search","program":"travel","arguments":{"target":"ag_zack_01"},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","goal_completed"],"limits":{"max_w
+- 18:12 act: {"actions":[{"do":"goto","target":{"x":-284,"y":67,"z":336}}],"say":"There is an iron golem to my east, so I am moving west away from it toward the group."}
+- 18:15 act: {"actions":[{"do":"goto","target":{"x":-285,"y":70,"z":324}},{"do":"mine","block":"oak_leaves","count":4}],"say":"Going to the oak tree at -285,70,324 to try its leaves for apples. Any apple goes to K
+- 18:15 act: {"actions":[{"do":"mine","block":"oak_leaves","count":4}]}
+- 18:19 act: {"intent":{"goal":"reach_group_beds","program":"travel","arguments":{"target":"ag_trini_01"},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","goal_completed"],"limits":{"max_
+- 18:19 act: {"actions":[{"do":"goto","target":{"x":-282,"y":67,"z":320}},{"do":"sleep"}],"say":"Going to the bed at -282,67,320 to sleep with the group."}
