@@ -121,3 +121,6 @@
 - 22:21 act: {"actions":[{"do":"goto","target":{"x":-282,"y":67,"z":320}}]}
 - 22:22 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":318}},{"do":"sleep"}],"say":"Night on day 242. Going to the white bed with the group. Trini first for any food at dawn.","reasoning":"Night, shel
 - 22:22 act: {"intent":{"goal":"hold_with_group_until_dawn","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_world_ticks":12000,"max_block_operat
+- 22:31 act: {"say":"Ezra here, morning. I have no food either. I'm going west with Billy and Data to look for pigs or cows, away from the bows to the south.","intent":{"goal":"join_food_search_west","program":"tr
+- 22:39 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":318}},{"do":"sleep"}],"say":"Ezra here, no food found in the west, hunger 20. Going back to the white beds with the group for the night. Trini ea
+- 22:43 act: {"actions":[{"do":"sleep"}]}

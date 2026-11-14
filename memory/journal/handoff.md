@@ -1,5 +1,11 @@
-Handoff, night of day 241 (Ezra, ag_bcrusher_01).
-- Night of 241 at the white bed (-270,67,318) with Riker, Worf, Billy, Data, Zack, Jason, Kimberly. Not enclosed. Health 20, hunger 20.
+Handoff, night of day 243 (Ezra, ag_bcrusher_01). Latest first.
+- Night of 243 at the white beds (-271,67,319) with Trini, Riker, Billy, Data, Jason, Laforge, Kimberly, Worf, Zack. Health 20, hunger 20, no food. Pack: 3 oak logs, 2 arrows, 3 sticks, wooden sword.
+- West search for pigs and cows found nothing on day 243. Unripe wheat at (-263,66,321) per Kimberly.
+- Sleep refused at night: phantom 4 blocks away. Session ended while waiting. Not in bed yet.
+- Next: at light, food search with the group; Trini (health 3, holding a chicken) eats first. Retry the bed when no monsters are near.
+
+Night of day 241 notes:
+- At the white bed (-270,67,318). Not enclosed. Health 20, hunger 20.
 - No food anywhere. Trini first for any food, then Riker, then Zack.
 - Sleep failed at dusk because an iron golem was near. It has since left. Retry sleep at the bed.
 - At light: search for land food (sheep, cows, chickens) with Laforge and Kimberly. Not the NW lake.
