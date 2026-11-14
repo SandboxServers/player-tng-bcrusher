@@ -135,3 +135,5 @@
 - 22:52 act: {"actions":[{"do":"goto","target":{"x":-290,"y":66,"z":300}}],"say":"Beverly: out of the lake on grass. Heading back to the group at the white beds. Salmon are too deep for me without a bridge.","inte
 - 22:52 act: {"intent":{"goal":"join_group_at_beds","program":"travel","arguments":{"target":{"x":-271,"y":67,"z":319}},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_world_ti
 - 22:52 act: {"say":"Beverly back at the white beds with the group, health 20, hunger 20, no food. Trini first for anything found.","intent":{"goal":"hold_with_group_watch_for_food","program":"rest","arguments":{"
+- 22:56 act: {"say":"Wesley here, no food, health 20. I'll walk the west grass a short way, in sight of the beds, and call out any animal. Trini eats first.","intent":{"goal":"scout_west_grass","program":"travel",
+- 22:56 act: {"intent":{"goal":"return_to_beds","program":"travel","arguments":{"target":{"x":-271,"y":67,"z":320}},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_world_ticks"
