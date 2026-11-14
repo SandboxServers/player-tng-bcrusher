@@ -88,3 +88,20 @@
 - 21:12 act: {"actions":[{"do":"give","to":"ag_riker_01","item":"rotten_flesh","count":2}],"say":"Riker, I'm giving you my 2 rotten flesh, since Trini has just eaten. Eat when you need it."}
 - 21:16 act: {"say":"Ezra here, no food, hunger 20. Joining the sheep search at Zack's spot at -274,67,289. Any mutton or cow goes to Trini first.","intent":{"goal":"join_search_at_zack_spot","program":"travel","a
 - 21:22 act: {"say":"Ezra: dusk, no food, hunger 20. Going to the yellow bed at -274,69,291 near the group to sleep.","intent":{"goal":"reach_group_bed_for_night","program":"travel","arguments":{"target":{"x":-274
+- 21:23 act: {"actions":[{"do":"sleep"}],"say":"Ezra here, at the yellow bed. I have no food, but health and hunger are full. Going to sleep; Trini eats first at light.
+- Day 239 night: sleep failed twice (monsters, then beds occupied). Now with Jason, Data, LaForge, Billy and Trini at the white bed -271,67,318. Health 20, hunger 20, no food. Waiting for light; Trini (health 3) eats first.
+- Day 240 dawn: went to the NW lake (-330,63,272). Many salmon in deep water, but I have no weapon, and hand attacks timed out. Got stuck in deep water, unstick worked, back on gravel shore. Now gathering oak logs at the beds for a wooden sword (crafting table at -268,67,327) to come back for the salmon.
+- Day 240 midday: mined 4 oak logs, made planks, sticks and a wooden sword at the crafting table (-268,67,327). Recipe learned: sword needs sticks, so craft stick first. Heading back to the lake salmon with the sword."}
+- 21:29 act: {"say":"Ezra, dawn day 240, no food. Going to the lake north-west (-330,64,272) for salmon. Any fish goes to Trini first, then Zack.","intent":{"goal":"reach_lake_for_salmon","program":"travel","argum
+- 21:30 act: {"actions":[{"do":"attack","target":"salmon"},{"do":"attack","target":"salmon"}],"say":"Ezra at the lake shore, salmon in sight. Taking one now; it goes to Trini first."}
+- 21:30 act: {"actions":[{"do":"unstick"}],"say":"Ezra: I'm in deep water after a failed grab at a salmon. Getting out to the shore before I try again."}
+- 21:30 act: {"actions":[{"do":"goto","target":{"x":-330,"y":63,"z":272}}]}
+- 21:31 act: {"say":"Ezra: salmon are out in deep water and I have no weapon, so I can't reach them from shore. Going back to the logs by the beds to make a wooden sword, then I'll return for the fish.","intent":{
+- 21:31 act: {"actions":[{"do":"goto","target":{"x":-277,"y":69,"z":290}},{"do":"mine","block":"oak_log","count":4}],"say":"Ezra: no logs by the lake. Going to the logs at -278,69,290 by the yellow beds to mine th
+- 21:31 act: {"actions":[{"do":"craft","item":"oak_planks","count":4},{"do":"goto","target":{"x":-268,"y":67,"z":325}},{"do":"craft","item":"wooden_sword","count":1}],"say":"Ezra: 4 logs in hand, making planks and
+- 21:32 act: {"actions":[{"do":"craft","item":"stick","count":4},{"do":"craft","item":"wooden_sword","count":1}]}
+- 21:32 act: {"say":"Ezra has a wooden sword now. Going back to the lake for salmon. Trini first for any fish.","intent":{"goal":"return_to_lake_for_salmon","program":"travel","arguments":{"target":{"x":-330,"y":6
+- 21:32 act: {"actions":[{"do":"attack","target":"salmon"}],"say":"I have the wooden sword. Trying for a salmon from the shore. Any fish goes to Trini first."}
+- 21:33 act: {"actions":[{"do":"unstick"},{"do":"goto","target":{"x":-330,"y":63,"z":272}}],"intent":{"goal":"reach_shore_safe","program":"travel","arguments":{"target":{"x":-330,"y":63,"z":272}},"wake_on":["direc
+- 21:33 act: {"intent":{"goal":"return_to_group","program":"travel","arguments":{"target":{"x":-270,"y":67,"z":320}},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","goal_completed"],"lim
+- 21:33 act: {"say":"Back at the beds. The lake salmon swim too deep to hit by hand; the wooden sword is not enough for them. Has anyone seen a sheep, cow or chicken today? Trini first for any food."}

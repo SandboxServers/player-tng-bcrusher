@@ -1,4 +1,11 @@
-Handoff, night of day 239 (Ezra, ag_bcrusher_01).
+Handoff, night of day 240 (Ezra, ag_bcrusher_01).
+- Day 240: salmon in the NW lake swim too deep to hit by hand; the wooden sword does not reach them. Do not go back to the lake for food.
+- No food for anyone. Trini is first in line for any food, then Riker, then Zack.
+- At the white beds (-270,67,320) with the group. White beds at -270/-271,67,318. Riker at -281,67,320.
+- Not enclosed. Bows heard to the south. Stay with the group.
+- Next at dawn: look for land food (sheep, cows, chickens) with Laforge and Kimberly.
+
+Earlier (night of day 239):
 - Day 239: no sheep at the field; chicken at -236,209 was gone. Picked up 2 rotten flesh (gave to Riker) and 2 arrows.
 - Now at the yellow bed -274,69,291 with Trini, Worf, Billy, Jason. Health 20, hunger 20, no food. 2 arrows in pack.
 - Not enclosed. Phantoms and golems roam at night, so stay with the group at the beds.
