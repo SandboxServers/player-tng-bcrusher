@@ -56,3 +56,5 @@
 - 20:27 act: {"actions":[{"do":"sleep"}]}
 - 20:32 act: {"say":"Wesley, day 237, hunger 19, no food. Going west with Data, Trini and Billy to look for animals and apples. Trini and Riker get any food first.","intent":{"goal":"search_west_grass_for_food","p
 - 20:33 act: {"say":"Wesley at the west grass, -325,64,300. My path was blocked and the travel stopped. No food on me. Zack and LaForge are close; I'll look for animals around here and call out anything I see.","i
+- 20:35 act: {"intent":{"goal":"return_to_white_beds","program":"travel","arguments":{"target":{"x":-270,"y":67,"z":318}},"wake_on":["goal_completed","directly_addressed","unexpected_damage","precondition_failed"]
+- 20:36 act: {"say":"Back at the white beds with Trini, Jason and Troi. Still no food on me. I'll stay here and keep watch for animals."}
