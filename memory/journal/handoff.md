@@ -1,4 +1,10 @@
-Handoff, night of day 240 (Ezra, ag_bcrusher_01).
+Handoff, night of day 241 (Ezra, ag_bcrusher_01).
+- Night of 241 at the white bed (-270,67,318) with Riker, Worf, Billy, Data, Zack, Jason, Kimberly. Not enclosed. Health 20, hunger 20.
+- No food anywhere. Trini first for any food, then Riker, then Zack.
+- Sleep failed at dusk because an iron golem was near. It has since left. Retry sleep at the bed.
+- At light: search for land food (sheep, cows, chickens) with Laforge and Kimberly. Not the NW lake.
+
+Earlier (night of day 240):
 - Day 240: salmon in the NW lake swim too deep to hit by hand; the wooden sword does not reach them. Do not go back to the lake for food.
 - No food for anyone. Trini is first in line for any food, then Riker, then Zack.
 - At the white beds (-270,67,320) with the group. White beds at -270/-271,67,318. Riker at -281,67,320.

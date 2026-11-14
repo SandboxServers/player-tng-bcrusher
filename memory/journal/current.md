@@ -105,3 +105,14 @@
 - 21:33 act: {"actions":[{"do":"unstick"},{"do":"goto","target":{"x":-330,"y":63,"z":272}}],"intent":{"goal":"reach_shore_safe","program":"travel","arguments":{"target":{"x":-330,"y":63,"z":272}},"wake_on":["direc
 - 21:33 act: {"intent":{"goal":"return_to_group","program":"travel","arguments":{"target":{"x":-270,"y":67,"z":320}},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","goal_completed"],"lim
 - 21:33 act: {"say":"Back at the beds. The lake salmon swim too deep to hit by hand; the wooden sword is not enough for them. Has anyone seen a sheep, cow or chicken today? Trini first for any food."}
+- 21:43 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":318}}],"reasoning":"Stay among the group at the bed; retry sleep after the wait."}
+- 21:43 act: {"actions":[{"do":"sleep"}],"reasoning":"Night, at the white bed with the group. Retry sleep now that the monster sounds have eased."}
+- 21:46 act: {"actions":[{"do":"sleep"}],"reasoning":"Still night at the beds with the group, health steady. Retry sleep."}
+- 21:48 act: {"actions":[{"do":"sleep"}],"reasoning":"Dawn; retry sleep at the white bed, then food search."}
+- 21:48 act: {"actions":[{"do":"goto","target":{"x":-250,"y":67,"z":318}}],"reasoning":"Sleep blocked three times by unseen monsters to the south. Move east to a new place and look for food."}
+- 21:48 say: {"text":"Ezra here, east of the beds at -251,318. No food on me. I'm scouting the grass for animals; I'll call out anything I find."}
+- 21:49 act: {"actions":[{"do":"goto","target":{"x":-266,"y":67,"z":320}}],"reasoning":"Dawn of day 241. Rejoin the group near the beds, keep scouting for animals in sight of them."}
+- 21:59 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":318}},{"do":"sleep"}],"say":"Dusk. Going to the white bed with the group. Still no food; Trini first if anything turns up."}
+- 22:01 act: {"actions":[{"do":"sleep"}]}
+- 22:01 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":318}},{"do":"sleep"}]}
+- 22:09 act: {"actions":[{"do":"goto","target":{"x":-256,"y":66,"z":318}}],"say":"Ezra, dawn of day 242. Still no food, hunger 20. Scouting the grass just east of the beds in sight of the group. Call out any anima
