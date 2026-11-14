@@ -116,3 +116,6 @@
 - 22:01 act: {"actions":[{"do":"sleep"}]}
 - 22:01 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":318}},{"do":"sleep"}]}
 - 22:09 act: {"actions":[{"do":"goto","target":{"x":-256,"y":66,"z":318}}],"say":"Ezra, dawn of day 242. Still no food, hunger 20. Scouting the grass just east of the beds in sight of the group. Call out any anima
+- 22:15 act: {"say":"Morning. I'm at the crafting table area with 3 oak logs and a wooden sword. No food in sight. I'll look west and north for animals and crops, and report back.","intent":{"goal":"search_food_we
+- 22:17 act: {"say":"A phantom is 6 blocks north-east of me. I have no food, only logs and 2 arrows. I'm going back to the beds with the group.","intent":{"goal":"return_to_beds","program":"travel","arguments":{"t
+- 22:21 act: {"actions":[{"do":"goto","target":{"x":-282,"y":67,"z":320}}]}
