@@ -46,3 +46,11 @@
 - 20:02 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":319}}],"say":"Beverly Crusher: the golem is about 9 blocks west, so I'm moving back toward the white beds, away from it."}
 - 20:03 act: {"actions":[{"do":"sleep"}]}
 - 20:07 act: {"actions":[{"do":"sleep"}]}
+- 20:14 act: {"intent":{"goal":"join_group_west_grass","program":"travel","arguments":{"target":{"x":-290,"y":66,"z":330}},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","goal_completed"
+- 20:14 act: {"actions":[{"do":"mine","block":"short_grass","count":4}],"say":"Wesley at the west grass, midday day 236. Trying the grass for seeds. Still no animal or apple seen."}
+- 20:15 act: {"actions":[{"do":"mine","block":"grass","count":2}],"say":"Mining grass gave nothing. Trying the tall grass here instead; still no animal or apple seen."}
+- 20:22 act: {"intent":{"goal":"reach_white_bed_for_night","program":"travel","arguments":{"target":{"x":-270,"y":67,"z":318}},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","goal_comple
+- 20:22 act: {"actions":[{"do":"sleep"}]}
+- 20:26 act: {"actions":[{"do":"sleep"}]}
+- 20:27 act: {"intent":{"goal":"rejoin_group_at_white_bed","program":"travel","arguments":{"target":{"x":-270,"y":67,"z":319}},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","goal_comple
+- 20:27 act: {"actions":[{"do":"sleep"}]}
