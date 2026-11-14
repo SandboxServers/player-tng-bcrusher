@@ -143,3 +143,14 @@
 - 23:10 act: {"intent":{"goal":"search_further_west_for_animals","program":"travel","arguments":{"target":{"x":-310,"y":67,"z":318}},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{
 - 23:10 act: {"intent":{"goal":"return_to_beds_for_night","program":"travel","arguments":{"target":{"x":-271,"y":67,"z":318}},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_wo
 - 23:15 act: {"say":"No food seen here yet. I'm heading east of the beds to look for animals. Tell me if you find any.","intent":{"goal":"search_east_for_food","program":"travel","arguments":{"target":{"x":-245,"y
+- 23:19 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":318}}],"intent":{"goal":"reach_white_bed_for_night","program":"travel","arguments":{"target":{"x":-270,"y":67,"z":318}},"wake_on":["directly_addr
+- 23:19 act: {"actions":[{"do":"sleep"}],"say":"Trying the white bed for the night. I still have no food; Trini eats first at light."}
+- 23:21 act: {"actions":[{"do":"sleep"}]}
+- 23:23 act: {"actions":[{"do":"sleep"}]}
+- 23:30 act: {"say":"Geldar at the white beds, dawn of day 246. No food. I'm going east, away from the bows in the south, to look for animals. Trini eats first if I find any.","intent":{"goal":"search_east_for_ani
+- 23:30 act: {"intent":{"goal":"search_further_east_for_animals","program":"travel","arguments":{"target":{"x":-205,"y":67,"z":305}},"wake_on":["directly_addressed","unexpected_damage","goal_completed","preconditi
+- 23:31 act: {"say":"Geldar at -205,67,305: no animals, no food, only stone and oak here. Going back toward the white beds. Trini first if anyone finds food.","intent":{"goal":"return_to_white_beds","program":"tra
+- 23:40 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":319}}]}
+- 23:40 act: {"actions":[{"do":"sleep"}]}
+- 23:44 act: {"actions":[{"do":"sleep"}]}
+- 23:44 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":318}},{"do":"sleep"}]}

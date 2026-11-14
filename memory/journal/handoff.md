@@ -1,4 +1,10 @@
-Handoff, night of day 243 (Ezra, ag_bcrusher_01). Latest first.
+Handoff, night of day 246 (Geldar, ag_bcrusher_01). Latest first.
+- At the white beds (-270,67,318) with the group: Trini, Data, Riker, Billy, Jason, Laforge, Kimberly, Troi, Zack, Picard. Health 20, hunger 20, no food. Pack: 3 oak logs, 2 arrows, 5 dirt, 1 sapling, 3 sticks, wooden sword.
+- Sleep refused three times at night: phantom 4 blocks away. Not in bed yet.
+- Bows heard to the south and southeast all day. No food found east, west or at the lake.
+- Next: at dawn, check whether the phantom is gone and try the bed once. Food goes to Trini first (health 3), then Data.
+
+Handoff, night of day 243 (Ezra, ag_bcrusher_01).
 - Night of 243 at the white beds (-271,67,319) with Trini, Riker, Billy, Data, Jason, Laforge, Kimberly, Worf, Zack. Health 20, hunger 20, no food. Pack: 3 oak logs, 2 arrows, 3 sticks, wooden sword.
 - West search for pigs and cows found nothing on day 243. Unripe wheat at (-263,66,321) per Kimberly.
 - Sleep refused at night: phantom 4 blocks away. Session ended while waiting. Not in bed yet.
