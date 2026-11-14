@@ -142,3 +142,4 @@
 - 23:10 act: {"intent":{"goal":"search_grass_for_animals","program":"travel","arguments":{"target":{"x":-285,"y":67,"z":318}},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","goal_complet
 - 23:10 act: {"intent":{"goal":"search_further_west_for_animals","program":"travel","arguments":{"target":{"x":-310,"y":67,"z":318}},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{
 - 23:10 act: {"intent":{"goal":"return_to_beds_for_night","program":"travel","arguments":{"target":{"x":-271,"y":67,"z":318}},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_wo
+- 23:15 act: {"say":"No food seen here yet. I'm heading east of the beds to look for animals. Tell me if you find any.","intent":{"goal":"search_east_for_food","program":"travel","arguments":{"target":{"x":-245,"y
