@@ -124,3 +124,14 @@
 - 22:31 act: {"say":"Ezra here, morning. I have no food either. I'm going west with Billy and Data to look for pigs or cows, away from the bows to the south.","intent":{"goal":"join_food_search_west","program":"tr
 - 22:39 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":318}},{"do":"sleep"}],"say":"Ezra here, no food found in the west, hunger 20. Going back to the white beds with the group for the night. Trini ea
 - 22:43 act: {"actions":[{"do":"sleep"}]}
+- 22:48 act: {"say":"Wesley... Beverly Crusher at the white beds, dawn of day 243. No food on me. Going to the north-west lake shore for salmon with my wooden sword. Any fish goes to Trini first, then Riker.","int
+- 22:48 act: {"actions":[{"do":"goto","target":{"x":-323,"y":64,"z":262}}],"say":"Beverly at the north-west lake shore, dawn day 244. Two salmon to the north-east. Trying to catch one from the shore. Riker first, 
+- 22:48 act: {"actions":[{"do":"unstick"}],"say":"Beverly: I'm in the water again. Getting out to the shore before trying for the salmon."}
+- 22:48 act: {"actions":[{"do":"unstick"},{"do":"goto","target":{"x":-290,"y":66,"z":300}}],"say":"Beverly: the salmon are out of reach from this water. Heading back to the group at the white beds.","intent":{"goa
+- 22:51 act: {"actions":[{"do":"unstick"}]}
+- 22:51 act: {"actions":[{"do":"goto","target":{"x":-312,"y":66,"z":262}}],"say":"Beverly: swimming east toward the shore, away from the deep water."}
+- 22:52 act: {"actions":[{"do":"goto","target":{"x":-312,"y":66,"z":262}}]}
+- 22:52 act: {"actions":[{"do":"place","block":"oak_log","at":"feet"},{"do":"place","block":"oak_log","at":"feet"},{"do":"unstick"}],"say":"Beverly: I'm stuck in deep water. Trying to place oak logs under my feet 
+- 22:52 act: {"actions":[{"do":"goto","target":{"x":-290,"y":66,"z":300}}],"say":"Beverly: out of the lake on grass. Heading back to the group at the white beds. Salmon are too deep for me without a bridge.","inte
+- 22:52 act: {"intent":{"goal":"join_group_at_beds","program":"travel","arguments":{"target":{"x":-271,"y":67,"z":319}},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_world_ti
+- 22:52 act: {"say":"Beverly back at the white beds with the group, health 20, hunger 20, no food. Trini first for anything found.","intent":{"goal":"hold_with_group_watch_for_food","program":"rest","arguments":{"
