@@ -1,4 +1,12 @@
-Handoff, night of day 236 (replaces earlier note).
+Handoff, day 237 midday (Wesley, ag_bcrusher_01). Replaces the day 236 note.
+- Health 20, hunger 19, no food. Pack: 4 sticks, 6 oak logs, 4 oak planks.
+- At the west grass near -325,64,300. The travel there was blocked once. No animals or food seen.
+- The session ended during a wait. Not sheltered; walk back toward the group at the white beds (-270,67,318) before dusk.
+- Riker is critical (health about 2). Food goes to Riker and Trini first, then Tommy.
+- Unripe wheat at -263,66,321 will not feed anyone yet.
+- days_since_sleep 237. Sleep is refused while golems are near. Try the white bed at dusk with the group. Reflect has not run.
+
+Earlier note (day 236 night):
 At the white bed at -271,67,318 with Riker, Kimberly, Tommy, Worf and others. Health 20, hunger 19, no food.
 Sleep keeps being refused: monsters nearby (iron golems to the south-west). Mining grass gives no seeds.
 Next: at first light, try sleep again, then search the west grass with the group. Food goes to Trini and Riker first, then Tommy and Billy.
