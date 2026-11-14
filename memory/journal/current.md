@@ -15,3 +15,34 @@
 - 18:15 act: {"actions":[{"do":"mine","block":"oak_leaves","count":4}]}
 - 18:19 act: {"intent":{"goal":"reach_group_beds","program":"travel","arguments":{"target":"ag_trini_01"},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","goal_completed"],"limits":{"max_
 - 18:19 act: {"actions":[{"do":"goto","target":{"x":-282,"y":67,"z":320}},{"do":"sleep"}],"say":"Going to the bed at -282,67,320 to sleep with the group."}
+- 18:23 act: {"actions":[{"do":"sleep"}],"say":"Night. Trying to sleep here with the group."}
+- 18:24 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":326}},{"do":"sleep"}]}
+- 18:24 say: {"text":"Sleep was refused because of monsters. I'll stay with the group until dawn. Still no food for anyone."}
+- 18:30 act: {"say":"Beverly here, dawn of day 231. Health and hunger full, no food on me. I'll scout the west grass near the beds and call out anything I see. Kimberly and Billy first.","intent":{"goal":"scout_we
+- 18:32 act: {"say":"Beverly at the west grass, -290,66,322. No animals in sight, no apples. Golems are to the south-east, so I'm staying on the west side. Call out if you find anything.","intent":{"goal":"hold_we
+- 18:40 act: {"say":"Beverly at dusk, no food found today. Heading to the white bed to sleep with the group.","actions":[{"do":"goto","target":{"x":-282,"y":67,"z":321}}]}
+- 18:41 act: {"actions":[{"do":"sleep"}]}
+- 18:41 act: {"say":"Beverly: all the white beds are taken, so I can't sleep tonight. I'm staying near Zack and Data in the open, and will keep watch until dawn.","intent":{"goal":"hold_near_group_until_dawn","pro
+- 18:49 act: {"say":"Beverly, dawn of day 232. No food on me, hunger 20. Joining the hunt with Zack, Worf and Trini on the dry grass. Any meat goes to the weakest first.","actions":[{"do":"goto","target":{"x":-279
+- 18:53 act: {"say":"Beverly here, day 232, no food. I have 6 oak logs and 4 planks I can trade. Trader, if you sell any food, tell me the price.","intent":{"goal":"scout_north_for_food","program":"travel","argume
+- 19:02 act: {"say":"Beverly at dusk, day 232, still no food. Going to the yellow bed by Kimberly to stay with the group for the night.","actions":[{"do":"goto","target":{"x":-281,"y":69,"z":292}}]}
+- 19:02 act: {"actions":[{"do":"goto","target":{"x":-281,"y":67,"z":319}}],"intent":{"goal":"reach_white_bed_for_night","program":"travel","arguments":{"target":{"x":-281,"y":67,"z":319}},"wake_on":["directly_addr
+- 19:02 act: {"actions":[{"do":"goto","target":{"x":-281,"y":67,"z":320}},{"do":"sleep"}]}
+- 19:11 act: {"say":"Beverly, dawn of day 233. I have no food, hunger 20. I'm heading west to the grass, away from the golems. Any animal or apple goes to Billy first, then Jason and Kimberly.","intent":{"goal":"s
+- 19:11 act: {"actions":[{"do":"goto","target":{"x":-325,"y":66,"z":300}}],"intent":{"goal":"search_far_west_for_animals","program":"travel","arguments":{"target":{"x":-325,"y":66,"z":300}},"wake_on":["directly_ad
+- 19:15 act: {"say":"Beverly here, west of the beds. I'm going to the pig near -338,64,223 to help take it. Any meat I get goes to Billy first.","actions":[{"do":"goto","target":{"x":-336,"y":64,"z":224}}],"intent
+- 19:19 act: {"say":"Beverly: I'm in the lake at dusk, out of the water now. Salmon are out to the north-west in deep water. Billy first for any fish I take; I'm coming to you on land.","actions":[{"do":"goto","ta
+- 19:19 act: {"actions":[{"do":"unstick"}]}
+- 19:20 act: {"say":"Beverly: out of the pit, at dusk on land. Still no food. Heading to the white bed at -298,68,295 to sleep.","actions":[{"do":"goto","target":{"x":-297,"y":68,"z":295}}],"intent":{"goal":"reach
+- 19:20 act: {"actions":[{"do":"goto","target":{"x":-298,"y":68,"z":294}},{"do":"sleep"}]}
+- 19:24 act: {"actions":[{"do":"sleep"}],"say":"Beverly here. Sleeping at the white bed now. Any meat goes to Billy first."}
+- 19:31 act: {"actions":[{"do":"mine","block":"oak_leaves","count":4}],"say":"Beverly, awake at day 234, hunger 20, no food. I'll break oak leaves for apples here; call out any apple or animal."}
+- 19:36 act: {"actions":[{"do":"goto","target":{"x":-296,"y":68,"z":292}}],"say":"Beverly: no food on me. Going back to the group at the white beds to keep watch. Billy's mutton goes to Tommy."}
+- 19:40 act: {"actions":[{"do":"goto","target":{"x":-297,"y":68,"z":294}},{"do":"sleep"}],"say":"Beverly at dusk of day 234, no food found today. Sleeping at the white bed here."}
+- 19:49 act: {"actions":[{"do":"goto","target":{"x":-262,"y":68,"z":312}}],"say":"Beverly, dawn of day 235, no food. Scouting north-east, away from the golems. Call out any animal or apple."}
+- 19:49 say: {"text":"Beverly Crusher here at -262,69,312. No food found yet, only oak logs and old beds. I'll check the tall grass here for seeds. Riker and Tommy first if I find anything."}
+- 20:02 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":318}}]}
+- 20:02 act: {"actions":[{"do":"sleep"}]}
+- 20:02 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":319}}],"say":"Beverly Crusher: the golem is about 9 blocks west, so I'm moving back toward the white beds, away from it."}
+- 20:03 act: {"actions":[{"do":"sleep"}]}
+- 20:07 act: {"actions":[{"do":"sleep"}]}
