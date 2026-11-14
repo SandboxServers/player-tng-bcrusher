@@ -1,5 +1,5 @@
 # Journal
-- 17:47 act: {"actions":[{"do":"goto","target":{"x":-272,"y":68,"z":364}},{"do":"sleep"}],"say":"Going to bed. Night is coming and I need rest."}
+: {"actions":[{"do":"goto","target":{"x":-272,"y":68,"z":364}},{"do":"sleep"}],"say":"Going to bed. Night is coming and I need rest."}
 - 17:47 act: {"actions":[{"do":"goto","target":{"x":-294,"y":69,"z":350}},{"do":"sleep"}],"say":"Trying the white bed here, since the yellow ones are taken."}
 - 17:48 say: {"text":"Morning. I'm Dal, I have nothing either. I'll look for food and wood with you. Any food found, let's share it."}
 - 17:48 act: {"intent":{"goal":"gather_oak_log","program":"gather","arguments":{"block":"oak_log","count":6},"wake_on":["goal_completed","directly_addressed","unexpected_damage"],"limits":{"max_world_ticks":2400,"
@@ -138,3 +138,7 @@
 - 22:56 act: {"say":"Wesley here, no food, health 20. I'll walk the west grass a short way, in sight of the beds, and call out any animal. Trini eats first.","intent":{"goal":"scout_west_grass","program":"travel",
 - 22:56 act: {"intent":{"goal":"return_to_beds","program":"travel","arguments":{"target":{"x":-271,"y":67,"z":320}},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_world_ticks"
 - 23:00 act: {"actions":[{"do":"sleep"}],"say":"Geldar at the white bed, no food, health 20, hunger 20. Trying sleep again with the group. Trini first for any food at dawn."}
+- 23:06 say: {"text":"Geldar here. I have no food either. Trini, Data and Worf look low, so when dawn comes we go for food together, Trini first."}
+- 23:10 act: {"intent":{"goal":"search_grass_for_animals","program":"travel","arguments":{"target":{"x":-285,"y":67,"z":318}},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","goal_complet
+- 23:10 act: {"intent":{"goal":"search_further_west_for_animals","program":"travel","arguments":{"target":{"x":-310,"y":67,"z":318}},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{
+- 23:10 act: {"intent":{"goal":"return_to_beds_for_night","program":"travel","arguments":{"target":{"x":-271,"y":67,"z":318}},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_wo
