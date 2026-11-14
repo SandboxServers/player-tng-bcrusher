@@ -119,3 +119,5 @@
 - 22:15 act: {"say":"Morning. I'm at the crafting table area with 3 oak logs and a wooden sword. No food in sight. I'll look west and north for animals and crops, and report back.","intent":{"goal":"search_food_we
 - 22:17 act: {"say":"A phantom is 6 blocks north-east of me. I have no food, only logs and 2 arrows. I'm going back to the beds with the group.","intent":{"goal":"return_to_beds","program":"travel","arguments":{"t
 - 22:21 act: {"actions":[{"do":"goto","target":{"x":-282,"y":67,"z":320}}]}
+- 22:22 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":318}},{"do":"sleep"}],"say":"Night on day 242. Going to the white bed with the group. Trini first for any food at dawn.","reasoning":"Night, shel
+- 22:22 act: {"intent":{"goal":"hold_with_group_until_dawn","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_world_ticks":12000,"max_block_operat
