@@ -58,3 +58,5 @@
 - 20:33 act: {"say":"Wesley at the west grass, -325,64,300. My path was blocked and the travel stopped. No food on me. Zack and LaForge are close; I'll look for animals around here and call out anything I see.","i
 - 20:35 act: {"intent":{"goal":"return_to_white_beds","program":"travel","arguments":{"target":{"x":-270,"y":67,"z":318}},"wake_on":["goal_completed","directly_addressed","unexpected_damage","precondition_failed"]
 - 20:36 act: {"say":"Back at the white beds with Trini, Jason and Troi. Still no food on me. I'll stay here and keep watch for animals."}
+- 20:41 act: {"actions":[{"do":"sleep"}],"say":"Wesley... I mean Beverly, at the white bed at dusk of day 237. Still no food, hunger 19. Riker and Trini get any food first. Trying the bed now."}
+- Day 237 dusk: at white bed -270,67,318 with Trini, Jason, Troi. No food, health 20, hunger 19. Bows heard to the south. Salmon lake NW (-330,62,270) is the lead. Sleep queued.
