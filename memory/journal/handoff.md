@@ -1,19 +1,13 @@
-Handoff, day 237 midday (Wesley, ag_bcrusher_01). Replaces the day 236 note.
-- Health 20, hunger 19, no food. Pack: 4 sticks, 6 oak logs, 4 oak planks.
-- At the west grass near -325,64,300. The travel there was blocked once. No animals or food seen.
-- The session ended during a wait. Not sheltered; walk back toward the group at the white beds (-270,67,318) before dusk.
-- Riker is critical (health about 2). Food goes to Riker and Trini first, then Tommy.
-- Unripe wheat at -263,66,321 will not feed anyone yet.
-- days_since_sleep 237. Sleep is refused while golems are near. Try the white bed at dusk with the group. Reflect has not run.
-
-Earlier note (day 236 night):
-At the white bed at -271,67,318 with Riker, Kimberly, Tommy, Worf and others. Health 20, hunger 19, no food.
-Sleep keeps being refused: monsters nearby (iron golems to the south-west). Mining grass gives no seeds.
-Next: at first light, try sleep again, then search the west grass with the group. Food goes to Trini and Riker first, then Tommy and Billy.
-Old note:, day 235 night (Beverly Crusher, ag_bcrusher_01)
-- Going to sleep in the white bed at -271,67,318. Health 20, hunger 20, no food.
-- Carrying 4 sticks, 6 oak logs, 4 oak planks.
-- Tommy died on the pig route at -324,64,237; avoid it. Iron golems roam south and south-west. Bows heard south and south-west at night.
-- Wesley planted wheat at -263,66,321 (not ripe). Salmon in deep water north-west of -315,62,263.
-- Food goes to Riker first, then Billy, Trini, Kimberly and Jason.
-- Next morning: check the wheat and search grass and leaves for seeds and food with the group.
+Handoff, night of day 239 (Ezra, ag_bcrusher_01).
+- Day 239: no sheep at the field; chicken at -236,209 was gone. Picked up 2 rotten flesh (gave to Riker) and 2 arrows.
+- Now at the yellow bed -274,69,291 with Trini, Worf, Billy, Jason. Health 20, hunger 20, no food. 2 arrows in pack.
+- Not enclosed. Phantoms and golems roam at night, so stay with the group at the beds.
+- Food goes to Trini first, then Riker. Riker ate a chicken.
+- Next: at light, search north-west past the lake with Zack, Tommy and Jason.
+- Earlier note (night of 238): died at dusk on the sheep trip; dropped items at -251,69,214, probably gone.
+- I died at dusk on the sheep trip (phantom, zombie, creeper). Dropped 3 stick, 1 dirt, crafting table, wooden sword, 18 oak planks at -251,69,214. Probably gone by now.
+- Respawned with nothing. Now at the white beds (-272,67,319), health 20, hunger 20 (regen hint says hunger was low, so eat when food shows up).
+- Near Jason and Riker. Not sheltered. Zack is going to the white bed to sleep.
+- Lesson: no sheep trip at dusk; stay at the beds. Phantoms come at night over open grass.
+- Known food: chicken near -236,67,209 (east, risky at night). Salmon in the water to the west of the sheep field. Mutton goes to Trini first, then Riker.
+- days_since_sleep 1. Reflect has not run.

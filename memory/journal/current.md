@@ -60,3 +60,31 @@
 - 20:36 act: {"say":"Back at the white beds with Trini, Jason and Troi. Still no food on me. I'll stay here and keep watch for animals."}
 - 20:41 act: {"actions":[{"do":"sleep"}],"say":"Wesley... I mean Beverly, at the white bed at dusk of day 237. Still no food, hunger 19. Riker and Trini get any food first. Trying the bed now."}
 - Day 237 dusk: at white bed -270,67,318 with Trini, Jason, Troi. No food, health 20, hunger 19. Bows heard to the south. Salmon lake NW (-330,62,270) is the lead. Sleep queued.
+- 20:43 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":322}}],"intent":{"goal":"reach_group_bed","program":"travel","arguments":{"target":{"x":-270,"y":67,"z":322}},"wake_on":["directly_addressed","go
+- 20:52 act: {"actions":[{"do":"goto","target":{"x":-290,"y":66,"z":328}}],"intent":{"goal":"search_west_grass_for_food","program":"travel","arguments":{"target":{"x":-290,"y":66,"z":328}},"wake_on":["directly_add
+- 20:52 act: {"actions":[{"do":"mine","block":"short_grass","count":4}],"say":"Ezra here, west grass. Breaking grass for seeds. Any food I get goes to Trini first."}
+- 20:52 act: {"actions":[{"do":"mine","block":"grass","count":4}]}
+- 20:52 act: {"actions":[{"do":"goto","target":"ag_troi_01"}],"say":"Troi, Ezra here. Mining grass gave me nothing. What worked for you for seeds? Any food goes to Trini first."}
+- 20:54 act: {"actions":[{"do":"goto","target":{"x":-274,"y":66,"z":325}},{"do":"craft","item":"wooden_sword","count":1}],"say":"Ezra: I'll make a wooden sword and go with Data to the sheep field to the north. Any
+- 20:54 act: {"actions":[{"do":"goto","target":{"x":-283,"y":64,"z":240}}],"intent":{"goal":"reach_sheep_field_north","program":"travel","arguments":{"target":{"x":-283,"y":64,"z":240}},"wake_on":["directly_addres
+- 20:54 act: {"intent":{"goal":"reach_sheep_field","program":"travel","arguments":{"target":{"x":-283,"y":64,"z":219}},"wake_on":["goal_completed","unexpected_damage","directly_addressed"],"limits":{"max_world_tic
+- 20:58 act: {"say":"Ezra here: no sheep at this field yet, only salmon in the water to the west. Laforge, I'm waiting here with you for a while. Mutton goes to Trini first."}
+- 21:00 act: {"intent":{"goal":"fight_off_phantom","program":"flee","arguments":{"from":"phantom"},"wake_on":["goal_completed","directly_addressed"],"limits":{"max_world_ticks":600,"max_block_operations":16}},"act
+- 21:01 act: {"actions":[{"do":"craft","item":"oak_planks","count":12},{"do":"craft","item":"crafting_table","count":1}]}
+- 21:01 act: {"actions":[{"do":"craft","item":"oak_planks","count":12}],"intent":{"goal":"shelter_for_night","program":"build","arguments":{"blueprint":{"name":"night_shelter","blocks":[]},"block":"oak_planks"},"w
+- 21:01 act: {"intent":{"goal":"shelter_for_night","program":"build","arguments":{"blueprint":"shelter","block":"oak_planks"},"wake_on":["goal_completed","unexpected_damage","precondition_failed"],"limits":{"max_w
+- 21:01 act: {"actions":[{"do":"attack","target":"zombie"},{"do":"attack","target":"zombie"},{"do":"attack","target":"zombie"}]}
+- 21:01 act: {"intent":{"goal":"shelter_now","program":"build","arguments":{"blueprint":"shelter","block":"oak_planks"},"wake_on":["goal_completed","precondition_failed"],"limits":{"max_world_ticks":600,"max_block
+- 21:01 act: {"actions":[{"do":"goto","target":{"x":-241,"y":67,"z":221}},{"do":"attack","target":"chicken"},{"do":"attack","target":"chicken"}]}
+- 21:01 act: {"actions":[{"do":"attack","target":"phantom"},{"do":"attack","target":"phantom"},{"do":"attack","target":"phantom"}]}
+- 21:02 act: {"intent":{"goal":"reach_group_beds","program":"travel","arguments":{"target":{"x":-270,"y":67,"z":322}},"wake_on":["goal_completed","unexpected_damage","directly_addressed"],"limits":{"max_world_tick
+- 21:02 act: {"actions":[{"do":"goto","target":{"x":-272,"y":67,"z":318}}]}
+- 21:02 act: {"say":"Ezra here, back at the white beds with nothing. I died on the sheep trip at dusk, so I'm not carrying food. Riker, Jason, I'll stay near you until light. Mutton and chicken goes to Trini first
+- 21:10 act: {"say":"Ezra here, day 239, bright, no food, health 20. Going north with the group to the sheep field in sight of you. Any mutton goes to Trini first, then Riker.","intent":{"goal":"reach_sheep_field_
+- 21:11 act: {"say":"No sheep here at the field, and I see no one near me. I'm heading east to the chicken at -236,67,209 in daylight. Anyone who finds food, call me.","intent":{"goal":"get_chicken_food","program"
+- 21:11 act: {"actions":[{"do":"goto","target":{"x":-224,"y":67,"z":194}}],"intent":{"goal":"check_item_and_chicken","program":"travel","arguments":{"target":{"x":-224,"y":67,"z":194}},"wake_on":["directly_address
+- 21:11 act: {"intent":{"goal":"pick_up_item_near_horse","program":"travel","arguments":{"target":{"x":-235,"y":66,"z":201}},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_wor
+- 21:11 act: {"say":"Got 2 rotten flesh and 2 arrows, no chicken in sight. Heading back west to the beds to give the flesh to Riker or Trini.","intent":{"goal":"return_to_beds_with_group","program":"travel","argum
+- 21:12 act: {"actions":[{"do":"give","to":"ag_riker_01","item":"rotten_flesh","count":2}],"say":"Riker, I'm giving you my 2 rotten flesh, since Trini has just eaten. Eat when you need it."}
+- 21:16 act: {"say":"Ezra here, no food, hunger 20. Joining the sheep search at Zack's spot at -274,67,289. Any mutton or cow goes to Trini first.","intent":{"goal":"join_search_at_zack_spot","program":"travel","a
+- 21:22 act: {"say":"Ezra: dusk, no food, hunger 20. Going to the yellow bed at -274,69,291 near the group to sleep.","intent":{"goal":"reach_group_bed_for_night","program":"travel","arguments":{"target":{"x":-274
