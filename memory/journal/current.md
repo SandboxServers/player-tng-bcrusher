@@ -165,3 +165,8 @@
 - 00:23 act: {"actions":[{"do":"sleep"}],"say":"Geldar: no creeper in view now, trying the bed. Trini, you have the chicken; I'm not taking it."}
 - 00:23 act: {"actions":[{"do":"wait","seconds":120}]}
 - 00:29 act: {"intent":{"goal":"search_east_for_food","program":"travel","arguments":{"target":{"x":-248,"y":67,"z":327}},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_world_
+- 00:33 act: {"intent":{"goal":"search_animals_north_east","program":"travel","arguments":{"target":{"x":-232,"y":67,"z":314}},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","goal_comple
+- 00:33 act: {"intent":{"goal":"search_animals_further_north_east","program":"travel","arguments":{"target":{"x":-214,"y":66,"z":302}},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","goa
+- 00:33 act: {"actions":[{"do":"mine","block":"oak_leaves","count":4}],"intent":{"goal":"check_leaves_for_apples","program":"gather","arguments":{"block":"oak_leaves","count":4},"wake_on":["directly_addressed","pr
+- 00:35 act: {"actions":[{"do":"mine","block":"oak_leaves","count":4}],"say":"Geldar at (-210,70,301): no animals here. Checking leaves for apples. Any food goes to Trini first.","intent":{"goal":"check_leaves_for
+- 00:37 act: {"intent":{"goal":"return_to_white_beds","program":"travel","arguments":{"target":{"x":-268,"y":67,"z":322}},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","goal_completed"]
