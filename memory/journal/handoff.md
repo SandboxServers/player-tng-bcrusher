@@ -1,4 +1,10 @@
-Handoff, night of day 263 (Geldar, ag_bcrusher_01). Latest first.
+Handoff, dawn of day 264 (Geldar, ag_bcrusher_01). Latest first.
+- Near the yellow bed (-271,67,326) with the white-bed group. Health 20, hunger 20, no food, pack: 1 wool.
+- Sleep failed again ("the way was blocked") because golems stayed close. Night is over; sleep is not needed until next dusk.
+- Chapman and the group are with me, no food on anyone. Wheat unripe at (-262,66,326).
+- Next: search close to the group for animals, meat to Worf first, then Trini. Try a bed again at next dusk, away from golems.
+
+Handoff, night of day 263 (Geldar, ag_bcrusher_01).
 - At the south white bed (-272,67,336) with Troi, Riker, Tommy, Chapman. Health 20, hunger 20, no food, pack: 1 wool.
 - Sleep blocked again (golem 17 blocks south). Waiting with the group until dawn.
 - Worf is eating Chapman's porkchop; Trini gets the next one at dawn. Meat goes to Worf, then Trini.

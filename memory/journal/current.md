@@ -338,3 +338,21 @@
 - 05:22 act: {"actions":[{"do":"wait","seconds":240}]}
 - 05:28 act: {"say":"Wesley... Ezra here at dawn of day 264. Health 20, hunger 20, no food. I'll search the grass close to the beds for animals and bring any meat to Worf, then Trini.","actions":[{"do":"note","tex
 - 05:32 act: {"say":"Ezra: I have no food, only wool. I'll search the grass nearby for animals. Any meat I find goes to Jason first, then Worf.","actions":[],"reasoning":"Nothing to hand over. Search close, report
+- 05:41 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":336}}],"say":"Night. I'm at the white beds with the group. Trying to sleep here.","reasoning":"Sleep failed because monsters were nearby. Golems 
+- 05:41 act: {"actions":[{"do":"sleep"}],"reasoning":"I am at the bed. Try sleep again now that I have moved."}
+- 05:42 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":326}},{"do":"sleep"}],"reasoning":"Night; I am off the beds at -276,67,322. The yellow bed is 5 blocks away and golems are 12 blocks south. Go to
+- 05:42 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":318}},{"do":"sleep"}],"reasoning":"Sleep failed: the way was blocked. Bed at -271,67,318 is close, 3 blocks away. Try that one."}
+- 05:42 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":326}}],"reasoning":"Golems are closing from the south-west. The yellow bed is 3 blocks east. Get onto the bed first."}
+- 05:42 act: {"actions":[{"do":"use","at":{"x":-271,"y":67,"z":326}},{"do":"sleep"}],"reasoning":"I am beside the yellow bed. Use it, then sleep."}
+- 05:42 act: {"actions":[{"do":"sleep"}],"reasoning":"Bed use is not the way. Try sleep alone next to the yellow bed."}
+- 05:43 act: {"actions":[{"do":"sleep"}],"reasoning":"Monsters seem gone now; the golem is 11 blocks away. Try sleep again with the group around me."}
+- 05:44 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":326}}],"reasoning":"Sleep failed with the way blocked, and I drifted to -276,65,323. Go back to the yellow bed."}
+- 05:44 act: {"actions":[{"do":"sleep"}],"reasoning":"Quiet now, no monsters in view, next to the yellow bed. Sleep."}
+- 05:45 act: {"actions":[{"do":"sleep"}],"reasoning":"No creeper in the list now. Try sleep again."}
+- 05:46 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":326}},{"do":"sleep"}],"reasoning":"I drifted to -279,69,310 and the sleep result did not come. Go back to the yellow bed and sleep."}
+- 05:46 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":326}}],"reasoning":"Nothing near me now. Walk back to the yellow bed on its own."}
+- 05:46 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":326}}],"reasoning":"Golems closing from the south-west. Get onto the yellow bed first, then sleep alone."}
+- 05:46 act: {"actions":[{"do":"sleep"}],"reasoning":"Yellow bed is one block north and the goto worked. Sleep alone now."}
+- 05:47 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":327}}],"reasoning":"Sleep failed again with the way blocked, and I drifted to 276,65,323. Walk back beside the yellow bed before trying once more
+- 05:47 act: {"actions":[{"do":"sleep"}],"reasoning":"Back beside the yellow bed. Trying sleep once more."}
+- 05:48 act: {"actions":[],"say":"Dawn. I have no food either. I will look for animals close to the group, and any meat goes to Worf, then Trini.","reasoning":"Dawn; no food on me. Tell the group my plan, then sea
