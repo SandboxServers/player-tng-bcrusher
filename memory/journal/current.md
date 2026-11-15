@@ -370,3 +370,5 @@
 - 06:03 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":319}},{"do":"sleep"}]}
 - 06:07 act: {"say":"Morning. No food on me. I'll scout the grass south-west of the beds, in sight of the group, and hand over any meat to Jason first.","actions":[{"do":"goto","target":{"x":-290,"y":67,"z":318}}]
 - 06:07 act: {"actions":[{"do":"goto","target":{"x":-281,"y":67,"z":320}},{"do":"sleep"}]}
+- 06:09 act: {"say":"Wesley here at the white beds, dawn day 266. Health 20, hunger 20, no food. I'll scout the grass to the north-east for animals and bring any meat to Jason first.","actions":[{"do":"goto","targ
+- 06:09 act: {"say":"Wesley: no animals here, only unripe wheat (leave it). Going north toward the old sheep field to look. Meat goes to Jason first.","actions":[{"do":"goto","target":{"x":-283,"y":64,"z":240}}],"

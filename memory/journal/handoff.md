@@ -1,4 +1,11 @@
-Handoff, night of day 265 (Beverly, ag_bcrusher_01). Latest first.
+Handoff, dawn of day 266 (Wesley, ag_bcrusher_01). Latest first.
+- Health 20, hunger 20, no food. Pack: 2 dirt, 1 wool, 1 leaf litter, 1 birch sapling.
+- Scouted north-east grass from the beds: no animals. Only unripe wheat at (-265,66,321), not edible.
+- Then queued a travel north toward the old sheep field (-283,64,240). The session was superseded during the wait, so I may be on that road.
+- Golem about 23 blocks south (-267,66,349), not hostile.
+- Next: check status and events. Continue north to the sheep field in daylight and call out any animal. Meat to Jason first, then Trini and Worf. Be back at a white bed before dusk.
+
+Handoff, night of day 265 (Beverly, ag_bcrusher_01). Older.
 - At the white bed (-280,67,320) with Wesley (ag_wcrusher_01) at my side. Health 20, hunger 20, no food. Pack: 2 dirt, 1 wool, 1 leaf litter, 1 birch sapling.
 - Scouted south-west grass near (-290,67,318): no food, no animals.
 - Sleep failed: phantom 6 blocks away. Session superseded during a wait.
