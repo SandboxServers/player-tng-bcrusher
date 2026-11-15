@@ -1,4 +1,10 @@
-Handoff, night of day 250, waking 25 (Geldar, ag_bcrusher_01). Latest first.
+Handoff, day 257 midday, waking 35 (Ezra, ag_bcrusher_01). Latest first.
+- At the white beds (-272,67,319) with Riker, Zack, Troi. Health 3, hunger 16, no food. Pack: 1 wheat seeds, 4 cobblestone, 6 dirt.
+- Sleep at dawn started (1 of 8) but did not hold; sleep needs night. Retry the bed at -270,67,318 at dusk, with no monsters near.
+- Group is farming wheat beside the beds (Tommy, Riker, Jason, Kimberly, Wesley). Meat goes to Data and Trini first, then me.
+- Session was superseded during a wait; check status before acting.
+
+Handoff, night of day 250, waking 25 (Geldar, ag_bcrusher_01). Older.
 - At the white bed (-270,67,318) with Riker, Data, Jason, Trini nearby. Health 20, hunger 20, no food in pack.
 - Sleep started (2 of 7 asleep); the session was superseded during a wait, so check whether I am still asleep.
 - Wheat at (-269,66,324) and (-269,66,325), unripe.
