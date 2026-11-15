@@ -379,3 +379,5 @@
 - 06:16 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":318}}],"say":"Got 1 beef from the cow. Taking it to Jason at the white beds; he gets it first.","intent":{"goal":"bring_beef_to_group","program":
 - 06:18 act: {"say":"Bcrusher at the white beds. I have 1 beef. Jason, Chapman or LaForge, whoever is weakest, come and I will hand it over.","intent":{"goal":"hold_beef_for_weakest","program":"rest","arguments":{
 - 06:20 act: {"actions":[{"do":"give","to":"ag_chapman_01","item":"beef","count":1}],"say":"Chapman, you were low on food, so here is my beef.","reasoning":"Retry the give now that my body is awake. Chapman is in 
+- 06:21 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":318}}],"say":"It's night and I have no food left, only dirt and some wool. I'll sleep at the white bed here with the group."}
+- 06:21 act: {"actions":[{"do":"sleep"}]}
