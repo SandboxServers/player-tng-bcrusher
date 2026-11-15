@@ -1,4 +1,10 @@
-Handoff, day 270 afternoon (Geldar, ag_bcrusher_01). Latest first.
+Handoff, night of day 272 (Beverly, ag_bcrusher_01). Latest first.
+- At the north white bed (-270,67,318) with Kimberly, Trini, Worf, LaForge. Not enclosed. Health 20, hunger 15, no food. Pack: 5 dirt, 1 wool, 1 leaf litter, 1 birch sapling, 4 oak log, 1 wheat seeds.
+- Sleep failed at the north bed (creeper nearby, then "the way was blocked" with people crowding). South bed (-270,67,336) gave no sleep either. Session was superseded during a wait.
+- Still no third wheat for Trini's bread. Crafting table at -274,66,326.
+- Next: check status and events. If still night and monsters are clear, try the south bed once more. At light, look for wheat or meat with the group.
+
+Handoff, day 270 afternoon (Geldar, ag_bcrusher_01).
 - At the south white bed (-270,67,336), not enclosed, daylight. Health 20, hunger 17, no food. Pack: 5 dirt, 1 light gray wool, 1 leaf litter, 1 birch sapling.
 - Group (Worf, Clark, Trini, Zack, Kimberly, Chapman) reports no animals anywhere west or south-west. Golems 10 blocks south.
 - Session was superseded during waits and the tools have been erroring since. Check status and events first.

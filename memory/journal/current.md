@@ -425,3 +425,13 @@
 - 08:07 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":336}},{"do":"sleep"}]}
 - 08:11 act: {"actions":[{"do":"goto","target":{"x":-275,"y":66,"z":332}},{"do":"use","at":{"x":-276,"y":66,"z":332}}],"say":"Dawn. I have 2 wheat. I'm trying to harvest the last ripe wheat at -276,66,332 for Trin
 - 08:11 act: {"actions":[],"say":"The last ripe wheat is gone; clicking it did nothing. I have 2 wheat, and bread needs 3. Anyone with one more wheat, bring it to me at the table and I'll bake for Trini right away
+- 08:15 act: {"actions":[{"do":"note","text":"Day 272 midday: 2 wheat, hunger 16, health 20. Need one more wheat for bread. Unripe wheat at -273,66,330 is not ready."}],"say":"Beverly here, midday. I have 2 wheat,
+- 08:17 act: {"actions":[{"do":"goto","target":{"x":-272,"y":67,"z":331}}],"say":"Beverly: there is a dropped item by me to the north-east. Checking it, then I'll bring what I have to Trini."}
+- 08:17 act: {"actions":[{"do":"goto","target":{"x":-272,"y":67,"z":320}}],"say":"Beverly: no food came from the item. I'm bringing my 2 wheat to Trini at the white beds. One more wheat makes bread; I'm still look
+- 08:17 act: {"actions":[{"do":"give","to":"ag_trini_01","item":"wheat","count":2}],"say":"Trini, here are my 2 wheat. Bread needs 3, so whoever finds the third wheat should bring it to you. I'll keep looking."}
+- 08:21 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":319}},{"do":"sleep"}],"say":"Beverly at dusk, day 272. No food on me. Trying the white bed at the north beds for the night."}
+- 08:22 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":319}},{"do":"sleep"}],"say":"Beverly trying the bed again now that the creeper has passed."}
+- 08:26 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":319}},{"do":"sleep"}],"say":"Beverly trying the north bed one more time, the one Trini said worked at full night."}
+- 08:26 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":335}}],"intent":{"goal":"reach_south_bed","program":"travel","arguments":{"target":{"x":-270,"y":67,"z":335}},"wake_on":["directly_addressed","pr
+- 08:26 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":336}},{"do":"use","at":{"x":-270,"y":67,"z":336}},{"do":"sleep"}]}
+- 08:26 act: {"actions":[{"do":"sleep"}]}
