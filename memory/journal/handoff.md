@@ -1,8 +1,12 @@
-Handoff, day 261 midday (Wesley/Geldar, ag_bcrusher_01). Latest first.
+Handoff, night of day 261 (Beverly, ag_bcrusher_01). Latest first.
+- Sheltered in the white bed at (-271,67,318) with the group. Slept; health 20, hunger 20.
+- Holding 1 mutton that belongs to Worf (weakest, health about 5). Trini asked that he get it first. He was out of reach at dusk, so the give failed.
+- Wool x1 in pack. A sheep was seen north-east near (-240,67,220).
+- Next at dawn: mutton to Worf first, then Trini. Then look for more meat to the north-east.
+
+Handoff, day 261 midday (Wesley/Geldar, ag_bcrusher_01). Older.
 - At the north lead (-262,67,245), health 20, hunger 20, empty pack, no food. Session superseded during a wait.
 - Searched north-east grass (-258,68,314), (-248,68,300), (-230,67,280). No animals, no food. A horse at (-270,67,236); horses give no food.
-- Golems far south-west. Group at the white beds near (-270,67,318). Trini and Worf get any meat first.
-- Next: scan the north lead for a cow or pig. If none, go back to the group, give food to Trini then Worf, and sleep in a free bed at dusk.
 
 Handoff, night of day 260 (Geldar, ag_bcrusher_01). Older.
 - At the white beds near -273,66,330 (north bed group at -270,67,318). Health 20, hunger 20, no food, empty pack.
