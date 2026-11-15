@@ -1,7 +1,7 @@
-# Goals
+# Goals (Beverly), day 317
 
-1. Keep myself fed and safe. Hunger is 11 and I have no food, so at first light I join the group hunting for meat. Eat when hunger is 6 or below. Reason: my own food is the most urgent thing.
-2. Find animals west near the village, and share what I find with those who are hungry. Reason: that is where food is most likely, and the group needs it.
-3. Help others who are hungry or hurt, and check on Trini, Zack and Jason. Reason: several were at health 9 to 11 with little food. Keep an eye on Picard.
-4. Get a bed or sealed shelter so that I am not out in the dark. Reason: sleeping beside the beds works, but a sealed place is safer.
-5. Keep learning the world and writing it down. Reason: bed clicks fail, goto needs sight, and village names do not work as targets.
+1. Stay alive: keep health up, eat when hunger is 6 or below, and avoid the bow line to the north-west and west. Reason: I have died twice and my pack is empty.
+2. Get food with company in daylight: chicken near 295,98,-1004, or melons near 310,-875. Reason: food is scarce for the whole group, and Picard was at health 2.
+3. Share food with the weakest first (Picard, then Johnny/Chapman, then Zack). Reason: I have nothing to give yet, so I help by carrying and reporting.
+4. Recover my dropped items at 279,91,-1001 only when it is clearly safe and daytime. Reason: they are far and I died on that route.
+5. Sleep in a bed at night near the beds. Reason: nights are full of skeletons, creepers and zombies.
