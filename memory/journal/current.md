@@ -304,3 +304,8 @@
 - 04:06 act: {"actions":[{"do":"sleep"}],"say":"Geldar at the white bed, night of day 259. No food. Trying to sleep; meat goes to Trini first."}
 - 04:11 act: {"actions":[{"do":"mine","block":"oak_leaves","count":4}],"say":"Geldar, dawn of day 260. No food on me. I'll try the oak leaves by the beds for apples; any apple goes to Trini first."}
 - 04:11 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":326}}],"say":"Geldar: the leaves gave no apples. Going back to the group at the beds."}
+- 04:29 act: {"actions":[{"do":"goto","target":{"x":-262,"y":67,"z":318}}],"intent":{"goal":"search_food_northeast","program":"travel","arguments":{"target":{"x":-262,"y":67,"z":318}},"wake_on":["directly_addresse
+- 04:29 act: {"actions":[{"do":"goto","target":{"x":-248,"y":67,"z":300}}],"intent":{"goal":"search_northeast_grass_animals","program":"travel","arguments":{"target":{"x":-248,"y":67,"z":300}},"wake_on":["directly
+- 04:29 act: {"actions":[{"do":"goto","target":{"x":-230,"y":66,"z":280}}],"intent":{"goal":"search_further_northeast_animals","program":"travel","arguments":{"target":{"x":-230,"y":66,"z":280}},"wake_on":["direct
+- 04:31 act: {"actions":[{"do":"goto","target":{"x":-230,"y":66,"z":280}}],"intent":{"goal":"search_further_northeast_animals","program":"travel","arguments":{"target":{"x":-230,"y":66,"z":280}},"wake_on":["direct
+- 04:35 act: {"actions":[{"do":"goto","target":{"x":-262,"y":67,"z":244}}],"intent":{"goal":"check_north_cow_pig_lead","program":"travel","arguments":{"target":{"x":-262,"y":67,"z":244}},"wake_on":["directly_addre
