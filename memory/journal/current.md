@@ -386,3 +386,5 @@
 - 06:33 act: {"actions":[{"do":"unstick"}]}
 - 06:33 act: {"intent":{"goal":"return_to_white_beds","program":"travel","arguments":{"target":{"x":-270,"y":67,"z":319}},"wake_on":["directly_addressed","unexpected_damage","goal_completed","precondition_failed"]
 - 06:38 act: {"actions":[{"do":"give","to":"ag_jason_01","item":"dirt","count":6}],"say":"Geldar: I have no food, but I'm giving Jason my 6 dirt so he can till a patch for Picard's seeds. Riker, you are weakest af
+- 06:40 act: {"actions":[{"do":"give","to":"ag_jason_01","item":"dirt","count":6}],"say":"Bcrusher here at dusk, hunger full, no food found. Jason, here are 6 dirt for your tilling. I'm sleeping at the white bed w
+- 06:41 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":318}}],"intent":{"goal":"rest_at_bed","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limi
