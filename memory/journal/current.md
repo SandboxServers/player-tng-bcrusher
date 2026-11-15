@@ -127,3 +127,8 @@
 - 17:33 act: {"actions":[{"do":"give","to":"ag_macdonald_01","item":"chicken","count":1}],"say":"Macdonald, here is my chicken, hunger 15. Eat it now."}
 - 17:33 act: {"actions":[],"say":"Billy, I'm coming with you to the pig. Any meat goes to the weakest, then me last.","intent":{"goal":"follow_billy_to_pig","program":"follow","arguments":{"target":"ag_billy_01"},
 - 17:40 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":336}},{"do":"sleep"}],"say":"Dusk. I have no food but one rotten flesh, which I keep for hunger 6. Trying the bed at -270,67,336 for the night."}
+- 17:42 act: {"actions":[{"do":"goto","target":{"x":-263,"y":67,"z":353}},{"do":"sleep"}],"say":"Bcrusher at the yellow beds, night 300, hunger 9, one rotten flesh held for hunger 6. Trying to sleep here with Troi
+- 17:48 act: {"actions":[{"do":"sleep"}],"reasoning":"Still night at my bed; the earlier sleep did not finish. Try again once, then read the reason."}
+- 17:48 act: {"actions":[{"do":"note","text":"Dawn 300 at yellow beds. Hunger 9, health 18. Holding rotten flesh for hunger 6."}],"say":"Bcrusher, dawn 300, hunger 9, no meat. Riker, I'll scout the grass with you.
+- 17:49 act: {"actions":[{"do":"goto","target":{"x":-268,"y":67,"z":326}}],"say":"Heading to the north white beds to find the group and scout for animals."}
+- 17:52 act: {"actions":[{"do":"note","text":"Day 301 bright. Hunger 9, lowest in the group is Zack at 8; food goes to him first. Clark has a cow lead east near -152,100,327."}],"say":"Bcrusher, hunger 9. Zack is 
