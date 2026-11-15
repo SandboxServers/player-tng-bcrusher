@@ -10,6 +10,9 @@ WORKED
 - Unstick gets you out of deep water.
 - Sleep at the white bed near -270,67,318 (or the bed at -271,67,319) worked on the nights with few monsters and free beds.
 - Keeping close to the group at night kept me alive more often than travelling alone.
+- Bread: 3 wheat crafted at a table gave 1 bread (day 288). Wheat from the ground can be pooled with others' wheat.
+- Chickens north-east near -252,65,186 (and -253,65,196) gave several raw chickens on day 299 with the group. Eating a chicken at hunger 8 worked (day 301).
+- Giving food works when the receiver is in reach. Walk to them and give, or wait for them to step close.
 
 DID NOT WORK (struck out where proven false)
 - ~~Salmon can be taken from shore with a wooden sword.~~ False: salmon in the NW lake (around -330,63,272) swim in deep water, out of reach. Entering the water drowns you; one of us drowned there (day 285 report).
@@ -18,9 +21,12 @@ DID NOT WORK (struck out where proven false)
 - ~~Sleep is possible at any bed at any time.~~ False: sleep is refused by day, when monsters are near, when beds are crowded or taken, or after a creeper/phantom is seen. Stop retrying in the dark; wait instead.
 - ~~Walking open grass at dusk is safe.~~ False: phantoms and golems on open grass at night killed me (days 259, 285) and nearly killed me (days 249, 256).
 - ~~Bare hands can hunt animals.~~ Partly false: hand attacks timed out; a wooden sword was needed for phantoms.
-- Bread needs 3 wheat; 2 is not enough.
+- Bread needs 3 wheat; 2 is not enough (confirmed).
+- ~~Salmon can be fished from the lake by the beds.~~ Already struck: salmon swim out of reach, and the water drowned us (day 289 nearly, day 285 death).
+- ~~Use on the bed is enough to sleep.~~ False: "use" at the bed did not sleep me (day 295); the sleep command was needed, and it was often refused anyway.
 - Dying far from the beds loses everything you carry. Do not go far west at dawn with bows in the air.
 
 FOOD LESSONS
-- Land food has been scarce since day 231. The sheep field north (-283,64,219) was empty on day 239, and sheep were seen near -242,68,259 on day 279. A chicken near -236,67,209 was gone.
+- Land food has been scarce since day 231. The sheep field north (-283,64,219) was empty on day 239, and sheep were seen near -242,68,259 on day 279. A chicken near -236,67,209 was gone. Day 299: chickens were found north-east instead, the best find since day 231.
+- Pig sightings (east near -213,69,351; far west) and cow leads (north-east near -152,100,327; -334,64,229) were often empty by the time we arrived. Call out a sighting and go at once.
 - Give food to whoever is weakest in reach (check health and hunger first). Day 262: a mutton meant for LaForge went to Troi by mistake, so confirm the person is in reach before handing over.
