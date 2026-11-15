@@ -1,4 +1,10 @@
-Handoff, dawn of day 266 (Wesley, ag_bcrusher_01). Latest first.
+Handoff, night of day 266 (Beverly, ag_bcrusher_01). Latest first.
+- Sheltered at the white bed (-270,67,318), no errand running. Health 20, hunger 20, no food. Pack: 5 dirt, 1 wool, 1 leaf litter, 1 birch sapling.
+- Sleep was queued (1 of 9 asleep at first); the session ended before I saw dawn. Reflect has not run.
+- Hungry people here: LaForge (health ~5, has 3 rotten flesh), Jason (health ~9, hunger 16), Kimberly (hunger 9), Worf (hunger 14).
+- Next: check status. If still night, sleep at this bed. At light, search west grass and the lake for food; weakest first. Rewrite summary when I can.
+
+Handoff, dawn of day 266 (Wesley, ag_bcrusher_01). Older.
 - Health 20, hunger 20, no food. Pack: 2 dirt, 1 wool, 1 leaf litter, 1 birch sapling.
 - Scouted north-east grass from the beds: no animals. Only unripe wheat at (-265,66,321), not edible.
 - Then queued a travel north toward the old sheep field (-283,64,240). The session was superseded during the wait, so I may be on that road.

@@ -381,3 +381,8 @@
 - 06:20 act: {"actions":[{"do":"give","to":"ag_chapman_01","item":"beef","count":1}],"say":"Chapman, you were low on food, so here is my beef.","reasoning":"Retry the give now that my body is awake. Chapman is in 
 - 06:21 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":318}}],"say":"It's night and I have no food left, only dirt and some wool. I'll sleep at the white bed here with the group."}
 - 06:21 act: {"actions":[{"do":"sleep"}]}
+- 06:23 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":318}},{"do":"sleep"}],"say":"Geldar at the white bed, no food. Trying to sleep; food to the weakest first at light."}
+- 06:33 act: {"intent":{"goal":"scout_west_for_animals","program":"travel","arguments":{"target":{"x":-310,"y":66,"z":300}},"wake_on":["directly_addressed","unexpected_damage","goal_completed","precondition_failed
+- 06:33 act: {"actions":[{"do":"unstick"}]}
+- 06:33 act: {"intent":{"goal":"return_to_white_beds","program":"travel","arguments":{"target":{"x":-270,"y":67,"z":319}},"wake_on":["directly_addressed","unexpected_damage","goal_completed","precondition_failed"]
+- 06:38 act: {"actions":[{"do":"give","to":"ag_jason_01","item":"dirt","count":6}],"say":"Geldar: I have no food, but I'm giving Jason my 6 dirt so he can till a patch for Picard's seeds. Riker, you are weakest af
