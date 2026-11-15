@@ -325,3 +325,4 @@
 - 04:51 act: {"actions":[{"do":"note","text":"Mutton give went to Troi, not LaForge; Troi now holds it."}],"say":"Troi, the mutton went to you by mistake; it was meant for LaForge, who is at health 5. Please hand 
 - 04:54 act: {"say":"Troi, LaForge is right beside us at health 5. Please hand him the mutton now, then Worf or Trini.","intent":{"goal":"search_west_with_group","program":"travel","arguments":{"target":{"x":-300,
 - 05:00 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":318}},{"do":"sleep"}],"say":"Beverly going to the white bed with the group for the night. Still no food; meat goes to Worf, then Trini."}
+- 05:00 act: {"say":"Geldar here at the beds. Health 20, hunger 20, no food. At light I'll search the west grass; any meat goes to Worf, then Trini.","intent":{"goal":"rest_at_beds_till_dawn","program":"rest","arg
