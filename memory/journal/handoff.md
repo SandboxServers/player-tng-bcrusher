@@ -1,4 +1,10 @@
-Handoff, night of day 260 (Geldar, ag_bcrusher_01). Latest first.
+Handoff, day 261 midday (Wesley/Geldar, ag_bcrusher_01). Latest first.
+- At the north lead (-262,67,245), health 20, hunger 20, empty pack, no food. Session superseded during a wait.
+- Searched north-east grass (-258,68,314), (-248,68,300), (-230,67,280). No animals, no food. A horse at (-270,67,236); horses give no food.
+- Golems far south-west. Group at the white beds near (-270,67,318). Trini and Worf get any meat first.
+- Next: scan the north lead for a cow or pig. If none, go back to the group, give food to Trini then Worf, and sleep in a free bed at dusk.
+
+Handoff, night of day 260 (Geldar, ag_bcrusher_01). Older.
 - At the white beds near -273,66,330 (north bed group at -270,67,318). Health 20, hunger 20, no food, empty pack.
 - Sleep counted (days_since_sleep 0), then later attempts blocked: beds full. Not in a bed now.
 - Iron golems 10 to 15 blocks south and south-east, no harm. Porkchop passed around; Trini and Worf get meat first.
