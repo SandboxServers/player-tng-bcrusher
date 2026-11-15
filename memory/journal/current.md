@@ -256,3 +256,5 @@
 - 02:49 act: {"intent":{"goal":"return_to_group_beds","program":"travel","arguments":{"target":{"x":-297,"y":68,"z":294}},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","goal_completed"]
 - 02:49 say: {"text":"Geldar back at the beds, morning day 256. Still no food. Iron golems are south-east at about -260,66,350, with an unknown item near -262,65,345. Trini first for any meat."}
 - 02:53 act: {"intent":{"goal":"search_west_for_animals","program":"travel","arguments":{"target":{"x":-340,"y":80,"z":330}},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","goal_complete
+- 02:56 say: {"text":"I'm out at the far west sheep area now. No sheep in sight yet. Any food I find goes to Trini first."}
+- 02:57 act: {"intent":{"goal":"search_west_for_animals","program":"travel","arguments":{"target":{"x":-365,"y":74,"z":330}},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","goal_complete
