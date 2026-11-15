@@ -323,3 +323,5 @@
 - 04:51 act: {"actions":[{"do":"goto","target":"ag_laforge_01"}],"say":"LaForge, you were lowest at dawn, so I'm bringing you my mutton. Coming to you now."}
 - 04:51 act: {"actions":[{"do":"give","to":"ag_laforge_01","item":"mutton","count":1}],"say":"LaForge, here is the mutton. Eat it. Then Worf or Trini get the next food."}
 - 04:51 act: {"actions":[{"do":"note","text":"Mutton give went to Troi, not LaForge; Troi now holds it."}],"say":"Troi, the mutton went to you by mistake; it was meant for LaForge, who is at health 5. Please hand 
+- 04:54 act: {"say":"Troi, LaForge is right beside us at health 5. Please hand him the mutton now, then Worf or Trini.","intent":{"goal":"search_west_with_group","program":"travel","arguments":{"target":{"x":-300,
+- 05:00 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":318}},{"do":"sleep"}],"say":"Beverly going to the white bed with the group for the night. Still no food; meat goes to Worf, then Trini."}

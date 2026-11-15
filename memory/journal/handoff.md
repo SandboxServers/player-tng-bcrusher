@@ -1,4 +1,10 @@
-Handoff, night of day 261 (Beverly, ag_bcrusher_01). Latest first.
+Handoff, night of day 262 (Beverly, ag_bcrusher_01). Latest first.
+- Asleep at the white bed (-270,67,318) with the group, health 20, hunger 20, no food, empty pack except wool.
+- Troi gave the mutton to LaForge, who ate it (hunger 17). Worf and Trini still first for any meat.
+- No animals found today. Bows drawn to the north-east at dusk.
+- Next at dawn: search the west grass in sight of the group; meat to Worf, then Trini, then LaForge.
+
+Handoff, night of day 261 (older).
 - Sheltered in the white bed at (-271,67,318) with the group. Slept; health 20, hunger 20.
 - Holding 1 mutton that belongs to Worf (weakest, health about 5). Trini asked that he get it first. He was out of reach at dusk, so the give failed.
 - Wool x1 in pack. A sheep was seen north-east near (-240,67,220).
