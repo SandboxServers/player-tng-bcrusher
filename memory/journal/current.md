@@ -373,3 +373,7 @@
 - 06:09 act: {"say":"Wesley here at the white beds, dawn day 266. Health 20, hunger 20, no food. I'll scout the grass to the north-east for animals and bring any meat to Jason first.","actions":[{"do":"goto","targ
 - 06:09 act: {"say":"Wesley: no animals here, only unripe wheat (leave it). Going north toward the old sheep field to look. Meat goes to Jason first.","actions":[{"do":"goto","target":{"x":-283,"y":64,"z":240}}],"
 - 06:12 act: {"intent":{"goal":"reach_north_sheep_field","program":"travel","arguments":{"target":{"x":-283,"y":64,"z":219}},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","goal_complete
+- 06:15 act: {"actions":[{"do":"goto","target":{"x":-258,"y":65,"z":222}}],"say":"Beverly at the north sheep field, no animals here. Searching east along the field edge; any meat goes to Jason first.","intent":{"g
+- 06:16 act: {"actions":[{"do":"goto","target":{"x":-235,"y":66,"z":222}}],"say":"Beverly here at the north field's east edge. No animals yet; heading further east to look. Meat goes to Jason first.","intent":{"go
+- 06:16 act: {"actions":[{"do":"goto","target":{"x":-249,"y":68,"z":223}},{"do":"attack","target":"cow"}],"say":"Found a cow at (-251,68,223) and a sheep to the south-west. Going for the cow now; meat goes to Jaso
+- 06:16 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":318}}],"say":"Got 1 beef from the cow. Taking it to Jason at the white beds; he gets it first.","intent":{"goal":"bring_beef_to_group","program":
