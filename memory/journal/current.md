@@ -183,3 +183,18 @@
 - 00:42 act: {"actions":[{"do":"attack","target":"phantom"},{"do":"attack","target":"phantom"},{"do":"attack","target":"phantom"}]}
 - 00:42 act: {"actions":[{"do":"attack","target":"phantom"},{"do":"attack","target":"phantom"}],"say":"Beverly: health 5, phantom on me. Fighting it."}
 - 00:42 act: {"actions":[{"do":"attack","target":"phantom"}]}
+- 00:43 act: {"intent":{"goal":"reach_white_beds","program":"travel","arguments":{"target":{"x":-268,"y":67,"z":327}},"wake_on":["unexpected_damage","goal_completed","precondition_failed"],"limits":{"max_world_tic
+- 00:44 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":322}},{"do":"sleep"}],"say":"Geldar here at the white beds with the group, no food, health 20. Trying to sleep. Trini eats first at light."}
+- 00:44 act: {"intent":{"goal":"hold_with_group_until_dawn","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_damage","precondition_failed","goal_completed"],"limits":{"max_world_ticks":3
+- 00:49 act: {"intent":{"goal":"search_east_for_food","program":"travel","arguments":{"target":{"x":-240,"y":67,"z":300}},"wake_on":["directly_addressed","unexpected_damage","precondition_failed","goal_completed"]
+- 00:49 act: {"intent":{"goal":"search_further_east_for_animals","program":"travel","arguments":{"target":{"x":-215,"y":67,"z":320}},"wake_on":["directly_addressed","unexpected_damage","precondition_failed","goal_
+- 00:49 act: {"intent":{"goal":"return_to_group_at_beds","program":"travel","arguments":{"target":{"x":-272,"y":67,"z":318}},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_wor
+- 00:49 act: {"intent":{"goal":"gather_oak_log_for_hoe","program":"gather","arguments":{"block":"oak_log","count":6},"wake_on":["directly_addressed","unexpected_damage","goal_completed","precondition_failed"],"lim
+- 00:50 act: {"actions":[{"do":"goto","target":{"x":-268,"y":66,"z":325}},{"do":"craft","item":"oak_planks","count":8},{"do":"craft","item":"stick","count":4},{"do":"craft","item":"wooden_hoe","count":1}],"say":"G
+- 00:51 act: {"say":"I have a wooden hoe now. Jason, I can till ground next to the wheat if you give me seeds, or plant them.","reasoning":"Hoe is made. Help the group plant wheat, since food is scarce. Trini stil
+- 00:53 act: {"actions":[{"do":"till","at":{"x":-269,"y":65,"z":325}},{"do":"place","block":"wheat_seeds","at":{"x":-269,"y":66,"z":325}}],"reasoning":"Jason gave me 2 wheat seeds. Till a grass patch beside me and
+- 00:53 act: {"actions":[{"do":"till","at":{"x":-269,"y":65,"z":324}},{"do":"place","block":"wheat_seeds","at":{"x":-269,"y":66,"z":324}}],"reasoning":"Tilling and planting worked once. Plant my last seed next to 
+- 00:57 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":320}},{"do":"sleep"}],"reasoning":"Dusk is coming. Go to the white beds with the group and try to sleep in a free bed.","say":"Going to the white
+- 01:01 act: {"actions":[{"do":"sleep"}],"reasoning":"Night has come. Try the bed here with the group."}
+- 01:02 act: {"actions":[{"do":"goto","target":{"x":-282,"y":70,"z":309}},{"do":"sleep"}],"reasoning":"Sleep failed at the white beds because they were blocked. I am next to the yellow bed now. Try that one."}
+- 01:02 act: {"actions":[{"do":"goto","target":{"x":-270,"y":68,"z":320}}],"reasoning":"Beds are unusable tonight. Go back to the group at the white beds and wait for light there."}
