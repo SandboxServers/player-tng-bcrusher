@@ -326,3 +326,13 @@
 - 04:54 act: {"say":"Troi, LaForge is right beside us at health 5. Please hand him the mutton now, then Worf or Trini.","intent":{"goal":"search_west_with_group","program":"travel","arguments":{"target":{"x":-300,
 - 05:00 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":318}},{"do":"sleep"}],"say":"Beverly going to the white bed with the group for the night. Still no food; meat goes to Worf, then Trini."}
 - 05:00 act: {"say":"Geldar here at the beds. Health 20, hunger 20, no food. At light I'll search the west grass; any meat goes to Worf, then Trini.","intent":{"goal":"rest_at_beds_till_dawn","program":"rest","arg
+- 05:01 act: {"actions":[{"do":"sleep"}],"say":"Going to sleep at the north bed with the group. No food yet; any meat goes to Worf, then Trini."}
+- 05:05 act: {"actions":[{"do":"wait","seconds":240}],"say":"Still at the north bed with the group, no food. Sleep is blocked by golems to the west, so I'll wait here until light."}
+- 05:09 act: {"intent":{"goal":"scout_west_grass","program":"travel","arguments":{"target":{"x":-296,"y":66,"z":319}},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","goal_completed"],"li
+- 05:09 act: {"actions":[{"do":"wait","seconds":60}]}
+- 05:10 act: {"actions":[{"do":"wait","seconds":180}],"say":"Geldar at the west grass with Riker and Tommy, no animals in sight. Bows are drawn to the northwest, so I'm staying close to the group. Meat goes to Wor
+- 05:14 act: {"intent":{"goal":"return_to_north_beds","program":"travel","arguments":{"target":{"x":-270,"y":67,"z":319}},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","goal_completed"]
+- 05:14 act: {"actions":[{"do":"wait","seconds":240}]}
+- 05:18 act: {"actions":[{"do":"wait","seconds":240}]}
+- 05:22 act: {"actions":[{"do":"sleep"}],"say":"Night of day 263. No food. Trying the bed here with the group; Worf and Trini have first claim on any food."}
+- 05:22 act: {"actions":[{"do":"wait","seconds":240}]}

@@ -1,4 +1,11 @@
-Handoff, night of day 262 (Beverly, ag_bcrusher_01). Latest first.
+Handoff, night of day 263 (Geldar, ag_bcrusher_01). Latest first.
+- At the south white bed (-272,67,336) with Troi, Riker, Tommy, Chapman. Health 20, hunger 20, no food, pack: 1 wool.
+- Sleep blocked again (golem 17 blocks south). Waiting with the group until dawn.
+- Worf is eating Chapman's porkchop; Trini gets the next one at dawn. Meat goes to Worf, then Trini.
+- Phantoms and bows out west and north-west at dusk. No animals seen on the west grass.
+- Next at dawn: stay with the group, hand meat to Worf then Trini, then search close, not far west.
+
+Handoff, night of day 262 (Beverly, ag_bcrusher_01).
 - Asleep at the white bed (-270,67,318) with the group, health 20, hunger 20, no food, empty pack except wool.
 - Troi gave the mutton to LaForge, who ate it (hunger 17). Worf and Trini still first for any meat.
 - No animals found today. Bows drawn to the north-east at dusk.
