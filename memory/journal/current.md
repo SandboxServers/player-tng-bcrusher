@@ -155,3 +155,4 @@
 - 20:20 act: {"actions":[{"do":"note","text":"Dusk day 308 at north beds, health 18, hunger 8. Holding 1 chicken and 1 beef for Kimberly (health 8, out of reach at yellow beds). Waiting; eat chicken at hunger 6."}
 - 20:20 act: {"actions":[{"do":"note","text":"Night day 308 at north beds, health 18, hunger 8. Kimberly stays at yellow beds with golems between us; I will not walk there in the dark. Holding chicken and beef for
 - 20:22 act: {"actions":[{"do":"note","text":"Night 308 at north beds, health 18, hunger 8. Phantom fight at the beds with group; golems 6-8 blocks NE, not attacking. Holding chicken and beef for lowest in reach."
+- 20:27 act: {"actions":[{"do":"note","text":"Night 308 at north white beds. Health 18, hunger 8. Holding chicken, beef, rotten flesh. Iron golems 13 blocks north."}],"say":"Wcrusher at the north beds, night 308. 
