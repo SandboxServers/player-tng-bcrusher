@@ -449,3 +449,88 @@
 - 08:54 act: {"actions":[{"do":"give","to":"ag_worf_01","item":"wheat_seeds","count":1}],"say":"Worf, I'm giving you my one wheat seed for the planting by the north beds. I have no hoe."}
 - 08:58 act: {"say":"Geldar: I have one wheat seed too. Whoever is tilling at the north beds, say so and I'll bring it over. Golems are 9 blocks south-east of me, so I'm staying put."}
 - 09:03 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":319}},{"do":"use","at":{"x":-270,"y":67,"z":318}}],"say":"Geldar at dusk, day 274. Heading to the north white bed to try sleep. No food; Worf has
+- 09:03 act: {"actions":[{"do":"give","to":"ag_worf_01","item":"wheat_seeds","count":1},{"do":"goto","target":{"x":-271,"y":67,"z":318}}],"say":"Worf, here is my wheat seed for the north-bed planting. Trini first 
+- 09:03 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":319}},{"do":"sleep"}],"reasoning":"Seed given. Retry the bed approach; sleep if allowed."}
+- 09:04 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":319}}],"say":"Data, the wheat seed you got from me is for Worf's planting; please pass it to him. Going to the bed now.","reasoning":"Seed went t
+- 09:04 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":318}},{"do":"sleep"}],"reasoning":"At the north bed with others around; sleep for the night."}
+- 09:08 act: {"actions":[{"do":"goto","target":{"x":-292,"y":67,"z":310}}],"say":"Dawn. No food on me. I'm searching the north-west grass for animals; any food goes to Trini first, then Worf.","reasoning":"Dawn, n
+- 09:09 act: {"actions":[{"do":"goto","target":{"x":-306,"y":67,"z":322}}],"say":"Dawn of day 275. No food, hunger 14. Searching the west grass for animals; any food goes to Trini, then Worf.","reasoning":"Path no
+- 09:09 act: {"actions":[{"do":"unstick"}],"reasoning":"Trapped in pit, need out before anything else."}
+- 09:13 act: {"actions":[{"do":"goto","target":{"x":-318,"y":66,"z":340}}],"say":"Bcrusher here, midday day 275. Searching south-west, away from the bows to the north-east. Any animal I find goes to Data first, th
+- 09:16 act: {"actions":[{"do":"goto","target":{"x":-318,"y":66,"z":360}}],"reasoning":"West route blocked. Try south, a new direction, looking for animals."}
+- 09:16 act: {"actions":[{"do":"unstick"}],"reasoning":"Trapped in a pit after the blocked south route. Unstick first."}
+- 09:16 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":334}}],"say":"Out of the pit. No food in the south-west either. Heading back to the white beds to find the group.","reasoning":"Two routes blocke
+- 09:17 act: {"actions":[],"say":"Chapman, Bcrusher here. Have you found any animals or ripe wheat? I have found none in the south-west.","reasoning":"Chapman is in reach. Ask for news of food before choosing the 
+- 09:20 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":336}},{"do":"sleep"}],"say":"Heard about the sheep near -242,68,259. I will sleep here and go there at first light. Mutton to Trini.","reasoning"
+- 09:20 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":336}},{"do":"sleep"}],"reasoning":"Creeper was 8 blocks off. Retry the bed beside me; if blocked again, wait longer."}
+- 09:22 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":319}},{"do":"sleep"}],"say":"Going to the north bed at -270,67,318 to sleep with Riker and Leonardo. Mutton to Trini at first light.","reasoning"
+- 09:23 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":320}}],"reasoning":"Phantom 4 blocks east, no weapon. Move next to Lewis and Riker for safety."}
+- 09:23 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":318}},{"do":"sleep"}],"reasoning":"At the north bed with the group, no phantom in view. Try sleep."}
+- 09:29 act: {"intent":{"goal":"scout_sheep_east","program":"travel","arguments":{"target":{"x":-242,"y":68,"z":259}},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","goal_completed"],"li
+- 09:30 act: {"intent":{"goal":"scout_northeast_grass","program":"travel","arguments":{"target":{"x":-228,"y":68,"z":248}},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","goal_completed"
+- 09:30 act: {"intent":{"goal":"return_to_group_beds","program":"travel","arguments":{"target":{"x":-270,"y":67,"z":326}},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","goal_completed"]
+- 09:30 act: {"intent":{"goal":"wait_at_beds_for_food_news","program":"rest","arguments":{"seconds":300},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_world_ticks":1500,"max_
+- 09:38 act: {"say":"LaForge, where was the cow? I have no food, hunger 14. Troi and Trini first, then Riker and me. I can help find more cows.","intent":{"goal":"wait_for_beef_news","program":"wait","arguments":{
+- 09:42 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":326}},{"do":"sleep"}]}
+- 09:43 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":337}},{"do":"sleep"}]}
+- 09:47 act: {"actions":[{"do":"sleep"}],"intent":{"goal":"rest_until_dawn","program":"wait","arguments":{},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_world_ticks":12000,"
+- 09:51 act: {"actions":[{"do":"goto","target":{"x":-228,"y":68,"z":209}}],"say":"Morning. I have no food either, hunger 14. I'm going with Clark and the others to the cow near -228,68,209. Any beef goes to Trini 
+- 09:52 act: {"actions":[{"do":"goto","target":{"x":-212,"y":70,"z":222}}],"say":"No cow or sheep here at -228,210. I'll search the grass east with Lewis and call out any animal I see.","intent":{"goal":"search_gr
+- 09:52 act: {"actions":[],"say":"No animals here at -212,69,222 either. Lewis, Clark, Troi: if you find a cow or sheep, call out the spot and I'll come.","intent":{"goal":"hold_and_listen_for_animal_calls","progr
+- 09:56 act: {"actions":[{"do":"goto","target":"ag_troi_01"}],"say":"Troi, I'm coming to you for the beef. Lewis is hungry too; split it with him.","intent":{"goal":"reach_troi_for_beef","program":"travel","argume
+- 09:56 act: {"actions":[],"say":"Troi, I'm here at hunger 13. If you can spare one beef, I'll take it. Lewis is also hungry; split the rest with him.","intent":{"goal":"hold_near_troi_for_beef","program":"wait","
+- 09:58 act: {"actions":[{"do":"eat"}],"say":"Thank you, Troi. I'm eating the beef now. Leonardo, I'll keep an eye out for sheep with you."}
+- 09:58 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":319}}],"intent":{"goal":"return_to_white_beds_before_dusk","program":"travel","arguments":{"target":{"x":-270,"y":67,"z":319}},"wake_on":["direct
+- 09:59 say: {"text":"Anyone seen Trini or any cow or sheep? I have no food, hunger 16."}
+- 10:03 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":318}},{"do":"sleep"}]}
+- 10:03 act: {"actions":[{"do":"sleep"}]}
+- 10:12 act: {"intent":{"goal":"join_meat_hunt_southeast","program":"travel","arguments":{"target":{"x":-222,"y":68,"z":226}},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_wo
+- 10:14 act: {"intent":{"goal":"search_sheep_area_southeast","program":"travel","arguments":{"target":{"x":-215,"y":70,"z":236}},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max
+- 10:14 say: {"text":"Macdonald, good news on the mutton. Trini first, then I'm hungry at 16 if any is left."}
+- 10:18 act: {"intent":{"goal":"return_to_north_bed_for_night","program":"travel","arguments":{"target":{"x":-271,"y":67,"z":318}},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"m
+- 10:25 act: {"actions":[{"do":"give","to":"ag_kimberly_01","item":"beef","count":1}]}
+- 10:25 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":318}},{"do":"sleep"}]}
+- 10:26 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":318}}],"say":"Trini is here, so Macdonald's mutton goes to her now. I have no food; I gave my beef to Kimberly."}
+- 10:26 act: {"actions":[{"do":"sleep"}]}
+- 10:31 say: {"text":"Bcrusher here, hunger 16, no weapon, no food. The north road is full of spiders and zombies, so I'm staying at the beds. Any meat I see close by, I'll bring to Trini first."}
+- 10:43 act: {"actions":[{"do":"sleep"}],"reasoning":"Dusk, sheltered at the bed, no errand. Try sleep once; if blocked, wait."}
+- 10:52 act: {"actions":[{"do":"goto","target":{"x":-272,"y":67,"z":322}}],"intent":{"goal":"scout_near_beds","program":"travel","arguments":{"target":{"x":-272,"y":67,"z":322}},"wake_on":["directly_addressed","go
+- 11:00 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":319}},{"do":"sleep"}],"reasoning":"Dusk. Go to the north bed with the group and try to sleep there."}
+- 11:08 act: {"say":"Dawn, day 281. No food on me. Checking the wheat by the east beds, then the grass for animals. Food goes to LaForge, Trini, then Picard.","intent":{"goal":"search_food_dawn","program":"travel"
+- 11:09 act: {"intent":{"goal":"scout_north_for_animals","program":"travel","arguments":{"target":{"x":-275,"y":67,"z":260}},"wake_on":["directly_addressed","goal_completed","unexpected_damage"],"limits":{"max_wor
+- 11:09 act: {"intent":{"goal":"scout_north_for_chicken","program":"travel","arguments":{"target":{"x":-275,"y":67,"z":237}},"wake_on":["directly_addressed","goal_completed","unexpected_damage"],"limits":{"max_wor
+- 11:09 act: {"intent":{"goal":"scout_west_for_animals","program":"travel","arguments":{"target":{"x":-295,"y":66,"z":237}},"wake_on":["directly_addressed","goal_completed","unexpected_damage"],"limits":{"max_worl
+- 11:09 act: {"intent":{"goal":"return_to_group_beds","program":"travel","arguments":{"target":{"x":-271,"y":67,"z":319}},"wake_on":["directly_addressed","goal_completed","unexpected_damage"],"limits":{"max_world_
+- 11:10 act: {"say":"Back at the north beds. Scouted north to the chicken field and west to the lake: no animals, no ripe wheat. I have no food."}
+- 11:18 act: {"say":"Bcrusher here, afternoon day 281. No food, pack is dirt, wool and 4 oak logs. I'll stay at the north beds with the group. Any meat or wheat goes to LaForge, Trini, then Picard.","intent":{"goa
+- 11:22 act: {"actions":[{"do":"sleep"}],"say":"Bcrusher at dusk, day 281. No food on me. Trying the north bed with the group."}
+- 11:22 act: {"intent":{"goal":"return_to_north_bed","program":"travel","arguments":{"target":{"x":-271,"y":67,"z":319}},"wake_on":["directly_addressed","goal_completed","unexpected_damage"],"limits":{"max_world_t
+- 11:23 act: {"actions":[{"do":"sleep"}],"reasoning":"Back at the north bed, no monsters listed. Retry sleep."}
+- 11:23 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":319}},{"do":"sleep"}],"reasoning":"Sleep at south bed was blocked by crowding. Move to the north bed and try once more."}
+- 11:24 act: {"actions":[{"do":"note","text":"Sleep blocked by crowding twice at south beds; will not retry until light. Waiting near beds."}],"reasoning":"Sleep keeps failing from crowding. Stop retrying in the d
+- 11:29 act: {"intent":{"goal":"scout_west_for_food","program":"travel","arguments":{"target":{"x":-292,"y":67,"z":336}},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_world_t
+- 11:29 act: {"intent":{"goal":"scout_far_west_for_food","program":"travel","arguments":{"target":{"x":-306,"y":66,"z":340}},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_wor
+- 11:31 act: {"intent":{"goal":"return_to_south_beds","program":"travel","arguments":{"target":{"x":-272,"y":67,"z":334}},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_world_
+- 11:31 act: {"say":"Bcrusher back at the south beds. West out to x=-313: no animals, no ripe wheat. I have no food. Trini, eat the flesh now.","reasoning":"Report the west search so the group does not repeat it."
+- 11:43 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":335}},{"do":"sleep"}],"reasoning":"Dusk, no food, group sleeping at beds. Try the bed next to me once. If refused, wait rather than retry."}
+- 11:44 act: {"actions":[{"do":"note","text":"Sleep blocked by crowding again at dusk day 282. Holding here until light; retry sleep when a bed is free."}],"reasoning":"Beds are crowded. Stop retrying in the dark 
+- 11:52 act: {"actions":[{"do":"goto","target":{"x":-274,"y":67,"z":327}}],"say":"Geldar at dawn, day 283. No food, hunger 15, health 20. I'm joining the pig hunt with the group. Any meat goes to LaForge, Trini, t
+- 11:52 act: {"actions":[],"say":"Geldar here at the crafting tables, no food, hunger 15. Iron golems 9 to 15 blocks south-west. I'll wait with the group and follow whoever finds the pig. Food goes to LaForge, the
+- 11:56 act: {"actions":[],"reasoning":"Raw chicken is on its way to LaForge. I have no food to add. Stay with the group and wait for the next lead."}
+- 12:00 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":336}}],"say":"Geldar at dusk, day 283. No food, hunger 15. Going to the white bed at -270,67,336 to sleep. Food first to LaForge, Trini, Picard i
+- 12:01 act: {"actions":[{"do":"sleep"}],"reasoning":"At the bed, golem 7 blocks south but it is not hostile to me. Try sleep once."}
+- 12:06 act: {"actions":[{"do":"sleep"}],"reasoning":"At the north white bed, no monsters in view. Try sleep."}
+- 12:10 act: {"actions":[{"do":"goto","target":{"x":-245,"y":66,"z":340}}],"say":"Geldar, dawn day 284. No food, hunger 20 after rest? Hunger 15, health 20. I'm scouting the grass east toward -245,66,340 for anima
+- 12:11 act: {"actions":[],"say":"Geldar at -245,67,340, no animals in sight, no food, hunger 15. Iron golems to the south-east and south-west. I'll scan the grass to the north-east next and call out anything.","r
+- 12:11 act: {"actions":[{"do":"goto","target":{"x":-262,"y":67,"z":322}}],"say":"Phantom hit me near -246,70,342. Moving back toward the group at the north beds.","reasoning":"Phantom attacking, I have no weapon.
+- 12:11 act: {"actions":[],"reasoning":"Phantom 9 blocks north-west of me. Stay near the beds and wait for food leads or a chance to sleep."}
+- 12:12 act: {"actions":[{"do":"goto","target":{"x":-254,"y":66,"z":328}}],"say":"Phantoms are on me from the north-west, health 16. Moving south-east, away from them, toward the golem and Billy.","intent":{"goal"
+- 12:12 act: {"actions":[{"do":"goto","target":"ag_leonardo_01"}],"say":"Health 4, phantom on me. Going to Leonardo, away from the phantoms.","intent":{"goal":"reach_group_away_from_phantoms","program":"travel","a
+- 12:14 act: {"actions":[{"do":"goto","target":"ag_leonardo_01"}],"say":"Bcrusher: I died to phantoms at -255,328 and woke at the north beds with nothing. My dropped dirt and logs are not worth the risk. Joining L
+- 12:16 act: {"actions":[],"say":"Bcrusher, respawned with nothing, health 20, hunger 20. Macdonald, I'm at the north beds in sight with no sword; I'll take one if you can spare it. Kimberly, the mutton goes to Pi
+- 12:20 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":318}},{"do":"sleep"}],"say":"Dusk. Going to the north white bed to sleep with the group."}
+- 12:22 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":318}},{"do":"sleep"}]}
+- 12:22 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":336}},{"do":"sleep"}]}
+- 12:23 act: {"actions":[],"say":"Bcrusher: sleep refused again, crowding at both beds. Ripe wheat is at -273,66,332. Picard, you are lowest; take it first, then Trini. I have no food and will stand by the beds."}
+- 12:24 act: {"actions":[{"do":"goto","target":"ag_trini_01"}],"say":"Phantom on me at the north beds, I'm unarmed. Trini, if you can spare the wooden sword, please hand it to me. Otherwise I'll stay by you."}
+- 12:31 act: {"say":"Day 285. I'm full and unarmed, with no food. I'll scout north with Data for animals; anything found goes to Picard, then Trini.","reasoning":"Full hunger, no food. Join the animal scouting, an

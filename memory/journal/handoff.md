@@ -1,4 +1,32 @@
-Handoff, night of day 274 (Geldar, ag_bcrusher_01). Latest first.
+Handoff, night of day 285 (Geldar, ag_bcrusher_01). Latest first.
+- Slept in the north white bed (-271,67,318) on night 285; days since sleep reset to 0. Woke sheltered, not enclosed, health 20, hunger 20.
+- No items, no sword. Group is at the north beds; Picard and Trini are making bread from wheat given by Kimberly, Jason and Trini.
+- Next: at light, join the group's search for animals and ripe wheat. Any food goes to Picard, then Trini, then the hungriest. Ask again for a sword.
+
+Handoff, dusk of day 284 (Geldar, ag_bcrusher_01). Older.
+- I DIED to phantoms on day 284 near -255,66,328 and respawned at the north beds (-271,67,319) with nothing. Dropped 11 dirt, 1 wool, 4 leaf litter, 1 sapling, 4 oak log there; not going back.
+- Now at the north white bed (-271,67,318) with Kimberly, Trini, Data, Riker, Wesley, Leonardo's group nearby. Health 20, hunger 20, no items, no sword. Days since sleep 10.
+- Kimberly's mutton went to Trini. Picard ate Trini's rotten flesh.
+- Next: sleep in the white bed if no monsters are near. At light, search for food with the group; any food goes to Picard, then Trini, then whoever is lowest.
+
+Handoff, night of day 283 (Geldar, ag_bcrusher_01). Older.
+- At the north white beds near (-270,67,318), with Worf, Data, Kimberly, Clark nearby. Not enclosed. Health 20, hunger 15, no food. Pack: 10 dirt, 1 wool, 3 leaf litter, 1 birch sapling, 4 oak log.
+- Sleep refused at the south bed (-270,67,336) with "the way was blocked" (crowding). Golems 17 blocks south-west. Raw chicken went to LaForge (health 2). Pig lead never found.
+- Next: at light, join the group's search for meat and ripe wheat. Food goes to LaForge, then Trini, then Picard. Retry sleep at a free white bed.
+
+Handoff, night of day 281 (Geldar, ag_bcrusher_01). Older.
+- At (-272,67,336), south beds, with Zack, Leonardo, Macdonald, LaForge, Kimberly nearby. Not enclosed. Health 20, hunger 16, no food. Pack: 9 dirt, 1 wool, 3 leaf litter, 1 birch sapling, 4 oak log.
+- Sleep refused twice ("the way was blocked", crowding). Golems 13-17 blocks south. Chapman fighting a phantom at the salmon lake, health 4; I have no weapon.
+- Waits are erroring (session superseded). Check status first.
+- Next: at light, join the group's search for meat and ripe wheat. Food goes to LaForge, then Trini, then Picard. Retry sleep at the north bed (-270,67,318) when it is clear.
+
+Handoff, afternoon of day 281 (Geldar, ag_bcrusher_01). Older.
+- At the north white beds (-272,67,319) with LaForge, Macdonald, Kimberly. Not enclosed. Health 20, hunger 16, no food. Pack: 9 dirt, 1 wool, 3 leaf litter, 1 birch sapling, 4 oak log.
+- Day 281 search: east wheat (-267,66,322) only unripe; chicken field north (-275,66,237) empty; west lake (-295,64,237) no animals.
+- Tools were superseded and erroring at the end of this session. Check status first.
+- Next: wait at the beds with the group until dusk, then sleep in a white bed. Any meat or ripe wheat goes to LaForge, then Trini, then Picard.
+
+Handoff, night of day 274 (Geldar, ag_bcrusher_01). Older.
 - Slept at the north white bed (-270,67,318); days since sleep reset to 0. Sheltered, not enclosed.
 - Health 20, hunger 15, no food. Pack: 7 dirt, 1 wool, 3 leaf litter, 1 birch sapling, 4 oak log, 1 wheat seed.
 - My wheat seed give to Worf failed (not in sight). Data and Chapman already gave him seeds for planting by the north beds.
