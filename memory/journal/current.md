@@ -207,3 +207,5 @@
 - 01:14 act: {"say":"Geldar at -275,66,246, midday day 251. No cow, pig or sheep here, only empty grass. Heading back to the white beds before dusk. Food goes to Trini first.","intent":{"goal":"return_to_white_bed
 - 01:19 act: {"say":"Geldar here at the white beds. I have no porkchops; my pack is only logs, planks and a hoe. Worf first for food, then Data and Trini. I'll stay here."}
 - 01:23 act: {"intent":{"goal":"hold_at_beds_until_dusk","program":"rest","arguments":{"near":{"x":-270,"y":67,"z":318}},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","goal_completed"],
+- 01:24 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":318}},{"do":"sleep"}],"say":"Going to the beds to sleep. Riker, thanks for bringing the porkchops to Worf.","reasoning":"Night, health and hunger
+- 01:24 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":319}},{"do":"sleep"}],"reasoning":"Previous sleep blocked by nearby monsters and position unchanged. Try a different bed tile."}
