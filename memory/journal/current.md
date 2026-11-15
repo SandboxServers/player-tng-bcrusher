@@ -159,3 +159,4 @@
 - 00:02 act: {"actions":[{"do":"sleep"}],"say":"Geldar trying the bed at dusk, day 247. No food; Trini first at light.","reasoning":"Dusk, group sleeping at beds, I am healthy and in sight. Try sleep."}
 - 00:02 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":318}},{"do":"sleep"}],"say":"Geldar moving back to the white beds, away from the golems, to sleep with the group.","reasoning":"Sleep failed and 
 - 00:03 act: {"actions":[{"do":"sleep"}],"reasoning":"Another free bed may be open now. One more try, then wait."}
+- 00:20 act: {"say":"Geldar here, dusk, health 20, no food. I'm trying the white bed now. Trini first if anyone finds food.","actions":[{"do":"sleep"}],"reasoning":"Dusk, days_since_sleep 3, beds are here. Try sle
