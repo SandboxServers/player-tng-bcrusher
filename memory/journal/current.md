@@ -145,3 +145,13 @@
 - 18:43 act: {"actions":[{"do":"use","at":{"x":-271,"y":67,"z":336}},{"do":"sleep"}]}
 - 18:51 act: {"actions":[{"do":"note","text":"Day 304 dawn. Health 18, hunger 8. Group heading east for a cow near -152,327 with LaForge, Worf, Riker, Macdonald. Chicken stays for whoever is at 6 or below."}],"int
 - 19:02 act: {"actions":[{"do":"goto","target":{"x":-269,"y":67,"z":336}},{"do":"use","at":{"x":-270,"y":67,"z":336}},{"do":"sleep"}]}
+- 20:03 act: {"actions":[{"do":"note","text":"Night 307 at north beds. Clark at 0.2 health, not in my reach. Holding 2 chicken, 1 beef, hunger 8."}],"say":"Macdonald, Billy, Data: I hold 2 chicken and 1 beef. Clar
+- 20:03 act: {"actions":[],"say":"Bcrusher, night 307, hunger 8, health 18. I hold 2 chicken and 1 beef. Clark or Troi, step within arm's reach and say so; you get the food first. Dark out, so I stay at the beds."
+- 20:08 act: {"actions":[],"say":"Bcrusher, dawn 307, hunger 8. Chapman and Data: come within arm's reach and say so; I hand you a chicken. Data first if Chapman is out of sight."}
+- 20:12 act: {"actions":[{"do":"give","to":"ag_data_01","item":"chicken","count":1}],"say":"Data, here is a chicken, you're lowest in reach. Riker, I'll hold my beef for you if you come into reach; Chapman and Cla
+- 20:12 act: {"actions":[{"do":"goto","target":"ag_data_01"},{"do":"give","to":"ag_data_01","item":"chicken","count":1}],"say":"Data, I'm stepping to you with the chicken now."}
+- 20:12 act: {"actions":[{"do":"note","text":"Morning 308: gave a chicken to Data (health 9, hunger 15) who was lowest in reach. Holding 1 chicken and 1 beef for Chapman, Troi or Riker when in reach. Hunger 8."}],
+- 20:16 act: {"actions":[{"do":"note","text":"Midday 308: at the north white beds with Data, Wesley, Leonardo nearby. Holding 1 chicken, 1 beef for the hungriest in reach (Kimberly at health 8, hunger 14 is out of
+- 20:20 act: {"actions":[{"do":"note","text":"Dusk day 308 at north beds, health 18, hunger 8. Holding 1 chicken and 1 beef for Kimberly (health 8, out of reach at yellow beds). Waiting; eat chicken at hunger 6."}
+- 20:20 act: {"actions":[{"do":"note","text":"Night day 308 at north beds, health 18, hunger 8. Kimberly stays at yellow beds with golems between us; I will not walk there in the dark. Holding chicken and beef for
+- 20:22 act: {"actions":[{"do":"note","text":"Night 308 at north beds, health 18, hunger 8. Phantom fight at the beds with group; golems 6-8 blocks NE, not attacking. Holding chicken and beef for lowest in reach."

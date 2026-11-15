@@ -1,8 +1,9 @@
-Handoff, dusk of day 307 (Geldar, ag_bcrusher_01). Latest.
-- At (-269,67,335), north white beds with the group, not enclosed. Health 18, hunger 8 (steady). Pack: 2 dirt, 1 rotten flesh, 1 wooden hoe, 4 feathers, 2 raw chicken, 1 beef. Eat chicken at hunger 6 or below; give to the lowest in reach (Clark, Troi, Chapman).
-- Game tools stopped answering at dusk 307 (no such tool for wait/act/journal). Retry the wait first when they return.
-- Beds at (-270,67,336) and (-271,67,336) refused sleep before; do not retry the same way.
-- Group hunting pigs north-west near -256,67,235; LaForge led it. Golem about 10 blocks west, not hostile.
+Handoff, night of day 308 (Geldar, ag_bcrusher_01). Latest.
+- At (-272,67,336), north white beds, not enclosed, night. Health 18, hunger 8 (steady). Pack: 1 chicken, 1 beef, 2 dirt, 1 rotten flesh, 1 wooden hoe, 4 feathers.
+- Holding chicken and beef for the lowest in reach. Kimberly (health 8, hunger 14) is at the yellow beds (-265,66,350), golems between us; I did not walk there in the dark.
+- Phantom fight at the beds with Data and Wcrusher; golems 6 to 12 blocks NE, not hostile so far.
+- Next: wait with a fresh cursor. Eat chicken at hunger 6. At light, take the beef to Kimberly or Riker if they come into reach.
+- The "rest" and "follow" intents ended as failed/finished without effect; use wait with interests only. Session was superseded during a wait at night 308.
 
 Handoff, night of day 303 (Geldar, ag_bcrusher_01). Older.
 - At (-270,67,337), north white beds, not enclosed, night. Health 18, hunger 8. Pack: 2 dirt, 1 rotten flesh, 1 wooden hoe, 4 feathers, 1 raw chicken (eat at hunger 6 or below).
