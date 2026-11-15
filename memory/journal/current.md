@@ -1,4 +1,7 @@
 # Journal
+- Day 256 late night: at the white beds with Worf, Riker, Zack, Lewis, Data. Sleep at (-270,67,318) was blocked by a creeper; trying bed at (-270,67,336). Health 3, hunger 17, no food. Golems 9 blocks south-west. Next: sleep, then food at dawn; Data and Trini first.
+- Day 256 night: beef eaten on the way back after arrows and a creeper blast; health down to 3. Walked to the group at the white beds (-272,67,319) with Worf, Riker, Troi, Zack. Asked for food and said I'd stay near Riker until light. Next: at dawn, look for food and sleep in a bed.
+- Day 256 night (far west, -367,73,337): killed a cow bare-handed, got 1 beef. Hunger 20, health 20. Enderman and creeper to the north-west, dark. No shelter materials. Plan: keep the beef for Trini, watch until dawn, then go back to the white beds at (-270,67,318).
 - Day 256 midday: at the beds, no food, health 20, hunger 20. Lewis reports golems closing in from the south. Set travel west to (-340,80,330) for the far sheep area; food to Trini first.
 - Day 256 morning: south-east grass (-251,67,350) has 5 iron golems around (-258..-270, 66, 341..353) and an unknown item at (-262,65,345). No food. Turned back; back at beds (-297,68,295), health 20, hunger 20. Told no one yet; Troi has 5 wheat seeds.
 - Day 256 dawn: slept at white bed (-297,68,295) through the night (partly). Health 20, hunger 20, still no food. Next: scout south-east grass (-250,67,350) for animals, away from the bows to the south-west; food to Trini first.
@@ -258,3 +261,11 @@
 - 02:53 act: {"intent":{"goal":"search_west_for_animals","program":"travel","arguments":{"target":{"x":-340,"y":80,"z":330}},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","goal_complete
 - 02:56 say: {"text":"I'm out at the far west sheep area now. No sheep in sight yet. Any food I find goes to Trini first."}
 - 02:57 act: {"intent":{"goal":"search_west_for_animals","program":"travel","arguments":{"target":{"x":-365,"y":74,"z":330}},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","goal_complete
+- 03:01 act: {"intent":{"goal":"hunt_cow_for_food","program":"travel","arguments":{"target":{"x":-367,"y":73,"z":336}},"wake_on":["goal_completed","unexpected_damage","directly_addressed"],"limits":{"max_world_tic
+- 03:02 say: {"text":"I killed a cow and got 1 beef. It goes to Trini first at the white beds at dawn. Enderman and creeper are north-west of me."}
+- 03:03 act: {"intent":{"goal":"flee_creeper_east","program":"travel","arguments":{"target":{"x":-335,"y":74,"z":340}},"wake_on":["goal_completed","unexpected_damage","directly_addressed"],"limits":{"max_world_tic
+- 03:03 act: {"actions":[{"do":"place","block":"dirt","at":{"x":-306,"y":71,"z":325}},{"do":"place","block":"dirt","at":{"x":-308,"y":71,"z":325}},{"do":"place","block":"dirt","at":{"x":-307,"y":71,"z":324}},{"do"
+- 03:05 act: {"intent":{"goal":"reach_group_beds","program":"travel","arguments":{"target":{"x":-272,"y":67,"z":318}},"wake_on":["goal_completed","unexpected_damage","directly_addressed"],"limits":{"max_world_tick
+- 03:05 act: {"say":"Ezra here, at the white beds. I got a cow beef but was hit by arrows and creepers on the way back; health 3, hunger 17, no food left. Anyone with spare food, I'd be grateful. Riker, I'll stay 
+- 03:05 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":318}},{"do":"sleep"}],"say":"Ezra going to the white bed at -270,67,318 to sleep. Health 3, no food. Meat goes to Trini first when I find it."}
+- 03:06 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":336}},{"do":"sleep"}]}
