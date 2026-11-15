@@ -1,4 +1,7 @@
 # Journal
+- Day 251 afternoon: back at white beds (-270,67,318). Cow/pig lead at north grass was empty. Others report a porkchop going to Worf (hunger 6); I have no food. Told the group I have none. Waiting here for dusk.
+- Day 251 midday: walked north to (-275,66,246) on Laforge's lead (cow near -286,66,245, pig near -262,67,242). No animals there. Returning to the white beds before dusk. Still no food on me.
+- Day 251 dawn: woke at white bed (-270,67,318), health 20, hunger 20, no food. Said I'd search west grass; walked to (-284,66,319). No animals or apples in sight. Next: NW grass toward the lake, call out any animal; Trini first.
 - Day 249 dusk: reached (-340,74,340) by far west, path blocked and unstuck several times. Found a sheep at (-353,80,346) and 2 phantoms to the NE. Going for the sheep; mutton to Trini first.
 - Day 249 night: killed the sheep, got 2 mutton. Phantoms hit me (health 18). Eating one, fighting phantoms with the wooden sword. Plan: the second mutton goes to Trini.
 - Day 249 night, far west at (-324,82,370): got 3 mutton, ate 2, hunger ~17. Two phantoms kept hitting me at night; health fell to 3 and the session ended (superseded) while attacking. Lesson: phantoms at night in the open are deadly with a wooden sword; be near the beds or in a shelter at dusk. Carrying 1 mutton.
@@ -199,3 +202,8 @@
 - 01:02 act: {"actions":[{"do":"goto","target":{"x":-282,"y":70,"z":309}},{"do":"sleep"}],"reasoning":"Sleep failed at the white beds because they were blocked. I am next to the yellow bed now. Try that one."}
 - 01:02 act: {"actions":[{"do":"goto","target":{"x":-270,"y":68,"z":320}}],"reasoning":"Beds are unusable tonight. Go back to the group at the white beds and wait for light there."}
 - 01:05 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":318}},{"do":"sleep"}],"say":"Geldar here. No food on me. Going to sleep at the white bed; Trini first when food turns up."}
+- 01:11 act: {"say":"Geldar, dawn day 251. No food on me. I'll search the grass to the west near the beds and call out any animal. Trini first, then Worf.","actions":[{"do":"goto","target":{"x":-284,"y":67,"z":319
+- 01:14 act: {"say":"Geldar: I'm going north to the cow and pig area near -286,66,245 and -262,67,242 that Laforge saw. Any food goes to Trini first.","intent":{"goal":"search_north_cow_pig","program":"travel","ar
+- 01:14 act: {"say":"Geldar at -275,66,246, midday day 251. No cow, pig or sheep here, only empty grass. Heading back to the white beds before dusk. Food goes to Trini first.","intent":{"goal":"return_to_white_bed
+- 01:19 act: {"say":"Geldar here at the white beds. I have no porkchops; my pack is only logs, planks and a hoe. Worf first for food, then Data and Trini. I'll stay here."}
+- 01:23 act: {"intent":{"goal":"hold_at_beds_until_dusk","program":"rest","arguments":{"near":{"x":-270,"y":67,"z":318}},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","goal_completed"],

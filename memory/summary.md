@@ -1,5 +1,7 @@
 # Recent days
 
+Day 251 (Geldar): No food found on west grass or north lead. Porkchops went to Riker, then Worf. Slept at the white beds with the group; health 20, hunger 20, no food. Next: at dawn, search for animals with Data near the north cow lead; Worf and Trini first for any food.
+
 A short account of your recent days, kept so you can remember them.
 
 Day 245 (Geldar): No food anywhere I searched (west grass, far west, north-west grass). Phantom kept sleep off until dawn. Trini holds the last chicken. Next: search south and east of the beds at first light, Trini first, then Data and Worf.
