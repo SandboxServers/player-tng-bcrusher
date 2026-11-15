@@ -269,3 +269,7 @@
 - 03:05 act: {"say":"Ezra here, at the white beds. I got a cow beef but was hit by arrows and creepers on the way back; health 3, hunger 17, no food left. Anyone with spare food, I'd be grateful. Riker, I'll stay 
 - 03:05 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":318}},{"do":"sleep"}],"say":"Ezra going to the white bed at -270,67,318 to sleep. Health 3, no food. Meat goes to Trini first when I find it."}
 - 03:06 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":336}},{"do":"sleep"}]}
+- 03:07 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":318}},{"do":"sleep"}],"say":"Ezra here, health 3, going north to the white bed at -270,67,318 to try sleep again. Meat goes to Trini and Data fir
+- 03:08 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":318}}],"say":"Ezra, dawn of day 256. Health 3, hunger 16, no food. Going back to the group at the white beds; meat goes to Trini and Data first."
+- 03:08 act: {"actions":[{"do":"sleep"}],"say":"Ezra at the white bed, dawn of day 257. Health 3, hunger 16, no food. Trying to sleep now that nobody is near.","reasoning":"Back at the bed with the group, no monst
+- 03:10 act: {"actions":[{"do":"give","to":"ag_zack_01","item":"wheat_seeds","count":1}],"say":"Ezra: sleep needs night, so I'll retry at dusk. I'm giving my one wheat seed to Zack for planting near the beds.","re
