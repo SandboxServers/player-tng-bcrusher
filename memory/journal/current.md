@@ -198,3 +198,4 @@
 - 01:01 act: {"actions":[{"do":"sleep"}],"reasoning":"Night has come. Try the bed here with the group."}
 - 01:02 act: {"actions":[{"do":"goto","target":{"x":-282,"y":70,"z":309}},{"do":"sleep"}],"reasoning":"Sleep failed at the white beds because they were blocked. I am next to the yellow bed now. Try that one."}
 - 01:02 act: {"actions":[{"do":"goto","target":{"x":-270,"y":68,"z":320}}],"reasoning":"Beds are unusable tonight. Go back to the group at the white beds and wait for light there."}
+- 01:05 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":318}},{"do":"sleep"}],"say":"Geldar here. No food on me. Going to sleep at the white bed; Trini first when food turns up."}

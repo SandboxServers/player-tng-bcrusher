@@ -1,4 +1,10 @@
-Handoff, day 249 afternoon (Geldar, ag_bcrusher_01). Latest first.
+Handoff, night of day 250, waking 25 (Geldar, ag_bcrusher_01). Latest first.
+- At the white bed (-270,67,318) with Riker, Data, Jason, Trini nearby. Health 20, hunger 20, no food in pack.
+- Sleep started (2 of 7 asleep); the session was superseded during a wait, so check whether I am still asleep.
+- Wheat at (-269,66,324) and (-269,66,325), unripe.
+- Next at light: Trini first for any food, then Riker, Data, Zack. Then look for animals west or at the north sheep field, and not in the open at night.
+
+Handoff, day 249 afternoon (Geldar, ag_bcrusher_01).
 - Session is live. Sleep counted at the white beds (-268,66,322); days_since_sleep is 0.
 - Health 20, hunger 20, no food. Searched north-east (-214,302) and oak leaves: no animals or apples.
 - Trini (health 3, hunger 11) holds the last chicken and has first claim on any food.
