@@ -209,3 +209,30 @@
 - 01:23 act: {"intent":{"goal":"hold_at_beds_until_dusk","program":"rest","arguments":{"near":{"x":-270,"y":67,"z":318}},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","goal_completed"],
 - 01:24 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":318}},{"do":"sleep"}],"say":"Going to the beds to sleep. Riker, thanks for bringing the porkchops to Worf.","reasoning":"Night, health and hunger
 - 01:24 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":319}},{"do":"sleep"}],"reasoning":"Previous sleep blocked by nearby monsters and position unchanged. Try a different bed tile."}
+- 01:28 say: {"text":"Geldar here, dawn. Health 20, hunger 20, no food on me. I'll look for animals to the south and east; if anyone has spare food, tell me where."}
+- 01:30 act: {"actions":[{"do":"craft","item":"wooden_sword","count":1}],"say":"Geldar, dawn of 252, hunger 20, no food. I'm making a wooden sword and joining Troi and Kimberly for the pigs at -255,239. Worf and T
+- 01:32 say: {"text":"Bcrusher at -255,67,239 with Jason and Clark. No pigs in view yet. I'm staying with you; I'll go south with the group. Meat goes to Worf or Trini first."}
+- 01:40 act: {"actions":[{"do":"craft","item":"oak_planks","count":16}],"say":"Bcrusher: dusk, far from the beds. I'm making planks to build a wall for the night beside Jason and Clark.","intent":{"goal":"wall_for
+- 01:42 act: {"actions":[{"do":"attack","target":"zombie"},{"do":"attack","target":"zombie"},{"do":"attack","target":"zombie"}]}
+- 01:43 act: {"actions":[{"do":"attack","target":"zombie"},{"do":"attack","target":"zombie"},{"do":"attack","target":"zombie"},{"do":"eat"}]}
+- 01:43 act: {"actions":[{"do":"eat"},{"do":"attack","target":"zombie"}],"reasoning":"Health is nearly zero with a zombie at 2.6 blocks. Eat the rotten flesh first, then strike.","say":"Almost out of health. Eatin
+- 01:51 act: {"intent":{"goal":"recover_dropped_items","program":"travel","arguments":{"target":{"x":-243,"y":67,"z":211}},"wake_on":["directly_addressed","unexpected_damage","precondition_failed","goal_completed"
+- 01:52 act: {"intent":{"goal":"return_to_group_at_beds","program":"travel","arguments":{"target":{"x":-271,"y":67,"z":316}},"wake_on":["directly_addressed","unexpected_damage","precondition_failed","goal_complete
+- 01:52 act: {"say":"Back at the beds, empty-handed. Sheep were seen at -224,67,204. Anyone going there with me in daylight? Food to Trini and Data first."}
+- 01:55 act: {"intent":{"goal":"join_pig_hunt_with_group","program":"travel","arguments":{"target":{"x":-255,"y":67,"z":300}},"wake_on":["directly_addressed","unexpected_damage","precondition_failed","goal_complet
+- 01:55 act: {"actions":[{"do":"goto","target":{"x":-258,"y":67,"z":300}}],"say":"Heading to you, Jason and Tommy. I'll search east with you for pigs."}
+- 01:55 act: {"actions":[{"do":"goto","target":{"x":-248,"y":67,"z":300}}],"say":"Going east in short steps with you. Calling out anything I see."}
+- 01:55 act: {"actions":[{"do":"goto","target":{"x":-238,"y":67,"z":302}}]}
+- 01:55 act: {"actions":[{"do":"goto","target":{"x":-228,"y":67,"z":290}}],"say":"No pigs east yet. Checking south-east next."}
+- 01:56 act: {"actions":[{"do":"goto","target":{"x":-256,"y":67,"z":300}}],"say":"Nothing here. Rejoining the group at -256,300, staying out of the open alone."}
+- 02:00 act: {"intent":{"goal":"reach_beds_before_night","program":"travel","arguments":{"target":{"x":-271,"y":67,"z":316}},"wake_on":["directly_addressed","unexpected_damage","precondition_failed","goal_complete
+- 02:00 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":318}},{"do":"sleep"}]}
+- 02:00 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":318}},{"do":"sleep"}]}
+- 02:09 act: {"intent":{"goal":"search_north_cow_lead","program":"travel","arguments":{"target":{"x":-286,"y":66,"z":245}},"wake_on":["directly_addressed","unexpected_damage","precondition_failed","goal_completed"
+- 02:09 act: {"actions":[{"do":"goto","target":{"x":-277,"y":66,"z":236}},{"do":"attack","target":"pig"}],"say":"Pig to the north-east at -278,66,232. Going for it. Meat goes to Trini first."}
+- 02:09 act: {"intent":{"goal":"bring_porkchop_to_trini","program":"travel","arguments":{"target":"ag_trini_01"},"wake_on":["directly_addressed","unexpected_damage","precondition_failed","goal_completed"],"limits"
+- 02:10 act: {"intent":{"goal":"bring_porkchop_to_group_beds","program":"travel","arguments":{"target":{"x":-271,"y":67,"z":322}},"wake_on":["directly_addressed","unexpected_damage","precondition_failed","goal_com
+- 02:10 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":333}}],"say":"Trini, Beverly here with a porkchop from the north pig. Coming to you now."}
+- 02:10 act: {"actions":[],"say":"Trini, where are you? I'm at the south beds with a porkchop for you. Riker, did you get a porkchop to her yet?"}
+- 02:11 act: {"actions":[],"say":"Riker has Trini's porkchop covered, so mine goes to whoever is weakest next. Clark at the water is at health 7 with no food. Clark, if you can walk to the beds at -271,67,333 I'll
+- 02:13 act: {"actions":[{"do":"give","to":"ag_trini_01","item":"porkchop","count":1}],"say":"Trini, I have the porkchop and you're in reach. Taking it to you now. Riker, you can keep the wheat seed for Kimberly."
