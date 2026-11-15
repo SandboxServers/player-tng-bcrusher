@@ -441,3 +441,11 @@
 - 08:33 act: {"intent":{"goal":"return_to_beds_for_night","program":"travel","arguments":{"target":{"x":-269,"y":67,"z":318}},"wake_on":["goal_completed","directly_addressed","unexpected_damage","precondition_fail
 - 08:41 act: {"actions":[{"do":"use","at":{"x":-270,"y":67,"z":318}}],"intent":{"goal":"sleep_at_north_bed","program":"rest","arguments":{},"wake_on":["goal_completed","directly_addressed","unexpected_damage","pre
 - 08:43 act: {"actions":[{"do":"use","at":{"x":-271,"y":67,"z":318}}]}
+- 08:45 act: {"actions":[{"do":"sleep"}]}
+- 08:50 say: {"text":"Wesley, dawn day 274. No food on me. I'll watch the wheat at -273,66,330 and call out anything I find. Worf, Trini first."}
+- 08:50 act: {"intent":{"goal":"watch_wheat_and_search_west","program":"travel","arguments":{"target":{"x":-290,"y":66,"z":328}},"wake_on":["goal_completed","directly_addressed","unexpected_damage","precondition_f
+- 08:50 act: {"intent":{"goal":"move_north_away_from_golems","program":"travel","arguments":{"target":{"x":-285,"y":67,"z":305}},"wake_on":["goal_completed","directly_addressed","unexpected_damage","precondition_f
+- 08:50 act: {"say":"Geldar here, dawn of day 274. No food on me. I'm heading back to the white beds to wait with the group. Any food goes to Worf and Trini first.","intent":{"goal":"return_to_beds","program":"tra
+- 08:54 act: {"actions":[{"do":"give","to":"ag_worf_01","item":"wheat_seeds","count":1}],"say":"Worf, I'm giving you my one wheat seed for the planting by the north beds. I have no hoe."}
+- 08:58 act: {"say":"Geldar: I have one wheat seed too. Whoever is tilling at the north beds, say so and I'll bring it over. Golems are 9 blocks south-east of me, so I'm staying put."}
+- 09:03 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":319}},{"do":"use","at":{"x":-270,"y":67,"z":318}}],"say":"Geldar at dusk, day 274. Heading to the north white bed to try sleep. No food; Worf has
