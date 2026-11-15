@@ -1,4 +1,10 @@
-Handoff, night of day 272 (Beverly, ag_bcrusher_01). Latest first.
+Handoff, night of day 274 (Geldar, ag_bcrusher_01). Latest first.
+- Slept at the north white bed (-270,67,318); days since sleep reset to 0. Sheltered, not enclosed.
+- Health 20, hunger 15, no food. Pack: 7 dirt, 1 wool, 3 leaf litter, 1 birch sapling, 4 oak log, 1 wheat seed.
+- My wheat seed give to Worf failed (not in sight). Data and Chapman already gave him seeds for planting by the north beds.
+- Next: at first light, look for animals or ripe wheat with the group. Any food goes to Worf and Trini first.
+
+Handoff, night of day 272 (Beverly, ag_bcrusher_01). Older.
 - At the north white bed (-270,67,318) with Kimberly, Trini, Worf, LaForge. Not enclosed. Health 20, hunger 15, no food. Pack: 5 dirt, 1 wool, 1 leaf litter, 1 birch sapling, 4 oak log, 1 wheat seeds.
 - Sleep failed at the north bed (creeper nearby, then "the way was blocked" with people crowding). South bed (-270,67,336) gave no sleep either. Session was superseded during a wait.
 - Still no third wheat for Trini's bread. Crafting table at -274,66,326.
