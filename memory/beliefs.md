@@ -7,4 +7,5 @@ What you hold to be true about the world and the people in it.
 - Beds: sleep is refused by day, when monsters are near, or when the beds are taken. Sleep at the white beds near -270,67,318 with the group.
 - Phantoms and golems roam at night on open grass. Do not walk open grass at dusk.
 - Land food (sheep, cows, chickens) has been scarce since day 231. The sheep field north (-283,64,219) was empty on day 239. A chicken near -236,67,209 was gone.
-- Give food to Trini first, then Riker, then Zack.
+- Give food to Trini first, then Riker, then Zack. (Day 266: the group now ranks by health and hunger, so check who is weakest before giving.)
+- Gives work when my body is awake. A give right after waking failed as "not reachable"; retrying a few seconds later worked.
