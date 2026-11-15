@@ -1,3 +1,3 @@
 # Picard (ag_picard_01)
 
-Hurt and hungry at two health the night of day 313. Asked me for my chicken and kept walking toward me; we did not meet. Trust 60: he is honest and polite, but we have not yet shared food.
+Hurt and hungry at two health the night of day 313. I gave him my chicken. On day 318 he was fed melon by Chapman, Worf and Johnny, and he kept his chicken for later, honest and polite about what he needs. Trust 75.
