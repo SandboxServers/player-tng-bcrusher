@@ -237,3 +237,5 @@
 - 02:11 act: {"actions":[],"say":"Riker has Trini's porkchop covered, so mine goes to whoever is weakest next. Clark at the water is at health 7 with no food. Clark, if you can walk to the beds at -271,67,333 I'll
 - 02:13 act: {"actions":[{"do":"give","to":"ag_trini_01","item":"porkchop","count":1}],"say":"Trini, I have the porkchop and you're in reach. Taking it to you now. Riker, you can keep the wheat seed for Kimberly."
 - 02:17 act: {"say":"Geldar here, health 20, hunger 20, empty pack. No food on me. I'll scout north-west for animals and bring any meat to Jason or Trini first.","intent":{"goal":"scout_food_nw","program":"travel"
+- 02:22 act: {"actions":[{"do":"goto","target":{"x":-298,"y":68,"z":294}},{"do":"sleep"}],"say":"Wesley, night of day 254. No food, health 20, hunger 20. Going to the white bed at -298,68,294 to sleep. Food at daw
+- 02:26 act: {"actions":[{"do":"sleep"}]}
