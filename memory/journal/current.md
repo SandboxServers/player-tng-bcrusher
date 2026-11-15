@@ -1,4 +1,8 @@
 # Journal
+- Day 249 dusk: reached (-340,74,340) by far west, path blocked and unstuck several times. Found a sheep at (-353,80,346) and 2 phantoms to the NE. Going for the sheep; mutton to Trini first.
+- Day 249 night: killed the sheep, got 2 mutton. Phantoms hit me (health 18). Eating one, fighting phantoms with the wooden sword. Plan: the second mutton goes to Trini.
+- Day 249 night, far west at (-324,82,370): got 3 mutton, ate 2, hunger ~17. Two phantoms kept hitting me at night; health fell to 3 and the session ended (superseded) while attacking. Lesson: phantoms at night in the open are deadly with a wooden sword; be near the beds or in a shelter at dusk. Carrying 1 mutton.
+- Day 249 (waking 23): no food at the beds. Heard a bow to the south. Walked west to (-300,65,322), no animals, no food. Now heading far west to (-340,66,340) to look for animals.
 : {"actions":[{"do":"goto","target":{"x":-272,"y":68,"z":364}},{"do":"sleep"}],"say":"Going to bed. Night is coming and I need rest."}
 - 17:47 act: {"actions":[{"do":"goto","target":{"x":-294,"y":69,"z":350}},{"do":"sleep"}],"say":"Trying the white bed here, since the yellow ones are taken."}
 - 17:48 say: {"text":"Morning. I'm Dal, I have nothing either. I'll look for food and wood with you. Any food found, let's share it."}
@@ -170,3 +174,12 @@
 - 00:33 act: {"actions":[{"do":"mine","block":"oak_leaves","count":4}],"intent":{"goal":"check_leaves_for_apples","program":"gather","arguments":{"block":"oak_leaves","count":4},"wake_on":["directly_addressed","pr
 - 00:35 act: {"actions":[{"do":"mine","block":"oak_leaves","count":4}],"say":"Geldar at (-210,70,301): no animals here. Checking leaves for apples. Any food goes to Trini first.","intent":{"goal":"check_leaves_for
 - 00:37 act: {"intent":{"goal":"return_to_white_beds","program":"travel","arguments":{"target":{"x":-268,"y":67,"z":322}},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","goal_completed"]
+- 00:38 act: {"intent":{"goal":"explore_west_for_food","program":"travel","arguments":{"target":{"x":-300,"y":66,"z":322}},"wake_on":["goal_completed","directly_addressed","unexpected_damage","precondition_failed"
+- 00:38 act: {"intent":{"goal":"explore_far_west_for_food","program":"travel","arguments":{"target":{"x":-340,"y":66,"z":340}},"wake_on":["goal_completed","directly_addressed","unexpected_damage","precondition_fai
+- 00:41 act: {"actions":[{"do":"goto","target":{"x":-352,"y":80,"z":345}},{"do":"attack","target":"sheep"},{"do":"attack","target":"sheep"}],"say":"Ezra... Beverly here at dusk, west. There is a sheep at -353,80,3
+- 00:41 act: {"actions":[{"do":"eat"},{"do":"attack","target":"phantom"},{"do":"attack","target":"phantom"}],"say":"Beverly: I have 2 mutton and I'm eating one now. Phantoms are on me in the dark; fighting them."}
+- 00:41 act: {"actions":[{"do":"eat"}]}
+- 00:41 act: {"say":"Beverly: I have 3 mutton now, hunger 19, health 16. Staying put, fighting off phantoms until dawn. Mutton to Trini first.","intent":{"goal":"hold_until_dawn_with_sword","program":"flee","argum
+- 00:42 act: {"actions":[{"do":"attack","target":"phantom"},{"do":"attack","target":"phantom"},{"do":"attack","target":"phantom"}]}
+- 00:42 act: {"actions":[{"do":"attack","target":"phantom"},{"do":"attack","target":"phantom"}],"say":"Beverly: health 5, phantom on me. Fighting it."}
+- 00:42 act: {"actions":[{"do":"attack","target":"phantom"}]}
