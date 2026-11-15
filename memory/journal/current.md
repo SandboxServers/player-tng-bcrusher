@@ -314,3 +314,5 @@
 - 04:38 say: {"text":"Beverly here at the white beds with 1 mutton. Trini or Worf, come to me and it's yours."}
 - 04:40 act: {"actions":[{"do":"give","to":"ag_worf_01","item":"mutton","count":1}],"say":"Worf, the mutton is yours, as Trini asked. Then I'll sleep in the bed here."}
 - 04:40 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":318}},{"do":"sleep"}],"say":"Going to bed at the white bed. Worf, I'll give you the mutton at first light."}
+- 04:45 say: {"text":"Picard, I have one mutton. Worf and Trini need it more. Do you know where they are?"}
+- 04:45 act: {"actions":[{"do":"sleep"}],"reasoning":"Night, in bed, full health and hunger. Sleep here."}
