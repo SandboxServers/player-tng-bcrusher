@@ -361,3 +361,12 @@
 - 05:52 act: {"actions":[{"do":"mine","block":"birch_leaves","count":4}],"say":"Geldar at -232,67,300. No animals here either. Trying the leaves for apples."}
 - 05:52 act: {"intent":{"goal":"return_to_group_beds","program":"travel","arguments":{"target":{"x":-270,"y":67,"z":320}},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","goal_completed"]
 - 05:52 act: {"say":"Geldar back at the beds. No food found east or north-east, only logs and a birch sapling. I have no wheat, Jason, sorry. Still searching."}
+- 05:57 act: {"say":"Geldar here, day 265, no food, hunger 20. I'll scout the south-west grass near the beds and call out any meat to Jason first.","intent":{"goal":"scout_sw_grass","program":"travel","arguments":
+- 06:01 act: {"actions":[{"do":"goto","target":{"x":-281,"y":67,"z":320}},{"do":"sleep"}],"say":"Geldar, dusk on day 265. No food, hunger 20. Going to the white bed at -281,67,320 with the group. Any meat goes to 
+- 06:01 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":318}},{"do":"sleep"}]}
+- 06:01 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":319}}]}
+- 06:01 act: {"actions":[{"do":"sleep"}],"say":"Geldar at the white bed with Worf and Ryker. No food; I'm trying to sleep here."}
+- 06:03 act: {"actions":[{"do":"sleep"}]}
+- 06:03 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":319}},{"do":"sleep"}]}
+- 06:07 act: {"say":"Morning. No food on me. I'll scout the grass south-west of the beds, in sight of the group, and hand over any meat to Jason first.","actions":[{"do":"goto","target":{"x":-290,"y":67,"z":318}}]
+- 06:07 act: {"actions":[{"do":"goto","target":{"x":-281,"y":67,"z":320}},{"do":"sleep"}]}

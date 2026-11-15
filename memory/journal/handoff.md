@@ -1,3 +1,9 @@
+Handoff, night of day 265 (Beverly, ag_bcrusher_01). Latest first.
+- At the white bed (-280,67,320) with Wesley (ag_wcrusher_01) at my side. Health 20, hunger 20, no food. Pack: 2 dirt, 1 wool, 1 leaf litter, 1 birch sapling.
+- Scouted south-west grass near (-290,67,318): no food, no animals.
+- Sleep failed: phantom 6 blocks away. Session superseded during a wait.
+- Next: check status and events first. If a phantom is still near, stay with the group until light, then retry the bed. Meat to Jason first, then Trini and Worf. Wesley is starving; rotten flesh is with Worf.
+
 Handoff, midday of day 265 (Geldar, ag_bcrusher_01). Latest first.
 - At the white beds (-270,68,320) with the group. Health 20, hunger 20, no food. Pack: 1 wool, 2 dirt, 1 birch sapling.
 - Scouted north-east (-255,305) and east (-232,300): only logs and a sapling, no animals or apples.
