@@ -377,3 +377,4 @@
 - 06:16 act: {"actions":[{"do":"goto","target":{"x":-235,"y":66,"z":222}}],"say":"Beverly here at the north field's east edge. No animals yet; heading further east to look. Meat goes to Jason first.","intent":{"go
 - 06:16 act: {"actions":[{"do":"goto","target":{"x":-249,"y":68,"z":223}},{"do":"attack","target":"cow"}],"say":"Found a cow at (-251,68,223) and a sheep to the south-west. Going for the cow now; meat goes to Jaso
 - 06:16 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":318}}],"say":"Got 1 beef from the cow. Taking it to Jason at the white beds; he gets it first.","intent":{"goal":"bring_beef_to_group","program":
+- 06:18 act: {"say":"Bcrusher at the white beds. I have 1 beef. Jason, Chapman or LaForge, whoever is weakest, come and I will hand it over.","intent":{"goal":"hold_beef_for_weakest","program":"rest","arguments":{
