@@ -1,4 +1,9 @@
 # Journal
+- Day 256 midday: at the beds, no food, health 20, hunger 20. Lewis reports golems closing in from the south. Set travel west to (-340,80,330) for the far sheep area; food to Trini first.
+- Day 256 morning: south-east grass (-251,67,350) has 5 iron golems around (-258..-270, 66, 341..353) and an unknown item at (-262,65,345). No food. Turned back; back at beds (-297,68,295), health 20, hunger 20. Told no one yet; Troi has 5 wheat seeds.
+- Day 256 dawn: slept at white bed (-297,68,295) through the night (partly). Health 20, hunger 20, still no food. Next: scout south-east grass (-250,67,350) for animals, away from the bows to the south-west; food to Trini first.
+- Day 255 dusk: back at white bed (-298,68,294) from north-east scouting. No food, health 20, hunger 20. Sleep started (2 of 8 asleep). Waiting for dawn; food goes to Trini first.
+- Day 255 midday: reached north-east grass (-265,68,276). No animals, no food. Only unripe wheat at (-276,68,289), not edible yet. Heading back toward the beds; food goes to Trini first.
 - Day 255 morning: reached the south-west grass (-312,69,312). No animals, no food. Back at the white beds (-297,68,295) with the group, health 20, hunger 20. Next: wait for word of food; Trini first.
 - Day 255 dawn: woke at white bed (-298,68,294), health 20, hunger 20, no food, empty pack. Wesley is scouting east grass. I set a travel to the south-west (-312,68,312) to look for animals, untried ground; meat goes to Trini first.
 - Day 251 afternoon: back at white beds (-270,67,318). Cow/pig lead at north grass was empty. Others report a porkchop going to Worf (hunger 6); I have no food. Told the group I have none. Waiting here for dusk.
@@ -243,3 +248,11 @@
 - 02:26 act: {"actions":[{"do":"sleep"}]}
 - 02:31 act: {"intent":{"goal":"scout_southwest_for_food","program":"travel","arguments":{"target":{"x":-312,"y":68,"z":312}},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","goal_complet
 - 02:31 act: {"intent":{"goal":"return_to_group_beds","program":"travel","arguments":{"target":{"x":-297,"y":68,"z":294}},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","goal_completed"]
+- 02:36 act: {"intent":{"goal":"scout_north_east_for_food","program":"travel","arguments":{"target":{"x":-265,"y":68,"z":275}},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","goal_comple
+- 02:40 act: {"intent":{"goal":"reach_white_bed_for_night","program":"travel","arguments":{"target":{"x":-298,"y":68,"z":294}},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","goal_comple
+- 02:40 act: {"actions":[{"do":"sleep"}],"say":"Geldar at the white bed, dusk day 255. No food on me; Trini first when food turns up."}
+- 02:44 act: {"actions":[{"do":"goto","target":{"x":-298,"y":68,"z":294}},{"do":"sleep"}]}
+- 02:48 act: {"intent":{"goal":"scout_south_east_for_food","program":"travel","arguments":{"target":{"x":-250,"y":67,"z":350}},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","goal_comple
+- 02:49 act: {"intent":{"goal":"return_to_group_beds","program":"travel","arguments":{"target":{"x":-297,"y":68,"z":294}},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","goal_completed"]
+- 02:49 say: {"text":"Geldar back at the beds, morning day 256. Still no food. Iron golems are south-east at about -260,66,350, with an unknown item near -262,65,345. Trini first for any meat."}
+- 02:53 act: {"intent":{"goal":"search_west_for_animals","program":"travel","arguments":{"target":{"x":-340,"y":80,"z":330}},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","goal_complete
