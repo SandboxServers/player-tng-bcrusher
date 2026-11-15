@@ -60,3 +60,11 @@
 - 14:53 act: {"intent":{"goal":"return_to_beds","program":"travel","arguments":{"target":{"x":-270,"y":67,"z":330}},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","goal_completed"],"limi
 - 15:00 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":318}},{"do":"sleep"}],"reasoning":"Dusk, thunder, and I have no food. A bed is the safest place for the night. I'll try the north bed once. If re
 - 15:05 act: {"actions":[{"do":"sleep"}],"say":"Bcrusher at the north white bed, night 292, no food, hunger 16. Billy, your chicken goes to Macdonald when he is in sight.","reasoning":"Still awake at night beside 
+- 15:06 act: {"say":"Wesley... I mean, Bcrusher: rested at the north bed, no food, hunger 16. At first light I'll hunt with the group and call out any pig or cow.","intent":{"goal":"wait_for_dawn_at_beds","program
+- 15:08 act: {"say":"Bcrusher at dawn, no food, hunger 16. Heading to the pig area at -213,69,351 with the group. Any meat goes to Macdonald, Zack, Leonardo first.","intent":{"goal":"join_pig_hunt_east","program":
+- 15:09 act: {"say":"Bcrusher at -213,69,349. Phantoms are close and I have no weapon, so I'm going back to the north beds with Billy and Trini. No pig seen here.","intent":{"goal":"return_to_north_beds","program"
+- 15:10 act: {"say":"Back at the north beds at dawn, no food, hunger 16. Going to the cow spot Billy found at -334,64,229 to look. Any meat goes to Macdonald's group first, then Zack and Leonardo.","intent":{"goal
+- 15:10 act: {"say":"Billy, thank you. I'm at the north white bed, hunger 16. Give me the chicken when you are in reach and I'll eat it."}
+- 15:14 act: {"say":"Billy, keep the chicken for Zack or Leonardo, both at hunger 9, not me; I'm at 16. I'm going south-west to look for a cow and will call out any I find.","intent":{"goal":"hunt_cow_southwest_2"
+- 15:14 act: {"say":"At the cow spot by the lake at -329,64,232. No cows here, only a spider to the north-east. Trying west next; I'll call out any cow or pig.","intent":{"goal":"scout_west_for_cows","program":"tr
+- 15:15 act: {"say":"Bcrusher at -370,64,261, lake shore, no cows yet. Searching further west; call out any animal you see.","intent":{"goal":"scout_far_west_for_cows","program":"travel","arguments":{"target":{"x"
