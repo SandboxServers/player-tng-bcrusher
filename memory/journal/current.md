@@ -301,3 +301,6 @@
 - 04:00 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":318}}],"say":"Going to bed at the north white bed. No food yet; meat goes to Trini first, then Ezra and Data."}
 - 04:00 act: {"actions":[{"do":"wait","seconds":40},{"do":"use","at":{"x":-271,"y":67,"z":318}}]}
 - 04:03 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":319}}]}
+- 04:06 act: {"actions":[{"do":"sleep"}],"say":"Geldar at the white bed, night of day 259. No food. Trying to sleep; meat goes to Trini first."}
+- 04:11 act: {"actions":[{"do":"mine","block":"oak_leaves","count":4}],"say":"Geldar, dawn of day 260. No food on me. I'll try the oak leaves by the beds for apples; any apple goes to Trini first."}
+- 04:11 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":326}}],"say":"Geldar: the leaves gave no apples. Going back to the group at the beds."}

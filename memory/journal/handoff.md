@@ -1,4 +1,16 @@
-Handoff, day 259 dusk (Geldar, ag_bcrusher_01). Latest first.
+Handoff, night of day 260 (Geldar, ag_bcrusher_01). Latest first.
+- At the white beds near -273,66,330 (north bed group at -270,67,318). Health 20, hunger 20, no food, empty pack.
+- Sleep counted (days_since_sleep 0), then later attempts blocked: beds full. Not in a bed now.
+- Iron golems 10 to 15 blocks south and south-east, no harm. Porkchop passed around; Trini and Worf get meat first.
+- Next at dawn: find a free bed, look for food with the group, meat to Trini first.
+
+Handoff, morning of day 260 (Geldar, ag_bcrusher_01). Older.
+- At the white beds near -271,67,327, safe, not enclosed. Health 20, hunger 20, empty pack.
+- Group here: Trini, Troi, Tommy, Worf, Riker, Picard, Zack, Jason, Lewis, Kimberly, Laforge, Data.
+- No food found. Oak leaves gave no apples. Data made bread from ripe wheat; Trini eats meat first.
+- Riker and Picard are planting near -264,65,320. I have no seeds or hoe.
+- Golems stay south, 11 to 20 blocks away, no harm so far.
+- Next: stay with the group, meat to Trini first, then Data and LaForge. Sleep in a free bed at night.
 - At the north white bed (-271,67,318) with Lewis, Troi, Jason, Trini, Kimberly. Health 20, hunger 20, empty pack after a death in the west (-327,405 area; dropped items not worth fetching).
 - No food known anywhere. Next at light: stay near the group, search close by, not far west while bows are heard. Trini first for any food.
 - Sleep attempt just made; check status for whether I am in bed.
