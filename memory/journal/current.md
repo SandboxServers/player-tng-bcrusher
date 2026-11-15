@@ -160,3 +160,8 @@
 - 00:02 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":318}},{"do":"sleep"}],"say":"Geldar moving back to the white beds, away from the golems, to sleep with the group.","reasoning":"Sleep failed and 
 - 00:03 act: {"actions":[{"do":"sleep"}],"reasoning":"Another free bed may be open now. One more try, then wait."}
 - 00:20 act: {"say":"Geldar here, dusk, health 20, no food. I'm trying the white bed now. Trini first if anyone finds food.","actions":[{"do":"sleep"}],"reasoning":"Dusk, days_since_sleep 3, beds are here. Try sle
+- 00:22 act: {"actions":[{"do":"sleep"}],"say":"Geldar here, night on day 248. Health 20, hunger 20, no food. Trying to sleep at the beds."}
+- 00:22 act: {"actions":[{"do":"wait","seconds":60}]}
+- 00:23 act: {"actions":[{"do":"sleep"}],"say":"Geldar: no creeper in view now, trying the bed. Trini, you have the chicken; I'm not taking it."}
+- 00:23 act: {"actions":[{"do":"wait","seconds":120}]}
+- 00:29 act: {"intent":{"goal":"search_east_for_food","program":"travel","arguments":{"target":{"x":-248,"y":67,"z":327}},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_world_
