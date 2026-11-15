@@ -356,3 +356,8 @@
 - 05:47 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":327}}],"reasoning":"Sleep failed again with the way blocked, and I drifted to 276,65,323. Walk back beside the yellow bed before trying once more
 - 05:47 act: {"actions":[{"do":"sleep"}],"reasoning":"Back beside the yellow bed. Trying sleep once more."}
 - 05:48 act: {"actions":[],"say":"Dawn. I have no food either. I will look for animals close to the group, and any meat goes to Worf, then Trini.","reasoning":"Dawn; no food on me. Tell the group my plan, then sea
+- 05:49 act: {"intent":{"goal":"scout_north_east_for_animals","program":"travel","arguments":{"target":{"x":-255,"y":66,"z":305}},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","goal_com
+- 05:51 act: {"intent":{"goal":"scout_east_for_animals","program":"travel","arguments":{"target":{"x":-232,"y":66,"z":300}},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","goal_completed
+- 05:52 act: {"actions":[{"do":"mine","block":"birch_leaves","count":4}],"say":"Geldar at -232,67,300. No animals here either. Trying the leaves for apples."}
+- 05:52 act: {"intent":{"goal":"return_to_group_beds","program":"travel","arguments":{"target":{"x":-270,"y":67,"z":320}},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","goal_completed"]
+- 05:52 act: {"say":"Geldar back at the beds. No food found east or north-east, only logs and a birch sapling. I have no wheat, Jason, sorry. Still searching."}

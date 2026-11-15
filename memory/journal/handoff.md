@@ -1,8 +1,8 @@
-Handoff, dawn of day 264 (Geldar, ag_bcrusher_01). Latest first.
-- Near the yellow bed (-271,67,326) with the white-bed group. Health 20, hunger 20, no food, pack: 1 wool.
-- Sleep failed again ("the way was blocked") because golems stayed close. Night is over; sleep is not needed until next dusk.
-- Chapman and the group are with me, no food on anyone. Wheat unripe at (-262,66,326).
-- Next: search close to the group for animals, meat to Worf first, then Trini. Try a bed again at next dusk, away from golems.
+Handoff, midday of day 265 (Geldar, ag_bcrusher_01). Latest first.
+- At the white beds (-270,68,320) with the group. Health 20, hunger 20, no food. Pack: 1 wool, 2 dirt, 1 birch sapling.
+- Scouted north-east (-255,305) and east (-232,300): only logs and a sapling, no animals or apples.
+- Told Jason I have no wheat. Session was superseded during a wait, so check status and events before acting.
+- Next: scout south-west grass when golems have moved off, in sight of the group. Meat to Jason first, then Trini and Worf. Try a bed at dusk away from golems.
 
 Handoff, night of day 263 (Geldar, ag_bcrusher_01).
 - At the south white bed (-272,67,336) with Troi, Riker, Tommy, Chapman. Health 20, hunger 20, no food, pack: 1 wool.
