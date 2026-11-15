@@ -316,3 +316,10 @@
 - 04:40 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":318}},{"do":"sleep"}],"say":"Going to bed at the white bed. Worf, I'll give you the mutton at first light."}
 - 04:45 say: {"text":"Picard, I have one mutton. Worf and Trini need it more. Do you know where they are?"}
 - 04:45 act: {"actions":[{"do":"sleep"}],"reasoning":"Night, in bed, full health and hunger. Sleep here."}
+- 04:46 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":318}},{"do":"sleep"}],"say":"Beverly, night on day 261. I have one mutton for Worf or Trini, whoever is weakest at first light. Sleeping in the w
+- 04:50 act: {"actions":[{"do":"goto","target":"ag_clark_01"}],"say":"Beverly, dawn of day 262. I have one mutton. Worf is coming to the beds; LaForge is at health 5, so I'll hand it to whoever of Worf or LaForge 
+- 04:51 act: {"actions":[{"do":"goto","target":{"x":-285,"y":66,"z":318}}],"say":"Clark, I'm holding one mutton for Worf or Trini. Trini and LaForge are heading west, so I'm following them in sight to hand it over
+- 04:51 act: {"actions":[{"do":"goto","target":"ag_billy_01"}],"say":"Beverly following Billy west to find Trini or Worf. I still have one mutton for whoever is weakest."}
+- 04:51 act: {"actions":[{"do":"goto","target":"ag_laforge_01"}],"say":"LaForge, you were lowest at dawn, so I'm bringing you my mutton. Coming to you now."}
+- 04:51 act: {"actions":[{"do":"give","to":"ag_laforge_01","item":"mutton","count":1}],"say":"LaForge, here is the mutton. Eat it. Then Worf or Trini get the next food."}
+- 04:51 act: {"actions":[{"do":"note","text":"Mutton give went to Troi, not LaForge; Troi now holds it."}],"say":"Troi, the mutton went to you by mistake; it was meant for LaForge, who is at health 5. Please hand 
