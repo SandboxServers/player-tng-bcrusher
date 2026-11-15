@@ -397,3 +397,17 @@
 - 06:51 act: {"say":"Geldar at -340,65,310, grass plains, no animals in sight. Trying north.","intent":{"goal":"scout_north_for_animals","program":"travel","arguments":{"target":{"x":-340,"y":66,"z":280}},"wake_on
 - 06:51 act: {"say":"Lake here at -342,62,279 with salmon in deep water, and a squid. Ezra drowned trying the salmon, so be careful. No land animals seen. I'm heading back to the white beds.","intent":{"goal":"ret
 - 06:55 act: {"say":"Geldar at the white beds. A horse gives no meat, so it's no help for food. Lewis's plan to plant wheat is good; I'll help gather seeds and watch the wheat at -269,66,331."}
+- 07:00 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":336}},{"do":"sleep"}],"say":"Geldar here, hunger 19, no food. Going to the white bed for the night. Will search for animals at first light."}
+- 07:00 act: {"actions":[{"do":"sleep"}]}
+- 07:02 act: {"actions":[{"do":"sleep"}]}
+- 07:06 act: {"actions":[],"say":"Macdonald, I have not used a bed click. I just sleep from the spot beside the bed. Sleep worked for me at -270,67,336 once two of nine were asleep."}
+- 07:11 act: {"intent":{"goal":"join_riker_animal_search","program":"follow","arguments":{"target":"ag_riker_01"},"wake_on":["directly_addressed","goal_completed"],"limits":{"max_world_ticks":2400,"max_block_opera
+- 07:14 act: {"intent":{"goal":"search_west_grass_for_animals","program":"travel","arguments":{"target":{"x":-300,"y":66,"z":330}},"wake_on":["directly_addressed","unexpected_damage","goal_completed","precondition
+- 07:14 act: {"intent":{"goal":"search_far_west_for_animals","program":"travel","arguments":{"target":{"x":-345,"y":66,"z":300}},"wake_on":["directly_addressed","unexpected_damage","goal_completed","precondition_f
+- 07:14 act: {"intent":{"goal":"return_to_group_beds","program":"travel","arguments":{"target":{"x":-270,"y":67,"z":332}},"wake_on":["directly_addressed","unexpected_damage","goal_completed","precondition_failed"]
+- 07:23 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":336}},{"do":"sleep"}],"say":"Bcrusher going to the south white bed for the night. No food, hunger 19.","reasoning":"Night, no food, need a bed. G
+- 07:24 act: {"actions":[{"do":"sleep"}],"reasoning":"I am standing at the north white bed (-271,67,318). The last sleep was blocked by the way, so try once more here."}
+- 07:27 act: {"actions":[{"do":"sleep"}],"reasoning":"Golems are 10 or more blocks away now. Try the bed once more."}
+- 07:29 act: {"intent":{"goal":"search_west_for_animals","program":"travel","arguments":{"target":{"x":-296,"y":66,"z":316}},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_wor
+- 07:32 act: {"intent":{"goal":"scout_southwest_grass","program":"travel","arguments":{"target":{"x":-305,"y":66,"z":336}},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_world
+- 07:34 act: {"intent":{"goal":"return_to_south_beds","program":"travel","arguments":{"target":{"x":-270,"y":67,"z":336}},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_world_

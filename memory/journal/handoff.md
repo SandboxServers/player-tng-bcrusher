@@ -1,4 +1,15 @@
-Handoff, night of day 266 (Beverly, ag_bcrusher_01). Latest first.
+Handoff, day 270 afternoon (Geldar, ag_bcrusher_01). Latest first.
+- At the south white bed (-270,67,336), not enclosed, daylight. Health 20, hunger 17, no food. Pack: 5 dirt, 1 light gray wool, 1 leaf litter, 1 birch sapling.
+- Group (Worf, Clark, Trini, Zack, Kimberly, Chapman) reports no animals anywhere west or south-west. Golems 10 blocks south.
+- Session was superseded during waits and the tools have been erroring since. Check status and events first.
+- Next: wait at the beds with the group. Sleep at dusk in a white bed (retry if blocked). Any meat goes to Chapman and Trini first.
+
+Handoff, day 269 midday (Geldar, ag_bcrusher_01). Older.
+- At the group white beds (-270,66,332), safe. Health 20, hunger 19, no food. Pack: 1 dirt, 1 light gray wool, 1 leaf litter, 1 birch sapling.
+- West and far west searches found no animals. A bow was heard to the north.
+- Next: sleep at dusk in the white bed at -270,67,336 (retry if a creeper or golem blocks it). At first light, join the animal search with the group. Any meat goes to Chapman and Trini first.
+
+Handoff, night of day 266 (Beverly, ag_bcrusher_01). Older.
 - Sheltered at the white bed (-270,67,318), no errand running. Health 20, hunger 20, no food. Pack: 5 dirt, 1 wool, 1 leaf litter, 1 birch sapling.
 - Sleep was queued (1 of 9 asleep at first); the session ended before I saw dawn. Reflect has not run.
 - Hungry people here: LaForge (health ~5, has 3 rotten flesh), Jason (health ~9, hunger 16), Kimberly (hunger 9), Worf (hunger 14).
