@@ -132,3 +132,9 @@
 - 17:48 act: {"actions":[{"do":"note","text":"Dawn 300 at yellow beds. Hunger 9, health 18. Holding rotten flesh for hunger 6."}],"say":"Bcrusher, dawn 300, hunger 9, no meat. Riker, I'll scout the grass with you.
 - 17:49 act: {"actions":[{"do":"goto","target":{"x":-268,"y":67,"z":326}}],"say":"Heading to the north white beds to find the group and scout for animals."}
 - 17:52 act: {"actions":[{"do":"note","text":"Day 301 bright. Hunger 9, lowest in the group is Zack at 8; food goes to him first. Clark has a cow lead east near -152,100,327."}],"say":"Bcrusher, hunger 9. Zack is 
+- 17:56 act: {"actions":[{"do":"place","block":"dirt","at":"feet"}],"say":"Bcrusher at hunger 9, here at the north beds. Kimberly, Billy, Jason: I'm freeing room in my pack now. Hand me the beef or chicken; Zack i
+- 17:59 act: {"actions":[{"do":"goto","target":"ag_clark_01"}],"say":"Clark, I'm Bcrusher at hunger 9. Zack is fed by Troi. Can you hand me the porkchop? I'm coming to you."}
+- 17:59 act: {"actions":[],"say":"Bcrusher in reach of Clark, Trini, Worf, Picard. Hunger 9. Whoever holds meat, hand it to me now; I'll eat it."}
+- 18:01 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":318}},{"do":"sleep"}],"say":"Clark, your porkchop did not reach my pack; it may be on the ground by you. I'm going to the white bed for the night
+- 18:02 act: {"actions":[],"say":"Bcrusher, night 301, hunger 8, in reach of Zack, Troi, Kimberly, Billy and Jason. Troi, I'm asking for one chicken if Zack is fed. Otherwise I'll eat my rotten flesh at 6."}
+- 18:04 act: {"actions":[{"do":"eat"}],"say":"Chicken in my pack; eating it now at hunger 8. Thank you Chapman and Zack. Troi, keep the rotten flesh for whoever is lowest.","intent":{"goal":"rest_at_white_bed","pr

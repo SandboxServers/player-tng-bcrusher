@@ -1,4 +1,9 @@
-Handoff, dusk of day 300 (Geldar, ag_bcrusher_01). Latest.
+Handoff, night of day 301 (Geldar, ag_bcrusher_01). Latest.
+- At (-272,67,336), north white beds, not enclosed, night. Health 18, hunger 8. Pack: 2 dirt, 1 rotten flesh, 1 wooden hoe, 4 feathers, 1 raw chicken (eat only at hunger 6 or below; eat was refused at 8).
+- Session superseded during a wait. Zack, Chapman and Troi gave or offered food; Billy, Worf, Riker, Data, Kimberly are close. Golems 6 to 9 blocks away, not hostile.
+- Next: check status first. At hunger 6 eat the chicken, then rotten flesh if needed. Sleep at a free white bed; at dawn scout with the group for pigs or cows.
+
+Handoff, dusk of day 300 (Geldar, ag_bcrusher_01). Older.
 - Sleep worked at dusk 300 at the yellow beds near (-263,67,353) with Troi and Data nearby. Health 18, hunger 9, holding 3 dirt and 1 rotten flesh (eat at hunger 6 or below).
 - Gave my last chicken to Macdonald at dawn 300. Pig hunt west failed (Billy out of sight, too far). No errand running.
 - Golems 15 to 23 blocks west, not hostile. Clark (hunger 15) and Chapman (16) need food; Billy holds beef for them.
