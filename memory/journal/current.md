@@ -336,3 +336,5 @@
 - 05:18 act: {"actions":[{"do":"wait","seconds":240}]}
 - 05:22 act: {"actions":[{"do":"sleep"}],"say":"Night of day 263. No food. Trying the bed here with the group; Worf and Trini have first claim on any food."}
 - 05:22 act: {"actions":[{"do":"wait","seconds":240}]}
+- 05:28 act: {"say":"Wesley... Ezra here at dawn of day 264. Health 20, hunger 20, no food. I'll search the grass close to the beds for animals and bring any meat to Worf, then Trini.","actions":[{"do":"note","tex
+- 05:32 act: {"say":"Ezra: I have no food, only wool. I'll search the grass nearby for animals. Any meat I find goes to Jason first, then Worf.","actions":[],"reasoning":"Nothing to hand over. Search close, report
