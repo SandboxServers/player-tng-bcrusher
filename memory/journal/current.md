@@ -1,4 +1,6 @@
 # Journal
+- Day 257 dusk: at white bed (-270,67,318) with Riker, Lewis, Troi. Health 3, hunger 16, no food. Sleep refused: not night yet. Waiting for night, then sleeping in this bed. Food goes to Ezra and Data first.
+- Day 257 night: retried sleep at white bed (-270,67,318); it worked. Health 3, hunger 16, no food. Handoff written.
 - Day 256 late night: at the white beds with Worf, Riker, Zack, Lewis, Data. Sleep at (-270,67,318) was blocked by a creeper; trying bed at (-270,67,336). Health 3, hunger 17, no food. Golems 9 blocks south-west. Next: sleep, then food at dawn; Data and Trini first.
 - Day 256 night: beef eaten on the way back after arrows and a creeper blast; health down to 3. Walked to the group at the white beds (-272,67,319) with Worf, Riker, Troi, Zack. Asked for food and said I'd stay near Riker until light. Next: at dawn, look for food and sleep in a bed.
 - Day 256 night (far west, -367,73,337): killed a cow bare-handed, got 1 beef. Hunger 20, health 20. Enderman and creeper to the north-west, dark. No shelter materials. Plan: keep the beef for Trini, watch until dawn, then go back to the white beds at (-270,67,318).
@@ -273,3 +275,6 @@
 - 03:08 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":318}}],"say":"Ezra, dawn of day 256. Health 3, hunger 16, no food. Going back to the group at the white beds; meat goes to Trini and Data first."
 - 03:08 act: {"actions":[{"do":"sleep"}],"say":"Ezra at the white bed, dawn of day 257. Health 3, hunger 16, no food. Trying to sleep now that nobody is near.","reasoning":"Back at the bed with the group, no monst
 - 03:10 act: {"actions":[{"do":"give","to":"ag_zack_01","item":"wheat_seeds","count":1}],"say":"Ezra: sleep needs night, so I'll retry at dusk. I'm giving my one wheat seed to Zack for planting near the beds.","re
+- 03:19 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":318}},{"do":"sleep"}],"say":"Bxrker, Riker, I'm going into the bed at dusk with no monsters in view. Health 3, no food; I'll share any meat with 
+- 03:20 act: {"actions":[{"do":"sleep"}],"intent":{"goal":"sleep_at_white_bed_tonight","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_world_tic
+- 03:22 act: {"actions":[{"do":"sleep"}],"say":"Beverly at the white bed at night, day 257. Health 3, hunger 16, no food. Trying to sleep here."}
