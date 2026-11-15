@@ -388,3 +388,12 @@
 - 06:38 act: {"actions":[{"do":"give","to":"ag_jason_01","item":"dirt","count":6}],"say":"Geldar: I have no food, but I'm giving Jason my 6 dirt so he can till a patch for Picard's seeds. Riker, you are weakest af
 - 06:40 act: {"actions":[{"do":"give","to":"ag_jason_01","item":"dirt","count":6}],"say":"Bcrusher here at dusk, hunger full, no food found. Jason, here are 6 dirt for your tilling. I'm sleeping at the white bed w
 - 06:41 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":318}}],"intent":{"goal":"rest_at_bed","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limi
+- 06:41 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":336}},{"do":"sleep"}],"say":"Geldar here, at night. I have no food but hunger is full. I'll try the white bed by me.","intent":{"goal":"rest_at_b
+- 06:43 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":318}},{"do":"sleep"}],"intent":{"goal":"rest_at_north_bed","program":"rest","arguments":{},"wake_on":["directly_addressed","precondition_failed",
+- 06:49 act: {"say":"Geldar at dawn, no food, hunger 20. Going west with the group to search for animals. Any meat: Trini and Kimberly first, then Worf.","intent":{"goal":"search_west_for_animals","program":"trave
+- 06:50 act: {"say":"No animals seen on the west walk yet. I'm going on north-west to look; I'll call out any cow, sheep or pig.","intent":{"goal":"scout_north_west_for_animals","program":"travel","arguments":{"ta
+- 06:50 act: {"actions":[{"do":"unstick"}]}
+- 06:51 act: {"say":"Out of the pit at -314,66,314. Still no animals; going further west.","intent":{"goal":"scout_far_west_for_animals","program":"travel","arguments":{"target":{"x":-340,"y":66,"z":310}},"wake_on
+- 06:51 act: {"say":"Geldar at -340,65,310, grass plains, no animals in sight. Trying north.","intent":{"goal":"scout_north_for_animals","program":"travel","arguments":{"target":{"x":-340,"y":66,"z":280}},"wake_on
+- 06:51 act: {"say":"Lake here at -342,62,279 with salmon in deep water, and a squid. Ezra drowned trying the salmon, so be careful. No land animals seen. I'm heading back to the white beds.","intent":{"goal":"ret
+- 06:55 act: {"say":"Geldar at the white beds. A horse gives no meat, so it's no help for food. Lewis's plan to plant wheat is good; I'll help gather seeds and watch the wheat at -269,66,331."}
