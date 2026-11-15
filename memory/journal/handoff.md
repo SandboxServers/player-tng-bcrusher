@@ -1,7 +1,8 @@
 Handoff, night of day 247 (Geldar, ag_bcrusher_01). Latest first.
 - Now dawn of day 247 at the white beds (-270,67,318). Health 20, hunger 20, no food. Pack: 3 oak logs, 2 arrows, 4 dirt, 1 sapling, 3 sticks, wooden sword.
 - Sleep failed at dusk and in the night: beds full, search timed out. Golems 8 to 20 blocks south and south-west.
-- Next: look for food with the group in daylight; Trini first, then Data. Retry the bed at dusk when a bed is free.
+- Day 248 (morning): still at the beds (-270,67,318), health 20, hunger 20, no food. The wheat at (-263,66,321) is gone (only grass). Data is at health 3, Worf at 4.8, Trini at 3. Nobody has found food.
+- Next: wait at the beds in daylight with the group; watch for animals; Trini first, then Data. Retry the bed at dusk when a bed is free; keep away from golems to the south.
 
 Earlier, night of day 246 (Geldar, ag_bcrusher_01).
 - At the white beds (-270,67,318) with the group: Trini, Data, Riker, Billy, Jason, Laforge, Kimberly, Troi, Zack, Picard. Health 20, hunger 20, no food. Pack: 3 oak logs, 2 arrows, 5 dirt, 1 sapling, 3 sticks, wooden sword.
