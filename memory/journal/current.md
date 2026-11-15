@@ -309,3 +309,8 @@
 - 04:29 act: {"actions":[{"do":"goto","target":{"x":-230,"y":66,"z":280}}],"intent":{"goal":"search_further_northeast_animals","program":"travel","arguments":{"target":{"x":-230,"y":66,"z":280}},"wake_on":["direct
 - 04:31 act: {"actions":[{"do":"goto","target":{"x":-230,"y":66,"z":280}}],"intent":{"goal":"search_further_northeast_animals","program":"travel","arguments":{"target":{"x":-230,"y":66,"z":280}},"wake_on":["direct
 - 04:35 act: {"actions":[{"do":"goto","target":{"x":-262,"y":67,"z":244}}],"intent":{"goal":"check_north_cow_pig_lead","program":"travel","arguments":{"target":{"x":-262,"y":67,"z":244}},"wake_on":["directly_addre
+- 04:37 act: {"actions":[{"do":"goto","target":{"x":-259,"y":67,"z":238}},{"do":"attack","target":"sheep"}],"intent":{"goal":"hunt_sheep_for_food","program":"gather","arguments":{"block":"mutton","count":1},"wake_
+- 04:37 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":320}}],"intent":{"goal":"bring_mutton_to_group","program":"travel","arguments":{"target":{"x":-270,"y":67,"z":320}},"wake_on":["directly_addresse
+- 04:38 say: {"text":"Beverly here at the white beds with 1 mutton. Trini or Worf, come to me and it's yours."}
+- 04:40 act: {"actions":[{"do":"give","to":"ag_worf_01","item":"mutton","count":1}],"say":"Worf, the mutton is yours, as Trini asked. Then I'll sleep in the bed here."}
+- 04:40 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":318}},{"do":"sleep"}],"say":"Going to bed at the white bed. Worf, I'll give you the mutton at first light."}
