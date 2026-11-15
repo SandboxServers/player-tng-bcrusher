@@ -411,3 +411,17 @@
 - 07:29 act: {"intent":{"goal":"search_west_for_animals","program":"travel","arguments":{"target":{"x":-296,"y":66,"z":316}},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_wor
 - 07:32 act: {"intent":{"goal":"scout_southwest_grass","program":"travel","arguments":{"target":{"x":-305,"y":66,"z":336}},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_world
 - 07:34 act: {"intent":{"goal":"return_to_south_beds","program":"travel","arguments":{"target":{"x":-270,"y":67,"z":336}},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_world_
+- 07:45 act: {"intent":{"goal":"reach_south_bed_and_sleep","program":"travel","arguments":{"target":{"x":-270,"y":67,"z":336}},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_w
+- 07:46 act: {"actions":[{"do":"sleep"}],"say":"Still no food. Sleep is blocked for now, so I'll stay with Trini and Jason by the beds and try again shortly."}
+- 07:46 act: {"actions":[{"do":"sleep"}],"say":"Bcrusher at the south bed, still no food. Billy, I have no sword, but I'll come to you if you call from the beds."}
+- 07:51 act: {"intent":{"goal":"search_west_for_pigs_with_chapman","program":"travel","arguments":{"target":{"x":-340,"y":64,"z":300}},"wake_on":["directly_addressed","unexpected_damage","goal_completed","precondi
+- 07:51 act: {"intent":{"goal":"return_to_group_beds","program":"travel","arguments":{"target":{"x":-270,"y":67,"z":330}},"wake_on":["directly_addressed","unexpected_damage","goal_completed","precondition_failed"]
+- 07:52 act: {"actions":[{"do":"goto","target":{"x":-275,"y":66,"z":331}},{"do":"mine","block":"wheat","count":3},{"do":"goto","target":{"x":-274,"y":66,"z":327}},{"do":"craft","item":"bread","count":1}],"say":"Bc
+- 07:52 act: {"actions":[],"say":"Bcrusher here, no food on me. Has anyone seen a cow, pig or sheep since the pig near -365,63,296? Whoever finds meat, Trini gets it first."}
+- 07:56 act: {"actions":[],"say":"I have 1 wheat now too. Trini, come to me and I'll hand it over with Chapman's and Clark's for the bread. Need 3 wheat total."}
+- 08:00 act: {"actions":[{"do":"goto","target":{"x":-274,"y":66,"z":328}}],"say":"I have 2 wheat. Chapman, please hand me your wheat and I'll bake the bread at the table at -274,66,326. Trini gets the loaf."}
+- 08:00 act: {"actions":[],"say":"Chapman, I'm at the table with 2 wheat. Give me your wheat (1) and I'll bake; I need 3. Lewis, any spare wheat works too."}
+- 08:02 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":319}},{"do":"sleep"}],"say":"Night. Heading to the north bed to sleep. I still have 2 wheat for the bread; Chapman's is already mine, so I need o
+- 08:07 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":336}},{"do":"sleep"}]}
+- 08:11 act: {"actions":[{"do":"goto","target":{"x":-275,"y":66,"z":332}},{"do":"use","at":{"x":-276,"y":66,"z":332}}],"say":"Dawn. I have 2 wheat. I'm trying to harvest the last ripe wheat at -276,66,332 for Trin
+- 08:11 act: {"actions":[],"say":"The last ripe wheat is gone; clicking it did nothing. I have 2 wheat, and bread needs 3. Anyone with one more wheat, bring it to me at the table and I'll bake for Trini right away
