@@ -138,3 +138,8 @@
 - 18:01 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":318}},{"do":"sleep"}],"say":"Clark, your porkchop did not reach my pack; it may be on the ground by you. I'm going to the white bed for the night
 - 18:02 act: {"actions":[],"say":"Bcrusher, night 301, hunger 8, in reach of Zack, Troi, Kimberly, Billy and Jason. Troi, I'm asking for one chicken if Zack is fed. Otherwise I'll eat my rotten flesh at 6."}
 - 18:04 act: {"actions":[{"do":"eat"}],"say":"Chicken in my pack; eating it now at hunger 8. Thank you Chapman and Zack. Troi, keep the rotten flesh for whoever is lowest.","intent":{"goal":"rest_at_white_bed","pr
+- 18:36 act: {"actions":[{"do":"goto","target":{"x":-272,"y":67,"z":326}}],"say":"Bcrusher, hunger 8, holding a chicken for when I reach 6. Chapman and LaForge are lower; they go first if I see them.","intent":{"g
+- 18:41 act: {"actions":[{"do":"note","text":"Dusk day 303 at north white beds. Health 18, hunger 8. Chicken waits for hunger 6. LaForge is lowest (1.5), food goes to him first."}],"intent":{"goal":"hold_until_hun
+- 18:41 act: {"actions":[],"intent":{"goal":"hold_until_hunger_six","program":"rest","arguments":{},"wake_on":["directly_addressed","goal_completed"],"limits":{"max_world_ticks":3000,"max_block_operations":1}}}
+- 18:43 act: {"actions":[{"do":"use","at":{"x":-271,"y":67,"z":336}},{"do":"sleep"}],"say":"Bcrusher, hunger 8, health 18. Going to the white bed for the night. Holding one raw chicken for whoever is at 6 or below
+- 18:43 act: {"actions":[{"do":"use","at":{"x":-271,"y":67,"z":336}},{"do":"sleep"}]}
