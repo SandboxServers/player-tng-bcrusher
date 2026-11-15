@@ -1,4 +1,15 @@
-Handoff, night of day 292 (Geldar, ag_bcrusher_01). Latest.
+Handoff, dusk of day 300 (Geldar, ag_bcrusher_01). Latest.
+- Sleep worked at dusk 300 at the yellow beds near (-263,67,353) with Troi and Data nearby. Health 18, hunger 9, holding 3 dirt and 1 rotten flesh (eat at hunger 6 or below).
+- Gave my last chicken to Macdonald at dawn 300. Pig hunt west failed (Billy out of sight, too far). No errand running.
+- Golems 15 to 23 blocks west, not hostile. Clark (hunger 15) and Chapman (16) need food; Billy holds beef for them.
+- Next: at light, scout with the group for pigs or cows; any meat goes to the weakest first, then me last.
+
+Handoff, dusk of day 295 (Geldar, ag_bcrusher_01). Older.
+- Heading to the north white bed (-271,67,318) with Macdonald, Lewis, Riker, Clark. Not enclosed. Health 18, hunger 13, holding 3 dirt and 1 rotten flesh (eat only at hunger 6 or below).
+- Food goes to Wesley (health 2) first, then Clark, then the hungriest. Golem about 21 blocks south-west, not hostile.
+- Next: sleep at the north white bed if free; at light, scout with the group for pigs or cows.
+
+Handoff, night of day 292 (Geldar, ag_bcrusher_01). Older.
 - Slept at the north white bed (-271,67,318) on night 292; sleep worked. Days since sleep reset. Lewis, Billy, Trini nearby. Not enclosed.
 - Health 18, hunger 16, no food, pack empty, no weapon. Golems south, not hostile.
 - Billy holds one raw chicken for Macdonald. Food goes to Macdonald and Zack first, then Leonardo, Picard, Billy, LaForge. No errand running.

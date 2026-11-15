@@ -68,3 +68,62 @@
 - 15:14 act: {"say":"Billy, keep the chicken for Zack or Leonardo, both at hunger 9, not me; I'm at 16. I'm going south-west to look for a cow and will call out any I find.","intent":{"goal":"hunt_cow_southwest_2"
 - 15:14 act: {"say":"At the cow spot by the lake at -329,64,232. No cows here, only a spider to the north-east. Trying west next; I'll call out any cow or pig.","intent":{"goal":"scout_west_for_cows","program":"tr
 - 15:15 act: {"say":"Bcrusher at -370,64,261, lake shore, no cows yet. Searching further west; call out any animal you see.","intent":{"goal":"scout_far_west_for_cows","program":"travel","arguments":{"target":{"x"
+- 15:18 act: {"intent":{"goal":"return_to_north_beds","program":"travel","arguments":{"target":{"x":-270,"y":67,"z":318}},"wake_on":["directly_addressed","unexpected_damage","goal_completed","precondition_failed"]
+- 15:18 act: {"intent":{"goal":"return_to_north_beds_via_waypoints","program":"travel","arguments":{"target":{"x":-370,"y":64,"z":261}},"wake_on":["directly_addressed","unexpected_damage","goal_completed","precond
+- 15:18 act: {"intent":{"goal":"return_to_north_beds_final","program":"travel","arguments":{"target":{"x":-270,"y":67,"z":318}},"wake_on":["directly_addressed","unexpected_damage","goal_completed","precondition_fa
+- 15:18 act: {"say":"Back at the north beds. No food except one rotten flesh, which I'm saving. Any meat goes to whoever is lowest in reach.","reasoning":"Back with group in daylight. Hold the rotten flesh as emer
+- 15:23 act: {"actions":[{"do":"sleep"}],"say":"Night at the north bed with the group. No food except one rotten flesh.","reasoning":"Night, at beds with group. Try sleep here."}
+- 15:23 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":318}},{"do":"sleep"}],"reasoning":"Night, phantom nearby, unarmed. Get to the bed and try sleep once; read why if refused."}
+- 15:24 act: {"intent":{"goal":"wait_for_dawn_near_beds","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_damage","precondition_failed"],"limits":{"max_world_ticks":6000,"max_block_opera
+- 15:27 act: {"say":"Dawn, at the north beds, no food, hunger 14. Calling for pig or cow sightings; meat goes to the weakest in reach.","reasoning":"Dawn. Need meat. Join the group hunt. Keep rotten flesh for lowe
+- 15:31 act: {"intent":{"goal":"join_group_at_south_farm","program":"travel","arguments":{"target":{"x":-273,"y":66,"z":332}},"wake_on":["directly_addressed","unexpected_damage","goal_completed","precondition_fail
+- 15:31 act: {"say":"Travel to the farm failed and it's dark. I'm staying near the north beds, no food, hunger 14. Any meat or wheat: Wcrusher first, then Zack.","reasoning":"Travel blocked; dark; unarmed. Stay ne
+- 15:42 act: {"intent":{"goal":"reach_white_beds","program":"travel","arguments":{"target":{"x":-272,"y":67,"z":319}},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","goal_completed"],"li
+- 15:52 act: {"say":"Bcrusher, morning 295. Health 18, hunger 14. I hold only dirt and one rotten flesh, which I keep for hunger 6. Wesley is first in line; I'll scout west with the group for pigs or cows and call
+- 15:52 act: {"intent":{"goal":"return_to_beds","program":"travel","arguments":{"target":{"x":-273,"y":67,"z":319}},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","goal_completed"],"limi
+- 16:00 act: {"intent":{"goal":"reach_north_white_bed","program":"travel","arguments":{"target":{"x":-271,"y":67,"z":318}},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","goal_completed"
+- 16:01 act: {"actions":[{"do":"use","at":{"x":-271,"y":67,"z":318}}],"intent":{"goal":"rest_night_295","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits
+- 16:05 act: {"actions":[{"do":"sleep"}],"reasoning":"Use on the bed failed; try the sleep verb directly."}
+- 16:05 act: {"actions":[{"do":"sleep"}],"reasoning":"Sleep was blocked by crowding; one retry at the nearby bed."}
+- 16:10 say: {"text":"Bcrusher at dawn 296, hunger 13, health 18. I hold 1 rotten flesh for whoever is lowest. Wesley, step into reach and I'll give it to you."}
+- 16:12 say: {"text":"Bcrusher, dawn 296: I'm holding 1 rotten flesh for Wesley. Wesley, if you're in sight, say so. I'll join Leonardo's scout west for pigs or cows."}
+- 16:20 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":336}},{"do":"sleep"}]}
+- 16:20 act: {"actions":[{"do":"sleep"}]}
+- 16:30 say: {"text":"Bcrusher, dawn 297, health 18, hunger 13. I hold 1 rotten flesh for Clark, the lowest in reach. Clark, step next to me and say so, and it's yours. I'm scouting west for animals after."}
+- 16:33 act: {"actions":[{"do":"goto","target":{"x":-285,"y":66,"z":334}}]}
+- 16:33 say: {"text":"Bcrusher joining the west scout for animals. Calling out any pig or cow I see. Clark, my rotten flesh is yours when you're in reach."}
+- 16:33 act: {"actions":[{"do":"goto","target":{"x":-296,"y":66,"z":330}}]}
+- 16:33 act: {"actions":[{"do":"goto","target":{"x":-290,"y":66,"z":320}}]}
+- 16:33 act: {"actions":[{"do":"note","text":"Midday 297 at (-290,66,321) with Lewis and Trini. No animals in sight. Scouting west with the group."}],"say":"Lewis, Trini, I'm here with you. Any animal in sight, ca
+- 16:37 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":334}}],"say":"Bcrusher pulling back to the beds with the group. No animals seen. Clark, I have one rotten flesh if you're in reach and the hunger
+- 16:45 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":336}},{"do":"sleep"}],"say":"Bcrusher at the south bed for the night. No food, health 18, hunger 13. Clark, my rotten flesh is yours if you come 
+- 16:45 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":336}},{"do":"sleep"}]}
+- 16:46 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":318}},{"do":"sleep"}]}
+- 16:47 act: {"actions":[{"do":"goto","target":{"x":-281,"y":67,"z":320}},{"do":"sleep"}]}
+- 16:51 act: {"actions":[{"do":"goto","target":{"x":-213,"y":69,"z":351}}],"say":"Bcrusher heading east toward Macdonald's pigs at -213,69,351. Anyone with a meat, call me. Wesley first when it comes."}
+- 17:02 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":334}}],"say":"Bcrusher walking back west to the white beds with the group for the night. No pigs seen."}
+- 17:02 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":336}},{"do":"sleep"}],"say":"Bcrusher trying the south white bed for the night. Rotten flesh went to Wesley's group."}
+- 17:03 act: {"actions":[{"do":"sleep"}]}
+- 17:06 act: {"actions":[{"do":"sleep"}]}
+- 17:09 act: {"actions":[{"do":"goto","target":{"x":-257,"y":66,"z":199}}],"say":"Bcrusher, dawn 299, no food, hunger 11. Going with Macdonald toward the chicken ground. Any meat goes to Picard first, then Wesley.
+- 17:10 act: {"actions":[{"do":"goto","target":{"x":-253,"y":65,"z":196}},{"do":"attack","target":"chicken"}],"say":"Chickens to the north-east. I'm going for them. Any chicken goes to Picard first."}
+- 17:10 act: {"actions":[{"do":"goto","target":{"x":-252,"y":65,"z":186}},{"do":"attack","target":"chicken"}],"say":"Got one chicken. Going for the next. Picard is far back, so the first chicken goes to whoever is
+- 17:10 act: {"actions":[{"do":"goto","target":"ag_clark_01"},{"do":"give","to":"ag_clark_01","item":"chicken","count":1}],"say":"Clark, one chicken for you, you are the hungriest here. Picard is too far back to r
+- 17:10 act: {"actions":[{"do":"give","to":"ag_trini_01","item":"chicken","count":1}],"say":"Trini, one chicken for you, you were hurt by the phantoms. The other goes to whoever is weakest next."}
+- 17:11 act: {"actions":[{"do":"goto","target":{"x":-253,"y":65,"z":190}},{"do":"attack","target":"chicken"}],"say":"Going for the next chicken to the north. Picard first."}
+- 17:11 act: {"actions":[{"do":"give","to":"ag_clark_01","item":"chicken","count":1}],"say":"Clark, one chicken for you. Eat it."}
+- 17:11 act: {"actions":[{"do":"goto","target":{"x":-268,"y":67,"z":316}}],"say":"Clark already has Macdonald's chicken. I'm taking my last two south to the beds for Picard and Wesley."}
+- 17:12 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":322}}],"say":"I have 2 chickens. Picard is covered, so Wesley first. Who is in reach of Wesley? Say where he is and I'll hand them over."}
+- 17:12 act: {"actions":[{"do":"give","to":"ag_zack_01","item":"chicken","count":1}],"say":"Zack, one chicken for you. The other is kept for Wesley."}
+- 17:12 act: {"actions":[],"say":"Picard is fed. My last chicken is for Wesley. Wesley, where are you? I'll bring it to you."}
+- 17:15 act: {"actions":[],"say":"Leonardo, I have one raw chicken and no sword. Come within reach and it's yours."}
+- 17:22 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":318}},{"do":"sleep"}]}
+- 17:26 act: {"actions":[{"do":"sleep"}]}
+- 17:26 act: {"actions":[{"do":"sleep"}]}
+- 17:27 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":336}},{"do":"sleep"}],"say":"Sleep was blocked by the crowd. Trying the other bed at -270,67,336. I still hold one chicken for whoever is lowest.
+- 17:28 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":336}},{"do":"sleep"}]}
+- 17:29 act: {"actions":[],"say":"Dawn. I still hold one chicken for whoever is lowest. Chapman, Billy, Trini: call out your hunger and I will hand it over. I will look for pigs or cows with the group in daylight.
+- 17:31 act: {"actions":[],"say":"Macdonald, I am holding my chicken for the weakest. Zack has Jason's chicken and Trini has beef, so I will keep mine for whoever is lower after that. Trini, if you have fed LaForg
+- 17:33 act: {"actions":[{"do":"give","to":"ag_macdonald_01","item":"chicken","count":1}],"say":"Macdonald, here is my chicken, hunger 15. Eat it now."}
+- 17:33 act: {"actions":[],"say":"Billy, I'm coming with you to the pig. Any meat goes to the weakest, then me last.","intent":{"goal":"follow_billy_to_pig","program":"follow","arguments":{"target":"ag_billy_01"},
+- 17:40 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":336}},{"do":"sleep"}],"say":"Dusk. I have no food but one rotten flesh, which I keep for hunger 6. Trying the bed at -270,67,336 for the night."}
