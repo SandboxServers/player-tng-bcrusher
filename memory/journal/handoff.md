@@ -1,4 +1,5 @@
-Handoff, night of day 257 (Beverly, ag_bcrusher_01). Latest first.
+Handoff, night of day 257 (Geldar, ag_bcrusher_01). Latest first.
+- Reflect run. Asleep at the north white bed (-270,67,318), health 3, hunger 16, no food. Next at light: food to Trini, then Ezra and Data; search south-west away from the golems.
 - Asleep at the white bed (-270,67,318) with Riker nearby. Sleep worked (goal completed). Health 3, hunger 16, no food.
 - Pack: 1 wheat_seeds, 4 cobblestone, 6 dirt. Iron golem about 23 blocks south-west, not hostile.
 - Next at light: food first to Trini (lowest), then Ezra and Data. Search grass away from golems. Do not go into open ground at night.

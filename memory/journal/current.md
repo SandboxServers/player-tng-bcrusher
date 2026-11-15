@@ -278,3 +278,4 @@
 - 03:19 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":318}},{"do":"sleep"}],"say":"Bxrker, Riker, I'm going into the bed at dusk with no monsters in view. Health 3, no food; I'll share any meat with 
 - 03:20 act: {"actions":[{"do":"sleep"}],"intent":{"goal":"sleep_at_white_bed_tonight","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_world_tic
 - 03:22 act: {"actions":[{"do":"sleep"}],"say":"Beverly at the white bed at night, day 257. Health 3, hunger 16, no food. Trying to sleep here."}
+- 03:23 say: {"text":"Geldar here, night of day 257. No food, health 3. Going to sleep at this white bed; food first at light."}

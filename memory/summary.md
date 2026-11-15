@@ -1,5 +1,7 @@
 # Recent days
 
+Day 257 (Geldar): Still no food all day. Searched grass and found no animals; the iron golems stay south and south-east. Slept at the north white bed (-270,67,318); the sleep held. Health 3, hunger 16. Trini is lowest on food, then Ezra and Data. Next: at light, food to Trini first, then Ezra and Data, then search south-west away from the golems.
+
 Day 251 (Geldar): No food found on west grass or north lead. Porkchops went to Riker, then Worf. Slept at the white beds with the group; health 20, hunger 20, no food. Next: at dawn, search for animals with Data near the north cow lead; Worf and Trini first for any food.
 
 A short account of your recent days, kept so you can remember them.
