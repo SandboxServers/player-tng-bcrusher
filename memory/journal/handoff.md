@@ -1,4 +1,10 @@
-Handoff, night of day 303 (Geldar, ag_bcrusher_01). Latest.
+Handoff, dusk of day 307 (Geldar, ag_bcrusher_01). Latest.
+- At (-269,67,335), north white beds with the group, not enclosed. Health 18, hunger 8 (steady). Pack: 2 dirt, 1 rotten flesh, 1 wooden hoe, 4 feathers, 2 raw chicken, 1 beef. Eat chicken at hunger 6 or below; give to the lowest in reach (Clark, Troi, Chapman).
+- Game tools stopped answering at dusk 307 (no such tool for wait/act/journal). Retry the wait first when they return.
+- Beds at (-270,67,336) and (-271,67,336) refused sleep before; do not retry the same way.
+- Group hunting pigs north-west near -256,67,235; LaForge led it. Golem about 10 blocks west, not hostile.
+
+Handoff, night of day 303 (Geldar, ag_bcrusher_01). Older.
 - At (-270,67,337), north white beds, not enclosed, night. Health 18, hunger 8. Pack: 2 dirt, 1 rotten flesh, 1 wooden hoe, 4 feathers, 1 raw chicken (eat at hunger 6 or below).
 - Bed use at (-270,67,336) and (-271,67,336) failed twice ("that block is a bed"). Not retried; waiting for dawn.
 - Session superseded during a wait. Zack holds chicken for LaForge (reported dead, day 296). Troi, Riker, Trini, Macdonald, Picard are close.

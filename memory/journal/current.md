@@ -143,3 +143,5 @@
 - 18:41 act: {"actions":[],"intent":{"goal":"hold_until_hunger_six","program":"rest","arguments":{},"wake_on":["directly_addressed","goal_completed"],"limits":{"max_world_ticks":3000,"max_block_operations":1}}}
 - 18:43 act: {"actions":[{"do":"use","at":{"x":-271,"y":67,"z":336}},{"do":"sleep"}],"say":"Bcrusher, hunger 8, health 18. Going to the white bed for the night. Holding one raw chicken for whoever is at 6 or below
 - 18:43 act: {"actions":[{"do":"use","at":{"x":-271,"y":67,"z":336}},{"do":"sleep"}]}
+- 18:51 act: {"actions":[{"do":"note","text":"Day 304 dawn. Health 18, hunger 8. Group heading east for a cow near -152,327 with LaForge, Worf, Riker, Macdonald. Chicken stays for whoever is at 6 or below."}],"int
+- 19:02 act: {"actions":[{"do":"goto","target":{"x":-269,"y":67,"z":336}},{"do":"use","at":{"x":-270,"y":67,"z":336}},{"do":"sleep"}]}
