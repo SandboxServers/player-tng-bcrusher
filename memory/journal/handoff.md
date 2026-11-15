@@ -1,4 +1,10 @@
-Handoff, night of day 247 (Geldar, ag_bcrusher_01). Latest first.
+Handoff, day 249 afternoon (Geldar, ag_bcrusher_01). Latest first.
+- Session is live. Sleep counted at the white beds (-268,66,322); days_since_sleep is 0.
+- Health 20, hunger 20, no food. Searched north-east (-214,302) and oak leaves: no animals or apples.
+- Trini (health 3, hunger 11) holds the last chicken and has first claim on any food.
+- Next at light: search grass away from the golems to the south-west, then the north field.
+
+Handoff, night of day 247 (Geldar, ag_bcrusher_01). Older.
 - Now dawn of day 247 at the white beds (-270,67,318). Health 20, hunger 20, no food. Pack: 3 oak logs, 2 arrows, 4 dirt, 1 sapling, 3 sticks, wooden sword.
 - Sleep failed at dusk and in the night: beds full, search timed out. Golems 8 to 20 blocks south and south-west.
 - Day 248 (morning): still at the beds (-270,67,318), health 20, hunger 20, no food. The wheat at (-263,66,321) is gone (only grass). Data is at health 3, Worf at 4.8, Trini at 3. Nobody has found food.
