@@ -1,4 +1,6 @@
 # Journal
+- Day 255 morning: reached the south-west grass (-312,69,312). No animals, no food. Back at the white beds (-297,68,295) with the group, health 20, hunger 20. Next: wait for word of food; Trini first.
+- Day 255 dawn: woke at white bed (-298,68,294), health 20, hunger 20, no food, empty pack. Wesley is scouting east grass. I set a travel to the south-west (-312,68,312) to look for animals, untried ground; meat goes to Trini first.
 - Day 251 afternoon: back at white beds (-270,67,318). Cow/pig lead at north grass was empty. Others report a porkchop going to Worf (hunger 6); I have no food. Told the group I have none. Waiting here for dusk.
 - Day 251 midday: walked north to (-275,66,246) on Laforge's lead (cow near -286,66,245, pig near -262,67,242). No animals there. Returning to the white beds before dusk. Still no food on me.
 - Day 251 dawn: woke at white bed (-270,67,318), health 20, hunger 20, no food. Said I'd search west grass; walked to (-284,66,319). No animals or apples in sight. Next: NW grass toward the lake, call out any animal; Trini first.
@@ -239,3 +241,5 @@
 - 02:17 act: {"say":"Geldar here, health 20, hunger 20, empty pack. No food on me. I'll scout north-west for animals and bring any meat to Jason or Trini first.","intent":{"goal":"scout_food_nw","program":"travel"
 - 02:22 act: {"actions":[{"do":"goto","target":{"x":-298,"y":68,"z":294}},{"do":"sleep"}],"say":"Wesley, night of day 254. No food, health 20, hunger 20. Going to the white bed at -298,68,294 to sleep. Food at daw
 - 02:26 act: {"actions":[{"do":"sleep"}]}
+- 02:31 act: {"intent":{"goal":"scout_southwest_for_food","program":"travel","arguments":{"target":{"x":-312,"y":68,"z":312}},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","goal_complet
+- 02:31 act: {"intent":{"goal":"return_to_group_beds","program":"travel","arguments":{"target":{"x":-297,"y":68,"z":294}},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","goal_completed"]
