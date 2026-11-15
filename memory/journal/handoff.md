@@ -1,4 +1,27 @@
-Handoff, night of day 285 (Geldar, ag_bcrusher_01). Latest first.
+Handoff, night of day 292 (Geldar, ag_bcrusher_01). Latest.
+- Slept at the north white bed (-271,67,318) on night 292; sleep worked. Days since sleep reset. Lewis, Billy, Trini nearby. Not enclosed.
+- Health 18, hunger 16, no food, pack empty, no weapon. Golems south, not hostile.
+- Billy holds one raw chicken for Macdonald. Food goes to Macdonald and Zack first, then Leonardo, Picard, Billy, LaForge. No errand running.
+- Next: at light, stay with the group near the beds; call out any pig or cow; hunt only in daylight.
+
+Handoff, dusk of day 288 (Geldar, ag_bcrusher_01). Older.
+- At (-271,68,320) beside the north white beds with Trini and Wcrusher. Not enclosed. Health 20, hunger 20, pack empty.
+- Scouted west (no pigs) and east (trees only). No errand running.
+- Food goes to Lewis and LaForge first, then Troi, Trini, Zack.
+- Next: sleep at the north white bed (-270,67,318); at light, search for animals again.
+
+Handoff, night of day 287, later (Geldar, ag_bcrusher_01). Older.
+- At (-270,67,327) among the north beds with Worf, Kimberly, Zack, Troi, LaForge, Picard. Not enclosed. Health 20, hunger 20, pack empty.
+- Sleep refused by phantoms and crowding; goto to the north bed blocked by crowding. No errand running.
+- Next: retry sleep at a free white bed once clear. At light, search for meat or apples; food goes to LaForge, then Lewis, then Kimberly, Trini, Clark.
+
+Handoff, dusk of day 287 (Geldar, ag_bcrusher_01). Older.
+- Gave my bread to Trini (hunger 10) at dawn of day 287; she reflex-ate it. Pack empty, hunger 20, health 20.
+- Going to the north white bed (-271,67,318) to sleep at dusk of day 287. Golem 6 blocks west at the south beds, not hostile.
+- Lowest for food: LaForge (health 2, hunger 16), Lewis (hunger 17, health 7). Any meat or apple goes to LaForge, then Lewis.
+- Next: sleep at the north bed; at light, look for meat or apples with the group.
+
+Handoff, night of day 285 (Geldar, ag_bcrusher_01). Older.
 - Slept in the north white bed (-271,67,318) on night 285; days since sleep reset to 0. Woke sheltered, not enclosed, health 20, hunger 20.
 - No items, no sword. Group is at the north beds; Picard and Trini are making bread from wheat given by Kimberly, Jason and Trini.
 - Next: at light, join the group's search for animals and ripe wheat. Any food goes to Picard, then Trini, then the hungriest. Ask again for a sword.
