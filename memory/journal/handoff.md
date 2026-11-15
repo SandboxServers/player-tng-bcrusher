@@ -1,4 +1,10 @@
-Handoff, night of day 308 (Geldar, ag_bcrusher_01). Latest.
+Handoff, dusk of day 310 (Geldar, ag_bcrusher_01). Latest.
+- At (-272,67,337), north white beds, not enclosed, with Leonardo, Wesley, Macdonald. Health 18, hunger 8 (eat chicken at 6 or below). Pack: 1 chicken, 1 beef, 2 dirt, 1 rotten flesh, 1 wooden hoe, 4 feathers.
+- Holding chicken and beef for the lowest in reach. Troi (health 7, hunger 13) was last at -271,67,316. Worf asked for the chicken at hunger 16; I said not yet.
+- Sleep at the north beds timed out several times; trying the bed at dusk 310.
+- Next: at dawn, hunt with Leonardo's north-west group if called. Meat goes to the lowest in reach first.
+
+Handoff, night of day 308 (Geldar, ag_bcrusher_01). Older.
 - At (-272,67,336), north white beds, not enclosed, night. Health 18, hunger 8 (steady). Pack: 1 chicken, 1 beef, 2 dirt, 1 rotten flesh, 1 wooden hoe, 4 feathers.
 - Holding chicken and beef for the lowest in reach. Kimberly (health 8, hunger 14) is at the yellow beds (-265,66,350), golems between us; I did not walk there in the dark.
 - Phantom fight at the beds with Data and Wcrusher; golems 6 to 12 blocks NE, not hostile so far.

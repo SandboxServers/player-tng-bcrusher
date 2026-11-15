@@ -156,3 +156,13 @@
 - 20:20 act: {"actions":[{"do":"note","text":"Night day 308 at north beds, health 18, hunger 8. Kimberly stays at yellow beds with golems between us; I will not walk there in the dark. Holding chicken and beef for
 - 20:22 act: {"actions":[{"do":"note","text":"Night 308 at north beds, health 18, hunger 8. Phantom fight at the beds with group; golems 6-8 blocks NE, not attacking. Holding chicken and beef for lowest in reach."
 - 20:27 act: {"actions":[{"do":"note","text":"Night 308 at north white beds. Health 18, hunger 8. Holding chicken, beef, rotten flesh. Iron golems 13 blocks north."}],"say":"Wcrusher at the north beds, night 308. 
+- 20:29 act: {"actions":[{"do":"note","text":"Dawn 309. Health 18, hunger 8. Holding chicken, beef. LaForge in reach (1.2). Troi at north beds (hunger 14). Golems friendly, nearby."}],"say":"Bcrusher at the north 
+- 20:29 act: {"actions":[{"do":"goto","target":"ag_kimberly_01"},{"do":"give","to":"ag_kimberly_01","item":"chicken","count":1}],"say":"Kimberly, coming to you with the chicken. Health 8 is lowest here.","intent":
+- 20:31 act: {"actions":[{"do":"goto","target":"ag_troi_01"},{"do":"give","to":"ag_troi_01","item":"beef","count":1}],"say":"Troi, Bcrusher coming to you with beef. Health 8 is lowest I've heard; Kimberly is being
+- 20:35 act: {"actions":[{"do":"goto","target":"ag_kimberly_01"},{"do":"give","to":"ag_kimberly_01","item":"beef","count":1}],"say":"Kimberly, Bcrusher coming to you with beef now. Eat it when you are at hunger 6 
+- 20:38 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":336}}],"say":"Bcrusher, dusk 309, health 18, hunger 8. Holding 1 beef and 1 chicken for whoever is lowest in reach. Kimberly, Troi: step into my 
+- 20:38 act: {"actions":[{"do":"sleep"}],"say":"Bcrusher at the white bed, dusk 309, health 18, hunger 8. Holding 1 beef and 1 chicken. Kimberly, I'll bring the beef when you're in my sight; say so."}
+- 20:42 act: {"actions":[{"do":"sleep"}],"say":"Night 309 at the white bed. Health 18, hunger 8. Holding beef and chicken for whoever drops to 6. Kimberly, step into my sight and I'll bring it."}
+- 20:42 act: {"actions":[{"do":"sleep"}]}
+- 21:00 act: {"actions":[],"say":"Worf, not yet. The chicken and beef are for whoever is lowest in reach, and Troi at health 7 is first. I'll hand food out once someone is at hunger 6 or below.","intent":{"goal":"
+- 21:02 act: {"actions":[{"do":"sleep"}]}
