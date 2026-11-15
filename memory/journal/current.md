@@ -1,3 +1,12 @@
+# Day 259 dusk: at -272,67,358 with 5 golems around (they have not hit me). Health 20, hunger 20. Going to the north white bed (-270,67,319) for the night. Wesley says no food anywhere; still no animals known.
+# Day 259 died: shot by something (bow sounds to the northwest) near -327,78,405. Dropped 1 wheat_seeds, 4 cobblestone, 2 dirt there; not worth going back. Respawned at -271,67,319 with health 20, hunger 20, empty pack. Lesson: do not travel far west at dawn with the bow sounds about; stay near the group.
+# Day 259 dawn: survived the night at -304,79,397, health steady 3, hunger 16. Golem still 23 blocks north-east. Heading west to -345,70,405 to search for animals.
+# Day 258 dusk: at -307,79,393, no food, golems 22 east. Too far from beds to reach safely; staying put for the night.
+# Day 258 late afternoon: nothing came of the bow sound. Heading south-east to -305,66,400 to search for animals.
+# Day 258 afternoon: at -330,79,378. Heard a bow drawn to the south, so I am stopping to check. Cherry logs to the south-west (-337,89,383). Still no food.
+# Day 258 midday: at -322,76,351, still no animals or edible food found. Pushing south toward -330,66,380. Group everywhere hungry.
+# Day 258 morning: golems left behind; my west trip ran out of time at -312,72,336 with no animals found. Trying south-west to -322,66,352 next.
+# Day 258: reached (-290,66,335). An iron golem is closing from 13 blocks east, so I am moving west to (-312,66,336). No animals seen yet. Wheat (unripe) at -265,66,323 is not food yet.
 # Journal
 - Day 257 dusk: at white bed (-270,67,318) with Riker, Lewis, Troi. Health 3, hunger 16, no food. Sleep refused: not night yet. Waiting for night, then sleeping in this bed. Food goes to Ezra and Data first.
 - Day 257 night: retried sleep at white bed (-270,67,318); it worked. Health 3, hunger 16, no food. Handoff written.
@@ -279,3 +288,16 @@
 - 03:20 act: {"actions":[{"do":"sleep"}],"intent":{"goal":"sleep_at_white_bed_tonight","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_world_tic
 - 03:22 act: {"actions":[{"do":"sleep"}],"say":"Beverly at the white bed at night, day 257. Health 3, hunger 16, no food. Trying to sleep here."}
 - 03:23 say: {"text":"Geldar here, night of day 257. No food, health 3. Going to sleep at this white bed; food first at light."}
+- 03:24 say: {"text":"Morning plan: I still have no food (hunger 16). At light I'll search south-west, away from the golems, and bring any meat to Trini first."}
+- 03:28 act: {"intent":{"goal":"search_south_west_food","program":"travel","arguments":{"target":{"x":-290,"y":67,"z":335}},"wake_on":["directly_addressed","unexpected_damage","goal_completed","precondition_failed
+- 03:28 act: {"intent":{"goal":"flee_west_from_golem","program":"travel","arguments":{"target":{"x":-312,"y":66,"z":336}},"wake_on":["directly_addressed","unexpected_damage","goal_completed","precondition_failed"]
+- 03:29 act: {"intent":{"goal":"search_south_west_food_2","program":"travel","arguments":{"target":{"x":-322,"y":66,"z":352}},"wake_on":["directly_addressed","unexpected_damage","goal_completed","precondition_fail
+- 03:30 act: {"intent":{"goal":"search_south_for_animals","program":"travel","arguments":{"target":{"x":-330,"y":66,"z":380}},"wake_on":["directly_addressed","unexpected_damage","goal_completed","precondition_fail
+- 03:38 act: {"intent":{"goal":"search_south_east_food","program":"travel","arguments":{"target":{"x":-305,"y":66,"z":400}},"wake_on":["directly_addressed","unexpected_damage","goal_completed","precondition_failed
+- 03:40 say: {"text":"Dusk, day 258. No food found yet on the south-west and south-east sweep. Golems are about 22 blocks east, so I'm staying put here for the night."}
+- 03:51 act: {"intent":{"goal":"search_west_food","program":"travel","arguments":{"target":{"x":-345,"y":70,"z":405}},"wake_on":["directly_addressed","unexpected_damage","goal_completed","precondition_failed"],"li
+- 03:51 say: {"text":"Geldar here. I was shot by something to the west and died at -327,405. I respawned at the north beds with health 20 and hunger 20, but I have nothing. My dropped items are not worth the risk.
+- 03:59 act: {"intent":{"goal":"reach_north_bed_for_night","program":"travel","arguments":{"target":{"x":-270,"y":67,"z":319}},"wake_on":["directly_addressed","unexpected_damage","goal_completed","precondition_fai
+- 04:00 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":318}}],"say":"Going to bed at the north white bed. No food yet; meat goes to Trini first, then Ezra and Data."}
+- 04:00 act: {"actions":[{"do":"wait","seconds":40},{"do":"use","at":{"x":-271,"y":67,"z":318}}]}
+- 04:03 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":319}}]}

@@ -1,4 +1,7 @@
-Handoff, night of day 257 (Geldar, ag_bcrusher_01). Latest first.
+Handoff, day 259 dusk (Geldar, ag_bcrusher_01). Latest first.
+- At the north white bed (-271,67,318) with Lewis, Troi, Jason, Trini, Kimberly. Health 20, hunger 20, empty pack after a death in the west (-327,405 area; dropped items not worth fetching).
+- No food known anywhere. Next at light: stay near the group, search close by, not far west while bows are heard. Trini first for any food.
+- Sleep attempt just made; check status for whether I am in bed.
 - Reflect run. Asleep at the north white bed (-270,67,318), health 3, hunger 16, no food. Next at light: food to Trini, then Ezra and Data; search south-west away from the golems.
 - Asleep at the white bed (-270,67,318) with Riker nearby. Sleep worked (goal completed). Health 3, hunger 16, no food.
 - Pack: 1 wheat_seeds, 4 cobblestone, 6 dirt. Iron golem about 23 blocks south-west, not hostile.
