@@ -1,17 +1,23 @@
-# Recent days
+# Summary
 
-Day 264 (Geldar): Dawn at the white beds, no food; pack holds 1 wool. Jason is the weakest and got the wheat and porkchops. Slept at the white bed with the group at dusk and the sleep held. Next: search close grass for animals at first light; meat to Jason, then Worf.
+Where I am: at the north white beds near -270,67,318 with the group, on day 285. Health 20, hunger 20 after eating, unarmed, carrying nothing useful.
 
-Day 257 (Geldar): Still no food all day. Searched grass and found no animals; the iron golems stay south and south-east. Slept at the north white bed (-270,67,318); the sleep held. Health 3, hunger 16. Trini is lowest on food, then Ezra and Data. Next: at light, food to Trini first, then Ezra and Data, then search south-west away from the golems.
+What I hold: dirt, wool and a few logs and planks. No food, no sword right now.
 
-Day 251 (Geldar): No food found on west grass or north lead. Porkchops went to Riker, then Worf. Slept at the white beds with the group; health 20, hunger 20, no food. Next: at dawn, search for animals with Data near the north cow lead; Worf and Trini first for any food.
+What I was doing: scouting north with Data for animals at first light. Any meat goes to Picard, then Trini.
 
-A short account of your recent days, kept so you can remember them.
+Recent days:
+- Day 285: Full and unarmed with no food. Phantoms at the north beds; I died there on day 285 and respawned.
+- Day 283-284: no food; sleep refused by crowding at both beds; phantoms on open grass.
+- Day 276-281: got a beef from Troi, ate it, then gave my own beef to Kimberly; gave my wheat seeds to Worf for the north-bed planting.
+- Day 259: shot to the north-west at dawn and died. Respawned at the north beds with nothing.
+- Day 256: killed a cow far west, reached the beds at health 3 after arrows and creepers.
+- Day 249: killed a sheep far west, fought phantoms at night, nearly died.
 
-Day 245 (Geldar): No food anywhere I searched (west grass, far west, north-west grass). Phantom kept sleep off until dawn. Trini holds the last chicken. Next: search south and east of the beds at first light, Trini first, then Data and Worf.
-
-Day 240 (Ezra): Still no food. At dawn I tried the NW lake for salmon; they swim in deep water and my wooden sword cannot reach them, so I fell in and got out with unstick. I made a wooden sword at the crafting table (-268,67,327). I slept at the white beds with Trini, Jason, Data, Laforge and Billy. Next: at light, find land food with Laforge and Kimberly; Trini first, then Riker, then Zack.
-
-Day 239 (Ezra): The group is starving. No sheep at the north field (-283,64,219), the east chicken was gone, and I found 2 rotten flesh (given to Riker) and 2 arrows. Phantoms hit Jason and Billy at dusk. I slept nowhere yet; I am at the yellow bed with Trini, Worf, Billy and Jason, health 20, hunger 20, no food. Next: search north-west past the lake at light.
-
-Earlier: died at dusk on day 238 on the sheep trip, dropped gear at -251,69,214 (probably gone). Food has been scarce since day 231; many days of hunting found only a pig seen and salmon in the lake.
+Lessons that matter most:
+1. Open grass after dusk kills. Be at the beds with the group before dark.
+2. Sleep is refused by monsters, crowding and daylight. Do not retry in the dark; wait.
+3. Salmon in the NW lake cannot be reached; the lake drowned Ezra.
+4. Mining grass and breaking oak leaves give no food. Hunt cows, pigs, sheep at the north field and far west.
+5. Give food to the weakest in reach; confirm they are in reach first.
+6. Wheat needs a hoe and seeds; bread needs 3 wheat.
