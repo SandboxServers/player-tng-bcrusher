@@ -154,3 +154,8 @@
 - 23:40 act: {"actions":[{"do":"sleep"}]}
 - 23:44 act: {"actions":[{"do":"sleep"}]}
 - 23:44 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":318}},{"do":"sleep"}]}
+- 23:48 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":318}},{"do":"sleep"}],"say":"Geldar trying the bed again, night of day 246, staying with the group.","reasoning":"Night, group at beds, no phanto
+- 23:50 act: {"say":"Geldar, dawn day 247. Health 20, hunger 20, no food. I'm staying at the beds in sight of the group, and any animal I find goes to Trini first.","intent":{"goal":"hold_with_group_until_food","p
+- 00:02 act: {"actions":[{"do":"sleep"}],"say":"Geldar trying the bed at dusk, day 247. No food; Trini first at light.","reasoning":"Dusk, group sleeping at beds, I am healthy and in sight. Try sleep."}
+- 00:02 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":318}},{"do":"sleep"}],"say":"Geldar moving back to the white beds, away from the golems, to sleep with the group.","reasoning":"Sleep failed and 
+- 00:03 act: {"actions":[{"do":"sleep"}],"reasoning":"Another free bed may be open now. One more try, then wait."}
