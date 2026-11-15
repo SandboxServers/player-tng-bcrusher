@@ -435,3 +435,9 @@
 - 08:26 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":335}}],"intent":{"goal":"reach_south_bed","program":"travel","arguments":{"target":{"x":-270,"y":67,"z":335}},"wake_on":["directly_addressed","pr
 - 08:26 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":336}},{"do":"use","at":{"x":-270,"y":67,"z":336}},{"do":"sleep"}]}
 - 08:26 act: {"actions":[{"do":"sleep"}]}
+- 08:31 say: {"text":"Geldar, dawn day 273. Hunger 15, health 20, no food. I'll search the grass to the east for animals and bring any meat or wheat to Trini first."}
+- 08:31 act: {"intent":{"goal":"search_meat_east","program":"travel","arguments":{"target":{"x":-255,"y":67,"z":318}},"wake_on":["goal_completed","directly_addressed","unexpected_damage","precondition_failed"],"li
+- 08:32 act: {"intent":{"goal":"search_meat_far_east","program":"travel","arguments":{"target":{"x":-235,"y":67,"z":318}},"wake_on":["goal_completed","directly_addressed","unexpected_damage","precondition_failed"]
+- 08:33 act: {"intent":{"goal":"return_to_beds_for_night","program":"travel","arguments":{"target":{"x":-269,"y":67,"z":318}},"wake_on":["goal_completed","directly_addressed","unexpected_damage","precondition_fail
+- 08:41 act: {"actions":[{"do":"use","at":{"x":-270,"y":67,"z":318}}],"intent":{"goal":"sleep_at_north_bed","program":"rest","arguments":{},"wake_on":["goal_completed","directly_addressed","unexpected_damage","pre
+- 08:43 act: {"actions":[{"do":"use","at":{"x":-271,"y":67,"z":318}}]}
