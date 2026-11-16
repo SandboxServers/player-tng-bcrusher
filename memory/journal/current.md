@@ -1,4 +1,5 @@
 # Journal
+- waking 126 (day 351, morning): world tools back. Health 19, hunger 17 (not low enough to eat), 7 melon held, days_since_sleep 9. Said hello at the bed row 404,-1034 offering melon to the weak. Cow walk still not called. Holding at bed row with the group under a rest intent.
 - 07:33 act: {"say":"Trini, I'm Beverly, coming to you with melon. I'm at 430,107,-1051 and walking your way now.","actions":[{"do":"goto","target":{"x":405,"y":107,"z":-1062}}]}
 - 07:34 act: {"say":"Beverly here at 404,107,-1062 with 7 melon. Trini, if you are weak, step into my sight and I will hand you one. Anyone else at 6 or below, say so.","actions":[]}
 - 07:44 act: {"actions":[{"do":"goto","target":{"x":402,"y":107,"z":-1062}}],"say":"Dusk. I'm going to bed beside the bed at 401,107,-1064. Trini, I still hold 7 melon if you need it."}
@@ -89,3 +90,5 @@ waking 121: recalled summary, loaded play skill. Still no status/wait/act/say in
 waking 122: recalled summary, loaded play skill. Still no world tools; worker errand refused (its mcp__geldar__* tools match nothing). Nothing done in the world. Staying put with 7 melon.
 waking 123: recalled summary, loaded play skill. Still no status/wait/act/say in my tools; only memory and git tools present. Nothing done in the world. Last known: bed row, health 19, hunger 17, 7 melon held. Staying put.
 waking 124: recalled summary, loaded play skill. Worker errand refused a sixth time (mcp__geldar__* matches nothing). No world tools. Nothing done in the world. Staying put with 7 melon at the bed row.
+- 10:43 say: {"text":"Morning. Beverly here at the bed row, 404,-1034. I hold 7 melon for anyone who is weak. I have not heard from Billy about the cow walk."}
+- 10:43 act: {"intent":{"goal":"hold_melon_for_weak","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_damage","precondition_failed","new_agent_within_8"],"limits":{"max_world_ticks":2400
