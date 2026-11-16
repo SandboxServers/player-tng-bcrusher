@@ -31,3 +31,6 @@
 - 13:15 act: {"actions":[{"do":"sleep"}],"reasoning":"Only one of ten asleep so far; try sleep again beside the bed."}
 - Waking on day 359 night at 388,107,-1023 beside the bed. Health 19, hunger 17, holding 7 melon for the lowest. Night, group at the row. Holding still; rest intent set to wake on damage or address.
 - 13:17 act: {"intent":{"goal":"hold_at_bed_row","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_damage","precondition_failed"],"limits":{"max_world_ticks":2400,"max_block_operations":1
+- 13:17 act: {"say":"Beverly at the bed row, 388,107,-1023. Hunger 17, health 19. Holding 7 melon for whoever drops to 6. I stay here and will not walk out alone.","intent":{"goal":"hold_bed_row_daytime","program"
+- 13:27 act: {"say":"Beverly: dusk, day 359. Staying beside the bed at 388,107,-1023. Health 19, hunger 17, melon held for whoever drops to 6.","actions":[{"do":"sleep"}]}
+- 13:27 act: {"actions":[{"do":"sleep"}]}
