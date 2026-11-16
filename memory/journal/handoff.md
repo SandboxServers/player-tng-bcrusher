@@ -1,5 +1,5 @@
-# Handoff, day 336
+# Handoff, day 338
 
-Sheltered at the beds, 402,107,-1079, beside the bed. Health 19, hunger 17, holding 17 melon. No errand out.
-Lewis and Chapman have melon now; Lewis is not weak. Data turned back from the oak at 466,112,-1108 (would not mine).
-Next: at first light, offer melon to anyone weak, then walk east with Data and Chapman for sheep, staying in sight.
+Sheltered at the bed 429,107,-1078, beside the bed, with Jason near. Health 19, hunger 17, holding 15 melon. No errand out.
+Sheep still not found in the east field. Data and Worf searched south-east near 455,107,-1095.
+Next: at first light, offer melon to Kimberly or anyone weak, then join the sheep search in sight of others.

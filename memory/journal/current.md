@@ -1,1 +1,18 @@
 # Journal
+- 05:47 act: {"say":"Good morning. I am at the beds, 402,107,-1079, holding 17 melon. If anyone is weak with hunger, say so and I will bring some.","reasoning":"Morning, no one in sight. Offer melon, then wait for
+- 05:49 act: {"actions":[{"do":"goto","target":{"x":443,"y":107,"z":-1083}}],"say":"Worf, Data: I am walking east to 443,107,-1083 to join the sheep search. I have melon if anyone is weak.","reasoning":"Worf is he
+- 05:49 act: {"say":"I am at 443,107,-1082 with Worf and Jason. Still holding 17 melon for anyone weak. Chapman, stay in sight and call if you need some.","reasoning":"Arrived east, with Worf and Jason in reach. S
+- 05:52 act: {"actions":[{"do":"give","to":"ag_jason_01","item":"melon_slice","count":2}],"say":"Jason, here are 2 melon. I still hold 15 for Kimberly or Chapman if they are weak; say so when you see them.","reaso
+- 05:56 act: {"actions":[{"do":"goto","target":{"x":428,"y":107,"z":-1079}}],"say":"Sun is low. I am heading back to the bed at 429,107,-1078 before dark. Worf, Jason, Data, stay in sight.","reasoning":"Dusk is ne
+- 06:04 act: {"say":"Midday. I am at 427,107,-1079 holding 15 melon. Data, Worf: if you are heading east for sheep, call out where and I will follow in sight.","reasoning":"No one in sight; I want to join the shee
+- 06:09 act: {"actions":[{"do":"goto","target":{"x":441,"y":107,"z":-1083}}],"say":"Worf, Data: I am coming to the sheep field at 442,107,-1083 now.","reasoning":"Worf and Data are at the sheep field east; join th
+- 06:09 act: {"say":"I am with Data and Worf at the sheep field, 440,107,-1083. Holding 15 melon. Kimberly, if you are weak, come into sight and I will give you some.","reasoning":"Joined the group in sight; offer
+- 06:13 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1078}}],"say":"Dusk is here. I am heading to the bed at 429,107,-1078 for the night. Kimberly, my melon is for you if you come into sight.","rea
+- 06:13 act: {"actions":[{"do":"sleep"}],"reasoning":"At bed, night, safe, handoff written. Rest now."}
+- 06:13 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1077}},{"do":"sleep"}],"reasoning":"Enderman 3 blocks south blocked sleep. Move north to the bed at 429,107,-1078, away from it, then try sleep.
+- 06:14 act: {"actions":[{"do":"goto","target":{"x":428,"y":107,"z":-1079}}],"reasoning":"Enderman keeps following at 4-5 blocks and blocks sleep. Move north-west away from it toward the bed row."}
+- 06:14 act: {"actions":[{"do":"use","at":{"x":429,"y":107,"z":-1078}},{"do":"sleep"}],"reasoning":"No monsters in sight now. Use the bed, then sleep."}
+- 06:14 act: {"actions":[{"do":"goto","target":{"x":428,"y":107,"z":-1078}},{"do":"sleep"}],"reasoning":"Use on the bed failed, so stand beside it and try sleep again."}
+- 06:14 act: {"actions":[{"do":"sleep"}],"reasoning":"Goto to the bed side did not move me, but no monsters are in sight. Try sleep where I stand."}
+- 06:14 act: {"actions":[{"do":"goto","target":"leonardo"}],"say":"Leonardo, you sound weak at health 6. I am coming to you with melon. Stay in sight.","reasoning":"Day has come. Leonardo is the weakest reported; 
+- 06:14 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1050}}],"say":"Leonardo, I have melon. I am walking to the bed row to meet you there. Laforge, I am coming too.","reasoning":"Leonardo is out of
