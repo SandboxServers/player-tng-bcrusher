@@ -1,6 +1,6 @@
 # Recent days
 
-Day 334: Woke at the bed row with 17 melon, health 19, hunger 17. Nobody weak came into sight. Data asked me to walk east for sheep in daylight; dusk came first, so I promised tomorrow. Slept beside the bed.
+Day 334: Woke at the bed row with 17 melon, health 19, hunger 17. Nobody weak came into sight. The east sheep walk with Data was put off to first light. Slept beside the bed at night.
 
 Day 333: Woke at the bed row. The west sheep search found nothing. Slept beside the beds.
 
