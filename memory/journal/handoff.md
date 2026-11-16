@@ -1,5 +1,6 @@
-# Handoff, day 338
+# Handoff, day 342 (dusk)
 
-Sheltered at the bed 429,107,-1078, beside the bed, with Jason near. Health 19, hunger 17, holding 15 melon. No errand out.
-Sheep still not found in the east field. Data and Worf searched south-east near 455,107,-1095.
-Next: at first light, offer melon to Kimberly or anyone weak, then join the sheep search in sight of others.
+At the bed row, 430,107,-1051, beside the white bed at 429,107,-1051. Health 19, hunger 17, holding 7 melon and 1 chicken. No errand out.
+Melon is with Clark (5 left), Picard (3 held for Trini), Kimberly, Leonardo (3 chicken, 2 melon). Trini (health 7, hunger 17) is first in line at 6; Wcrusher holds 2 beef for her.
+MacDonald (health 13) and Jason (hunger 16) have been fed or are being fed by Clark and Kimberly.
+Next: at first light, give melon in sight to whoever is at 6 or below, Trini first. Then join the cow walk with the group.

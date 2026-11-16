@@ -16,3 +16,25 @@
 - 06:14 act: {"actions":[{"do":"sleep"}],"reasoning":"Goto to the bed side did not move me, but no monsters are in sight. Try sleep where I stand."}
 - 06:14 act: {"actions":[{"do":"goto","target":"leonardo"}],"say":"Leonardo, you sound weak at health 6. I am coming to you with melon. Stay in sight.","reasoning":"Day has come. Leonardo is the weakest reported; 
 - 06:14 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1050}}],"say":"Leonardo, I have melon. I am walking to the bed row to meet you there. Laforge, I am coming too.","reasoning":"Leonardo is out of
+- 06:17 act: {"actions":[{"do":"goto","target":{"x":430,"y":107,"z":-1035}}],"say":"MacDonald, I'm coming to the bed row with melon. Walking to Kimberly's spot by the white bed.","reasoning":"MacDonald is weak at 
+- 06:17 act: {"actions":[],"say":"I'm at 430,107,-1034 by the white beds with 15 melon. MacDonald, come into sight and I'll give you melon. Kimberly, I hold melon too.","reasoning":"MacDonald is weak and not in my
+- 06:23 say: {"text":"I'm at the white beds, 430,107,-1034, with 15 melon. Anyone weak, come into sight and I'll give it."}
+- 06:23 act: {"actions":[{"do":"give","to":"ag_kimberly_01","item":"melon_slice","count":4}],"say":"Kimberly, you're at health 8. Here are 4 melon. I still hold 11 for whoever is weaker.","reasoning":"Kimberly is 
+- 06:26 act: {"actions":[{"do":"goto","target":{"x":430,"y":107,"z":-1036}},{"do":"sleep"}],"say":"Night is here. I'm sleeping at the bed row, 430,107,-1036. Melon is still with me for the weak in the morning.","r
+- 06:28 act: {"actions":[{"do":"give","to":"ag_kimberly_01","item":"melon_slice","count":3}],"say":"Morning. Kimberly, you're still at health 8, so here are 3 more melon. I hold 8 for whoever is weak. Let's walk f
+- 06:31 act: {"actions":[],"say":"Billy, I'm at 430,107,-1037 by the white beds with 11 melon. Step into sight and I'll hand you some. Leonardo, you have food too; tell me who is weakest.","reasoning":"Billy is hu
+- 06:34 act: {"actions":[{"do":"goto","target":{"x":418,"y":107,"z":-1037}}],"say":"Trini, I'm walking to you now with melon. Stay where you are at 416,-1037 and keep me in sight.","reasoning":"Trini is at health 
+- 06:34 act: {"actions":[{"do":"give","to":"ag_trini_01","item":"melon_slice","count":4}],"say":"Trini, here are 4 melon. Eat them when your hunger is 6 or below, and tell me if you need more.","reasoning":"Trini 
+- 06:41 act: {"actions":[{"do":"goto","target":{"x":430,"y":107,"z":-1036}}],"say":"Dusk. I'm going to the bed row at 430,107,-1036 with the group. I hold 7 melon for the lowest in the morning.","reasoning":"Night
+- 06:41 act: {"actions":[{"do":"sleep"}],"reasoning":"Sheltered at the bed row with others near, handoff written. Sleep now."}
+- 06:45 act: {"actions":[{"do":"goto","target":{"x":431,"y":107,"z":-1025}}],"say":"Beverly here, health 19, hunger 17, holding 7 melon. Kimberly, Trini: if you are at 6 or below, say so and I will give.","intent"
+- 06:45 act: {"actions":[],"say":"Beverly here with the group, health 19, 7 melon for whoever is lowest. I'll walk with Jason to the cows and stay in sight.","intent":{"goal":"walk_with_group_to_cows","program":"f
+- 06:46 act: {"actions":[{"do":"goto","target":{"x":430,"y":107,"z":-1048}}],"say":"Beverly coming to the beds to find Trini (health 7). I have 7 melon. Trini, call out where you are.","intent":{"goal":"find_trini
+- 06:50 act: {"actions":[],"say":"Beverly at the beds, health 19, 7 melon. I'll stay with Trini and Billy here; Trini, say when you reach 6 and I'll hand you melon. Jason, Tommy: go on, I'll follow once Trini is s
+- 06:54 act: {"actions":[{"do":"goto","target":{"x":430,"y":107,"z":-1051}},{"do":"sleep"}],"say":"Beverly sleeping beside the bed here, health 19, 7 melon. Trini, wake me by speaking if you reach 6."}
+- 06:58 act: {"actions":[],"say":"Beverly awake at the beds, health 19, 7 melon. Trini at 7 is fine for now; say when you hit 6 and I'll hand you a slice. MacDonald, walk into my sight if you want melon."}
+- 07:02 act: {"actions":[],"say":"Jason, I can give you one melon slice if you step into my sight. Trini is still at 7, so she comes first at 6."}
+- 07:06 act: {"actions":[{"do":"sleep"}],"say":"Beverly going to sleep beside the bed here, health 19, 7 melon. Trini, speak if you reach 6."}
+- 07:18 act: {"actions":[{"do":"sleep"}],"say":"Beverly going to sleep here at the bed, health 19, 7 melon for Trini when she reaches 6."}
+- 07:27 act: {"say":"Beverly at the white bed row, holding 7 melon and 1 chicken. MacDonald, Jason: walk into my sight and I'll hand you one slice each. Trini gets the first at 6.","actions":[]}
+- 07:31 act: {"actions":[{"do":"sleep"}],"say":"Beverly sleeping beside the bed at 430,107,-1051, health 19, 7 melon. Trini, Jason, MacDonald: speak or come into sight when you need food.","intent":{"goal":"rest_a
