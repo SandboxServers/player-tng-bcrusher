@@ -71,3 +71,29 @@
 - 03:02 act: {"intent":{"goal":"reach_bed_row_with_melon","program":"travel","arguments":{"target":{"x":402,"y":107,"z":-1092}},"wake_on":["directly_addressed","unexpected_damage","goal_completed","precondition_fa
 - 03:02 act: {"actions":[{"do":"note","text":"At the bed row 402,107,-1091 in daylight. Wesley is taking melon to Kimberly, so I hold my melon for whoever is weak and in sight."}],"say":"Beverly at the bed row, he
 - 03:02 act: {"actions":[{"do":"eat"}]}
+- 03:11 act: {"say":"Night. I am at the beds at 402,107,-1091. I will sleep here beside the group.","actions":[{"do":"sleep"}]}
+- 03:12 wake: At the bed row 402,107,-1091, health 19, hunger 17, holding 17 melon, 1 chicken. Sent sleep; next morning give melon to the weakest and look for cows with the group.
+- 03:15 day 329 morning: at beds, health 19, hunger 17, 17 melon, 1 chicken. Kimberly (health 8) has melon now. Set follow of Macdonald toward cows in daylight; sharing food with the weakest I see.
+- 03:15 day 329: follow of Macdonald failed (not in sight). Waited at the bed row all day with 17 melon; Kimberly, Troi, Riker, Data had melon from others. Dusk now; sleeping at the bed row.
+- 03:15 act: {"say":"Morning. I am Beverly with 17 melon and a chicken. Macdonald, I will walk to the cows with you in daylight and share what we find.","intent":{"goal":"follow_macdonald_to_cows","program":"follo
+- 03:15 act: {"say":"I am at the bed row, 402,107,-1093, holding 17 melon and a chicken. Anyone weak, step into my sight and say your hunger.","actions":[{"do":"note","text":"Follow of Macdonald failed (not in sig
+- 03:23 act: {"say":"Dusk. I am at the bed row 402,107,-1093 with melon for anyone weak. Sleeping here.","actions":[{"do":"sleep"}]}
+- 03:23 act: {"actions":[{"do":"sleep"}]}
+- 03:28 act: {"actions":[{"do":"note","text":"Morning day 330: woke at bed row 402,107,-1093, health 19, hunger 17, 17 melon. Picard beside me (health 15) declined melon for now. Going with Macdonald to the cows N
+- 03:32 act: {"actions":[{"do":"note","text":"Day 330 morning: still at bed row 402,107,-1093 with 17 melon, health 19, hunger 17. Macdonald and Chapman went for cows; I was not in their sight to join. Picard and 
+- 03:36 act: {"actions":[{"do":"note","text":"Day 330 dusk: Johnny found safe at the beds. Nobody weak in my sight; Macdonald has 3 beef and Wesley/Clark hold melon. Going to sleep at bed 401,107,-1093 with 17 mel
+- 03:40 act: {"actions":[{"do":"note","text":"Morning day 331: at bed row 402,107,-1079, health 19, hunger 17, 17 melon. Nobody weak in sight. Macdonald and Chapman go NE to cows; I will join them if they come int
+- 03:44 act: {"actions":[{"do":"note","text":"Morning 331: Chapman and Laforge invite me on the cow walk. I try to follow Chapman, who is at the beds."}],"intent":{"goal":"follow_chapman_to_cows","program":"follow
+- 03:44 act: {"actions":[{"do":"note","text":"Follow of Chapman failed: he is not in my sight. I stay at the bed row 402,107,-1079 with 17 melon, health 19, hunger 17, and wait for the cow group to come into view.
+- 03:49 act: {"actions":[{"do":"note","text":"Dusk on day 330. Chapman and Laforge never came into sight, so no cow walk. Macdonald and Clark are beside me. I stay at the bed row with 17 melon, health 19, hunger 1
+- 03:53 act: {"actions":[{"do":"note","text":"Morning day 331: at bed row with 17 melon, health 19, hunger 17. Lewis at health 14 is weakest; I offered melon if he steps into sight. Macdonald goes to the NE cows; 
+- 04:01 act: {"actions":[{"do":"note","text":"Dusk day 331: at bed row 402,107,-1093, health 19, hunger 17, 17 melon. No cow walk today. Sleeping beside the bed."},{"do":"sleep"}]}
+- 04:05 act: {"actions":[{"do":"note","text":"Morning day 332: at bed row 402,107,-1093, health 19, hunger 17, 17 melon. Chapman goes to the cows at 370,93,-1124 with Kimberly. I ask to be stepped into sight."}],"
+- 04:09 act: {"actions":[{"do":"note","text":"Day 332 morning: Troi and Laforge are at my side. Lewis (health 14) is the weakest; I hold 17 melon. Walking to the cow spot at 370,93,-1124 in daylight with them."}],
+- 04:10 act: {"actions":[{"do":"note","text":"Reached cow spot 370,93,-1124 in afternoon. No cows, no group in sight. Skeleton zone is west; going back to the bed row."}],"intent":{"goal":"return_to_bed_row","prog
+- 04:10 act: {"actions":[{"do":"note","text":"Afternoon day 332: back at bed row 402,107,-1092 with Troi and Laforge in reach. Health 19, hunger 17, 17 melon. Nobody weak has said so; I hold melon."}],"say":"Back 
+- 04:14 act: {"actions":[{"do":"note","text":"Dusk day 332: at bed row with Troi nearby. Declining the drops trip to 408,107,-1050 (dangerous, and it waits for daylight). Health 19, hunger 17, 17 melon."},{"do":"u
+- 04:18 act: {"actions":[{"do":"note","text":"Morning day 333 at bed row 402,107,-1092. Health 19, hunger 17, 17 melon. Lewis is building the plank wall with Clark. Chapman, Macdonald, Picard, Riker and Data are a
+- 04:23 act: {"actions":[{"do":"note","text":"Day 333 morning. Lewis and Picard asked for melon but are not in my sight. Troi is in reach. Waiting for them to step into sight, then I give them melon."}],"say":"Lew
+- 04:27 act: {"actions":[{"do":"note","text":"Dusk day 333. Nobody came into sight to take melon; Lewis and Picard are still asking from out of sight. Holding 17 melon. Going to sleep beside the bed at 402,107,-10
+- 04:31 act: {"actions":[{"do":"note","text":"Day 333 morning, woke at the beds, health 19, hunger 17. Lewis is steady at 14 and declines melon for now. Troi asks for a walk to the drops at 408,107,-1050; I declin
