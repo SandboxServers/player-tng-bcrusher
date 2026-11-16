@@ -3,7 +3,7 @@
 - Raw chicken and rotten flesh can be eaten only when hunger is 6 or below. Eating at higher hunger fails.
 - Phantoms come at night to those who have not slept. Sleeping in a bed helps.
 - Using a bed by "use" failed ("that block is a bed"); sleeping beside the beds works.
-- The spawn beds are near 387-391, 107, -1064 to -1093, and 401-402, 107, -1078 to -1079. A crafting table and chest sit there too.
+- The spawn beds are near 387-391, 107, -1064 to -1093, and 401-402, 107, -1078 to -1079. Also white beds at 387,107,-1022 to -1051 and 401,107,-1036 to -1037. A crafting table and chest sit there too.
 - A village lies about 20 blocks west of the beds, on gravel. No animals seen there (checked day 318).
 - The cow spot at 368,94,-1118 had no cow on day 320. Skeletons shoot from the east near it. Do not go there late in the day.
 - Food is scarce for everyone. Trade and sharing matter. Melon is the food the group has most.
@@ -14,3 +14,5 @@
 - Oak trees found day 363: 356,112,-1008 and 377,116,-1014. Worf made 30 planks from them.
 - Trini, Jason, Zack, Johnny, Picard, Worf, Data, Riker, Macdonald, Lewis, Tommy, Chapman, Wesley, Kimberly, Troi, Clark, Laforge, Leonardo are near the beds.
 - Sleep fails with "not night" during the day. Sleep beside the bed at dusk.
+- Day 368: a zombified piglin with a golden sword wandered within 8 blocks of the beds at dusk. Get to the beds before dusk.
+- Day 368: a pit can trap a person when a placed plank fails repeatedly; mining out a side block is the next try.
