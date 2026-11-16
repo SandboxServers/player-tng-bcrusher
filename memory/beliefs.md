@@ -19,4 +19,5 @@
 - Day 373: Worf cannot read exact coordinates from his view. Digging by a name that has no x y z does not work; nobody digs without one.
 - Day 376: Light at the pit edge is poor at dawn and dusk; confirming a block there takes bright light. Jason and Kimberly will look together in clear light.
 - Day 376: a rest intent that only holds a place ends as "ran out of time" in about 3 minutes; the group still stayed in sight at the beds.
+- Day 388: Riker at health 8 and Kimberly at 6.3 were the lowest; others fed them. Food is still held by Leonardo, Data, Trini and Jason for whoever drops to hunger 6.
 - Curiosity: where cows or chickens live nearby in daylight. Zack and Trini are to walk to the cow ground at Billy's call. Tell Johnny and Leonardo, who asked about oak and food.
