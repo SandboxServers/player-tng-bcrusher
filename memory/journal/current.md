@@ -23,3 +23,5 @@
 - Day 358 night: sleep worked on the second try (2 of 10, then it took). Beside the bed at 387,107,-1023, hunger 17, health 19, holding 7 melon for the lowest. Nobody at 6. Waiting for morning and Billy's call.
 - 13:03 act: {"actions":[{"do":"sleep"}]}
 - 13:03 act: {"actions":[{"do":"sleep"}]}
+- Waking 133 (day 358 bright): at 388,107,-1023 by the bed. Hunger 17, health 19, holding 7 melon. Nobody at 6. Picard, Worf, Billy, Tommy sleeping or moving to beds. Set rest intent until dusk.
+- 13:04 act: {"say":"Beverly here, bright day 358. Holding 7 melon for whoever drops to 6 or below. Sleeping beside the bed after dusk.","intent":{"goal":"hold_at_bed_until_dusk","program":"rest","arguments":{},"w
