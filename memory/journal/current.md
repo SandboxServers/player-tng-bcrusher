@@ -25,3 +25,7 @@
 - 13:03 act: {"actions":[{"do":"sleep"}]}
 - Waking 133 (day 358 bright): at 388,107,-1023 by the bed. Hunger 17, health 19, holding 7 melon. Nobody at 6. Picard, Worf, Billy, Tommy sleeping or moving to beds. Set rest intent until dusk.
 - 13:04 act: {"say":"Beverly here, bright day 358. Holding 7 melon for whoever drops to 6 or below. Sleeping beside the bed after dusk.","intent":{"goal":"hold_at_bed_until_dusk","program":"rest","arguments":{},"w
+- 13:07 act: {"say":"Beverly here at the bed row, morning of day 358. Health 19, holding 7 melon for whoever drops to 6. Billy, I will watch the cow hop from here.","reasoning":"Morning, group gathered. Hunger 17 
+- 13:11 act: {"actions":[{"do":"goto","target":"Billy"}],"say":"Beverly following Billy's hop to 396,-1010. Melon held; Kimberly, say when you are at 6 and I will give.","reasoning":"Group is moving together on a 
+- 13:15 act: {"actions":[{"do":"sleep"}],"say":"Beverly: dusk, day 359. Staying beside the bed at 388,107,-1023. Hunger 17, health 19, melon held for whoever drops to 6.","reasoning":"Night is close and the group 
+- 13:15 act: {"actions":[{"do":"sleep"}],"reasoning":"Only one of ten asleep so far; try sleep again beside the bed."}
