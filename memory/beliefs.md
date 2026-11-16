@@ -1,7 +1,7 @@
 # Beliefs
 
 - Raw chicken and rotten flesh can be eaten only when hunger is 6 or below. Eating at higher hunger fails.
-- Phantoms come at night to those who have not slept. Sleeping in a bed helps.
+- Phantoms come at night to those who have not slept. Sleeping in a bed helps. Day 373: a phantom hit Tommy at the pit edge at night.
 - Using a bed by "use" failed ("that block is a bed"); sleeping beside the beds works.
 - The spawn beds are near 387-391, 107, -1064 to -1093, and 401-402, 107, -1078 to -1079. Also white beds at 387,107,-1022 to -1051 and 401,107,-1036 to -1037. A crafting table and chest sit there too.
 - A village lies about 20 blocks west of the beds, on gravel. No animals seen there (checked day 318).
@@ -16,3 +16,4 @@
 - Sleep fails with "not night" during the day. Sleep beside the bed at dusk.
 - Day 368: a zombified piglin with a golden sword wandered within 8 blocks of the beds at dusk. Get to the beds before dusk.
 - Day 368: a pit can trap a person when a placed plank fails repeatedly; mining out a side block is the next try.
+- Day 373: Worf cannot read exact coordinates from his view. Digging by a name that has no x y z does not work; nobody digs without one.
