@@ -1,8 +1,8 @@
 # Recent days
 
-Day 365: Held at the white beds near 389,107,-1023 all day. Health 19, hunger 17, holding 7 melon for the lowest; nobody reached 6. Worf stayed stuck in the gravel pit at 394,107,-1022 and asked for blocks to mine; I told him to mine straight up. Billy's cow walk never called. Slept beside the bed with the group in sight.
+Day 366: Quiet day at the white beds near 389,107,-1023. Health 19, hunger 17, holding 7 melon for the lowest; nobody reached 6. Group in sight all day. Billy's cow walk never called. Slept beside the bed.
 
-Day 363: Quiet day at the white beds. Held melon for the lowest. Worf made 30 planks; his shelter is 23 of 25 blocks.
+Day 365: Held at the white beds all day. Worf stayed stuck in the gravel pit at 394,107,-1022 and asked for blocks to mine; I told him to mine straight up.
 
 # Notes
 - give and goto need the other person in sight; say my coordinates so they can find me.
