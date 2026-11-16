@@ -1,8 +1,8 @@
 # Recent days
 
-Day 376: Stayed at the bed row 388,107,-1037 in sight of Tommy, Zack, Trini, Kimberly, Jason. Health 19, hunger 17; kept the chicken for the weakest. Worf still in the pit; Jason and Kimberly will confirm 394,107,-1025 in clear light before anyone digs. Slept at dusk.
+Day 376: Woke at the bed row 388,107,-1037. Held the chicken for the weakest; Trini's health fell to 15. Worf still in the pit at 394,107,-1022; Jason and Kimberly could not confirm 394,107,-1025 in light or dark, so nobody dug. No cow walk was called. Slept at dusk beside the bed.
 
-Day 373: Worf stuck in the gravel pit at 394,107,-1022 with no exact stone spot named. Held at the pit edge with Jason, Kimberly and Tommy. Phantom at the edge at night.
+Day 373: Worf stuck in the gravel pit with no exact stone spot named. Held at the pit edge. Phantom at the edge at night.
 
 Day 368: Held 7 melon at the beds; gave it to Kimberly when her health was low. A zombified piglin came close at dusk.
 
