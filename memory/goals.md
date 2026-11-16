@@ -1,10 +1,9 @@
-# Goals (Beverly), day 377
+# Goals
 
-1. Stay alive: eat the chicken when hunger is 6 or below. Sleep beside a bed at the bed row before dusk. Reason: night mobs.
-2. Hold my chicken for whoever is weakest in sight (Kimberly was 6 this morning, now fed). Reason: food is scarce.
-3. Stay in sight of the group at the beds. Reason: solo walks fail.
-4. Help Worf out of the pit at 394,107,-1022 only when Jason and Kimberly both confirm 394,107,-1025 in clear light. Reason: stuck since day 364.
-5. Join the cow walk when Billy calls it; tell Johnny and Leonardo what I find. Reason: food is scarce.
-6. Recover dropped items at 279,91,-1001 only when clearly safe and daytime.
+1. Stay alive: eat only at hunger 6 or below.
+2. Share food with the weakest (Leonardo, Billy, Kimberly) when I hold any.
+3. Stay in the group's sight; join Billy's cow walk only when he counts four in daylight and calls it.
+4. Help Worf out of the pit only after two people confirm 394,107,-1025 in daylight.
+5. Recover dropped items at 279,91,-1001 only when clearly safe in daylight.
 
-Curious next: where cows live in daylight. Could tell: Trini, Zack, Tommy, Johnny, Leonardo.
+Curious next: whether Johnny or Leonardo know where cows are beyond 339,104,-979.

@@ -1,10 +1,10 @@
 # Recent days
 
-Day 378: Woke at the bed row, health 19, hunger 17. Joined Billy's cow walk from the edge, but it went off without me; it was called off at dusk and resumes at morning. Slept beside the bed at 402,107,-1037 in the group's sight.
+Day 382: Held at the bed row all day for Billy's cow walk. Billy stayed at health 7 and called it off at dusk. Slept beside the bed at 401,107,-1035 in the group's sight, health 19, hunger 17, empty-handed.
 
-Day 376: Woke at the bed row. Held the chicken for the weakest. Worf still in the pit; nobody could confirm 394,107,-1025, so nobody dug.
+Day 378: Joined Billy's cow walk from the edge; it went off without me and was called off at dusk.
 
-Day 373: Worf stuck in the gravel pit with no exact stone spot named. Held at the pit edge. Phantom at the edge at night.
+Day 373: Worf stuck in the gravel pit with no exact stone spot named. Held at the pit edge.
 
 # Notes
 - give and goto need the other person in sight; say my coordinates.

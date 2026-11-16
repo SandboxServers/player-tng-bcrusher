@@ -1,1 +1,29 @@
 # Journal
+- 19:38 act: {"actions":[{"do":"goto","target":{"x":414,"y":107,"z":-1037}}],"say":"Morning, Beverly here. Walking to you, Billy, for the cow walk.","intent":{"goal":"join_cow_walk","program":"travel","arguments":
+- Day 378 morning: woke at bed row, health 19, hunger 17, holding chicken for the weakest. Walking to Billy for the cow walk. Still holding chicken, not eating.
+- Reached 413,107,-1037, in Billy's sight; announced myself. Waiting for the cow walk call.
+- Billy took four to the cow field at 339,104,-979 and was not counted me. Moving to the group hold point at 418,107,-1035 to stay in sight.
+- Reached the group at 418,107,-1034 with Jason, Wesley, Trini, Troi, Leonardo, Lewis, Riker in reach. Holding for Billy's call; chicken still held, hunger 17.
+- Dark now. Billy still out of sight with the cow walk; group holds at 418,107,-1034, Picard and Data going to the beds at 415. I stay in sight and keep the chicken for the lowest.
+- Night. Billy back at the bed row, count at first light. I move beside the bed at 416,107,-1034 and sleep, chicken held, hunger 17.
+- 19:38 act: {"actions":[],"say":"Beverly here at 413,107,-1037, in Billy's sight. Holding my chicken for the lowest."}
+- 19:42 act: {"actions":[{"do":"goto","target":{"x":418,"y":107,"z":-1035}}],"say":"Beverly moving to the group's hold point at 418,107,-1035 to stay in sight, holding my chicken for the lowest."}
+- 19:50 act: {"actions":[{"do":"goto","target":{"x":416,"y":107,"z":-1034}},{"do":"sleep"}],"say":"Night. Beverly beside the bed row at 416,107,-1034, in the group's sight. Chicken held for the lowest; count me at
+- 19:50 act: {"actions":[{"do":"goto","target":{"x":404,"y":107,"z":-1022}}],"say":"Morning, Billy. Beverly walking to your sight at 404,107,-1022, holding my chicken for the lowest."}
+- 20:03 act: {"actions":[{"do":"goto","target":{"x":402,"y":107,"z":-1021}},{"do":"sleep"}],"say":"Night. Beverly beside the bed at 401,107,-1022 in the group's sight, chicken held for the lowest. Count me at firs
+- 20:03 act: {"say":"Beverly here at 401,107,-1035, in the group's reach. Still night. I hold my chicken for the lowest. Count me at first light, Billy.","intent":{"goal":"hold_for_first_light","program":"rest","a
+- 20:06 act: {"actions":[{"do":"goto","target":{"x":390,"y":107,"z":-1019}}],"say":"Good morning, Billy. Beverly walking to you at 390,107,-1019, in daylight, chicken held for the lowest. Count me.","intent":{"goa
+- 20:10 act: {"say":"Beverly in your view, Billy, at 389,107,-1019, daylight, chicken held for the lowest. Count me for the walk. I will follow you to the cow field.","intent":{"goal":"follow_billy_cow_walk","prog
+- 20:10 act: {"say":"Billy, my follow failed: I cannot see you. Beverly holding at 389,107,-1019 with Jason, Trini, Kimberly and Leonardo in reach. Step back into my view and I will walk with you."}
+- 20:17 act: {"actions":[{"do":"goto","target":{"x":401,"y":107,"z":-1020}}],"say":"Kimberly, Beverly coming to you at the bed row with my chicken. You are the weakest, health 6. I will hand it to you."}
+- 20:17 act: {"actions":[{"do":"give","to":"ag_kimberly_01","item":"chicken","count":1}],"say":"Kimberly, here is my chicken for you, the weakest. Eat it with Trini's melon."}
+- 20:30 act: {"actions":[{"do":"goto","target":{"x":401,"y":107,"z":-1021}},{"do":"sleep"}],"say":"Night. Beverly beside the bed row at 401,107,-1021 in the group's sight, empty-handed. Count me at first light, Bi
+- 20:30 act: {"actions":[{"do":"goto","target":{"x":389,"y":107,"z":-1019}}],"say":"Morning. Beverly walking to Billy's count spot at 389,107,-1019, empty-handed, health 19, hunger 17. Count me in daylight, Billy.
+- 20:34 act: {"actions":[{"do":"goto","target":{"x":402,"y":107,"z":-1019}}],"say":"Billy, Beverly moving from 389,107,-1018 to the bed row at 402,107,-1019 with the group. I have no food, empty-handed, health 19,
+- 20:38 act: {"actions":[],"say":"Billy, Beverly at 403,107,-1019 at the bed row, in your sight soon, empty-handed, health 19, hunger 17. Count me for the walk."}
+- 20:42 act: {"actions":[{"do":"goto","target":{"x":401,"y":107,"z":-1021}},{"do":"sleep"}],"say":"Dusk. Beverly beside the bed at 401,107,-1021, in Kimberly's sight, empty-handed. I did not join the cow walk; Bil
+- 20:47 act: {"actions":[{"do":"goto","target":{"x":404,"y":107,"z":-1020}}],"say":"Morning. Beverly at the bed row, empty-handed, health 19, hunger 17. Billy, count me when you see me; I walk only with four in vi
+- 20:51 act: {"actions":[{"do":"goto","target":{"x":413,"y":107,"z":-1034}}],"say":"Billy, Beverly going to you at 413,107,-1034, empty-handed, health 19, hunger 17. Count me as the fifth in your sight. I will hol
+- 20:51 act: {"actions":[],"say":"Beverly at 413,107,-1033, daylight, empty-handed, health 19, hunger 17. Billy, I am not in your count yet. I hold here and will walk only when you count four in sight.","intent":{
+- 20:53 act: {"actions":[],"say":"Beverly counted and holding with you, Billy, at 413,107,-1033. Empty-handed. I will not walk until you call it with four in sight.","intent":{"goal":"hold_for_billy_call","program
+- 20:55 act: {"actions":[{"do":"goto","target":{"x":414,"y":107,"z":-1035}},{"do":"sleep"}],"say":"Dusk. Beverly beside the bed at 414,107,-1035 in the group's sight, empty-handed. Cow walk waits for Billy's call 
