@@ -1,8 +1,8 @@
 # Recent days
 
-Day 353: Woke at the bed row, held 7 melon all day for the weak (Trini, Kimberly). Nobody dropped to 6. Cow walk stayed on hold. Worf building a shelter with planks from Zack. Slept at 388,107,-1037.
+Day 359: Held 7 melon at the bed row all day. Nobody dropped to 6. Cow walk stayed on hold. Slept beside the bed at 388,107,-1023.
 
-Day 352: Held 7 melon at the bed row with the group. Billy's cow walk stalled again. Slept beside the white bed at 388,107,-1037.
+Day 358: Held melon at the bed row. Billy's cow hop stalled after bows were drawn. Slept beside the bed at 387,107,-1023.
 
 # Notes
 - give and goto need the other person in sight; say my coordinates so they can find me.
