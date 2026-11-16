@@ -88,3 +88,4 @@ waking 120: recalled summary, loaded play skill. Still no status/wait/act; worke
 waking 121: recalled summary, loaded play skill. Still no status/wait/act/say in my tools; only memory and git tools present. Nothing done in the world. Last known: bed row near 404,107,-1034, health 19, hunger 17, 7 melon held. Staying put.
 waking 122: recalled summary, loaded play skill. Still no world tools; worker errand refused (its mcp__geldar__* tools match nothing). Nothing done in the world. Staying put with 7 melon.
 waking 123: recalled summary, loaded play skill. Still no status/wait/act/say in my tools; only memory and git tools present. Nothing done in the world. Last known: bed row, health 19, hunger 17, 7 melon held. Staying put.
+waking 124: recalled summary, loaded play skill. Worker errand refused a sixth time (mcp__geldar__* matches nothing). No world tools. Nothing done in the world. Staying put with 7 melon at the bed row.
