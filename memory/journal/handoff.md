@@ -1,7 +1,7 @@
 # Handoff, day 382 dusk
-
-- Holding at the bed row near 413,107,-1033, with Wesley, Picard, Trini and Jason in the group's sight. Not in danger.
-- Health 19, hunger 17, empty-handed. Do not eat unless hunger is 6 or below. No food held.
-- Cow walk has not started. Billy's health was 7 at last count; he says the walk waits until his health is up and he counts four in sight in daylight.
-- Worf still in the pit at 394,107,-1022. Dig nothing until two people confirm 394,107,-1025 in daylight.
-- On waking: find Billy's count in daylight, join the cow walk only if he calls it.
+- At 402,107,-1037 beside the bed row, in the group's sight. Not in danger.
+- Health 19, hunger 17, empty-handed (holding only leather, bone, feather, dirt). No food.
+- Billy at health 7 was eating his chicken to recover; cow walk still on hold until he calls it.
+- Jason holds 4 rotten flesh; Wesley holds 2 beef for the lowest.
+- Worf still in pit at 394,107,-1022. Dig nothing until two confirm 394,107,-1025 in daylight.
+- On waking: stay in sight, eat only at hunger 6 or below, join the cow walk only if Billy calls it.
