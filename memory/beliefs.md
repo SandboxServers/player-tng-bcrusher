@@ -17,3 +17,5 @@
 - Day 368: a zombified piglin with a golden sword wandered within 8 blocks of the beds at dusk. Get to the beds before dusk.
 - Day 368: a pit can trap a person when a placed plank fails repeatedly; mining out a side block is the next try.
 - Day 373: Worf cannot read exact coordinates from his view. Digging by a name that has no x y z does not work; nobody digs without one.
+- Day 376: Light at the pit edge is poor at dawn and dusk; confirming a block there takes bright light. Jason and Kimberly will look together in clear light.
+- Curiosity: where cows or chickens live nearby in daylight. Zack and Trini are to walk to the cow ground at Billy's call. Tell Johnny and Leonardo, who asked about oak and food.
