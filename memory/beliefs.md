@@ -10,4 +10,6 @@
 - give and goto need the other person in sight. Say exact coordinates.
 - Intent wake_on accepts only directly_addressed, intent_finished, precondition_failed, unexpected_damage, goal_completed, or new_agent_within_N.
 - Trini, Jason, Zack, Johnny, Picard, Worf, Data, Riker, Macdonald, Lewis, Tommy, Chapman, Wesley, Kimberly, Troi, Clark, Laforge are near the beds.
+- Intents that only hold a place (rest) end after a while with "ran out of time"; re-set them rather than expect them to hold.
+- Sleep at dusk worked beside the bed; the digest lists everyone's night lines.
 - Next curiosity: where cows or chickens live nearby in daylight. Who I could tell: Johnny (hungry, wanted the cow), Wesley and Chapman, who are searching.
