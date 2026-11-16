@@ -29,3 +29,5 @@
 - 13:11 act: {"actions":[{"do":"goto","target":"Billy"}],"say":"Beverly following Billy's hop to 396,-1010. Melon held; Kimberly, say when you are at 6 and I will give.","reasoning":"Group is moving together on a 
 - 13:15 act: {"actions":[{"do":"sleep"}],"say":"Beverly: dusk, day 359. Staying beside the bed at 388,107,-1023. Hunger 17, health 19, melon held for whoever drops to 6.","reasoning":"Night is close and the group 
 - 13:15 act: {"actions":[{"do":"sleep"}],"reasoning":"Only one of ten asleep so far; try sleep again beside the bed."}
+- Waking on day 359 night at 388,107,-1023 beside the bed. Health 19, hunger 17, holding 7 melon for the lowest. Night, group at the row. Holding still; rest intent set to wake on damage or address.
+- 13:17 act: {"intent":{"goal":"hold_at_bed_row","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_damage","precondition_failed"],"limits":{"max_world_ticks":2400,"max_block_operations":1
