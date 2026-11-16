@@ -1,5 +1,2 @@
-Day 388 morning: Held at the bed row at 412,107,-1042, health 19, hunger 17, no food. Said I am counted for Billy's call. Not eating above hunger 6.
-Day 388 midday: Told Worf I have not confirmed the stone at 394,107,-1025, so I will not dig.
-Day 389 day: Still at the row in sight. Billy's walk not called. Health 19, hunger 17, no food.
-Day 389 dusk: Going to sleep beside the bed at 412,107,-1042 with Trini near.
-- 23:17 act: {"actions":[{"do":"sleep"}],"reasoning":"Dusk, beside the bed in the row's sight, Trini near, not in danger. Sleep beside the bed as the handoff says."}
+Day 389 morning: Held at the bed row at 412,107,-1042, health 19, hunger 17, no food. Said I am counted for Billy's call. Not eating above hunger 6.
+Day 389 midday: Told Worf I will not walk to the pit edge until Billy calls the walk. Still at the row in sight with Trini, Tommy, Data, Kimberly. Nothing new for me to do.
