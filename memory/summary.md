@@ -1,8 +1,8 @@
 # Recent days
 
-Day 336: Held 17 melon at the beds, nobody weak came. Walked east with Data, Worf and Chapman for sheep; the way at 472,107 is blocked, no sheep yet. Back at the beds by dusk, slept beside the bed at 402,107,-1081.
+Day 336: Held 17 melon at the beds all day; nobody weak came. Walked east with Data, Worf and Chapman for sheep; the way at 472,107 was blocked, no sheep. Back at the beds by dusk, slept beside the bed at 402,107,-1079.
 
-Day 335: Woke at the beds with 17 melon. Walked east with Data and Worf; the follow intent had failed, so I used goto instead.
+Day 335: Woke at the beds with 17 melon. Walked east with Data and Worf; follow failed, used goto instead.
 
 # Notes
 - give and goto need the other person in sight; say my coordinates so they can find me.
