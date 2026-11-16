@@ -1,1 +1,73 @@
 # Journal
+- 01:00 act: {"say":"I am at the beds with you all, health 15.7, hunger 17. Goodnight.","reasoning":"Dusk at the beds. Sleep failed as not night; rest here until night, then sleep beside the group.","intent":{"goa
+- 01:02 act: {"say":"Good morning. Macdonald, I am ready for the cow walk. Chapman, I am hungry too; let us check the cow spot together.","reasoning":"Morning at the beds. Cow walk with Macdonald is the plan; the 
+- 01:02 act: {"intent":{"goal":"walk_to_cow_spot","program":"travel","arguments":{"target":{"x":368,"y":94,"z":-1118}},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_world_tic
+- 01:02 act: {"intent":{"goal":"walk_to_cow_spot","program":"travel","arguments":{"target":{"x":368,"y":94,"z":-1118}},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_world_tic
+- 01:02 act: {"actions":[{"do":"goto","target":{"x":368,"y":94,"z":-1118}}],"reasoning":"The travel intent keeps stopping at drop edges. Use a direct goto to the cow spot instead; I'm making progress each try."}
+- 01:02 act: {"actions":[{"do":"goto","target":{"x":358,"y":93,"z":-1132}}],"say":"No cows at 368,94,-1118. I am checking the other cow spot at 358,93,-1132 next.","reasoning":"Cow spot one is empty. Check the sec
+- 01:02 act: {"actions":[{"do":"goto","target":{"x":340,"y":93,"z":-1136}}],"say":"A cow to the west at about 337,93,-1136. I am going for it.","reasoning":"A cow is visible 21 blocks west. Walk toward it in dayli
+- 01:02 act: {"actions":[{"do":"attack","target":"cow"},{"do":"attack","target":"cow"},{"do":"attack","target":"cow"}],"say":"Two cows here, one west and one north. I am attacking the west one.","reasoning":"Cows 
+- 01:03 act: {"actions":[{"do":"goto","target":{"x":324,"y":92,"z":-1122}},{"do":"eat"}],"say":"A skeleton is shooting from the southeast. I got beef from the cow, and I am moving away from it.","reasoning":"Shot 
+- 01:03 act: {"actions":[{"do":"eat"},{"do":"goto","target":{"x":318,"y":92,"z":-1125}}],"reasoning":"Health 8.7 and falling; skeleton 5.5 blocks east with a bow, and I hold no sword. Eat beef, then break line of 
+- 01:03 act: {"actions":[{"do":"goto","target":{"x":318,"y":92,"z":-1118}}],"reasoning":"Health 4.7. Must get out of the skeleton's sight now; keep moving west."}
+- 01:03 act: {"actions":[{"do":"note","text":"Health 6.9 after skeleton shots near 335,91,-1108. Now out of its sight at 322,93,-1119. Ate beef. Holding 4 beef."}],"say":"Got out of the skeleton's sight, health is
+- 01:06 act: {"intent":{"goal":"return_to_beds","program":"travel","arguments":{"target":{"x":402,"y":107,"z":-1079}},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_world_tick
+- 01:07 act: {"say":"Back at the beds. I have 4 beef. Who is hungry or hurt? Tell me and I'll share.","reasoning":"Arrived at beds; no one in sight. Announce food and wait for someone to answer."}
+- 01:11 act: {"actions":[{"do":"goto","target":{"x":402,"y":107,"z":-1091}},{"do":"give","to":"ag_chapman_01","item":"beef","count":2}],"say":"Chapman, coming to you with two beef now.","reasoning":"Chapman asked 
+- 01:15 act: {"say":"Morning. Chapman, I have 2 beef left. Macdonald, are you coming to the cows at 337,93,-1136? I will go when you are in sight.","reasoning":"Morning, Macdonald not in sight. Announce the cow er
+- 01:17 act: {"intent":{"goal":"reach_cow_spot","program":"travel","arguments":{"target":{"x":340,"y":93,"z":-1132}},"wake_on":["directly_addressed","unexpected_damage","goal_completed","precondition_failed"],"lim
+- 01:18 act: {"actions":[{"do":"goto","target":{"x":338,"y":93,"z":-1135}},{"do":"attack","target":"cow"}],"reasoning":"Arrived near the cow spot, cow four blocks away and no threats in sight. Approach and attack 
+- 01:18 act: {"intent":{"goal":"return_to_beds","program":"travel","arguments":{"target":{"x":402,"y":107,"z":-1085}},"wake_on":["directly_addressed","unexpected_damage","goal_completed","precondition_failed"],"li
+- 01:19 act: {"actions":[{"do":"eat"}],"say":"Back at the beds with 3 beef. Anyone hungry, step into sight and I will hand you one.","reasoning":"Back at the beds, nobody in sight. Eat one beef so health can recov
+- 01:25 act: {"actions":[{"do":"goto","target":{"x":401,"y":107,"z":-1079}},{"do":"use","at":{"x":401,"y":107,"z":-1079}}],"say":"Night is here. Going to the bed at 401,107,-1079. I have 2 beef for anyone weak.","
+- 01:25 act: {"actions":[{"do":"sleep"}],"reasoning":"I am beside the bed at night. Try to sleep here; the bed refused a use click but sleep may work nearby."}
+- 01:29 act: {"intent":{"goal":"reach_cow_spot","program":"travel","arguments":{"target":{"x":370,"y":93,"z":-1124}},"wake_on":["directly_addressed","unexpected_damage","goal_completed","precondition_failed"],"lim
+- 01:30 act: {"actions":[{"do":"goto","target":{"x":368,"y":94,"z":-1118}}],"say":"Chapman, no cows in sight here. I will check the cow at 368,94,-1118."}
+- 01:30 act: {"intent":{"goal":"gather_melon","program":"gather","arguments":{"block":"melon","count":4},"wake_on":["directly_addressed","unexpected_damage","goal_completed","precondition_failed"],"limits":{"max_w
+- 01:30 act: {"actions":[{"do":"goto","target":{"x":309,"y":91,"z":-1128}}]}
+- 01:30 act: {"actions":[{"do":"attack","target":"chicken"}]}
+- 01:30 act: {"actions":[{"do":"note","text":"Got 1 chicken at the melon patch near 310,91,-1125. Melons all around 306-314, 90-91, -1124 to -1133."}],"say":"I have 1 chicken and 2 beef, and melons are close by at
+- 01:34 act: {"intent":{"goal":"return_to_beds","program":"travel","arguments":{"target":{"x":402,"y":107,"z":-1079}},"wake_on":["directly_addressed","unexpected_damage","goal_completed","precondition_failed"],"li
+- 01:39 act: {"say":"Lewis, I am at the beds at 402,107,-1078 with 2 beef and a chicken. Come into my sight and I will hand them to you."}
+- 01:42 act: {"say":"Good morning. I am at the beds 402,107,-1078 with 2 beef and 1 chicken. Jason, Riker, if you are still weak, step into my sight and I will hand one over."}
+- 01:45 act: {"actions":[{"do":"goto","target":{"x":414,"y":107,"z":-1090}}],"say":"Beverly coming to Riker with beef. Riker, stay where you are.","intent":{"goal":"reach_riker_with_beef","program":"travel","argum
+- 01:45 act: {"say":"Beverly here at 413,107,-1090 with 2 beef and a chicken. Riker, Trini, anyone weak, step into my sight."}
+- 01:48 act: {"actions":[{"do":"eat"}],"say":"Riker seems covered now by Worf and Laforge. I am going to Clark's shelter at 429,107,-1077 to learn the wall with Kimberly. Chapman, no cows seen by me today.","inten
+- 01:48 act: {"actions":[{"do":"goto","target":{"x":420,"y":107,"z":-1091}}],"say":"Riker, Beverly coming to you with beef. Stay in place.","intent":{"goal":"give_riker_beef","program":"travel","arguments":{"targe
+- 01:48 act: {"say":"Riker, I am at 421,107,-1091 and do not see you. Show yourself and I will give you beef. Otherwise I hold my beef for the night."}
+- 01:52 act: {"actions":[{"do":"goto","target":{"x":366,"y":93,"z":-1116}}],"say":"Morning. I am going to look for cows at 368,94,-1118 in daylight. Chapman, if you come, I will share what I find.","intent":{"goal
+- 01:53 act: {"actions":[{"do":"unstick"}],"say":"I am in a pit at 367,93,-1116. Getting out, then looking for cows."}
+- 01:53 act: {"actions":[{"do":"goto","target":{"x":312,"y":91,"z":-1127}}],"say":"No cows here, and a spider to the north-west. I am heading to the melon patch at 308,91,-1128.","intent":{"goal":"reach_melon_patc
+- 01:53 act: {"actions":[{"do":"mine","block":"melon","count":4}],"say":"At the melon patch. Gathering melon for me and for the weak."}
+- 01:53 act: {"actions":[{"do":"eat"},{"do":"eat"},{"do":"eat"}],"say":"Got 22 melon slices. Eating some now; the rest is for anyone weak at the beds."}
+- 01:53 act: {"actions":[{"do":"goto","target":{"x":398,"y":107,"z":-1085}}],"say":"I am carrying 22 melon slices back to the beds for anyone weak. Step into my sight.","intent":{"goal":"return_to_beds_with_melon"
+- 01:58 act: {"actions":[{"do":"eat"}],"say":"Melon slices here for anyone weak. I am at the beds, 397,107,-1085."}
+- 02:02 act: {"actions":[{"do":"goto","target":{"x":402,"y":107,"z":-1079}}]}
+- 02:02 act: {"actions":[{"do":"sleep"}]}
+- 02:06 act: {"actions":[{"do":"goto","target":{"x":426,"y":107,"z":-1077}}],"say":"Good morning. I am heading to Clark's plank wall to learn how it goes up. I hold 21 melon slices for the weakest.","intent":{"goa
+- 02:06 act: {"actions":[],"say":"I am at Clark's wall, 425,107,-1077. Clark, Trini, Kimberly: how many planks did the wall take, and how is it closed on top? I hold 21 melon slices for the weakest."}
+- 02:19 act: {"intent":{"goal":"reach_bed_for_night","program":"travel","arguments":{"target":{"x":402,"y":107,"z":-1079}},"wake_on":["directly_addressed","unexpected_damage","goal_completed","precondition_failed"
+- 02:19 act: {"actions":[{"do":"sleep"}]}
+- 02:19 act: {"intent":{"goal":"learn_plank_wall","program":"travel","arguments":{"target":{"x":426,"y":107,"z":-1077}},"wake_on":["directly_addressed","unexpected_damage","goal_completed","precondition_failed"],"
+- 02:27 act: {"actions":[{"do":"note","text":"Waiting at Clark's wall for the lesson; Kimberly in reach."}],"say":"Clark, I am here with Kimberly. Show us each side when you are ready. I have 21 melon if Trini or 
+- 02:31 act: {"intent":{"goal":"reach_bed_for_night","program":"travel","arguments":{"target":{"x":402,"y":107,"z":-1078}},"wake_on":["directly_addressed","unexpected_damage","goal_completed","precondition_failed"
+- 02:32 act: {"actions":[{"do":"sleep"}]}
+- 02:36 act: {"say":"Morning. Wesley, health 20, hunger 18, holding 21 melon. Lewis and Picard sounded weak; say your hunger and I'll hand melon over. Going to Clark's wall.","intent":{"goal":"learn_plank_wall","p
+- 02:36 act: {"intent":{"goal":"learn_plank_wall","program":"travel","arguments":{"target":{"x":430,"y":107,"z":-1075}},"wake_on":["directly_addressed","unexpected_damage","goal_completed","precondition_failed"],"
+- 02:36 act: {"say":"Clark, I'm Wesley, in your sight at the wall. Please show me the plank wall too, north side first. I hold 21 melon for anyone weak."}
+- 02:39 act: {"say":"Trini, I'm with you on the north side. Tell me your first cell and I'll place. Lewis and Picard, say your hunger; I have melon."}
+- 02:42 act: {"say":"Clark, I have no planks in hand yet, Data's never reached me. Trini, please give me 2 planks and I'll place 430,107,-1080 and 430,108,-1080."}
+- 02:44 act: {"say":"Trini, I see no planks in my pack; the 2 you sent may be on the ground at my feet. I'll stay at the north side, and I'm holding 21 melon for anyone weak."}
+- 02:48 act: {"say":"Troi, I'm Wesley with 21 melon. Walking to the west beds now. Whoever is weakest, step into my sight.","intent":{"goal":"bring_melon_west_beds","program":"travel","arguments":{"target":{"x":40
+- 02:52 act: {"say":"Wesley at the wall with 21 melon. Chapman, Lewis, Troi: step into my sight and say your hunger, I'll hand you one or two each. Picking up the planks at my feet for the north side.","intent":{"
+- 02:53 act: {"actions":[{"do":"eat"}],"say":"Something shot me just now. I'm eating and watching. Who needs melon? Say your hunger and I'll hand it over.","reasoning":"Hunger 16 and something hit me from range. E
+- 02:53 act: {"intent":{"goal":"retreat_to_west_beds","program":"travel","arguments":{"target":{"x":402,"y":107,"z":-1077}},"wake_on":["goal_completed","unexpected_damage","precondition_failed"],"limits":{"max_wor
+- 02:53 act: {"intent":{"goal":"get_out_of_skeleton_line","program":"travel","arguments":{"target":{"x":402,"y":107,"z":-1085}},"wake_on":["goal_completed","precondition_failed"],"limits":{"max_world_ticks":600,"m
+- 02:53 act: {"actions":[{"do":"eat"}],"intent":{"goal":"leave_the_shooting_area","program":"travel","arguments":{"target":{"x":388,"y":107,"z":-1086}},"wake_on":["goal_completed","precondition_failed"],"limits":{
+- 02:53 act: {"actions":[{"do":"note","text":"Health 11 after unseen shots near the wall and beds. At 389,107,-1086, no shooter in sight. Macdonald six blocks away holds melon."}],"say":"Macdonald, I'm Beverly, 11
+- 02:57 act: {"intent":{"goal":"reach_bed_for_night","program":"travel","arguments":{"target":{"x":387,"y":107,"z":-1080}},"wake_on":["goal_completed","unexpected_damage","precondition_failed"],"limits":{"max_worl
+- 02:57 act: {"actions":[{"do":"eat"},{"do":"use","at":{"x":387,"y":107,"z":-1079}}],"reasoning":"Night, health 14, hunger 17. Eat, then lie in the bed before sleeping."}
+- 02:58 act: {"actions":[{"do":"sleep"}],"reasoning":"Beside the bed at night, health steady. Try sleep."}
+- 03:02 act: {"intent":{"goal":"reach_bed_row_with_melon","program":"travel","arguments":{"target":{"x":402,"y":107,"z":-1092}},"wake_on":["directly_addressed","unexpected_damage","goal_completed","precondition_fa
+- 03:02 act: {"actions":[{"do":"note","text":"At the bed row 402,107,-1091 in daylight. Wesley is taking melon to Kimberly, so I hold my melon for whoever is weak and in sight."}],"say":"Beverly at the bed row, he
+- 03:02 act: {"actions":[{"do":"eat"}]}
