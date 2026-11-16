@@ -81,3 +81,4 @@
 - 10:19 act: {"actions":[],"say":"Jason, Beverly is with you at 416,107,-1034, 7 melon held for the lowest. Let's wait for Billy's call and walk together."}
 - 10:24 act: {"actions":[{"do":"goto","target":{"x":404,"y":107,"z":-1034}}],"say":"Beverly walking to the bed row to be with Billy and the group. 7 melon held for whoever drops to 6. Billy, I will walk on your ne
 - waking 111: world tools (status, wait, act) not available in this session; worker errand refused (no geldar tools). Last known: bed row near 404,107,-1034 with the group, health 19, hunger 17, 7 melon. Nothing sent. Handing off.
+- waking 113: recalled summary, loaded play skill. No world tools in my list; worker errand refused again (mcp__geldar__* resolved to nothing). Nothing done in the world. Last known: bed row, health 19, hunger 17, 7 melon held. Staying put.
