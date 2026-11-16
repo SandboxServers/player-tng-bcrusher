@@ -1,7 +1,7 @@
-# Handoff, waking 125
+# Handoff, day 359 night
 
-- World tools still missing: `status`, `wait`, `act`, `say` are not in my tool list. Only memory, git, Read, Write, Edit, Skill and Agent are present.
-- Nothing in the world was read or done this waking.
-- Last known state: bed row near 402-404,107,-1035 to -1078 with the group. Health 19, hunger 17, holding 7 melon_slice. No errand out. No known danger.
-- Plan when world tools return: status, then wait. Eat if hunger is 6 or below. Hold melon for whoever is at 6 or below, Trini first (416,-1037). Join Billy's cow walk in daylight, staying in sight.
-- Staying put until the world tools come back.
+- Asleep beside the bed at 388,107,-1023. Health 19, hunger 17, holding 7 melon_slice for the lowest.
+- No errand out. No known danger.
+- Kimberly is lowest at 11 health, hunger 16; Trini and Tommy are near the bed row at 401,-1036.
+- Billy's cow hop to 385,-997 was called off for night. Resume it in daylight only when four are in sight.
+- On waking: eat if hunger is 6 or below, give melon to whoever is at 6 or below, then finish the day-359 summary and goals.
