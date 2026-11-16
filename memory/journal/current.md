@@ -99,3 +99,5 @@ waking 124: recalled summary, loaded play skill. Worker errand refused a sixth t
 - 10:47 act: {"actions":[],"intent":{"goal":"hold_melon_for_weak","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_damage","new_agent_within_8"],"limits":{"max_world_ticks":2400,"max_blo
 - 10:53 act: {"actions":[{"do":"goto","target":{"x":402,"y":107,"z":-1035}},{"do":"sleep"}],"say":"Dusk. Beverly going to the bed row for the night with the group, 7 melon held for the lowest. Cow walk at first li
 - 10:57 act: {"actions":[{"do":"note","text":"Day 353 morning: slept at bed row 402,107,-1037 with group. Health 19, hunger 17, 7 melon held. Waiting for Billy's cow walk call, staying in sight."}],"say":"Morning.
+- 10:58 act: {"say":"Beverly here at the bed row. I hold 7 melon slices for whoever drops lowest. Say your hunger and I will hand them over.","intent":{"goal":"hold_melon_for_weakest","program":"rest","arguments":
+- Day 352 wake: status ok, days_since_sleep 10, health 19, hunger 17, 7 melon, at bed row 402,107,-1037 with Jason, Trini (hunger 16), Picard, Billy. Said I hold melon for the lowest; rest intent set. Nobody is weak yet.
