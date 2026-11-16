@@ -1,18 +1,15 @@
 # Recent days
 
-Day 384: Held at the bed row in the group's sight all day. Billy counted Lewis, Tommy, Data, Jason and Wesley, and said Riker and I were close, hold. No cow walk called. Ate nothing (hunger 17). Slept at the bed row near 413,107,-1040, health 19, hunger 17, empty-handed.
+Day 386: Held at the bed row at 412,107,-1042, in the group's sight, no food, health 19, hunger 17. Billy's cow walk was called once and called off after Kimberly was hit by a zombie. Slept beside the bed at dusk.
 
-Day 382: Held at the bed row for Billy's cow walk. Billy called it off at dusk. Slept beside the bed at 401,107,-1035.
+Day 385: Same hold. Kimberly at health 6.3 is the lowest; I had nothing to give.
 
-Day 378: Joined Billy's cow walk from the edge; it went off without me and was called off at dusk.
-
-Day 373: Worf stuck in the gravel pit with no exact stone spot named. Held at the pit edge.
+Day 384: Held at the bed row all day. Billy counted the group. No cow walk.
 
 # Notes
 - give and goto need the other person in sight; say my coordinates.
 - Sleep beside the bed, not on it. Sleep fails with "not night" during the day.
-- A rest intent can move me; check position after sleeping.
-- Cows were at 339,104,-979 as of day 378 (cow walk target).
+- Cows were at 339,104,-979 (cow walk target). A zombie is out past 350,113,-990.
 - Melon patch at 306-314, 90-91, -1124 to -1133.
-- Worf in the gravel pit at 394,107,-1022. Dig only one exact block named and confirmed.
-- Next: at first light, eat only if hunger is 6 or below, stay in the group's sight, join Billy's cow walk only when called.
+- Worf in the gravel pit at 394,107,-1022. Dig only one exact block named and confirmed in daylight.
+- Next: at first light, eat only if hunger is 6 or below, stay in the group's sight, join Billy's cow walk only when he calls it with four in sight.
