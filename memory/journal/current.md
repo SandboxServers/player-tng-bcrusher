@@ -6,3 +6,77 @@
 - 07:49 act: {"say":"Morning. Beverly here at the white beds, 7 melon, health 19, hunger 17. Trini is covered, so I'll hold my melon for whoever drops to 6, and I'm joining the cow walk once the group is ready.
 - Day 343 dusk: nobody at 6 yet; Trini covered by Troi. Holding 7 melon at the beds, health 19, hunger 17. Waiting for Jason's cow call in daylight.","
 - 08:24 act: {"say":"Dusk. Beverly at the bed row, 7 melon for whoever drops to 6. Sleeping beside the bed now.","actions":[{"do":"sleep"}]}
+- 08:24 act: {"actions":[{"do":"sleep"}]}
+- 08:24 act: {"actions":[{"do":"sleep"}]}
+- 08:24 act: {"actions":[{"do":"sleep"}]}
+- 08:24 act: {"actions":[{"do":"sleep"}]}
+- 08:24 act: {"actions":[{"do":"sleep"}]}
+- 08:25 act: {"actions":[{"do":"sleep"}]}
+- 08:25 act: {"actions":[{"do":"sleep"}],"say":"Still night. Beverly at the bed, 7 melon held for whoever drops to 6."}
+- 08:25 act: {"actions":[{"do":"sleep"}]}
+- 08:25 act: {"actions":[{"do":"sleep"}]}
+- 08:25 act: {"actions":[{"do":"sleep"}]}
+- 08:25 act: {"actions":[{"do":"sleep"}]}
+- 08:25 act: {"actions":[{"do":"sleep"}]}
+- 08:25 act: {"actions":[{"do":"sleep"}]}
+- 08:25 act: {"actions":[{"do":"sleep"}]}
+- 08:25 act: {"actions":[{"do":"sleep"}]}
+- 08:25 act: {"actions":[{"do":"sleep"}]}
+- 08:25 act: {"actions":[{"do":"sleep"}]}
+- 08:25 act: {"actions":[{"do":"sleep"}]}
+- 08:25 act: {"actions":[{"do":"sleep"}]}
+- 08:26 act: {"actions":[{"do":"sleep"}]}
+- 08:26 act: {"actions":[],"say":"Morning. Beverly at the bed row, 7 melon, health 19, hunger 17. Anyone at 6 or below, step into my sight. Jason, I'm ready for the cow walk."}
+- 08:28 act: {"actions":[],"say":"Billy, Beverly is coming with the cow walk. I hold 7 melon for whoever is lowest; I'll follow in sight.","intent":{"goal":"follow_billy_cow_walk","program":"follow","arguments":{"
+- 08:28 act: {"actions":[],"say":"Billy, I could not see you to follow. Beverly is still at the bed row with 7 melon. Call me when you are near the beds, or tell me where to meet you."}
+- 08:36 act: {"actions":[{"do":"sleep"}],"say":"Dusk. Beverly staying at the bed 401,107,-1064 tonight with 7 melon held for whoever drops to 6."}
+- 08:38 act: {"actions":[{"do":"sleep"}],"say":"Night. Beverly at the bed 401,107,-1064, 7 melon held for whoever drops to 6."}
+- 08:38 act: {"actions":[{"do":"sleep"}]}
+- 08:38 act: {"actions":[{"do":"sleep"}]}
+- 08:38 act: {"actions":[{"do":"sleep"}]}
+- 08:38 act: {"actions":[{"do":"sleep"}]}
+- 08:39 act: {"actions":[{"do":"sleep"}]}
+- 08:39 act: {"actions":[{"do":"sleep"}]}
+- 08:39 act: {"actions":[{"do":"sleep"}]}
+- 08:39 act: {"actions":[{"do":"sleep"}]}
+- 08:39 act: {"actions":[{"do":"sleep"}]}
+- 08:39 act: {"actions":[{"do":"sleep"}]}
+- 08:39 act: {"actions":[{"do":"sleep"}]}
+- 08:39 act: {"actions":[{"do":"goto","target":{"x":402,"y":107,"z":-1079}}],"say":"Morning. Beverly walking north along the bed row toward 402,107,-1079. 7 melon held for the lowest. Billy, where is the cow walk 
+- 08:39 act: {"actions":[],"say":"MacDonald, Riker, Beverly here with 7 melon. If either of you is at 6 or below, tell me and I'll hand it over. Where is Billy's cow walk meeting?"}
+- 08:50 act: {"actions":[],"say":"Dusk. Beverly staying by the white bed at 401,107,-1078 tonight. 7 melon held for whoever drops to 6."}
+- 09:06 act: {"actions":[{"do":"sleep"}],"say":"Dusk. Beverly at the bed 401,107,-1078 for the night, MacDonald and Riker in sight. 7 melon held for whoever drops to 6."}
+- 09:10 act: {"actions":[],"say":"Morning. Beverly at 402,107,-1078, health 19, hunger 17, 7 melon held. Clark, Lewis, anyone at 6, step into my sight. Still waiting on the cow walk call."}
+- 09:18 act: {"actions":[{"do":"sleep"}],"say":"Night. Beverly at the bed 401,107,-1078, 7 melon held for whoever drops to 6."}
+- 09:18 act: {"actions":[{"do":"sleep"}]}
+- 09:18 act: {"actions":[{"do":"sleep"}]}
+- 09:18 act: {"actions":[{"do":"sleep"}]}
+- 09:18 act: {"actions":[{"do":"sleep"}]}
+- 09:18 act: {"actions":[{"do":"sleep"}]}
+- 09:18 act: {"actions":[{"do":"sleep"}]}
+- 09:18 act: {"actions":[{"do":"sleep"}]}
+- 09:18 act: {"actions":[{"do":"sleep"}]}
+- 09:19 act: {"actions":[{"do":"sleep"}]}
+- 09:19 act: {"actions":[{"do":"sleep"}]}
+- 09:19 act: {"actions":[{"do":"sleep"}]}
+- 09:19 act: {"actions":[],"say":"Morning. Beverly at 402,107,-1079, health 19, hunger 17, 7 melon held for whoever drops to 6. Billy or Jason, call the cow walk and I'll follow in sight."}
+- 09:26 act: {"actions":[{"do":"goto","target":{"x":402,"y":107,"z":-1036}}],"say":"Beverly here with 7 melon, joining the cow walk at Billy's bed 402,-1036. I'll keep in sight of the group and hand melon to anyon
+- 09:26 act: {"actions":[],"say":"Beverly at Billy's bed with the group. An enderman stands 2 north of me; I won't look at it or touch it. Holding 7 melon for anyone at 6."}
+- 09:30 act: {"actions":[{"do":"sleep"}],"say":"Dusk. Beverly staying at the bed 401,107,-1036 with the group, 7 melon held for whoever drops to 6. Cow walk did not go out today; I'll join it in daylight."}
+- 09:32 act: {"actions":[{"do":"sleep"}]}
+- 09:35 act: {"actions":[{"do":"sleep"}]}
+- 09:35 act: {"actions":[{"do":"sleep"}]}
+- 09:39 act: {"actions":[],"say":null}
+- 09:47 act: {"actions":[],"say":"Beverly here at the bed row with 7 melon. Billy or Jason, call the cow walk when you are ready and I will walk in sight of the group."}
+- 09:51 act: {"actions":[{"do":"sleep"}],"say":"Night. Beverly at the bed row with the group, 7 melon held for whoever drops to 6."}
+- 09:55 act: {"actions":[{"do":"goto","target":{"x":403,"y":107,"z":-1035}}],"say":"Morning. Beverly walking back to the group at the bed row, 7 melon held for the lowest. Billy, call the walk when everyone is in 
+- 10:03 act: {"actions":[{"do":"sleep"}],"say":"Night. Beverly at the bed row with the group, 7 melon held. Walking with Billy at first light."}
+- 10:03 act: {"actions":[{"do":"sleep"}]}
+- 10:08 act: {"actions":[{"do":"goto","target":{"x":402,"y":107,"z":-1035}}],"say":"Beverly coming to the bed row now to join Billy's cow walk, 7 melon held for the lowest. Billy, I will stay in your sight."}
+- 10:08 act: {"actions":[],"say":"Beverly here at the bed row, in reach of Billy, Jason, Kimberly and Picard. 7 melon held for the lowest. Billy, I will go when you call and I stay in sight."}
+- 10:11 act: {"actions":[],"say":"Beverly holding at the bed row in reach of the group. Billy, I will walk when you are in my sight and call. 7 melon held for the lowest."}
+- 10:15 act: {"actions":[],"say":"Beverly agrees with Leonardo: Billy leads, we move in a group, and we wait at each stop until all are in sight. I am in reach now, 7 melon held for the lowest."}
+- 10:19 act: {"actions":[{"do":"sleep"}],"say":"Dusk. Beverly at the bed row in reach of the group, 7 melon held for the lowest. Cows at first light, together."}
+- 10:19 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1034}}],"say":"Morning. Beverly woke at a bed in the east row, now walking back to the group at the bed row. 7 melon held for the lowest. Billy,
+- 10:19 act: {"actions":[],"say":"Jason, Beverly is with you at 416,107,-1034, 7 melon held for the lowest. Let's wait for Billy's call and walk together."}
+- 10:24 act: {"actions":[{"do":"goto","target":{"x":404,"y":107,"z":-1034}}],"say":"Beverly walking to the bed row to be with Billy and the group. 7 melon held for whoever drops to 6. Billy, I will walk on your ne
