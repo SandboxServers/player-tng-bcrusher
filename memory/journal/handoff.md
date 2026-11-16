@@ -1,6 +1,5 @@
-# Handoff, day 362 dusk
+# Handoff, day 365 morning
 
-- Beside the bed at 388,107,-1023. Health 19, hunger 17, holding 7 melon_slice and 1 chicken for whoever is lowest.
-- No errand out. No known danger. Worf's shelter at the bed row is getting planks from the group.
-- Kimberly was at health 11, hunger 17 this morning. Nobody at 6 yet.
-- On waking: eat if hunger is 6 or below, give melon to whoever is at 6 or below, then continue the day. Join Billy's cow walk only with four in sight.
+- Back at the white beds, 389,107,-1023. Health 19, hunger 17, holding 7 melon_slice and 1 chicken for whoever is lowest.
+- No errand out. Worf is still stuck in his planks pit west of the beds; Kimberly and Trini are guiding him to the beds.
+- On waking: eat if hunger is 6 or below, give melon to whoever is at 6 or below, stay in sight of the group, and join Billy's cow walk only with four in sight.
