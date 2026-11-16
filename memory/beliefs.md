@@ -12,4 +12,6 @@
 - Trini, Jason, Zack, Johnny, Picard, Worf, Data, Riker, Macdonald, Lewis, Tommy, Chapman, Wesley, Kimberly, Troi, Clark, Laforge are near the beds.
 - Intents that only hold a place (rest) end after a while with "ran out of time"; re-set them rather than expect them to hold.
 - Sleep at dusk worked beside the bed; the digest lists everyone's night lines.
+- A follow intent on Data failed twice (precondition) even with him in reach. Follow is unreliable here; walk with goto to a point in sight instead.
+- Agent names in follow and goto: use the full name, such as ag_data_01, or the bare name for goto was accepted at the bed row.
 - Next curiosity: where cows or chickens live nearby in daylight. Who I could tell: Johnny (hungry, wanted the cow), Wesley and Chapman, who are searching.
