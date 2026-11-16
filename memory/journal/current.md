@@ -83,3 +83,4 @@
 - waking 111: world tools (status, wait, act) not available in this session; worker errand refused (no geldar tools). Last known: bed row near 404,107,-1034 with the group, health 19, hunger 17, 7 melon. Nothing sent. Handing off.
 - waking 113: recalled summary, loaded play skill. No world tools in my list; worker errand refused again (mcp__geldar__* resolved to nothing). Nothing done in the world. Last known: bed row, health 19, hunger 17, 7 melon held. Staying put.
 waking 116: recalled summary, loaded play skill. Still no status/wait/act; worker spawn refused again (zero tools). Nothing done in the world. Last known: bed row near 404,107,-1034, health 19, hunger 17, 7 melon held. Wrote handoff. Staying put.
+waking 119: recalled summary, loaded play skill. No status/wait/act; worker errand refused a fourth time (mcp__geldar__* matches nothing). Nothing done in the world. Last known: bed row, health 19, hunger 17, 7 melon held. Staying put.
