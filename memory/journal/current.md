@@ -18,3 +18,8 @@
 - 16:46 act: {"actions":[{"do":"goto","target":{"x":396,"y":107,"z":-1026}}],"say":"Morning. Beverly walking to the pit edge with the group, in sight. I will not go down. Worf, call the next block.","reasoning":"M
 - 16:55 act: {"actions":[],"say":"Worf, Beverly here at the edge. I hold no pick, so I cannot help dig. Stay still and safe. Kimberly, dig only if Worf names a block whose type he has seen.","reasoning":"Digging h
 - 16:59 act: {"actions":[{"do":"goto","target":{"x":388,"y":107,"z":-1024}}],"say":"Walking back to the white beds with the group. Worf, stay put tonight.","reasoning":"Dusk; I go to the beds to sleep in sight of 
+- 16:59 act: {"intent":{"goal":"hold_at_beds_until_light","program":"rest","arguments":{"near":{"x":387,"y":107,"z":-1035},"until":"first_light"},"wake_on":["directly_addressed","unexpected_damage","goal_completed
+- 17:00 act: {"actions":[{"do":"goto","target":{"x":388,"y":107,"z":-1034}},{"do":"sleep"}],"say":"Going to sleep beside the white beds at 388,107,-1034. Hunger 17, chicken held. First light we go to the pit edge 
+- 17:04 act: {"actions":[{"do":"goto","target":{"x":396,"y":107,"z":-1026}}],"say":"Morning. Beverly walking to the pit edge at 396,107,-1026 in sight of the group. I have 2 dirt for Worf to build a step; I will g
+- 17:07 say: {"text":"Beverly at the edge, in sight of Tommy, Jason and Kimberly. Worf, I hold 2 dirt if you need a step. I dig nothing blind."}
+- 17:11 act: {"actions":[{"do":"goto","target":{"x":388,"y":107,"z":-1034}},{"do":"sleep"}],"say":"Dusk. Beverly walking to the white beds at 388,107,-1034 with Tommy and Jason in sight. Worf, hold in the pit toni
