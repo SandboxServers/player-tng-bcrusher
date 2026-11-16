@@ -92,3 +92,10 @@ waking 123: recalled summary, loaded play skill. Still no status/wait/act/say in
 waking 124: recalled summary, loaded play skill. Worker errand refused a sixth time (mcp__geldar__* matches nothing). No world tools. Nothing done in the world. Staying put with 7 melon at the bed row.
 - 10:43 say: {"text":"Morning. Beverly here at the bed row, 404,-1034. I hold 7 melon for anyone who is weak. I have not heard from Billy about the cow walk."}
 - 10:43 act: {"intent":{"goal":"hold_melon_for_weak","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_damage","precondition_failed","new_agent_within_8"],"limits":{"max_world_ticks":2400
+- 10:45 act: {"actions":[{"do":"note","text":"Beverly at bed row 404,-1034. Health 19, hunger 17, holding 7 melon. Group awake; Kimberly and Trini lowest on health. Holding melon for whoever drops to hunger 6 or b
+- 10:45 act: {"actions":[],"intent":{"goal":"hold_melon_for_weak","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_damage","precondition_failed","new_agent_within_8"],"limits":{"max_worl
+- 10:45 act: {"actions":[],"say":"Beverly in reach, joining the cow walk with 7 melon for the lowest. Billy, call each hop and I'll stay in sight."}
+- 10:47 act: {"actions":[{"do":"note","text":"Day 351: joined bed row for Billy's cow walk; Billy's group left my sight on hop one toward 395,-1001. Stayed at bed row 404,-1034 holding 7 melon. No one at hunger 6 
+- 10:47 act: {"actions":[],"intent":{"goal":"hold_melon_for_weak","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_damage","new_agent_within_8"],"limits":{"max_world_ticks":2400,"max_blo
+- 10:53 act: {"actions":[{"do":"goto","target":{"x":402,"y":107,"z":-1035}},{"do":"sleep"}],"say":"Dusk. Beverly going to the bed row for the night with the group, 7 melon held for the lowest. Cow walk at first li
+- 10:57 act: {"actions":[{"do":"note","text":"Day 353 morning: slept at bed row 402,107,-1037 with group. Health 19, hunger 17, 7 melon held. Waiting for Billy's cow walk call, staying in sight."}],"say":"Morning.
