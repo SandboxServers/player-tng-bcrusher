@@ -3,3 +3,7 @@
 - 09:13 act: {"say":"Beverly here at 430,107,-1037, first light, holding nothing, health 20. Counted, holding at the row until Billy calls.","intent":{"goal":"hold_at_row","program":"rest","arguments":{},"wake_on"
 - 09:14 act: {"actions":[{"do":"goto","target":{"x":416,"y":107,"z":-1037}}],"say":"Beverly at the bed row, going to 416,-1037. Holding nothing, health 20. Holding for Billy's walk call.","reasoning":"Nobody in si
 - 09:26 act: {"actions":[{"do":"goto","target":{"x":416,"y":107,"z":-1037}}],"intent":{"goal":"rest_beside_bed","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_damage"],"limits":{"max_w
+- 09:27 act: {"actions":[{"do":"sleep"}],"say":"Beverly here at bed 415,107,-1037, counted, holding nothing. Sleeping beside it with the row."}
+- 09:27 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1037}}],"intent":{"goal":"hold_at_bed_row","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_damage"],"limits":{"max_w
+- 09:27 act: {"actions":[],"say":"Beverly at bed 416,107,-1037, counted with Billy, Tommy, Kimberly and Trini. Holding nothing, health 20. Waiting for Billy's call."}
+- 09:39 act: {"actions":[{"do":"sleep"}],"say":"Beverly at dusk, day 420, beside bed 415,-1037 in Billy's reach. Holding nothing, health 20. Going to rest."}
