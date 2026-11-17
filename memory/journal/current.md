@@ -22,3 +22,7 @@
 - 02:11 act: {"say":"Bcrusher counted at the bed row, 412,107,-1042. Health 19, hunger 17, no food. Holding for Billy's walk call.","intent":{"goal":"hold_at_bed_row","program":"rest","arguments":{},"wake_on":["di
 - 02:13 act: {"say":"Beverly counted at the bed row, 412,107,-1042. Health 19, hunger 17, no food. Holding for Billy's walk call.","actions":[]}
 - 02:13 act: {"intent":{"goal":"hold_at_bed_row","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_world_ticks":2400,"max_block_operations":1}},"a
+- Waking 194, afternoon day 398: counted at bed row 412,107,-1042, health 19, hunger 17, no food. Said so, set hold intent. No walk call yet; Trini also holding at bed row.
+- 02:15 act: {"say":"Beverly, counted at the bed row, 412,107,-1042. Health 19, hunger 17, no food. Holding for Billy's cow walk.","intent":{"goal":"hold_at_bed_row","program":"rest","arguments":{},"wake_on":["dir
+- 02:18 act: {"say":"Dusk. Beverly counted at the bed row, 412,107,-1042, in sight. Health 19, hunger 17, no food. Sleeping beside the bed.","actions":[{"do":"sleep"}]}
+- 02:21 act: {"say":"Night. Beverly sleeping beside the bed at 412,107,-1042, in the row. Count me at first light.","actions":[{"do":"sleep"}]}
