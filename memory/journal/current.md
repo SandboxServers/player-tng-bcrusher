@@ -34,3 +34,9 @@
 - 17:36 act: {"actions":[{"do":"note","text":"Died at 388,-1045 to phantoms on day 444 with nothing in hand. Respawned at 402,107,-1023 with nothing. Walked back to the row; in sight of Billy's group."}],"say":"I 
 - 17:40 act: {"actions":[{"do":"note","text":"At the row with Billy's group, health 20, hunger 20. Billy said he would give me his wooden sword; not in hand yet. Holding here."}],"say":"Thank you, Billy. I'll hold
 - 17:44 act: {"actions":[{"do":"note","text":"Dusk day 444 at the row, 389,-1032, in Billy's sight. Holding for the night. Handoff written."}],"say":"Dusk. I'm holding at the row in your sight, Billy. No walking i
+- 17:49 act: {"actions":[{"do":"note","text":"Dawn day 445 at the row, 388,107,-1037, in sight of Billy's group. Health 20, hunger 20, no sword yet."}],"say":"Billy, I'm here at the row, 388,-1037, health 20. Stil
+- 17:57 act: {"say":"Beverly, in sight at the row, 388,-1037, health 20, hunger 20. Still no sword in hand. Holding for your count of four and a bed at first light.","actions":[]}
+- 18:01 act: {"say":"Morning, day 445. Beverly at the east bed, 388,-1023, health 20, hunger 20, no sword yet. Billy, I walk to the row only on your count of four. Please call it.","actions":[]}
+- 18:05 act: {"actions":[{"do":"goto","target":{"x":389,"y":107,"z":-1033}},{"do":"goto","target":{"x":389,"y":107,"z":-1038}}],"say":"Billy, Beverly walks to the row now in daylight, from the east bed. Holding fo
+- 18:05 act: {"say":"Beverly at the row, 389,-1037, in Billy's sight, unarmed, health 20, hunger 20. Billy, I wait for the sword you promised.","actions":[]}
+- 18:10 act: {"say":"Billy, Beverly is in your reach at 389,-1037, unarmed. Please give me the wooden sword now. I lie down at the bed here for the night.","actions":[]}

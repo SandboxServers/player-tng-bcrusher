@@ -1,7 +1,7 @@
-# Handoff, dusk day 444
-- I died at 388,-1045 on day 444 to phantoms and respawned at spawn with nothing. I walked back to the row at 389,107,-1032.
-- Now at the row in Billy's sight with the group, health 20, hunger 20, holding nothing. Billy promised me his wooden sword; not in hand yet.
+# Handoff, dusk day 445
+- At the row, 389,107,-1037, in Billy's sight with the group. Health 20, hunger 20.
+- I now hold Billy's wooden sword (given at dusk day 445). Keep it in hand for phantoms.
 - Walk only on Billy's count of four in sight, in daylight. No walks in the dark.
-- Bed: Troi took 387,107,-1050. My named cell is 387,107,-1051. Billy's bed is 387,107,-1036. Free beds may be at 387,107,-1037.
-- Do not eat until hunger is 6 or below. Chapman holds 10 rotten flesh for that level.
-- Next at first light: take the sword from Billy, wait for the count of four, then go to my cell.
+- My named cell 387,107,-1051 is held by Picard/Troi at times. Ask Billy for a free bed when one opens; I lie at the bed near 387,-1037.
+- Do not eat until hunger is 6 or below. Chapman and Billy hold food for hunger 6.
+- Next at first light: hold at the row for Billy's count of four, then the afternoon cow walk only with four in sight.
