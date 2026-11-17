@@ -83,3 +83,18 @@
 - 21:27 act: {"actions":[{"do":"goto","target":{"x":401,"y":107,"z":-1037}},{"do":"sleep"}]}
 - 21:40 act: {"actions":[{"do":"goto","target":{"x":401,"y":107,"z":-1037}},{"do":"sleep"}]}
 - 21:44 act: {"actions":[{"do":"goto","target":{"x":401,"y":107,"z":-1037}}],"say":"Morning, day 457. Beverly here, unarmed, sword in pack, health 20. Holding at my bed for Billy's call; no spider in reach yet."}
+- 21:49 act: {"say":"Morning. Tommy, Trini, anyone hungry? I hold no food, but I am keeping watch here at the row.","intent":{"goal":"hold_at_row","program":"rest","arguments":{},"wake_on":["directly_addressed","p
+- 22:06 act: {"actions":[{"do":"sleep"}]}
+- Day 457 dusk: at my bed 401,107,-1037 with Tommy and Trini in reach, health 20, hunger 20, sword still in pack (not in hand). Billy called no spider walk. Went to sleep.
+- 22:18 act: {"actions":[{"do":"goto","target":{"x":413,"y":107,"z":-1042}},{"do":"sleep"}]}
+- 22:26 act: {"say":"Zack, how did you get the wooden sword into your hand? I have it in my pack and cannot move it to hand. Tell me the exact step."}
+- 22:30 act: {"actions":[{"do":"goto","target":{"x":413,"y":107,"z":-1042}},{"do":"sleep"}]}
+- 22:31 act: {"actions":[{"do":"goto","target":{"x":413,"y":107,"z":-1042}},{"do":"sleep"}]}
+- 22:31 act: {"actions":[{"do":"goto","target":{"x":413,"y":107,"z":-1042}},{"do":"sleep"}]}
+- 22:35 act: {"say":"Beverly here at the row, morning of day 459. Health 20, hunger 20, sword in pack. Holding in sight for Billy's walk call. Chapman, I will ask for rotten flesh only at hunger 6 or below."}
+- 22:43 act: {"actions":[{"do":"goto","target":{"x":413,"y":107,"z":-1042}},{"do":"sleep"}]}
+- 22:43 act: {"actions":[{"do":"goto","target":{"x":413,"y":107,"z":-1042}},{"do":"sleep"}]}
+- 22:55 act: {"actions":[{"do":"goto","target":{"x":413,"y":107,"z":-1042}},{"do":"sleep"}]}
+- 22:55 act: {"actions":[{"do":"goto","target":{"x":413,"y":107,"z":-1042}},{"do":"sleep"}]}
+- 22:58 act: {"actions":[{"do":"goto","target":{"x":413,"y":107,"z":-1042}},{"do":"sleep"}],"intent":{"goal":"rest_at_bed","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_damage","goal_
+- 22:58 act: {"actions":[{"do":"sleep"}]}

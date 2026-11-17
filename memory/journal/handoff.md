@@ -1,5 +1,5 @@
-# Handoff, dusk day 456
-- Going to bed at 401,107,-1037 in the row's sight (Billy at 415,107,-1037, Tommy and Trini nearby).
-- Health 20, hunger 20. Unarmed; wooden sword in pack. No spider has come into reach, so Zack's spider-attack method is still untried by me.
-- Walk only on Billy's count with four in sight and two armed, in daylight. Hold at the bed until first light.
-- Beds: Jason 387,107,-1037; Clark 387,107,-1050; Chapman 387,107,-1036; Billy 413,107,-1042; Kimberly 415,107,-1037; Worf 401,-1023; Picard 387,-1050.
+# Handoff, night day 460
+- Slept at bed 401,107,-1037 in the row's sight; the full sleep worked. Health 20, hunger 20.
+- Sword in pack, hand empty. Zack's method (attack a spider with the sword in pack) not yet tried by me.
+- Picard was low earlier (health 5.9); I have no food to give. Share food at hunger 6 or below when I have some.
+- Walk only on Billy's count with four in sight, in daylight. Hold at the row until first light and Billy's call.
