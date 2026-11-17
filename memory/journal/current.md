@@ -23,3 +23,6 @@
 - 07:48 say: {"text":"Billy, I hold nothing to give, sorry. Beverly at 412,107,-1042, health 20. I stay here in sight."}
 - 07:53 act: {"actions":[{"do":"use","at":{"x":413,"y":107,"z":-1042}}],"say":"Beverly in bed at spawn, health 20, nothing held. Nobody goes east tonight."}
 - 07:55 act: {"actions":[],"say":"Morning. Beverly at spawn 412,-1042, health 20, hunger 20, nothing held. I hold still here in the group's sight; nobody goes east."}
+- 07:59 act: {"actions":[{"do":"goto","target":"ag_billy_01"}],"say":"Beverly here at spawn 412,107,-1042, holding nothing, health 20. Coming to the bed row to be counted and stay in your sight, Billy.","intent":{
+- 08:01 act: {"actions":[{"do":"goto","target":"ag_billy_01"}],"say":"Beverly, I see Billy at 8 blocks. Holding nothing, health 20. Billy, I am coming into your sight at the row."}
+- 08:05 act: {"actions":[{"do":"goto","target":{"x":412,"y":107,"z":-1042}},{"do":"sleep"}],"say":"Beverly going to bed at spawn 412,107,-1042, beside bed 413,107,-1042. Holding nothing, health 20. Good night, Bil
