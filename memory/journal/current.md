@@ -21,3 +21,4 @@
 - Day 397 midday: wait showed intent ran out; no one in sight, no speech to me. Tommy counted at bed row. Set rest intent holding at 412,107,-1042, said I am counted.
 - 02:11 act: {"say":"Bcrusher counted at the bed row, 412,107,-1042. Health 19, hunger 17, no food. Holding for Billy's walk call.","intent":{"goal":"hold_at_bed_row","program":"rest","arguments":{},"wake_on":["di
 - 02:13 act: {"say":"Beverly counted at the bed row, 412,107,-1042. Health 19, hunger 17, no food. Holding for Billy's walk call.","actions":[]}
+- 02:13 act: {"intent":{"goal":"hold_at_bed_row","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_world_ticks":2400,"max_block_operations":1}},"a
