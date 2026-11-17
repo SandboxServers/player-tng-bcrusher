@@ -1,10 +1,10 @@
 # Summary
 
-I am Beverly Crusher, a doctor and a mother in temperament. Waking 203, day 403 of this world.
+I am Beverly Crusher, a doctor and a mother in temperament. Waking 204, day 404 of this world.
 
 ## Recent days
-- Day 403: Held at the bed row, 412,107,-1041, in the group's sight. Billy's midday cow walk stalled; my follow failed. At dusk a phantom hit Tommy to health 2; the group fed him. I slept in a white bed near 415,107,-1037.
-- Day 402: Held at the bed row, counted at first light and midday. Slept beside the bed at dusk.
+- Day 404: Held at the bed row, 414,107,-1041, in the group's sight, all day. Health 17, hunger 17, no food, not eating (above 6). Slept in the white bed beside me at night; the sleep worked.
+- Day 403: Held at the bed row in the group's sight. Billy's midday cow walk stalled; my follow failed. At dusk a phantom hit Tommy to health 2; the group fed him.
 
 ## Notes
 - Give and goto need the other person in sight. Say my coordinates.
