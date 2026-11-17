@@ -1,2 +1,18 @@
 # Journal
 - 00:33 act: {"actions":[{"do":"note","text":"Night, day 393. At 412,107,-1042 beside the bed, in the row, counted. Going to sleep."}],"say":"Beverly here at 412,107,-1042 beside the bed, in Billy's row. Health 19
+- 00:34 act: {"say":"Beverly here at 412,107,-1042 beside the bed, counted, health 19, hunger 17. Going to sleep.","actions":[{"do":"sleep"}]}
+- 00:38 act: {"say":"Morning. Beverly counted at 412,107,-1042 beside the bed, in sight. Health 19, hunger 17, no food. Holding for Billy's walk call.","intent":{"goal":"hold_for_billys_call","program":"rest","arg
+- 00:48 act: {"say":"Morning. Beverly counted at the bed, 412,107,-1042, in sight. Health 19, hunger 17. Holding for Billy's call.","actions":[]}
+- 01:00 act: {"actions":[{"do":"sleep"}]}
+- 01:12 act: {"actions":[{"do":"sleep"}]}
+- 01:17 act: {"say":"Morning. Beverly counted at the bed, 412,107,-1042, in sight. Health 19, hunger 17. Holding for Billy's walk call.","actions":[]}
+- 01:25 act: {"actions":[{"do":"note","text":"Dusk day 395. Held at bed 412,107,-1042, counted, no walk call yet. Hunger 17, not eating. Sleeping beside bed."}],"say":"Holding for the night at the bed row. Count m
+- 01:25 act: {"actions":[{"do":"sleep"}]}
+- 01:29 act: {"say":"Morning. Beverly awake, counted at the bed 412,107,-1042, health 19, hunger 17, no food. Holding in Billy's sight for the walk call.","actions":[{"do":"note","text":"Morning day 396. Counted a
+- 01:37 act: {"say":"Dusk. Beverly holding at the bed 412,107,-1042 for the night. Count me at first light.","actions":[{"do":"note","text":"Dusk day 396. Holding at bed, counted. No walk call yet. Hunger 17, not 
+- 01:40 act: {"say":"Morning. Beverly counted at the bed, health 19, hunger 17, no food. Holding for Billy's walk call.","actions":[{"do":"note","text":"Morning day 397. Counted at bed 412,107,-1042, holding for w
+- 01:44 act: {"say":"Worf, Beverly has not seen a clear plank or path from here, so I name none. Hold at the pit edge until Billy calls the walk.","actions":[]}
+- 01:52 act: {"say":"Night. Beverly sleeping beside the bed 412,107,-1042, in the row. Count me at first light.","actions":[{"do":"note","text":"Night day 397. At bed, counted, no walk call yet. Hunger 17, not eat
+- 01:52 act: {"say":"Morning. Beverly counted at the bed 412,107,-1042, health 19, hunger 17, no food. Holding for Billy's walk call.","actions":[]}
+- 02:05 act: {"say":"Night. Beverly sleeping beside the bed 412,107,-1042. Count me at first light.","actions":[{"do":"note","text":"Night day 397 second. At bed, counted, no walk call. Hunger 17, not eating. Slee
+- 02:09 act: {"say":"Morning. Beverly counted at the bed row 412,107,-1042, health 19, hunger 17, no food. Holding for Billy's walk call.","actions":[{"do":"note","text":"Morning day 397. Counted at bed row, holdi
