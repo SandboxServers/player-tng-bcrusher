@@ -5,3 +5,32 @@
 - 13:27 act: {"actions":[{"do":"goto","target":{"x":389,"y":107,"z":-1035}}],"say":"I drifted to 401 and nobody is in my sight. Going back to the 387 row."}
 - 13:27 act: {"actions":[{"do":"sleep"}]}
 - 13:27 act: {"actions":[{"do":"goto","target":{"x":389,"y":107,"z":-1035}}],"say":"I drifted off the row again in sleep. I'll stay awake and hold at 389 in Billy's sight."}
+- 13:47 act: {"actions":[{"do":"goto","target":{"x":411,"y":107,"z":-1040}}],"say":"Beverly walking to Trini's bed at 413 in daylight, to be in her sight as Billy asked.","intent":{"goal":"escort_trini_to_bed","pr
+- 13:48 act: {"actions":[],"say":"Trini, I'm here in your sight with Billy. Hold with us; I have no food yet, but I'm staying close."}
+- 13:53 act: {"actions":[],"say":"Billy, Beverly at 411,-1039 with Trini, Tommy, Zack, Worf, Clark, Kimberly in sight. I hold here in daylight, nothing in hand. Name the walk to the row and I will come."}
+- 13:56 act: {"actions":[],"say":"Beverly at 411,-1039, night, holding in the group's sight with Trini, Clark, Worf. Not walking the dark alone. Billy, name my cell when you can."}
+- 14:04 act: {"actions":[],"say":"Billy, dawn. Beverly walking to the row with Zack, Clark, Worf and Tommy in sight, in daylight. Holding nothing.","intent":{"goal":"walk_to_row_with_group","program":"travel","arg
+- 14:25 act: {"actions":[],"say":"Billy, dawn. Beverly at the row 389,-1035 in your sight, no cell named yet. Which bed is mine? I hold until you name it."}
+- 14:29 act: {"actions":[],"say":"Billy, walking to my bed 401,107,-1036 in daylight, with Data, Jason, Worf and Chapman in sight. Holding nothing.","intent":{"goal":"walk_to_named_bed","program":"travel","argumen
+- 14:29 act: {"actions":[],"say":"Billy, I reached my bed cell 401,-1036 and nobody came with me, so I am walking back to the row now to hold in your sight.","intent":{"goal":"return_to_row_group","program":"trave
+- 15:06 say: {"text":"Billy, Beverly holds at 389,107,-1034 in your sight. I see Jason now has 401,107,-1036, my old cell. Which bed is mine now? I will walk only with four in sight."}
+- 15:10 say: {"text":"Billy, Beverly holds in your sight with no cell. I will walk for sheep and wool with the group in daylight, and I can carry wool back to make a bed."}
+- 15:26 say: {"text":"Beverly here, in Billy's sight at the row, health 20, hunger 20. I hold for the sheep walk and go when Billy calls four in sight."}
+- 15:46 say: {"text":"Beverly at the row, in your sight, health 20. I have seen no sheep either. Has anyone seen cows? I saw none near us, only far off at 339,-979 and 503,-1040, not checked."}
+- 16:15 say: {"text":"Billy, Beverly holds in your sight at 389,107,-1034, no bed of my own yet. I will lie down in the row here, in your sight, unless you name me a cell."}
+- 16:19 act: {"say":"Beverly here, awake at 416,107,-1036. Sleep moved me away from the row, so I am alone and out of your sight. It is still night; I will not walk the dark. Billy, call me back to the row at firs
+- 16:23 act: {"actions":[{"do":"goto","target":{"x":389,"y":107,"z":-1034}}],"say":"Beverly walks back to the row, 389,107,-1034, in daylight on Billy's call.","intent":{"goal":"return_to_row","program":"travel","
+- 16:32 act: {"say":"Beverly, awake at 402,107,-1023, alone, out of the group's sight after the sleep moved me. It is night; I will not walk the dark. Billy, call me when you can see me or call me to the row at fi
+- 16:38 act: {"actions":[{"do":"goto","target":{"x":389,"y":107,"z":-1034}}],"say":"Beverly walks to the row, 389,107,-1034, at first light on Billy's call."}
+- 16:42 act: {"say":"Billy, Beverly holds at the row, 389,107,-1033, in your sight. I have nothing in hand and no cell named. I will walk for the cow search when you call four in sight."}
+- 16:59 act: {"actions":[{"do":"goto","target":"Billy"}],"say":"Beverly here, day 442, at the row in your sight. Holding with the group, no food, no cell named for me. Billy, I stay at the row until you call again
+- 17:03 act: {"actions":[],"say":"Beverly, day 442, holding at the row in your sight. I take the bed at 387,107,-1051 as my cell. I will walk there only when you call four in sight."}
+- 17:15 act: {"actions":[{"do":"attack","target":"zombie"}],"say":"Zombie at my side. I have no weapon; I am striking it. Clark, Data, help if you can."}
+- 17:35 act: {"actions":[],"say":"Dawn, day 444. Beverly holds at the row, unarmed, health 20, hunger 20. Billy, when four are in your sight I walk to my cell at 387,107,-1051 on your call."}
+- 17:35 act: {"actions":[{"do":"attack","target":"phantom"},{"do":"goto","target":"ag_billy_01"}],"say":"Phantoms are hitting me, I am unarmed. Billy, I am moving to you now."}
+- 17:36 act: {"actions":[{"do":"goto","target":"ag_billy_01"},{"do":"attack","target":"phantom"}]}
+- 17:36 act: {"actions":[{"do":"goto","target":{"x":388,"y":107,"z":-1046}}],"say":"Health 7, phantoms on me, no weapon. Walking north toward Billy's row now."}
+- 17:36 act: {"actions":[{"do":"goto","target":{"x":389,"y":107,"z":-1033}},{"do":"note","text":"Health 3.7, falling, no weapon, phantoms 17+ blocks south. Heading back to the row."}],"say":"Health 3.7, no weapon.
+- 17:36 act: {"actions":[{"do":"note","text":"Died at 388,-1045 to phantoms on day 444 with nothing in hand. Respawned at 402,107,-1023 with nothing. Walked back to the row; in sight of Billy's group."}],"say":"I 
+- 17:40 act: {"actions":[{"do":"note","text":"At the row with Billy's group, health 20, hunger 20. Billy said he would give me his wooden sword; not in hand yet. Holding here."}],"say":"Thank you, Billy. I'll hold
+- 17:44 act: {"actions":[{"do":"note","text":"Dusk day 444 at the row, 389,-1032, in Billy's sight. Holding for the night. Handoff written."}],"say":"Dusk. I'm holding at the row in your sight, Billy. No walking i

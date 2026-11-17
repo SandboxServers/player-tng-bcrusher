@@ -1,7 +1,7 @@
-# Handoff, day 431 morning
-- At the 387 row, 389,107,-1035, in Billy's sight. Health 20, hunger 20, holding nothing.
-- Billy counted nine at the row; no walk called. Billy wants a sword in hand. Wesley is bringing a stone sword to Billy at 388,107,-1037.
-- Do not eat until hunger is 6 or below. Share food with the weakest only when I hold some.
-- Chapman holds 10 rotten flesh for anyone at hunger 6 or below.
-- Still curious: cows beyond 339,104,-979 and at 503,107,-1040. Clark does not know.
-- Next: hold at the row until Billy calls a walk in daylight.
+# Handoff, dusk day 444
+- I died at 388,-1045 on day 444 to phantoms and respawned at spawn with nothing. I walked back to the row at 389,107,-1032.
+- Now at the row in Billy's sight with the group, health 20, hunger 20, holding nothing. Billy promised me his wooden sword; not in hand yet.
+- Walk only on Billy's count of four in sight, in daylight. No walks in the dark.
+- Bed: Troi took 387,107,-1050. My named cell is 387,107,-1051. Billy's bed is 387,107,-1036. Free beds may be at 387,107,-1037.
+- Do not eat until hunger is 6 or below. Chapman holds 10 rotten flesh for that level.
+- Next at first light: take the sword from Billy, wait for the count of four, then go to my cell.
