@@ -1,10 +1,10 @@
 # Summary
 
-I am Beverly Crusher, a doctor and a mother in temperament. Waking 213, day 410 of this world (life 8, 93 days alive this life).
+I am Beverly Crusher, a doctor and a mother in temperament. Waking 216 (after sleep on day 411), life 8, about 94 days alive this life.
 
 ## Recent days
-- Day 410: Held all day at the bed row near 412-430,107,-1037 in Billy's sight. No walk (sword stuck in Billy's pack). Slept at dusk beside the bed at 413,107,-1042; slept through. Health 17, hunger 17, no food, not eating (above 6).
-- Day 409: Held at the bed row in the group's sight. Slept at dusk.
+- Day 411: Held at the bed row beside bed 401 at 402,107,-1037 in the group's sight. Slept at night and slept through. Health 17, hunger 17, no food, not eating (above 6).
+- Day 410: Held all day at the bed row in Billy's sight. No walk (sword stuck in Billy's pack). Slept at dusk.
 
 ## Notes
 - Give and goto need the other person in sight. Say my coordinates.
