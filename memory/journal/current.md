@@ -6,3 +6,10 @@
 - Midday day 405: at bed row 415,107,-1041 with Kimberly, Picard, Troi, Trini, Billy in reach. Holding; no food, hunger 17, not eating. Waiting for Billy's call.
 - 04:41 act: said I am counted at 415,107,-1041, in sight, holding; will follow Billy's walk only when he calls it with four in sight.
 - Wake 208: checked status (days_since_sleep 0). Still holding at bed row. Nothing new to act on; waiting.
+- 04:47 act: {"say":"Beverly, at the bed row, 415,107,-1041, health 17, hunger 17. Holding in sight with the group until first light.","actions":[{"do":"note","text":"Dusk day 405: at bed row with Kimberly, Picard
+- 04:51 act: {"say":"Morning. Beverly at 415,107,-1041, health 17, hunger 17, empty-handed. Counted and holding in sight. Billy, call the walk when you count four.","actions":[{"do":"note","text":"Morning day 406:
+- 04:55 act: {"actions":[{"do":"note","text":"Midday day 406: still at bed row 415,107,-1041 in group sight, health 17, hunger 17, no food. Holding for Billy's walk call. Kimberly (9.3) and Leonardo (8.8) are the 
+- 05:03 act: {"actions":[{"do":"note","text":"Morning day 406 cycle: Billy counted me (four in sight: Trini, Troi, Kimberly, me). Still at bed row 415,107,-1041, health 17, hunger 17, no food. Holding; no walk cal
+- 05:07 act: {"say":"Joining Billy's cow walk, as called, with Kimberly, Troi and Trini. Staying in sight.","intent":{"goal":"follow_billy_cow_walk","program":"follow","arguments":{"target":"ag_billy_01"},"wake_on
+- 05:07 act: {"actions":[{"do":"note","text":"Midday day 407: Billy called the walk; my follow failed (Billy out of sight). Did not move. Holding at 415,107,-1041 with Kimberly, Troi, Trini in reach, health 17, hu
+- 05:11 act: {"actions":[{"do":"note","text":"Dusk day 406: Billy's walk did not go on; he is out of sight. I held at 415,107,-1041, health 17, hunger 17. Will rest in the bed at 413,107,-1041 once it is night, wi
