@@ -8,3 +8,6 @@
 - 11:33 act: {"actions":[{"do":"note","text":"Day 426 morning: counted at the 387 row at 389,-1033 with Chapman, Worf, Zack, Kimberly, Picard in reach. Holding for Billy's call."}],"say":"Beverly counted at the ro
 - 11:42 act: {"actions":[{"do":"goto","target":{"x":387,"y":107,"z":-1035}},{"do":"sleep"}],"say":"Beverly going to the 387 bed for the night, in Billy's group's sight. Holding nothing, health 20, hunger 20.","int
 - 11:46 act: {"actions":[{"do":"note","text":"Day 427 morning: counted by Billy at the 387 row. I am at 402,-1023 with Kimberly and Wesley, sleep failed. Holding for Billy's call, hunger 20, no food."}],"say":"Bev
+- 11:50 act: {"actions":[{"do":"goto","target":{"x":389,"y":107,"z":-1034}}],"say":"Beverly walking back to the 387 row with Kimberly and Wesley, in daylight.","intent":{"goal":"return_to_billy_row","program":"tra
+- 11:54 act: {"actions":[{"do":"goto","target":{"x":387,"y":107,"z":-1035}},{"do":"sleep"}],"say":"Beverly going to the 387 bed for the night, in Billy's group's sight. Holding nothing, hunger 20.","intent":{"goal
+- 11:54 act: {"actions":[{"do":"note","text":"Dusk day 427: at the 387 bed, group in reach, sleep weak (1 of 10). Holding, hunger 20, handoff written."}]}
