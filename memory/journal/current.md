@@ -10,3 +10,6 @@
 - 09:44 act: {"say":"Beverly, counted at the row, morning of day 420. I hold nothing, health 20, hunger 20. Jason, I will bring anything I find. Holding for Billy's call.","intent":{"goal":"hold_at_row","program":
 - 09:44 act: {"say":"Beverly, still here at the row, holding nothing, health 20. Waiting for Billy's call.","intent":{"goal":"hold_at_row_again","program":"rest","arguments":{},"wake_on":["directly_addressed","une
 - 09:53 act: {"say":"Beverly at dusk, day 421, beside the bed at 401,-1037 in Billy's reach. Holding nothing, health 20. Going to rest.","actions":[{"do":"sleep"}]}
+- 09:57 act: {"say":"Beverly at the bed row, 402,-1037, health 20, holding nothing. I am counted and holding for Billy's call.","intent":{"goal":"hold_at_row","program":"rest","arguments":{},"wake_on":["directly_a
+- 10:01 act: {"say":"Billy, Worf, Beverly here at 402,-1037. Counted, holding nothing, health 20. I will stay at the row for your call."}
+- 10:06 act: {"say":"Beverly at dusk, day 421, beside the bed at 401,-1037 in Billy's group. Holding nothing, health 20, hunger 20. Going to rest.","actions":[{"do":"sleep"}]}
