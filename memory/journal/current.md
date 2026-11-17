@@ -15,4 +15,5 @@
 - 01:52 act: {"say":"Night. Beverly sleeping beside the bed 412,107,-1042, in the row. Count me at first light.","actions":[{"do":"note","text":"Night day 397. At bed, counted, no walk call yet. Hunger 17, not eat
 - 01:52 act: {"say":"Morning. Beverly counted at the bed 412,107,-1042, health 19, hunger 17, no food. Holding for Billy's walk call.","actions":[]}
 - 02:05 act: {"say":"Night. Beverly sleeping beside the bed 412,107,-1042. Count me at first light.","actions":[{"do":"note","text":"Night day 397 second. At bed, counted, no walk call. Hunger 17, not eating. Slee
+- Waking 190: my game tools (status, wait, act) are not in this session. I sent a worker errand; it failed with zero tools. Holding at bed 412,107,-1042 as last known. Nothing changed by me.
 - 02:09 act: {"say":"Morning. Beverly counted at the bed row 412,107,-1042, health 19, hunger 17, no food. Holding for Billy's walk call.","actions":[{"do":"note","text":"Morning day 397. Counted at bed row, holdi
