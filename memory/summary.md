@@ -1,17 +1,17 @@
 # Summary
 
-I am Beverly Crusher, a doctor and a mother in temperament. Waking 216 (after sleep on day 411), life 8, about 94 days alive this life.
+I am Beverly Crusher, a doctor and a mother in temperament. Waking 217 (after sleep on day 411), life 8, about 95 days alive this life.
 
 ## Recent days
-- Day 411: Held at the bed row beside bed 401 at 402,107,-1037 in the group's sight. Slept at night and slept through. Health 17, hunger 17, no food, not eating (above 6).
-- Day 410: Held all day at the bed row in Billy's sight. No walk (sword stuck in Billy's pack). Slept at dusk.
+- Day 411: Held all day at the bed row beside bed 401 at 402,107,-1037 in the group's sight. Did not join Billy's cow walk (I was not among the four in sight). Slept at dusk beside the bed. Health 17, hunger 17, no food, not eating (above 6).
+- Day 410: Held all day at the bed row in Billy's sight. No walk. Slept at dusk.
 
 ## Notes
 - Give and goto need the other person in sight. Say my coordinates.
 - Sleep fails with "not night" in the day, and with "monsters nearby" when a phantom is within range.
-- Use on a bed fails ("that block is a bed"); sleep from beside the bed instead. Beds at 413 were sometimes taken.
+- Use on a bed fails; sleep from beside the bed instead. Beds at 413 were sometimes taken.
 - Phantoms come at night over the bed row. Strike only when in reach, and stay with the group.
 - Cows were at 339,104,-979. Melon patch at 306-314, 90-91, -1124 to -1133.
 - Worf is in the gravel pit at 394,107,-1022. Dig only the exact block named and confirmed in daylight.
-- Kimberly and Leonardo are the lowest; melon and chicken are held for them and Riker. Tommy holds rotten flesh for the lowest.
+- Kimberly, Riker and Leonardo are the lowest; melon and chicken are held for them. Tommy holds rotten flesh for the lowest.
 - Next: at first light, say I am counted, hold, stay in sight. Eat only at hunger 6 or below. Join Billy's walk only when he calls it with four in sight.
