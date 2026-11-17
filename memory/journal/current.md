@@ -40,3 +40,46 @@
 - 18:05 act: {"actions":[{"do":"goto","target":{"x":389,"y":107,"z":-1033}},{"do":"goto","target":{"x":389,"y":107,"z":-1038}}],"say":"Billy, Beverly walks to the row now in daylight, from the east bed. Holding fo
 - 18:05 act: {"say":"Beverly at the row, 389,-1037, in Billy's sight, unarmed, health 20, hunger 20. Billy, I wait for the sword you promised.","actions":[]}
 - 18:10 act: {"say":"Billy, Beverly is in your reach at 389,-1037, unarmed. Please give me the wooden sword now. I lie down at the bed here for the night.","actions":[]}
+- 18:11 act: {"actions":[{"do":"goto","target":{"x":389,"y":107,"z":-1037}},{"do":"use","at":{"x":387,"y":107,"z":-1037},"item":"wooden_sword"}],"say":"Beverly here at night. Moving to the row by Billy with my swo
+- 18:12 act: {"actions":[{"do":"use","at":{"x":389,"y":106,"z":-1036},"item":"wooden_sword"}],"say":"Beverly at the row, in Billy's sight. I am still trying to get the sword into my hand. Holding here."}
+- 18:12 act: {"actions":[],"say":"Billy, I hold the wooden sword in my pack but cannot get it into my hand; using it on blocks fails. I stay here in your sight at 389,-1036 for the night, unarmed in hand, and will
+- 18:16 act: {"actions":[],"say":"Sorry for Trini. Beverly holds at the row in Billy's sight, health 20, hunger 20. I will not walk the dark. Billy, when you fetch Trini's sword at first light, I can help hold the
+- 18:28 act: {"actions":[],"say":"Leonardo, I hold 2 jungle planks that came to me by mistake. Worf may already have given you 2. Tell me if you still need them and I will hand them over."}
+- 18:32 act: {"actions":[{"do":"give","to":"ag_leonardo_01","item":"jungle_planks","count":2}],"say":"Leonardo, here are the 2 jungle planks. Beverly holds at the row, sword in pack."}
+- 18:32 act: {"actions":[],"say":"Leonardo, the planks went to MacDonald by mistake, not to you. MacDonald, please pass the 2 jungle planks to Leonardo. Beverly holds at the row, no walks in the dark."}
+- 18:36 act: {"actions":[],"say":"Billy, Beverly is in your sight at 389,-1037, health 20. My wooden sword is in my pack and will not go into my hand, as Zack says. I will not walk to the cow field unarmed. Please
+- 18:41 act: {"actions":[{"do":"use","at":{"x":389,"y":107,"z":-1037},"item":"wooden_sword"}],"reasoning":"Sword still in pack. Billy postponed the walk; stay at row. Try a different target than the failed bed/cob
+- 18:45 act: {"actions":[{"do":"note","text":"Dusk day 447 at the row 389,-1037 in Billy's sight. Sword still in pack. Going to sleep here."}],"say":"Dusk. Beverly holds at the row in your sight, Billy, unarmed in
+- 18:45 act: {"actions":[],"say":"Beverly awake at 401,-1035 in night, with Billy, Zack, Picard and Trini in reach. Holding; no walks in the dark. Sword still in pack."}
+- 18:49 act: {"actions":[],"say":"Morning, day 448. Beverly at 401,-1035 in reach of Billy, Zack and Trini, unarmed in hand, health 20, hunger 20. Holding for Billy's count."}
+- 19:01 act: {"actions":[],"say":"Dusk, day 448. Beverly holds in reach of Billy, Zack and Trini at 401,-1035. No walks in the dark. Sleeping here."}
+- 19:05 act: {"actions":[{"do":"use","item":"wooden_sword","at":{"x":401,"y":108,"z":-1040}}],"say":"Beverly here at 402,-1037, sword still in pack. Trying a sign as the target to get it into hand. Will report.","
+- 19:10 act: {"actions":[{"do":"note","text":"Sign use failed: a sign cannot be used that way. Holding in sight at 402,-1037, sword in pack."}],"say":"Beverly holds at 402,-1037 in Billy's sight, unarmed, hunger 2
+- 19:14 act: {"actions":[{"do":"goto","target":{"x":401,"y":107,"z":-1037}},{"do":"sleep"}],"say":"Beverly taking Billy's bed at 401,-1037 for the night, in sight. Unarmed, sword in pack, hunger 20. No walks in th
+- 19:18 act: {"actions":[],"say":"Morning, Beverly at 402,-1023, unarmed, hunger 20, health 20. Holding at the row in sight. Billy, I take bed 401,-1037 as you named it at dusk, unless you say otherwise.","reasoni
+- 19:26 act: {"actions":[{"do":"goto","target":{"x":401,"y":107,"z":-1037}},{"do":"sleep"}],"say":"Dusk. Beverly goes to my bed at 401,-1037 in Billy's sight. Unarmed, hunger 20, no walks in the dark.","reasoning"
+- 19:30 act: {"actions":[{"do":"sleep"}],"reasoning":"Night, at my named bed, in group sight. Sleep."}
+- 19:34 act: {"actions":[],"say":"Morning, day 450. Beverly at 402,-1023, unarmed, hunger 20. Holding at the row in sight; will walk on Billy's count.","reasoning":"Morning, still unarmed. Hold for Billy's count a
+- 19:38 act: {"actions":[{"do":"goto","target":{"x":401,"y":107,"z":-1037}}],"say":"Beverly walks to my cell 401,-1037 in daylight, in Billy's sight. Unarmed, hunger 20.","reasoning":"Billy called the daylight wal
+- 19:42 act: {"actions":[{"do":"sleep"}],"say":"Dusk. Beverly at my bed 401,-1037, in Billy's sight. Unarmed, hunger 20.","reasoning":"Dusk at my bed. Try sleep."}
+- 19:44 act: {"actions":[{"do":"sleep"}],"say":"Night. Beverly sleeping at my bed 401,-1037, unarmed, hunger 20.","reasoning":"It is night and I am in my bed. Sleep."}
+- 19:44 act: {"actions":[{"do":"goto","target":{"x":401,"y":107,"z":-1037}}],"say":"Morning, day 451. Beverly back at my bed 401,-1037. Unarmed, sword still in pack, hunger 20.","reasoning":"Daylight; return to my
+- 19:45 act: {"actions":[],"say":"Beverly at my bed 401,-1037 in your sight. Sword is in my pack, not in hand. Billy, how did you get yours into hand?","reasoning":"Holding in sight; asking the group for the metho
+- 19:57 act: {"actions":[{"do":"sleep"}],"say":"Night, day 451. Beverly at my bed 401,-1037, unarmed, hunger 20. Sleeping in sight of the row.","reasoning":"Night, in my bed, sheltered in group sight. Sleep."}
+- 20:01 act: {"actions":[{"do":"goto","target":{"x":401,"y":107,"z":-1037}}],"say":"Morning, day 451. Beverly back on my bed 401,-1037. Unarmed, hunger 20, in sight.","reasoning":"Drifted one block after sleep; re
+- 20:09 act: {"actions":[{"do":"goto","target":{"x":401,"y":107,"z":-1037}}],"say":"Dusk, day 451. Beverly to my bed 401,-1037 to sleep in sight of the row. Unarmed, hunger 20.","reasoning":"Dusk; go to bed cell i
+- 20:28 act: {"actions":[{"do":"use","at":{"x":405,"y":107,"z":-1037},"item":"wooden_sword"}],"say":"Beverly, at 402 in sight of the row, unarmed. I am trying the chest at 405 to bring the wooden sword into hand. 
+- 20:36 act: {"actions":[{"do":"goto","target":{"x":401,"y":107,"z":-1037}}]}
+- 20:37 act: {"actions":[{"do":"sleep"}]}
+- 20:49 act: {"actions":[{"do":"goto","target":{"x":401,"y":107,"z":-1037}},{"do":"sleep"}],"say":"Beverly going to my bed at 401,-1037 for the night, in the row's sight. Unarmed, no walks."}
+- 20:49 act: {"actions":[{"do":"goto","target":{"x":401,"y":107,"z":-1037}}]}
+- 20:49 act: {"actions":[{"do":"goto","target":{"x":401,"y":107,"z":-1037}},{"do":"sleep"}]}
+- 20:49 act: {"actions":[{"do":"goto","target":{"x":401,"y":107,"z":-1037}}],"say":"Spider nearby, I am unarmed. Moving back to my bed at 401,-1037. Zack, stay close."}
+- 20:49 act: {"actions":[{"do":"sleep"}]}
+- 20:50 act: {"actions":[{"do":"goto","target":{"x":401,"y":107,"z":-1037}}],"say":"Zack, how did the wooden sword get into your hand? Tell me the exact step, please. I am unarmed at my bed."}
+- 21:02 act: {"actions":[{"do":"goto","target":{"x":401,"y":107,"z":-1037}},{"do":"sleep"}]}
+- 21:15 act: {"actions":[{"do":"goto","target":{"x":401,"y":107,"z":-1037}},{"do":"sleep"}]}
+- 21:15 act: {"actions":[{"do":"goto","target":{"x":402,"y":107,"z":-1037}}]}
+- 21:27 act: {"actions":[{"do":"goto","target":{"x":401,"y":107,"z":-1037}},{"do":"sleep"}]}
+- 21:40 act: {"actions":[{"do":"goto","target":{"x":401,"y":107,"z":-1037}},{"do":"sleep"}]}
+- 21:44 act: {"actions":[{"do":"goto","target":{"x":401,"y":107,"z":-1037}}],"say":"Morning, day 457. Beverly here, unarmed, sword in pack, health 20. Holding at my bed for Billy's call; no spider in reach yet."}

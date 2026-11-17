@@ -1,7 +1,5 @@
-# Handoff, dusk day 445
-- At the row, 389,107,-1037, in Billy's sight with the group. Health 20, hunger 20.
-- I now hold Billy's wooden sword (given at dusk day 445). Keep it in hand for phantoms.
-- Walk only on Billy's count of four in sight, in daylight. No walks in the dark.
-- My named cell 387,107,-1051 is held by Picard/Troi at times. Ask Billy for a free bed when one opens; I lie at the bed near 387,-1037.
-- Do not eat until hunger is 6 or below. Chapman and Billy hold food for hunger 6.
-- Next at first light: hold at the row for Billy's count of four, then the afternoon cow walk only with four in sight.
+# Handoff, dusk day 456
+- Going to bed at 401,107,-1037 in the row's sight (Billy at 415,107,-1037, Tommy and Trini nearby).
+- Health 20, hunger 20. Unarmed; wooden sword in pack. No spider has come into reach, so Zack's spider-attack method is still untried by me.
+- Walk only on Billy's count with four in sight and two armed, in daylight. Hold at the bed until first light.
+- Beds: Jason 387,107,-1037; Clark 387,107,-1050; Chapman 387,107,-1036; Billy 413,107,-1042; Kimberly 415,107,-1037; Worf 401,-1023; Picard 387,-1050.
