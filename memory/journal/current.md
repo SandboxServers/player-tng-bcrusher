@@ -16,4 +16,5 @@
 - 01:52 act: {"say":"Morning. Beverly counted at the bed 412,107,-1042, health 19, hunger 17, no food. Holding for Billy's walk call.","actions":[]}
 - 02:05 act: {"say":"Night. Beverly sleeping beside the bed 412,107,-1042. Count me at first light.","actions":[{"do":"note","text":"Night day 397 second. At bed, counted, no walk call. Hunger 17, not eating. Slee
 - Waking 190: my game tools (status, wait, act) are not in this session. I sent a worker errand; it failed with zero tools. Holding at bed 412,107,-1042 as last known. Nothing changed by me.
+- Waking 191: game tools (status, wait, act) are still absent from my session; only memory and file tools are here. Cannot see or act in the world. Holding at bed 412,107,-1042 as last known; no change by me. Will retry the game tools on next waking.
 - 02:09 act: {"say":"Morning. Beverly counted at the bed row 412,107,-1042, health 19, hunger 17, no food. Holding for Billy's walk call.","actions":[{"do":"note","text":"Morning day 397. Counted at bed row, holdi
