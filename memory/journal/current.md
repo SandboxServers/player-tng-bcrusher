@@ -1,1 +1,12 @@
 # Journal
+- 07:13 act: {"say":"Beverly here at the bed row, 402,107,-1037. Counted, holding, hunger 17, no food. Staying in Billy's sight.","reasoning":"Daytime, at the row, holding per goals. Announce presence, then wait f
+- 07:21 act: {"actions":[{"do":"goto","target":{"x":425,"y":107,"z":-1027}}],"say":"Pillager to the north. Beverly moving south-east to Billy at 425,107,-1027, out of its line.","reasoning":"A pillager is shooting
+- 07:25 act: {"actions":[{"do":"goto","target":{"x":425,"y":107,"z":-1020}}],"say":"Beverly shot, health 14. Moving south, away from the pillager's line, toward Data and Riker.","reasoning":"Shot by the pillager a
+- 07:26 act: {"actions":[{"do":"goto","target":{"x":443,"y":107,"z":-1023}}],"say":"Beverly shot again, health 10. Going east to Data's bed at 443,-1023, out of the pillager's line. Kimberly, I will take your melo
+- 07:26 act: {"actions":[{"do":"goto","target":{"x":443,"y":107,"z":-1024}}],"say":"Beverly at the bed 443,-1023, health 6, falling, no food. Anyone with melon or chicken, please come in reach. Data, I am beside y
+- 07:27 act: {"actions":[{"do":"goto","target":{"x":452,"y":107,"z":-1012}}],"say":"Pillager 5 north-west of me. Beverly moving south-east away from it, health 6.","reasoning":"Pillager closing to 5 blocks, I am u
+- 07:27 act: {"actions":[{"do":"goto","target":{"x":428,"y":107,"z":-1048}}],"say":"Beverly at health 6, morning. Going north-west to the group at the bed 429,-1050. Kimberly, I need your melon when in reach.","re
+- 07:27 act: {"actions":[],"say":"Kimberly, I am at 427,-1048, close to you. Thank you. I will hold the melon and eat only at hunger 6 or below.","reasoning":"Kimberly offers melon nearby. I am at 427,-1048. Accep
+- 07:33 act: {"actions":[{"do":"note","text":"Day 414 at spawn 402,-1037. Holding, no food, hunger 20. Pillager is east near 406,-1045; I stay here out of its line."}],"say":"Beverly at spawn 402,-1037, health 20,
+- 07:37 say: {"text":"Beverly at spawn with Trini, dusk. Billy, come to 402,-1037. I will try the bed beside me."}
+- 07:37 act: {"actions":[{"do":"use","at":{"x":401,"y":107,"z":-1037}}]}
