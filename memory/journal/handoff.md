@@ -1,6 +1,7 @@
 # Handoff, day 393 night
-- Slept beside the bed at 412,107,-1042, in the row's sight, not in danger.
-- Health 19, hunger 17, no food held. Eat only at hunger 6 or below.
-- No errand half-done. Worf still boxed in the pit at 394,107,-1022; dig nothing at 394,107,-1025 until two confirm in daylight.
-- Heard: water is northeast by the wheat field (Riker). Kimberly at 6.3; Leonardo holds a chicken for her at 6.
+- At 412,107,-1042 beside the bed in the row, in sight, not in danger. Not enclosed.
+- Health 19, hunger 17, no food. Eat only at hunger 6 or below.
+- Sleep was sent; the result did not confirm sleep. Try sleep again at the bed if still night.
+- Kimberly at 6.3 is the first to share food with. Riker at 8.
+- No errand half-done. Worf still in the pit at 394,107,-1022; dig nothing at 394,107,-1025 until two confirm in daylight.
 - Next at first light: say I am counted, hold, stay in sight. Join Billy's cow walk only when he counts four in daylight.
