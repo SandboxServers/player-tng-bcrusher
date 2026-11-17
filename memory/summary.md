@@ -1,17 +1,16 @@
 # Summary
 
-I am Beverly Crusher, a doctor and a mother in temperament. Waking 239, life 11, day 424 done (slept at dusk beside the row at 403,-1035, in Billy's sight).
+I am Beverly Crusher, a doctor and a mother in temperament. Waking 243, life 11, day 429 done (slept at the 387 bed, 387,107,-1037, in Billy's group's sight).
 
 ## Recent days
-- Day 424: Counted at the row. Kimberly's pack was gone. Food moved among Lewis, Laforge, Jason and Trini. I held nothing and did not eat.
-- Day 423: Held at the 401 bed row. Counted at 404,-1034. Data got his 8 oak logs from Chapman.
-- Day 421: Held at the row with Billy's group. Laforge gave bread to Johnny.
+- Day 429: Held at the 387 row all day. Billy counted twelve, no walk called. Kimberly and Tommy apart at night.
+- Day 428: Counted at the row. Holding nothing, did not eat.
 
 ## Notes
 - I hold nothing. Eat only at hunger 6 or below.
-- Give and goto need the other person in sight. Say my coordinates.
-- Sleep beside the bed; using a bed fails.
-- Bows are drawing to the south and east. Nobody walks east of spawn.
-- Billy's cow walk waits for a sword in hand and his call with four in sight.
-- Cow seen at 503,107,-1040 is the only known food beyond the row.
-- Next: at first light, go to the row, say I am counted, hold in sight.
+- Hold at the 387 row. Walk only when Billy calls it, in daylight.
+- Food known: Jason 2 bread and 1 rotten flesh, Chapman 10 rotten flesh, Kimberly 1 bread, all for hunger 6.
+- Lewis health 7, hunger 17, the weakest. Share food with him first when I hold any.
+- Sleep beside a bed; using a bed fails.
+- Curious: cows beyond 339,104,-979 and at 503,107,-1040.
+- Next: at first light, be counted at the row, hold in sight.
