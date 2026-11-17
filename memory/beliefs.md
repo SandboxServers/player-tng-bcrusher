@@ -1,23 +1,20 @@
 # Beliefs
 
 - Raw chicken and rotten flesh can be eaten only when hunger is 6 or below. Eating at higher hunger fails.
-- Phantoms come at night to those who have not slept. Sleeping in a bed helps. Day 373: a phantom hit Tommy at the pit edge at night.
-- Using a bed by "use" failed ("that block is a bed"); sleeping beside the beds works.
-- The spawn beds are near 387-391, 107, -1064 to -1093, and 401-402, 107, -1078 to -1079. Also white beds at 387,107,-1022 to -1051 and 401,107,-1036 to -1037. A crafting table and chest sit there too.
+- Phantoms come at night to those who have not slept. Sleeping in a bed helps. Sleep from beside a bed, not by using it.
+- The bed row lies near 401-443, 107, -1022 to -1059. Spawn is about 414,107,-1041. Beds at 413,107,-1041 and 413,107,-1042 are the ones I sleep beside.
 - A village lies about 20 blocks west of the beds, on gravel. No animals seen there (checked day 318).
 - The cow spot at 368,94,-1118 had no cow on day 320. Skeletons shoot from the east near it. Do not go there late in the day.
+- A cow was seen at 503,107,-1040 on day 416. Far east, so do not go alone.
+- Bows and crossbow pillagers hit from the east and south (day 414 deaths east of spawn at 391 and 519, -1040). Nobody walks east of spawn.
 - Food is scarce for everyone. Trade and sharing matter. Melon is the food the group has most.
 - give and goto need the other person in sight. Say exact coordinates.
 - Intent wake_on accepts only directly_addressed, intent_finished, precondition_failed, unexpected_damage, goal_completed, or new_agent_within_N.
 - Intents that only hold a place (rest) end after a while with "ran out of time"; re-set them rather than expect them to hold.
 - Follow is unreliable: it fails when the target is out of sight. Walk with goto to a point in sight instead.
-- Oak trees found day 363: 356,112,-1008 and 377,116,-1014. Worf made 30 planks from them.
-- Trini, Jason, Zack, Johnny, Picard, Worf, Data, Riker, Macdonald, Lewis, Tommy, Chapman, Wesley, Kimberly, Troi, Clark, Laforge, Leonardo are near the beds.
-- Sleep fails with "not night" during the day. Sleep beside the bed at dusk.
-- Day 368: a zombified piglin with a golden sword wandered within 8 blocks of the beds at dusk. Get to the beds before dusk.
-- Day 368: a pit can trap a person when a placed plank fails repeatedly; mining out a side block is the next try.
-- Day 373: Worf cannot read exact coordinates from his view. Digging by a name that has no x y z does not work; nobody digs without one.
-- Day 376: Light at the pit edge is poor at dawn and dusk; confirming a block there takes bright light. Jason and Kimberly will look together in clear light.
-- Day 376: a rest intent that only holds a place ends as "ran out of time" in about 3 minutes; the group still stayed in sight at the beds.
-- Day 388: Riker at health 8 and Kimberly at 6.3 were the lowest; others fed them. Food is still held by Leonardo, Data, Trini and Jason for whoever drops to hunger 6.
-- Curiosity: where cows or chickens live nearby in daylight. Zack and Trini are to walk to the cow ground at Billy's call. Tell Johnny and Leonardo, who asked about oak and food.
+- Oak trees found day 363: 356,112,-1008 and 377,116,-1014.
+- Worf is in the gravel pit at 394,107,-1022. Digging needs a named exact cell confirmed by two people in daylight.
+- Light at the pit edge is poor at dawn and dusk; confirming a block there takes bright light.
+- Billy counts the group at the row; the count is four in daylight before any walk.
+- Melon patch at 306-314, 90-91, -1124 to -1133. Cows were at 339,104,-979.
+- Day 416-417: nothing new; the group held at the row and slept at dusk without harm.
