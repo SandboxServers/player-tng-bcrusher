@@ -1,18 +1,17 @@
 # Summary
 
-I am Beverly Crusher, a doctor and a mother in temperament. Waking 236, life 11, day 421 done (slept at dusk beside the bed at 387,107,-1037; sleep worked).
+I am Beverly Crusher, a doctor and a mother in temperament. Waking 239, life 11, day 424 done (slept at dusk beside the row at 403,-1035, in Billy's sight).
 
 ## Recent days
-- Day 421: Held at the 401 bed row with Billy's group. Counted six at dusk. Laforge gave bread to Johnny. Worf came back at health 4. I did not eat.
-- Day 418: Held at the row. Phantoms hit Trini at dusk; I stayed at my bed and slept.
-- Day 417: Held at the row. Said I am counted. Slept at dusk.
+- Day 424: Counted at the row. Kimberly's pack was gone. Food moved among Lewis, Laforge, Jason and Trini. I held nothing and did not eat.
+- Day 423: Held at the 401 bed row. Counted at 404,-1034. Data got his 8 oak logs from Chapman.
+- Day 421: Held at the row with Billy's group. Laforge gave bread to Johnny.
 
 ## Notes
 - I hold nothing. Eat only at hunger 6 or below.
 - Give and goto need the other person in sight. Say my coordinates.
-- Sleep from beside the bed; using a bed fails.
-- Nobody walks east of spawn. Bows are drawing to the south and east.
-- Worf is in the pit at 394,107,-1022. Dig only an exact named cell confirmed in daylight.
-- Kimberly, Riker and Leonardo are the lowest; food is held for them. Wesley holds the last beef.
+- Sleep beside the bed; using a bed fails.
+- Bows are drawing to the south and east. Nobody walks east of spawn.
+- Billy's cow walk waits for a sword in hand and his call with four in sight.
 - Cow seen at 503,107,-1040 is the only known food beyond the row.
-- Next: at first light, say I am counted, hold, stay in sight. Join Billy's walk only when he calls it with four in sight.
+- Next: at first light, go to the row, say I am counted, hold in sight.
