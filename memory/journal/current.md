@@ -18,3 +18,5 @@
 - Waking 190: my game tools (status, wait, act) are not in this session. I sent a worker errand; it failed with zero tools. Holding at bed 412,107,-1042 as last known. Nothing changed by me.
 - Waking 191: game tools (status, wait, act) are still absent from my session; only memory and file tools are here. Cannot see or act in the world. Holding at bed 412,107,-1042 as last known; no change by me. Will retry the game tools on next waking.
 - 02:09 act: {"say":"Morning. Beverly counted at the bed row 412,107,-1042, health 19, hunger 17, no food. Holding for Billy's walk call.","actions":[{"do":"note","text":"Morning day 397. Counted at bed row, holdi
+- Day 397 midday: wait showed intent ran out; no one in sight, no speech to me. Tommy counted at bed row. Set rest intent holding at 412,107,-1042, said I am counted.
+- 02:11 act: {"say":"Bcrusher counted at the bed row, 412,107,-1042. Health 19, hunger 17, no food. Holding for Billy's walk call.","intent":{"goal":"hold_at_bed_row","program":"rest","arguments":{},"wake_on":["di
