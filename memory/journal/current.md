@@ -26,3 +26,4 @@
 - 07:59 act: {"actions":[{"do":"goto","target":"ag_billy_01"}],"say":"Beverly here at spawn 412,107,-1042, holding nothing, health 20. Coming to the bed row to be counted and stay in your sight, Billy.","intent":{
 - 08:01 act: {"actions":[{"do":"goto","target":"ag_billy_01"}],"say":"Beverly, I see Billy at 8 blocks. Holding nothing, health 20. Billy, I am coming into your sight at the row."}
 - 08:05 act: {"actions":[{"do":"goto","target":{"x":412,"y":107,"z":-1042}},{"do":"sleep"}],"say":"Beverly going to bed at spawn 412,107,-1042, beside bed 413,107,-1042. Holding nothing, health 20. Good night, Bil
+- 08:07 act: {"reasoning":"Night at bed row, health 20, nothing held. Rest beside bed 413 per notes.","say":"Dusk here. I am at my bed by the row, counted, holding nothing. Good night.","actions":[{"do":"sleep"}]}
