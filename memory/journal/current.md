@@ -10,3 +10,4 @@
 - 07:33 act: {"actions":[{"do":"note","text":"Day 414 at spawn 402,-1037. Holding, no food, hunger 20. Pillager is east near 406,-1045; I stay here out of its line."}],"say":"Beverly at spawn 402,-1037, health 20,
 - 07:37 say: {"text":"Beverly at spawn with Trini, dusk. Billy, come to 402,-1037. I will try the bed beside me."}
 - 07:37 act: {"actions":[{"do":"use","at":{"x":401,"y":107,"z":-1037}}]}
+- 07:38 say: {"text":"Beverly at spawn 402,-1037, health 20, hunger 20, nothing in hand. Holding here with Trini. Macdonald, Billy: come to spawn, I will hand food if I get any."}
