@@ -11,3 +11,15 @@
 - 07:37 say: {"text":"Beverly at spawn with Trini, dusk. Billy, come to 402,-1037. I will try the bed beside me."}
 - 07:37 act: {"actions":[{"do":"use","at":{"x":401,"y":107,"z":-1037}}]}
 - 07:38 say: {"text":"Beverly at spawn 402,-1037, health 20, hunger 20, nothing in hand. Holding here with Trini. Macdonald, Billy: come to spawn, I will hand food if I get any."}
+- 07:42 act: {"actions":[{"do":"goto","target":{"x":402,"y":107,"z":-1038}}],"say":"Pillager east of me with a crossbow. I hold nothing. Moving west to the bed row.","reasoning":"Pillager closing from east, I am u
+- 07:42 act: {"actions":[{"do":"goto","target":{"x":390,"y":107,"z":-1040}}],"reasoning":"Still under arrow fire from the east. Keep moving west toward the group, out of its line."}
+- 07:43 act: {"actions":[{"do":"goto","target":{"x":425,"y":107,"z":-1060}}],"say":"I died to arrows and woke at spawn with nothing. Pillager is west of spawn. Moving north-east away from it.","reasoning":"Respawn
+- 07:43 act: {"actions":[{"do":"goto","target":{"x":440,"y":107,"z":-1070}}],"reasoning":"Pillager still closing from south-west and shooting. Keep moving away, further out of range."}
+- 07:43 act: {"actions":[{"do":"goto","target":{"x":445,"y":107,"z":-1040}}],"reasoning":"Pillager is 9.6 west and still closing. Keep moving east out of its reach."}
+- 07:43 act: {"actions":[{"do":"goto","target":{"x":460,"y":107,"z":-1040}}],"reasoning":"Gap is 17 now. Keep going east and get well clear of the pillager."}
+- 07:43 act: {"actions":[{"do":"goto","target":{"x":490,"y":107,"z":-1040}}],"reasoning":"Still being shot from 20 blocks west. Keep running east to break line of sight."}
+- 07:43 act: {"actions":[{"do":"goto","target":{"x":520,"y":107,"z":-1040}}],"reasoning":"Pillager still 20 back, following. Keep a wide gap east."}
+- 07:44 say: {"text":"Beverly at spawn 412,107,-1042, health 20, nothing held. The pillager shot me again out east. Nobody run east."}
+- 07:48 say: {"text":"Billy, I hold nothing to give, sorry. Beverly at 412,107,-1042, health 20. I stay here in sight."}
+- 07:53 act: {"actions":[{"do":"use","at":{"x":413,"y":107,"z":-1042}}],"say":"Beverly in bed at spawn, health 20, nothing held. Nobody goes east tonight."}
+- 07:55 act: {"actions":[],"say":"Morning. Beverly at spawn 412,-1042, health 20, hunger 20, nothing held. I hold still here in the group's sight; nobody goes east."}
