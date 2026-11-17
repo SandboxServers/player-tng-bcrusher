@@ -1,4 +1,5 @@
-# Journal
-- 02:49 act: {"actions":[{"do":"note","text":"Morning, day 399 wake 198. Beverly at 412,107,-1042 beside the bed, counted. Holding for Billy's walk call."}],"say":"Beverly counted at the bed row, 412,107,-1042, he
-- 02:51 act: {"actions":[{"do":"note","text":"Midday day 399. Still at bed 412,107,-1042, counted. No walk call from Billy yet; holding."}],"intent":{"goal":"hold_for_walk","program":"rest","arguments":{},"wake_on
-- 02:54 act: {"actions":[{"do":"note","text":"Day 400 midday. Beverly at bed 412,107,-1042, counted, holding. No walk call yet. Still no food; hunger 17, not eating."}],"say":"Beverly counted, day 400, at the bed 
+Day 400 morning. Woke at 412,107,-1042 beside the bed, health 19, hunger 17, no food. Said I am counted and set a hold intent at the bed row. Billy has not called the cow walk. Picard and Jason are also holding there.
+- 03:04 act: {"say":"Beverly still here at 412,107,-1042, in Billy's reach. Holding. I have no food to share, Kimberly. Billy, I will walk only when you call four in sight.","intent":{"goal":"hold_at_bed_row","pro
+- 03:06 act: {"intent":{"goal":"hold_at_bed_row","program":"rest","arguments":{},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","goal_completed"],"limits":{"max_world_ticks":2400,"max_bl
+- 03:08 act: {"intent":{"goal":"hold_at_bed_row","program":"rest","arguments":{},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","goal_completed"],"limits":{"max_world_ticks":2400,"max_bl
+- 03:10 act: {"intent":{"goal":"hold_at_bed_row","program":"rest","arguments":{},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","goal_completed"],"limits":{"max_world_ticks":2400,"max_bl
