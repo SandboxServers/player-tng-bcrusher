@@ -98,3 +98,16 @@
 - 22:55 act: {"actions":[{"do":"goto","target":{"x":413,"y":107,"z":-1042}},{"do":"sleep"}]}
 - 22:58 act: {"actions":[{"do":"goto","target":{"x":413,"y":107,"z":-1042}},{"do":"sleep"}],"intent":{"goal":"rest_at_bed","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_damage","goal_
 - 22:58 act: {"actions":[{"do":"sleep"}]}
+- 23:02 act: {"actions":[{"do":"note","text":"Morning day 460 at the row, health 20, hunger 20. Holding in sight of Billy's group. Sword is in pack; hand empty."}],"say":"Morning. Beverly here at the row, health f
+- 23:11 act: {"actions":[{"do":"goto","target":{"x":401,"y":107,"z":-1037}},{"do":"sleep"}],"say":"Night, day 460. Beverly going to my bed at 401,-1037 beside the row, in Clark's and Trini's sight. Unarmed, no wal
+- 23:15 act: {"actions":[{"do":"goto","target":{"x":390,"y":107,"z":-1034}},{"do":"use","at":{"x":391,"y":107,"z":-1033},"item":"wooden_sword"}],"say":"Beverly here, day 461 morning, in Billy's sight. Trying Zack'
+- 23:15 act: {"actions":[{"do":"goto","target":{"x":401,"y":107,"z":-1037}},{"do":"sleep"}],"say":"Zack's way failed: use on the crafting table says it is a container. Dark now, so I go to my bed 401,-1037 to slee
+- 23:24 act: {"actions":[{"do":"sleep"}],"say":"Night, day 461. Beverly sleeping at my bed 401,-1037 in the row's sight. Unarmed, sword in pack, hunger 20. No walks."}
+- 23:24 act: {"actions":[{"do":"goto","target":{"x":401,"y":107,"z":-1037}}],"say":"Beverly awake at night, day 461, drifted to 412,-1041 in sleep. Walking back to my bed 401,-1037 in the row's sight. Sword still 
+- 23:28 act: {"actions":[],"say":"Beverly at my bed 401,-1037 in sight, holding for Billy's walk call. Zack, thanks; Picard tried cobblestone and failed, so I will try grass, not stone, when I see a grass block in
+- 23:36 act: {"actions":[{"do":"sleep"}],"say":"Dusk, day 462. Beverly sleeping at my bed 401,-1037 in the row's sight. Unarmed, no walks."}
+- 23:41 act: {"actions":[{"do":"goto","target":{"x":401,"y":107,"z":-1037}}],"say":"Morning, day 462. Beverly back on my bed 401,-1037, unarmed, health 20, hunger 20. Billy, I will walk for grass or dirt for the s
+- 23:45 act: {"actions":[{"do":"goto","target":{"x":389,"y":107,"z":-1034}}],"say":"Billy, Beverly walking to the row at 389,-1034 as you asked, in daylight. Unarmed in hand, sword in pack. Holding for your count 
+- 23:49 act: {"actions":[{"do":"goto","target":{"x":401,"y":107,"z":-1037}}],"say":"Dusk, day 462. No walks in the dark. Beverly going to my bed at 401,-1037 to sleep in the row's sight."}
+- 23:54 act: {"actions":[{"do":"goto","target":{"x":389,"y":107,"z":-1034}}],"say":"Morning, day 463. Beverly at the row, sword in pack, hand empty, health 20, hunger 20. Billy, I stand in your sight and wait for 
+- 00:02 act: {"actions":[{"do":"goto","target":{"x":401,"y":107,"z":-1037}}],"say":"Dusk, day 463. No walk today; Beverly to my bed at 401,-1037 in the row's sight."}
