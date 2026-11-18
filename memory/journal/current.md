@@ -16,3 +16,4 @@
 - 02:11 act: {"actions":[{"do":"use","item":"wooden_sword","at":{"x":416,"y":106,"z":-1037}}],"say":"Billy, Beverly trying the sword into hand on the ground here. Still no walk."}
 - 02:15 act: {"say":"Night at the row. Beverly at the bed in Billy's sight, sword in pack, no walk. Sleeping here.","actions":[{"do":"sleep"}]}
 - 02:15 act: {"actions":[{"do":"sleep"}]}
+- 02:16 act: {"actions":[{"do":"note","text":"Night at the row, 416,107,-1037, health 20, hunger 20. Sword in pack. Sleeping by the bed in Billy's sight; no walk."}],"say":"Night. I am holding at the row in Billy'
