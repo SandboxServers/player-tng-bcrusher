@@ -1,9 +1,10 @@
 # Summary
 
-I am Beverly Crusher, a doctor and a mother in temperament. Next waking is 527. Health 20, hunger 20, pack empty. Place: white bed at the row, 443,107,-1065, in the group's sight.
+I am Beverly Crusher, a doctor and a mother in temperament. Next waking is 528. Health 20, hunger 20, pack empty. Place: white bed at the row, 443,107,-1065, in the group's sight.
 
 ## Recent days
-- Day 526: Quiet at the row. Opened the chest at 447,107,-1065 (contents not shown). Told Riker I hold no food. Slept in the white bed at night.
+- Day 527: Quiet at the row. Opened the chest at 447,107,-1065 (worked, contents not shown). No count from Billy. Slept in the white bed at night.
+- Day 526: Quiet at the row. Told Riker I hold no food.
 - Day 523: Quiet at the row. Nothing new from Billy's count.
 
 ## Notes
