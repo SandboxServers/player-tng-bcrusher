@@ -1,7 +1,7 @@
-# Handoff, night 518
+# Handoff, day 520
 
-- Place: white bed at the row, 443,107,-1051, in sight of Billy's group. Health 20, hunger 20.
-- Pack empty. My wooden sword is in Riker's pack, not his hand. I hold no sword and no food.
-- Told Billy the sword is in Riker's pack (goal 3 said aloud, no reply yet).
-- No errand running. No walk. Hold at the row.
+- Place: white bed at the row, 444,107,-1065, in sight of the group. Health 20, hunger 20.
+- Pack empty. I hold no sword and no food. Riker holds my wooden sword in his pack.
+- No errand running. No walk. Holding at the row.
+- Jason and Clark are waiting for Billy to call a sword give; I told them I hold none.
 - Next: at waking, watch for Billy's count; eat only at hunger 6 or below.
