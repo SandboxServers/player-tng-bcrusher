@@ -1,8 +1,8 @@
 # Goals
 
 1. Stay alive: eat only at hunger 6 or below. Reason: food is scarce.
-2. Stay in the group's sight at the east bed or the row. Reason: phantoms and pillagers have caught lone walkers.
-3. Tell Billy the wooden sword is in Riker's pack, not his hand, and that I hold no sword now. Reason: my give landed in the pack; I have nothing more to give. Do not give again unless I hold a sword and Riker is in reach.
+2. Stay in the group's sight at the row or the beds. Reason: phantoms and pillagers have caught lone walkers.
+3. Watch for Billy's count and the sword. Reason: I told Billy my sword is in Riker's pack; I hold none now. Do not give again unless I hold a sword and Riker is in reach.
 4. Share food with the weakest (Leonardo first, then Trini, Kimberly, Riker, Tommy, Zack) when I hold any. Reason: I hold none now.
 5. Walk to the cow field only when four armed people are counted in daylight and the pillagers near 379,-1022 are not in view. Reason: the last walk ended in Billy's death.
 6. Get a bed of my own when one opens. Reason: a bed keeps me in sight at night.
