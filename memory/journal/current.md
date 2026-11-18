@@ -7,3 +7,12 @@
 - 01:29 act: {"actions":[{"do":"goto","target":{"x":417,"y":107,"z":-1037}}],"say":"Beverly walking now from 430 to the row at 417,-1037, in daylight, to be in Billy's sight. Not toward the cows.","reasoning":"Bil
 - 01:34 act: {"say":"Dusk, Billy. Beverly in the row beside the white bed, in your sight. Going to sleep.","actions":[{"do":"sleep"}]}
 - 01:34 act: {"actions":[{"do":"sleep"}]}
+- 01:38 act: {"say":"Morning, row. Beverly at 416,-1037, sword in pack, hand empty, holding in the row. Waiting for Billy's count.","actions":[{"do":"note","text":"Day 468 morning: held at the row, sword in pack, 
+- 01:46 act: {"say":"Dusk, Billy. Beverly at the row, in your sight, sword in pack. Holding here for the night.","actions":[{"do":"sleep"}],"reasoning":"Dusk on day 468. I am at the row beside Billy. Sleep here in
+- 01:46 act: {"actions":[{"do":"sleep"}]}
+- 01:50 act: {"say":"Morning, Billy. Beverly at the row by the bed, sword in pack, holding for your count.","actions":[{"do":"note","text":"Day 468 morning: holding at the row beside the bed, sword in pack, per Bi
+- 01:58 act: {"say":"Dusk. Beverly at the row by the bed, sword in pack, holding for Billy's count at first light.","actions":[{"do":"sleep"}]}
+- 02:03 act: {"say":"Morning, row. Beverly at the bed, sword in pack, unarmed in hand. Holding for Billy's count. No walk.","actions":[]}
+- 02:11 act: {"actions":[{"do":"use","item":"wooden_sword","at":{"x":416,"y":106,"z":-1037}}],"say":"Billy, Beverly trying the sword into hand on the ground here. Still no walk."}
+- 02:15 act: {"say":"Night at the row. Beverly at the bed in Billy's sight, sword in pack, no walk. Sleeping here.","actions":[{"do":"sleep"}]}
+- 02:15 act: {"actions":[{"do":"sleep"}]}
