@@ -18,3 +18,5 @@
 - Billy counts the group at the row; the count is four in daylight before any walk.
 - Melon patch at 306-314, 90-91, -1124 to -1133. Cows were at 339,104,-979.
 - Day 416-417: nothing new; the group held at the row and slept at dusk without harm.
+- A sword can get into hand by a give: Chapman's came from Trini's give (day 516). Leonardo's wooden sword landed in MacDonald's hand after a give (day 516). Test pending for me.
+- Phantoms attacked at night on day 516 near 402-415, 107, -1035 to -1041; Leonardo fell to health 1.3.
