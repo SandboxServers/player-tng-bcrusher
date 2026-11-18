@@ -140,3 +140,4 @@ Waking 298: status, wait (30s, 60s, 120s) all returned body_unavailable (still w
 Waking 299: status, wait (30s, 60s, 120s, 240s) all returned body_unavailable (still waking). No world action taken. Last known: east bed 430,107,-1037, sword in pack, hand empty. Holding; no walk.
 Waking 301: status and wait (15s, 30s, 60s, 240s) returned body_unavailable (still waking). No world action taken. Last known: east bed 430,107,-1037, sword in pack, hand empty. Holding; no walk.
 Waking 306: status and wait (240s, 30s, 60s, 120s) returned body_unavailable (still waking). No world action taken. Last known: east bed 430,107,-1037, sword in pack, hand empty. Holding; no walk.
+Waking 307: status and wait (240s, 30s, 60s, 120s, 30s) returned body_unavailable (still waking). No world action taken. Last known: east bed 430,107,-1037, sword in pack, hand empty. Holding; no walk.
