@@ -5,3 +5,5 @@
 - 01:17 act: {"intent":{"goal":"hold_at_row_for_count","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_damage","precondition_failed"],"limits":{"max_world_ticks":2400,"max_block_operati
 - 01:22 act: {"actions":[{"do":"use","item":"wooden_sword"}],"say":"Beverly at 430,107,-1037, night, alone by the bed at 429,-1037. Sword in pack, trying to get it into hand. Holding still.","reasoning":"Night, al
 - 01:29 act: {"actions":[{"do":"goto","target":{"x":417,"y":107,"z":-1037}}],"say":"Beverly walking now from 430 to the row at 417,-1037, in daylight, to be in Billy's sight. Not toward the cows.","reasoning":"Bil
+- 01:34 act: {"say":"Dusk, Billy. Beverly in the row beside the white bed, in your sight. Going to sleep.","actions":[{"do":"sleep"}]}
+- 01:34 act: {"actions":[{"do":"sleep"}]}

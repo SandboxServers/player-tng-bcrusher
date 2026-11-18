@@ -1,6 +1,5 @@
-# Handoff, dusk day 468
-- At the row 417,107,-1036, within Billy's reach. Health 20, hunger 20.
-- Sword still in pack, hand empty. Hand test needs grass in daylight, in Billy's sight.
-- Hold no food. Eat only at hunger 6 or below.
-- Walk only on Billy's count, in daylight, four armed in his sight.
-- Billy counts Trini and Zack armed; I am the third. Night: sleep in the row, in Billy's sight.
+# Handoff, night day 468
+- At the row 416,107,-1036, beside Billy in his sight. Health 20, hunger 20. Sleeping attempts made; still night.
+- Sword in pack, hand empty. Hold no food. Eat only at hunger 6 or below.
+- No errand running. No walk until first light and Billy's count of four armed in sight.
+- Morning next: hand test on grass in daylight, in Billy's sight, if he calls it.
