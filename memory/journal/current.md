@@ -124,3 +124,4 @@
 - 10:21 act: {"say":"Dusk, Billy. Beverly sleeping at the east bed in Billy's sight, unarmed, sword in pack. No walk.","actions":[{"do":"sleep"}]}
 - 10:21 act: {"actions":[{"do":"sleep"}]}
 - Night 494: slept at east bed in Billy's sight (3 of 10, then worked), unhurt. Morning 494/495: health 20, hunger 20, sword in pack, hand empty. Billy: count two armed, nobody walks. Holding.
+- Waking 274: status and wait both returned body_unavailable (body still waking) four times. No world action taken. Will retry.
