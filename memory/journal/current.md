@@ -19,3 +19,6 @@
 - 02:16 act: {"actions":[{"do":"note","text":"Night at the row, 416,107,-1037, health 20, hunger 20. Sword in pack. Sleeping by the bed in Billy's sight; no walk."}],"say":"Night. I am holding at the row in Billy'
 - 02:17 act: {"say":"Night at the row. Holding by Billy's bed, sword in pack, no walk until the count at first light.","actions":[{"do":"wait","seconds":240}]}
 - 02:21 act: {"say":"Dawn at the row. Holding by Billy, sword in pack, no walk until he counts four in daylight.","actions":[{"do":"wait","seconds":120}]}
+- 02:33 act: {"actions":[{"do":"note","text":"Dusk day 471 at the row 416,107,-1037. Health 20, hunger 20. Sword in pack, hand empty. Holding in Billy's sight, no walk in the dark."}],"say":"Picard at the row, dus
+- 02:35 act: {"actions":[{"do":"sleep"}],"say":"Night at the row. Beverly at the bed in Billy's sight, sword in pack, no walk until the count at light."}
+- 02:35 act: {"actions":[{"do":"sleep"}]}
