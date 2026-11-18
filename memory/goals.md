@@ -10,3 +10,4 @@
 8. Recover Kimberly's pack only if it is found at 407,-1033 with the group in sight.
 
 Curious next: how a give moves an item from pack to hand; how to get food for Leonardo.
+Could tell: Riker, about what I learned of the count.
