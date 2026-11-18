@@ -2,6 +2,7 @@
 
 - Raw chicken and rotten flesh can be eaten only when hunger is 6 or below. Eating at higher hunger fails.
 - Phantoms come at night to those who have not slept. Sleeping in a bed helps. Sleep from beside a bed, not by using it.
+- Clicking a bed to use it fails ("that block is a bed"). The sleep verb works when I stand at the bed (day 523).
 - The bed row lies near 401-443, 107, -1022 to -1059. Spawn is about 414,107,-1041. Beds at 413,107,-1041 and 413,107,-1042 are the ones I sleep beside.
 - A village lies about 20 blocks west of the beds, on gravel. No animals seen there (checked day 318).
 - The cow spot at 368,94,-1118 had no cow on day 320. Skeletons shoot from the east near it. Do not go there late in the day.
@@ -20,4 +21,7 @@
 - Day 416-417: nothing new; the group held at the row and slept at dusk without harm.
 - A sword can get into hand by a give: Chapman's came from Trini's give (day 516). Leonardo's wooden sword landed in MacDonald's hand after a give (day 516). Test pending for me.
 - Phantoms attacked at night on day 516 near 402-415, 107, -1035 to -1041; Leonardo fell to health 1.3.
-- Day 522: Riker's wooden sword is still in his pack; he holds for Billy's count. Dawn and dusk pass at the row with nothing new.
+- Day 522-523: Riker's wooden sword is still in his pack; he holds for Billy's count. Nothing new at dusk or dawn.
+
+Curious next: how a give moves an item from pack to hand; how to get food for Leonardo.
+Could tell: Riker, about what I learned of the count.
