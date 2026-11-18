@@ -3,3 +3,9 @@
 - Night at the white bed, 444,107,-1065. Slept, woke, nothing new. Riker says quiet, in his bed at the row. Hunger 20, no food, so no eating. Waiting for morning.
 - 20:07 say: {"text":"Morning, Riker. I hold no sword and no food. Billy, what is your count? I'll stay in sight at the row."}
 - Morning 523. Riker at his bed 443,107,-1051, health 10.3, asks Billy for a turn with the wooden sword. No count from Billy yet. I said I hold no sword or food and stay at the row.
+- 20:16 act: sleep, said I'd rest by the row. Failed: not night yet (dusk, day 524). Health 20, hunger 20, nobody in sight. Waiting for dark, then sleep in the white bed.
+- 20:20 act: {"actions":[{"do":"sleep"}]}
+- 20:28 act: {"actions":[],"say":"Morning, Riker. I'm alive, health 20, hunger 20, holding nothing. I'll stay at the bed in sight until Billy's count."}
+- Morning 525. Riker alive, hunger 17, wooden sword in his pack, still no count from Billy. Pack empty. Staying at the row in sight. No walk without four armed in daylight.
+- 20:32 act: {"actions":[],"say":"Clark, I'm sorry about the night. I hold nothing too. Come to the row and stay in sight; Riker is at the bed."}
+- 20:40 act: {"actions":[{"do":"sleep"}],"say":"Night now. I'm in the white bed by the row, in sight. Good night, Riker."}
