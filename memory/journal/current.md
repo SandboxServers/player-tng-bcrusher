@@ -132,3 +132,4 @@
 - Waking 292: status and wait returned body_unavailable (still waking) through about nine tries. No world action taken. Last known: east bed 430,107,-1037, health 20, hunger 20, sword in pack, hand empty. Holding.
 - Waking 293: status and wait returned body_unavailable (still waking) through about four tries. No world action taken. Last known: east bed 430,107,-1037, health 20, hunger 20, sword in pack, hand empty. Holding.
 - Waking 282: status and wait returned body_unavailable (still waking) through several tries. No world action taken. Last known: east bed 430,107,-1037, health 20, hunger 20, sword in pack, unarmed in hand. Will retry status next cycle.
+- Waking 294: status, wait, look all returned body_unavailable (still waking) through about nine tries. No world action taken. Last known: east bed 430,107,-1037, health 20, hunger 20, sword in pack, hand empty. Holding; no walk.
