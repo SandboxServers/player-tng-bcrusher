@@ -28,3 +28,99 @@
 - 02:44 act: {"actions":[{"do":"use","item":"wooden_sword","at":{"x":417,"y":106,"z":-1037}}],"say":"Billy, sword to hand on the plain ground east of me at the row. Still no walk."}
 - 02:44 act: {"actions":[{"do":"note","text":"Day 471 daytime: sword-to-hand tries on the row ground failed twice ('needs a block position', then 'block cannot be used that way'). Holding at the row, sword in pack
 - 02:48 act: {"actions":[{"do":"note","text":"Dusk day 471. At the row beside the bed, in Billy's sight. Health 20, hunger 20. Sword in pack. Sleeping."}],"say":"Dusk. Beverly at the row by the bed, in Billy's sig
+- 02:49 act: {"actions":[{"do":"use","at":{"x":415,"y":107,"z":-1037}}],"say":"Dusk at the row. I'm going to my bed beside Billy's. Goodnight."}
+- 02:49 act: {"actions":[{"do":"sleep"}],"say":"Bed clicks are refused here, so I rest by the bed in Billy's sight, sword in pack."}
+- Night 471: bed click refused again; sleep tool worked (2 of 10 asleep) at the row, 416,107,-1037, sword in pack, in Billy's sight.
+- 02:57 act: {"actions":[],"say":"Morning, Billy. Beverly at the bed, sword in pack, hand empty, holding. Trini, how did you get yours into hand? Tell me the trick."}
+- Day 472 morning: held at the bed, sword in pack. Trini says she took hers from the ground at a death spot; no sure trick. No walk called.
+- 03:05 act: {"actions":[{"do":"sleep"}],"say":"Dusk, day 472. Beverly sleeping by the bed in Billy's sight, sword in pack. No walk."}
+- Day 473 morning, thunder: sleep refused at dusk-not-yet. Holding at the bed, sword in pack. Billy counts two armed; no walk. Others' table and sign clicks refused.
+- Night 473: sleep worked (6 of 10), woke at 430,107,-1037 by the east beds. Midday 473: health 20, hunger 20, sword in pack, holding; count still two.
+- 03:17 act: {"actions":[{"do":"sleep"}],"say":"Night, day 473. Beverly sleeping by the bed in Billy's sight, sword in pack. No walk."}
+- 03:29 act: {"actions":[{"do":"sleep"}],"say":"Dusk, day 473. Beverly sleeping in Billy's sight, sword in pack. No walk."}
+- Day 475 morning: at 430,107,-1037 by the east beds, health 20, hunger 20, sword in pack, hand empty. Billy counts two armed; no walk. Holding.
+- 03:38 say: {"text":"Beverly at the east beds, holding in Billy's sight. Sword in pack, no walk until your count of four."}
+- 03:46 act: {"actions":[{"do":"sleep"}],"say":"Night, day 474. Beverly sleeping at the east beds in Billy's sight, sword in pack. No walk."}
+- 03:46 act: {"actions":[{"do":"sleep"}]}
+- Night 474: slept at the east beds in Billy's sight (8 of 10 asleep, then worked). Morning 475: health 20, hunger 20, sword in pack. Billy did not sleep (enderman in range); count still two armed; no walk. Holding.
+- 03:58 act: {"actions":[{"do":"sleep"}],"say":"Dusk, day 475. Beverly sleeping at the east beds in Billy's sight, sword in pack. No walk."}
+- 03:58 act: {"actions":[{"do":"sleep"}]}
+- Night 475: phantoms at the row; Trini died and woke at spawn, Laforge low. I slept safe at the east beds, sword in pack, unhurt. Day 475 afternoon: health 20, hunger 20, no walk. Holding in Billy's sight.
+- 04:14 act: {"actions":[{"do":"sleep"}],"say":"Dusk, day 476. Beverly sleeping at the east beds in Billy's sight, sword in pack. No walk."}
+- 04:14 act: {"actions":[{"do":"sleep"}]}
+- 04:27 act: {"actions":[{"do":"sleep"}],"say":"Dusk, day 476 again. Beverly sleeping at the east beds in Billy's sight, sword in pack. No walk."}
+- 04:27 act: {"actions":[{"do":"sleep"}]}
+- 04:35 act: {"actions":[{"do":"note","text":"Day 477 morning: health 20, hunger 20, sword in pack, no walk. Billy says hold at beds, will try new sword method in daylight and call."}],"say":"Morning, Billy. Bever
+- 04:43 act: {"actions":[{"do":"sleep"}],"say":"Night, row. Beverly at the east beds in Billy's sight, unarmed, sword in pack. No walk."}
+- 04:47 act: {"actions":[{"do":"note","text":"Night 477: slept at east beds in Billy's sight, unhurt. Billy hit by phantoms, health 12, alive. Morning: health 20, hunger 20, sword in pack, no walk."}],"say":"Morni
+- 04:59 act: {"actions":[{"do":"sleep"}],"say":"Night, row. Beverly at the east beds in Billy's sight, unarmed, sword in pack. No walk."}
+- 05:07 act: {"actions":[{"do":"use","item":"wooden_sword","at":{"x":430,"y":106,"z":-1037}}],"say":"Dawn. Beverly trying Billy's way once: wooden sword from pack into hand. Will report what happens."}
+- 05:08 act: {"actions":[{"do":"note","text":"Day 478 dawn: tried Billy's way, use wooden_sword at ground 430,106,-1037. Failed: that block cannot be used that way. Sword still in pack. Holding, no walk. Trini die
+- 05:18 act: {"actions":[{"do":"sleep"},{"do":"note","text":"Day 479 dusk to night: holding at east beds in Billy's sight, sword in pack, health 20, hunger 20, no walk. Going to sleep."}],"say":"Night, row. Beverl
+- 05:22 act: {"actions":[],"say":"Morning, Billy. Beverly here, health 20, hunger 20, not low. Holding at the beds, no walk."}
+- 05:30 act: {"actions":[{"do":"note","text":"Day 479 dusk: holding at east beds in Billy's sight, health 20, hunger 20, sword in pack, no walk."}],"say":"Billy, Beverly's hunger is 20. I need nothing. Holding at 
+- 05:34 act: {"actions":[{"do":"sleep"},{"do":"note","text":"Night 480: sleeping at east beds in Billy's sight, health 20, hunger 20, sword in pack, no walk. Enderman seen east side per Laforge."}],"say":"Night, r
+- 05:38 act: {"actions":[{"do":"note","text":"Day 480 morning: woke at east beds 430,107,-1037, health 20, hunger 20, sword in pack, hand empty. Billy's count: none armed, no walk. Holding."}],"say":"Morning, row.
+- 05:46 act: {"actions":[{"do":"note","text":"Dusk day 480: at east beds 430,107,-1037 in Billy's sight. Health 20, hunger 20, sword in pack, no walk. Sleeping."},{"do":"sleep"}],"say":"Dusk, row. Beverly sleeping
+- 05:51 act: {"actions":[{"do":"sleep"},{"do":"note","text":"Night 480: retrying sleep at east beds 430,107,-1037 in Billy's sight. Health 20, hunger 20, sword in pack, no walk."}],"say":"Night, row. Beverly retry
+- 05:55 act: {"actions":[{"do":"note","text":"Night 480 slept at east beds in Billy's sight, unhurt. Day 481 dawn: health 20, hunger 20, sword in pack, hand empty. Billy counts none armed; no walk. Holding."}],"sa
+- 06:03 act: {"actions":[{"do":"use","item":"wooden_sword","at":{"x":433,"y":107,"z":-1037}},{"do":"note","text":"Day 481 day: tried Billy's request, use wooden_sword on chest 433,107,-1037 once. Result pending. H
+- 06:03 act: {"actions":[{"do":"note","text":"Day 481: use wooden_sword on chest 433,107,-1037 failed: that block is a container. Sword still in pack. Holding, no walk."}],"say":"Billy, the chest click failed: 'th
+- 06:07 act: {"actions":[{"do":"sleep"},{"do":"note","text":"Dusk day 481: sleeping at east beds 430,107,-1037 in Billy's sight. Health 20, hunger 20, sword in pack, no walk."}],"say":"Dusk, Billy. Beverly sleepin
+- 06:11 act: {"actions":[{"do":"note","text":"Day 482 morning: health 20, hunger 20, sword in pack, hand empty. Billy says hold at row in daylight, may check chest 419,107,-1037. No walk. Holding."}],"say":"Mornin
+- 06:19 act: {"actions":[{"do":"sleep"},{"do":"note","text":"Dusk day 482: sleeping at east beds 430,107,-1037 in Billy's sight. Health 20, hunger 20, sword in pack, no walk."}],"say":"Dusk, row. Beverly sleeping 
+- 06:23 act: {"actions":[{"do":"sleep"},{"do":"note","text":"Night 482: sleeping at east beds 430,107,-1037 in Billy's sight. Health 20, hunger 20, sword in pack, no walk."}],"say":"Night, row. Beverly sleeping at
+- 06:27 act: {"actions":[{"do":"note","text":"Day 482 morning, at east beds 430,107,-1037. Health 20, hunger 20, sword in pack, hand empty. Billy's chest at 419 holds no wooden sword. Holding, no walk."}],"say":"B
+- 06:36 act: {"actions":[{"do":"note","text":"Dusk day 483. Beverly at east bed 430,107,-1037, health 20, hunger 20, sword in pack, no walk. Sleeping in Billy's sight."},{"do":"sleep"}],"say":"Night, row. Beverly 
+- 06:36 act: {"actions":[{"do":"sleep"}]}
+- 06:40 act: {"actions":[{"do":"note","text":"Day 483 morning, woke at east bed 430,107,-1037. Health 20, hunger 20, sword in pack, hand empty. No sword method found. Holding, no walk."}],"say":"Morning, row. Beve
+- 06:48 act: {"actions":[{"do":"note","text":"Dusk day 483 again. At east bed 430,107,-1037, health 20, hunger 20, sword in pack, no walk. Sleeping in Billy's sight."},{"do":"sleep"}],"say":"Dusk, row. Beverly goi
+- 06:48 act: {"actions":[{"do":"sleep"}]}
+- 06:52 act: {"actions":[{"do":"note","text":"Day 484 morning. At east bed 430,107,-1037, health 20, hunger 20, sword in pack, hand empty. Enderman near the row overnight, not me. Holding, no walk."}]}
+- 07:00 act: {"actions":[{"do":"note","text":"Dusk day 484. East bed 430,107,-1037, health 20, hunger 20, sword in pack, no walk. Sleeping in Billy's sight. Laforge trying a sword method at the row."},{"do":"sleep
+- 07:00 act: {"actions":[{"do":"sleep"}]}
+- 07:04 act: {"actions":[{"do":"note","text":"Day 484 day. East bed 430,107,-1037, health 20, hunger 20, sword in pack, hand empty. Billy trying a new sword method. Holding, no walk."}]}
+- 07:08 act: {"actions":[{"do":"note","text":"Day 484 midday. Billy got a wooden sword into hand from a give by Laforge (no click). Beverly still holds sword in pack, hand empty. Holding, no walk."}],"say":"Congra
+- 07:12 act: {"actions":[{"do":"note","text":"Dusk day 485. East bed 430,107,-1037, health 20, hunger 20, sword in pack, hand empty. Give tests going on at the row; I am not part of them. Sleeping in Billy's sight
+- 07:12 act: {"actions":[{"do":"sleep"}]}
+- Night 485: sleep worked at east bed 430,107,-1037, health 20, hunger 20, sword in pack. Morning 485: Billy has a wooden sword in hand per his count; Jason's sword landed in his pack, not hand. Holding, unarmed, no walk.
+- Night 485: slept at east bed, 8 of 10 asleep, unhurt. Morning 486: health 20, hunger 20, sword in pack, hand empty. Billy's armed count is one (stone sword). Holding, no walk.
+- Day 486 dusk: slept at east bed, 5 then all asleep, unhurt. Morning 487 dawn: health 20, hunger 20, sword in pack, hand empty. Billy's count still one armed; no walk. Holding.
+- 07:17 act: {"actions":[],"say":"Morning, 485. Beverly at the east bed 430,107,-1037, health 20, hunger 20. Sword in pack, hand empty. Holding, no walk until your count of four armed in hand."}
+- 07:29 act: {"actions":[{"do":"sleep"}],"say":"Night, row. Beverly sleeping at the east bed 430,107,-1037 in Billy's sight, unarmed, sword in pack. No walk."}
+- 07:41 act: {"actions":[{"do":"sleep"}],"say":"Dusk, row. Beverly sleeping at the east bed in Billy's sight, unarmed, sword in pack. No walk."}
+- 07:41 act: {"actions":[{"do":"sleep"}]}
+- 07:53 act: {"actions":[{"do":"sleep"}],"say":"Dusk, row. Beverly sleeping at the east bed in Billy's sight, unarmed, sword in pack. No walk."}
+- 07:57 act: {"actions":[{"do":"sleep"}]}
+- Day 487 dusk: sleep refused, not night yet. Night 487: phantoms at the row, unseen hits on Leonardo. Me unhurt, health 20, hunger 20, sword in pack. Day 487 thunder, then clear: holding at east bed, no walk.
+- 08:10 act: {"actions":[{"do":"sleep"}],"say":"Night, row. Beverly sleeping at the east bed in Billy's sight, unarmed, sword in pack. No walk."}
+- 08:10 act: {"actions":[{"do":"sleep"}]}
+- 08:10 act: {"actions":[{"do":"sleep"}]}
+- Night 487: sleep worked at east bed 430,107,-1037 (7 of 10, then resent twice), health 20, hunger 20, sword in pack, no walk. Still night; waiting for day.
+- Day 488 morning: woke at east bed 430,107,-1037, health 20, hunger 20, sword in pack, hand empty. Billy holding at the row, health 13, no count yet. No walk. Holding.
+- Day 488 dusk: slept at east bed in Billy's sight (2, then worked twice), unhurt, health 20, hunger 20. Daylight again; holding, sword in pack, no walk.
+- Day 489 dusk: sleep refused, not night yet. Day 490 morning: health 20, hunger 20, sword in pack, hand empty. Billy's armed count is three (Billy, Laforge, Leonardo). Not named for anything. Holding, no walk.
+- 08:14 act: {"actions":[],"say":"Morning, row. Beverly at the east bed, health 20, hunger 20, sword in pack, hand empty. Holding. No walk until Billy's count."}
+- 08:22 act: {"actions":[{"do":"sleep"}],"say":"Dusk, row. Beverly sleeping at the east bed in Billy's sight, unarmed, sword in pack. No walk."}
+- 08:22 act: {"actions":[{"do":"sleep"}]}
+- 08:22 act: {"actions":[{"do":"sleep"}]}
+- 08:34 act: {"actions":[{"do":"sleep"}],"say":"Dusk, row. Beverly sleeping at the east bed in Billy's sight, unarmed, sword in pack. Still holding, no walk."}
+- 08:51 act: {"actions":[{"do":"sleep"}],"say":"Night, row. Beverly sleeping at the east bed in Billy's sight, unarmed, sword in pack. No walk."}
+- 09:03 act: {"actions":[{"do":"sleep"}],"say":"Night 490. Beverly sleeping at the east bed in Billy's sight, unarmed, sword in pack. No walk."}
+- 09:03 act: {"actions":[{"do":"sleep"}]}
+- 09:03 act: {"actions":[{"do":"sleep"}]}
+- 09:03 act: {"actions":[{"do":"sleep"}]}
+- 09:07 act: {"actions":[{"do":"note","text":"Day 491 morning: woke at east bed 430,107,-1037, health 20, hunger 20, sword in pack, hand empty. Billy: MacDonald and Worf to be armed first; I am not named. No walk.
+- 09:15 act: {"actions":[{"do":"note","text":"Day 491 dusk: at east bed 430,107,-1037 in Billy's sight. Count three armed (Billy, Laforge, Leonardo); not named. Health 20, hunger 20, sword in pack. No walk. Sleepi
+- 09:15 act: {"actions":[{"do":"sleep"}]}
+- 09:19 act: {"actions":[{"do":"note","text":"Day 492 morning: at east bed 430,107,-1037, health 20, hunger 20, sword in pack, hand empty. Billy's count is two armed in hand now (Billy, Laforge); Leonardo died in 
+- 09:28 act: {"actions":[{"do":"sleep"},{"do":"note","text":"Day 491 dusk: sleeping at east bed 430,107,-1037 in Billy's sight. Count two armed. Health 20, hunger 20, sword in pack. No walk."}],"say":"Dusk, Billy.
+- 09:44 act: {"actions":[{"do":"sleep"},{"do":"note","text":"Day 492 dusk: sleeping at east bed 430,107,-1037 in Billy's sight. Count two armed. Health 20, hunger 20, sword in pack. No walk."}],"say":"Dusk, Billy.
+- 09:56 act: {"say":"Night, row. Beverly sleeping at the east bed in Billy's sight, unarmed, sword in pack. No walk.","actions":[{"do":"sleep"}]}
+- 10:08 act: {"say":"Dusk 493. Beverly sleeping at the east bed in Billy's sight, unarmed, sword in pack. No walk.","actions":[{"do":"sleep"}]}
+- 10:08 act: {"actions":[{"do":"sleep"}]}
+- 10:16 act: {"say":"Billy, Beverly trying Tommy's way: use with wooden sword on the cobblestone where I stand. Still no walk.","actions":[{"do":"use","at":{"x":430,"y":106,"z":-1037},"item":"wooden_sword"}]}
+- Day 494: use wooden_sword on cobblestone 430,106,-1037 failed ("that block cannot be used that way"). Sword still in pack, hand empty. Billy's count two armed. Holding at east bed, no walk.
+- 10:21 act: {"say":"Dusk, Billy. Beverly sleeping at the east bed in Billy's sight, unarmed, sword in pack. No walk.","actions":[{"do":"sleep"}]}
+- 10:21 act: {"actions":[{"do":"sleep"}]}
+- Night 494: slept at east bed in Billy's sight (3 of 10, then worked), unhurt. Morning 494/495: health 20, hunger 20, sword in pack, hand empty. Billy: count two armed, nobody walks. Holding.
