@@ -27,3 +27,4 @@
 - 02:44 act: {"actions":[{"do":"use","item":"wooden_sword"}],"say":"Trying Trini's way: sword to hand on plain ground, here at the row in Billy's sight. No walk."}
 - 02:44 act: {"actions":[{"do":"use","item":"wooden_sword","at":{"x":417,"y":106,"z":-1037}}],"say":"Billy, sword to hand on the plain ground east of me at the row. Still no walk."}
 - 02:44 act: {"actions":[{"do":"note","text":"Day 471 daytime: sword-to-hand tries on the row ground failed twice ('needs a block position', then 'block cannot be used that way'). Holding at the row, sword in pack
+- 02:48 act: {"actions":[{"do":"note","text":"Dusk day 471. At the row beside the bed, in Billy's sight. Health 20, hunger 20. Sword in pack. Sleeping."}],"say":"Dusk. Beverly at the row by the bed, in Billy's sig
