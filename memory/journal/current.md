@@ -22,3 +22,8 @@
 - 02:33 act: {"actions":[{"do":"note","text":"Dusk day 471 at the row 416,107,-1037. Health 20, hunger 20. Sword in pack, hand empty. Holding in Billy's sight, no walk in the dark."}],"say":"Picard at the row, dus
 - 02:35 act: {"actions":[{"do":"sleep"}],"say":"Night at the row. Beverly at the bed in Billy's sight, sword in pack, no walk until the count at light."}
 - 02:35 act: {"actions":[{"do":"sleep"}]}
+- 02:39 act: {"actions":[{"do":"note","text":"Morning day 471. At the row beside the white bed. Holding for Billy's count; sword stays in pack."}],"say":"Beverly here at the row, health 20, hunger 20. Sword in pac
+- 02:40 act: {"actions":[{"do":"wait","seconds":240}]}
+- 02:44 act: {"actions":[{"do":"use","item":"wooden_sword"}],"say":"Trying Trini's way: sword to hand on plain ground, here at the row in Billy's sight. No walk."}
+- 02:44 act: {"actions":[{"do":"use","item":"wooden_sword","at":{"x":417,"y":106,"z":-1037}}],"say":"Billy, sword to hand on the plain ground east of me at the row. Still no walk."}
+- 02:44 act: {"actions":[{"do":"note","text":"Day 471 daytime: sword-to-hand tries on the row ground failed twice ('needs a block position', then 'block cannot be used that way'). Holding at the row, sword in pack
