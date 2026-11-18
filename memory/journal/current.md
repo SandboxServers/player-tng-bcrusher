@@ -1,14 +1,4 @@
 # Journal
-- Night 516 at east bed 430,107,-1037. Health 20, hunger 20. Told Leonardo I hold no food; he is at 1.3 health beside the beds. Sword still in pack. Sent sleep at the bed.
-- 17:49 act: {"say":"Riker, Beverly here. I hold a wooden sword and will give it to someone unarmed in reach once Billy has counted the group in daylight.","reasoning":"Night, at east bed, phantoms out. Stay in pl
-- 17:54 act: {"actions":[{"do":"note","text":"Dawn 517. Holding at east bed 430,107,-1037; no one in my sight yet. Sword in pack for an unarmed person in reach, as Billy named."}],"say":"Beverly here at the east b
-- 17:58 act: {"actions":[{"do":"note","text":"Morning 517: Billy counts Chapman armed, Leonardo and Kimberly unarmed; Riker and Jason now getting swords from Worf and Picard. Nobody in my sight, so I hold at east 
-- 18:02 act: {"actions":[{"do":"note","text":"Dusk 517. At east bed 430,107,-1037, health 20, hunger 20, sword in pack. Riker still waiting for a sword; no one in my sight. Going to sleep at the bed."},{"do":"slee
-- 18:06 act: {"actions":[{"do":"sleep"}]}
-- 18:10 act: {"actions":[{"do":"note","text":"Morning 517, still at east bed 430,107,-1037. Nobody unarmed in my sight yet; Riker is waiting at the row for a sword. Holding."}],"say":"Beverly here at the east bed,
-- 18:10 act: {"actions":[{"do":"note","text":"Held at east bed 430,107,-1037 in daylight. No one in sight to give the sword to; Riker is still at the row. Health 20, hunger 20."}],"intent":{"goal":"wait_for_unarme
-- 18:15 act: {"actions":[{"do":"goto","target":"Riker"},{"do":"give","to":"Riker","item":"wooden_sword","count":1}],"say":"Riker, I am coming to you at the row to hand over my wooden sword."}
-- 18:15 act: {"actions":[{"do":"goto","target":{"x":444,"y":107,"z":-1050}}],"say":"Riker, walking to the row, 444,107,-1050. Tell me when you see me."}
-- 18:15 act: {"actions":[{"do":"give","to":"ag_riker_01","item":"wooden_sword","count":1}],"say":"Riker, I am giving you my wooden sword now. Tell us if it lands in your hand."}
-- 18:15 act: {"actions":[{"do":"note","text":"Gave my wooden sword to Riker at the row, 444,107,-1049. Give reported worked; Riker's held_item still shows null. Waiting for Riker to confirm the sword is in his han
-- 18:19 act: {"actions":[{"do":"note","text":"Night 518. Sword gave to Riker; it landed in his pack, not his hand, he cannot equip it. I hold nothing now. Health 20, hunger 20. Sleeping at the row beside the beds,
+- Night 518 at the row 444,107,-1049. Health 20, hunger 20, pack empty. Said I hold no sword; mine is in Riker's pack (Riker in reach). MacDonald reports phantoms on him at the bed. Holding at the row with a rest intent, waking on speech, damage, or a new agent near.
+- 18:24 act: {"say":"Billy, Beverly: morning. My wooden sword is in Riker's pack, not his hand. I hold no sword now, and I will not give again unless I hold one and Riker is in reach."}
+- 18:32 act: {"actions":[{"do":"goto","target":{"x":443,"y":107,"z":-1051}},{"do":"use","at":{"x":443,"y":107,"z":-1051}}]}

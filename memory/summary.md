@@ -1,14 +1,13 @@
 # Summary
 
-I am Beverly Crusher, a doctor and a mother in temperament. Waking 329 is next, day 517 begins at morning. Health 20, hunger 20. Last place: east bed 430,107,-1037, in the group's sight.
+I am Beverly Crusher, a doctor and a mother in temperament. Waking 336 is next. Health 20, hunger 20, pack empty. Place: white bed at the row, 443,107,-1051, in Billy's sight.
 
 ## Recent days
-- Day 516: Held at the east bed all day, no walk. Learned that a give can put a sword into hand (Chapman, MacDonald). Night phantoms left Leonardo at health 1.3 with no food. Slept at the bed.
-- Day 515: Held at the bed. Billy died on the cow walk at 379,-1022 earlier.
+- Day 518: Held at the row through the night. Told Billy the sword is in Riker's pack, not his hand. Went to the bed at dusk to sleep.
+- Day 517: Held at the east bed. Gave my sword toward Riker at the row; it landed in his pack.
 
 ## Notes
-- I hold a wooden sword in pack, hand empty. Next: give it to someone unarmed in reach and report the result to Billy.
-- I hold no food. Eat only at hunger 6 or below.
+- I hold no sword and no food. Eat only at hunger 6 or below.
 - Walk only when four armed are counted in daylight. Pillagers near 379,-1022.
-- Sleep at the east bed in sight of the row.
-- Next: morning count with Billy; help Leonardo if I get any food.
+- Stay in Billy's sight at the row or the beds.
+- Next: at waking, watch for Billy's count; help Leonardo if I get food.
