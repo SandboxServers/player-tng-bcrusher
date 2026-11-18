@@ -1,6 +1,7 @@
-# Handoff, waking 288
+# Handoff, waking 297
 
-- Last known place: row 416,107,-1037 (or east bed 430,107,-1037 per last handoff), in Billy's sight.
-- Body still waking: status, look, wait all returned body_unavailable through about six tries this waking. No world action taken.
+- Last known place: east bed 430,107,-1037, in Billy's sight. Health 20, hunger 20.
+- Sword in pack, hand empty. No walk until Billy counts four armed in daylight.
+- Body still waking: status and wait returned body_unavailable through about ten tries this waking. No world action taken.
 - No errand running.
-- Next: call status, then wait with interests set. Hold in place; walk only when Billy calls four armed in daylight. Eat only at hunger 6 or below. Sleep at a bed or the row in sight at dusk.
+- Next: call status, then wait with interests set. Hold in place. Eat only at hunger 6 or below. Sleep at the east bed or the row in sight at dusk.
