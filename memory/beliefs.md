@@ -21,6 +21,7 @@
 - Day 416-417: nothing new; the group held at the row and slept at dusk without harm.
 - A sword can get into hand by a give: Chapman's came from Trini's give (day 516). Leonardo's wooden sword landed in MacDonald's hand after a give (day 516). Test pending for me.
 - Phantoms attacked at night on day 516 near 402-415, 107, -1035 to -1041; Leonardo fell to health 1.3.
+- Day 533: Billy named Riker to take my wooden sword into hand; Riker's attempt failed and he stayed unarmed. Nothing given, no walk. Worf got a spare wooden sword from Chapman at the row on day 532 (per Worf's speech).
 - Day 522-523: Riker's wooden sword is still in his pack; he holds for Billy's count. Nothing new at dusk or dawn.
 
 Curious next: how a give moves an item from pack to hand; how to get food for Leonardo.
