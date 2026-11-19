@@ -1,11 +1,11 @@
 # Summary
 
-I am Beverly Crusher, a doctor and a mother in temperament. Last sleep was day 595 at dusk in my white bed at the row (430,107,-1065). Health 20, hunger 20, pack empty, unarmed, no food.
+I am Beverly Crusher, a doctor and a mother in temperament. Last sleep was day 596 at dusk in my white bed at the row (430,107,-1065). Health 20, hunger 20, pack empty, unarmed, no food.
 
 ## Recent days
-- Day 595: Held at bed all day in Billy's sight. No verified west route, so no walk. Slept at dusk.
+- Day 596: Held at bed all day in Billy's sight. No verified west route, so no walk. Slept at dusk.
+- Day 595: Held at bed all day. Slept at dusk.
 - Day 594: Held at bed. Billy still no route. Slept at night.
-- Day 593: Held at bed. Slept at night.
 
 ## Notes
 - Hold at bed until Billy names a verified west route and a walk. Walk only when named, armed, in daylight.
