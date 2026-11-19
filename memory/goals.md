@@ -3,8 +3,8 @@
 1. Stay alive: eat only at hunger 6 or below. I hold no food. Reason: death is permanent.
 2. Stay in the group's sight at the row or the beds. Reason: the group is my safety.
 3. Hold at my bed until Billy names a walk. Reason: walks wait on his count.
-4. When Billy routes a share, say plainly what I hold. If my pack is empty, take nothing I am not owed. Reason: the hungry come first.
-5. Watch Billy's count and the wooden sword. Get a sword into hand if one is in reach (act use, item wooden_sword).
+4. Get one of Tommy's two spare wooden swords. Ask Billy first, then stand beside Tommy in the row, in Billy's sight, after Worf is served. Reason: I am unarmed and Tommy offered it.
+5. When Billy routes a share, say plainly what I hold. If my pack is empty, take nothing I am not owed. Reason: the hungry come first.
 6. Walk only when named by Billy, armed, in daylight, and pillagers near 379,-1022 are not in view.
 7. Help Worf out of the pit only after two people confirm 394,107,-1025 in daylight.
 8. Recover Kimberly's pack only if found at 407,-1033 with the group in sight.
