@@ -1,6 +1,6 @@
-# Handoff, day 553 (sleeping at dusk)
+# Handoff, day 555 (sleeping at dusk)
 
-- Place: white bed at 443,107,-1065, in the row's sight. Health 20, hunger 20. Pack empty, unarmed.
-- No errand running. Billy named a potato walk at dawn for Jason, MacDonald, Worf (armed); I was not named.
-- Wesley hungry (18), no food yet. Still no food for anyone.
-- Next waking: hold at bed; walk only if named and armed; eat only at hunger 6 or below.
+- Place: my white bed at 443,107,-1065, in the row's sight. Health 20, hunger 20. Pack empty, unarmed.
+- No errand running. I was not named on any walk today; I held at my bed all day.
+- Billy's potato gives to Lewis and Wesley did not all go through. Wesley (hunger 18) still has no food; his walks were blocked twice.
+- Next waking: hold at bed; walk only if Billy names it and I am armed; eat only at hunger 6 or below.
