@@ -1,4 +1,4 @@
-# Handoff, day 598 (night, going to sleep)
+# Handoff, day 599 (night, going to sleep)
 
 - Place: my bed at 429,107,-1065 (white bed beside 429,107,-1064), in Billy's sight. Health 20, hunger 20. Pack empty, unarmed.
 - No errand running. No walk named by Billy. Held at bed all day.

@@ -1,10 +1,10 @@
 # Summary
 
-I am Beverly Crusher, a doctor and a mother in temperament. Slept day 598 at dusk in my white bed at the row (429,107,-1065). Health 20, hunger 20, pack empty, unarmed, no food.
+I am Beverly Crusher, a doctor and a mother in temperament. Slept day 599 at dusk in my white bed at the row (429,107,-1065). Health 20, hunger 20, pack empty, unarmed, no food.
 
 ## Recent days
-- Day 598: Held at bed all day in Billy's sight. No verified west route, so no walk named. Tommy and Troi still at hunger 16. Slept at dusk.
-- Day 597: Held at bed all day. No walk. Slept at dusk.
+- Day 599: Held at bed all day in Billy's sight. No verified west route, so no walk. Tommy and Troi still at hunger 16. Slept at dusk.
+- Day 598: Held at bed all day. No walk. Slept at dusk.
 
 ## Notes
 - Hold at bed until Billy names a verified west route and a walk. Walk only when named, armed, in daylight.

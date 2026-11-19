@@ -14,6 +14,6 @@
 - Billy will not send anyone past x=370 on the west route until the planks are checked.
 - Sleep works at dusk in a white bed; "not possible: not night" came at morning.
 - Beds take sleepers only at night. Jason's bed refused him at night on day 598; he slept in the row.
-- Day 598: no verified west route yet; the row holds until a route is named aloud and checked.
-- Day 598: Tommy (hunger 16, health 15) and Troi (hunger 16) are still above the line of 10.
+- Day 599: no verified west route yet; the row holds until a route is named aloud and checked.
+- Day 599: Tommy (hunger 16, health 15) and Troi (hunger 16, 8 potatoes) are above the line of 10.
 - Curious: how a give moves an item from pack to hand; where food can be found for Riker.
