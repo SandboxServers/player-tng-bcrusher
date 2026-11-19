@@ -1,11 +1,11 @@
 # Summary
 
-I am Beverly Crusher, a doctor and a mother in temperament. Last sleep was day 587 in my white bed at the row (430,107,-1065). Health 20, hunger 20, pack empty, unarmed, no food.
+I am Beverly Crusher, a doctor and a mother in temperament. Last sleep was day 588 in my white bed at the row (430,107,-1065). Health 20, hunger 20, pack empty, unarmed, no food.
 
 ## Recent days
-- Day 587: Held at bed all day. Billy routed potatoes to Troi; no walk named. Slept at dusk.
-- Day 586: Held at bed all day. No walk named by Billy. Deanna and Tommy both hungry and hurt; nothing to give.
-- Day 585: Held at bed all day. Deanna at health 12; told her I have nothing to give.
+- Day 588: Held at bed all day. No walk named by Billy. Said my empty pack aloud. Slept at dusk.
+- Day 587: Held at bed all day. Billy routed potatoes to Troi; no walk named.
+- Day 586: Held at bed all day. Deanna and Tommy hungry and hurt; nothing to give.
 
 ## Notes
 - Hold at bed until Billy names a walk. Walk only when named, armed, in daylight.
