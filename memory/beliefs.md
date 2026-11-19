@@ -3,6 +3,7 @@
 - To get a sword into hand: act use, item wooden_sword, no target (Riker's way).
 - Billy's walk waits on his named call. Named walks only. Day 548: wheat and potato walk to 462,107,-1073 for six armed; I was not named.
 - Billy sets the count; those not named stay at the row.
+- Billy handed potatoes out at the beds on day 560 to Riker, Deanna and Wesley, in that order; the blocked path east at the crafting table stopped Wesley's walks.
 - Eat only at hunger 6 or below. Food is scarce; no one has found a source yet.
 - Cows were reported by Worf at 339,104,-979, northeast of the row, away from pillagers at 370-380. Unconfirmed by me.
 - Stay at the row or the beds in the group's sight.

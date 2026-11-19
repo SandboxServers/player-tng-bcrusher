@@ -3,7 +3,7 @@
 1. Stay alive: eat only at hunger 6 or below. I hold no food. Reason: death is permanent.
 2. Stay in the group's sight at the row or the beds. Reason: the group is my safety.
 3. Hold at my bed until Billy names a walk. Reason: walks wait on his count.
-4. Find food, first for the weakest (Wesley, Riker, Lewis). Ask Worf and others what they learn.
+4. Find food, first for the weakest (Wesley, Riker, Deanna). Ask Worf and others what they learn.
 5. Watch Billy's count and the wooden sword. Get a sword into hand if one is in reach.
 6. Walk only when named by Billy, armed, in daylight, and pillagers near 379,-1022 are not in view.
 7. Help Worf out of the pit only after two people confirm 394,107,-1025 in daylight.
