@@ -1,11 +1,11 @@
 # Summary
 
-I am Beverly Crusher, a doctor and a mother in temperament. Last sleep was day 578 in my white bed at the row (444,107,-1065). Health 20, hunger 20, pack empty, unarmed, no food.
+I am Beverly Crusher, a doctor and a mother in temperament. Last sleep was day 579 in my white bed at the row (444,107,-1065). Health 20, hunger 20, pack empty, unarmed, no food.
 
 ## Recent days
+- Day 579: Held at my bed all day. Billy named beds for Zack, Lewis, Kimberly, Picard; no walk for me. Slept at night.
 - Day 578: Held at my bed all day. Billy fed Zack and named no walk for me. Slept at dusk.
 - Day 577: Held at my bed. Billy named no walk. Slept at night.
-- Day 576: Held at my bed. Billy walked Tommy and Zack in; no walk for me. Slept at dusk.
 
 ## Notes
 - No sword and no food. Eat only at hunger 6 or below. Billy feeds from the potato field.
