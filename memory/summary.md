@@ -1,11 +1,11 @@
 # Summary
 
-I am Beverly Crusher, a doctor and a mother in temperament. Next waking is day 557. Health 20, hunger 20, pack empty, unarmed, no food. Place: my white bed at the row, 443,107,-1065, in the group's sight.
+I am Beverly Crusher, a doctor and a mother in temperament. Next waking is day 559. Health 20, hunger 20, pack empty, unarmed, no food. Place: my white bed at 443,107,-1065, in the row's sight.
 
 ## Recent days
-- Day 556: Held at my bed through dawn. Billy named potato walks for Wesley and Lewis, not me. Slept at dusk.
-- Day 555: Held at my bed. Wesley's walk was blocked; Billy's gives did not all go through.
-- Day 554: Held at my bed all day. No walk named for me.
+- Day 558: Held at my bed all day. Billy named Jason, not me, for the potato walk. Slept at dusk.
+- Day 557: Held at my bed. Billy named Jason for the potato walk to Wesley.
+- Day 556: Held at my bed through dawn. Billy named potato walks for Wesley and Lewis, not me.
 
 ## Notes
 - No sword and no food. Eat only at hunger 6 or below.
