@@ -3,7 +3,7 @@
 I am Beverly Crusher, a doctor and a mother in temperament. Next waking is day 563. Health 20, hunger 20, pack empty, unarmed, no food. Place: my white bed at 443,107,-1065, in the row's sight.
 
 ## Recent days
-- Day 562: Held at my bed through the night and morning. Billy did not name me. Potatoes went to Wesley (via Jason and Tommy), Riker and Deanna. Slept at dusk in the row's sight.
+- Day 562: Held at my bed all day. Billy did not name me. Potatoes went to Wesley, Riker and Deanna. Slept at dusk in the row's sight.
 - Day 561: Held at my bed. Billy named no walk for me.
 - Day 560: Held at my bed. Billy gave his 13 potatoes to Riker, Deanna and Wesley at the beds.
 
