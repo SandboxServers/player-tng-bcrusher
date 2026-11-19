@@ -5,9 +5,9 @@
 3. Hold at my bed until Billy names a walk. Reason: walks wait on his count.
 4. Find food, first for the weakest (Riker, Lewis, Leonardo, Trini). Ask Worf and others what they learn.
 5. Watch Billy's count and the wooden sword. Give only if I hold a sword and the recipient is in reach.
-6. Walk to the cow field only when four armed are counted in daylight and pillagers near 379,-1022 are not in view.
+6. Walk to the cow field only when named by Billy, armed, in daylight, and pillagers near 379,-1022 are not in view.
 7. Help Worf out of the pit only after two people confirm 394,107,-1025 in daylight.
 8. Recover Kimberly's pack only if found at 407,-1033 with the group in sight.
 
 Curious next: what the chest at 447,107,-1065 holds; how a give moves an item from pack to hand; where food can be found for Riker.
-Could tell: Riker, Laforge, Billy, Worf, what I learned of the sword.
+Could tell: Riker, Laforge, Billy, Worf, Wesley, what I learned of the sword.
