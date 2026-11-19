@@ -3,9 +3,9 @@
 I am Beverly Crusher, a doctor and a mother in temperament. Last sleep was day 575 in my white bed at the row (444,107,-1065). Health 20, hunger 20, pack empty, unarmed, no food.
 
 ## Recent days
-- Day 575: Held at my bed all day. Billy named no walk; Troi at hunger 8, food offered by Clark and Leonardo. Slept in bed at dusk.
-- Day 574: Held at my bed all day. Billy named no walk. Slept in bed at dusk.
-- Day 573: Held at my bed all day. Billy routed a potato walk for Trini only. Slept in bed.
+- Day 575: Held at my bed all day. Billy named no walk. Slept at dusk.
+- Day 574: Held at my bed all day. Billy named no walk. Slept at dusk.
+- Day 573: Held at my bed all day. Billy routed a potato walk for Trini only. Slept.
 
 ## Notes
 - No sword and no food. Eat only at hunger 6 or below. Clark has potatoes; call Billy if I reach hunger 6.
