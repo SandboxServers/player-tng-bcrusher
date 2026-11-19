@@ -4,3 +4,4 @@
 - 05:20 act: {"say":"Beverly, at my bed in the row, in Billy's sight. Holding; no walk named. Going to sleep at dusk.","actions":[{"do":"sleep"}]}
 - 05:48 act: {"actions":[{"do":"sleep"}],"say":"Beverly, at my bed in the row, in sight. Holding, unarmed, no food. Sleeping at dusk."}
 - 05:49 act: {"actions":[{"do":"sleep"}]}
+- 05:54 act: {"say":"Beverly at the bed, dawn 553. Unarmed, health 20, hunger 20, no food. Holding for Billy's call. Wesley, I can share food when there is some.","intent":{"goal":"hold_at_bed","program":"rest","a
