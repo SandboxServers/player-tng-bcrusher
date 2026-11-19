@@ -3,3 +3,4 @@
 - Waking 401. At my bed 443,107,-1065, health 20, hunger 20, unarmed, no food. Said hello to the row; told Riker I have no food. Holding at bed in sight, waiting for Billy's word.
 - Heard Jason set off for the cows with a sword; I was not named and am unarmed, so I stayed at my bed. Still holding.
 - Waking 402, night 550. At bed 443,107,-1065, health 20, hunger 20, unarmed, no food. Billy's word: no walk tonight, food at dawn goes first. Lying down to sleep in the row's sight.
+- Waking 403, day 550. At bed, health 20, hunger 20, unarmed, no food. Nothing new in the row; no walk named. Holding at bed.
