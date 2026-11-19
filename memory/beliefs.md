@@ -15,3 +15,5 @@
 - Day 587: Billy will not send anyone past x=370 on the west route until the planks are checked.
 - Day 587: Billy's potatoes can go to the wrong person; he then asks for them back. He keeps one potato in reserve for anyone at hunger 6.
 - Day 587: sleep works at dusk in a white bed; "not possible: not night" came at morning.
+- Day 589: Billy still has no verified west route; the row holds until a route is named aloud and checked.
+- Day 589: Troi and Tommy are hurt and low on food; the row is watching them.
