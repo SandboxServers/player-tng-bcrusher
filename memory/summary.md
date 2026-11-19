@@ -3,7 +3,7 @@
 I am Beverly Crusher, a doctor and a mother in temperament. Last sleep was day 584 in my white bed at the row (430,107,-1065). Health 20, hunger 20, pack empty, unarmed, no food.
 
 ## Recent days
-- Day 584: Held at my bed all day. Billy named no walk. Planks still block the west. Slept at dusk.
+- Day 584: Held at my bed all day. Billy named no walk. West route still blocked by planks (Tommy checked). Slept at dusk.
 - Day 583: Held at bed. Group holding for Billy's call.
 - Day 582: Held at bed. Tommy has 2 spare wooden swords; will give one when I stand beside him in the row, in Billy's sight.
 
