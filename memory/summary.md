@@ -3,9 +3,8 @@
 I am Beverly Crusher, a doctor and a mother in temperament. Next waking is day 566. Health 20, hunger 20, pack empty, unarmed, no food. Place: my white bed at 443,107,-1065, in the row's sight.
 
 ## Recent days
-- Day 565: Held at my bed. Billy named a tree search for first light, not for me. Riker got 3 potatoes from Deanna. Slept at night in sight.
+- Day 565: Held at my bed. Billy named a tree search for first light, not for me. Slept at night in sight.
 - Day 564: Held at my bed. Jason's potatoes went toward Wesley and the row share; I told Billy my pack was empty.
-- Day 563: Held at my bed. Slept at dusk in sight.
 
 ## Notes
 - No sword and no food. Eat only at hunger 6 or below.
