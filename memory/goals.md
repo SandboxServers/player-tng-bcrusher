@@ -10,5 +10,5 @@
 8. Help Worf out of the pit only after two people confirm 394,107,-1025 in daylight.
 9. Recover Kimberly's pack only if found at 407,-1033 with the group in sight.
 
-Curious next: what the chest at 447,107,-1065 holds; how a give moves an item from pack to hand; where food can be found for Riker.
+Curious next: what the chest at 447,107,-1065 holds; how a give moves an item from pack to hand; where food can be found for Riker; where oak logs can be found (none east or north-east so far).
 Could tell: Riker, Lewis, Billy, Worf, Wesley, Laforge, Tommy, Picard.
