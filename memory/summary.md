@@ -11,6 +11,6 @@ I am Beverly Crusher, a doctor and a mother in temperament. Next waking is day 5
 - No sword and no food. Eat only at hunger 6 or below.
 - Walk only when named by Billy, armed, in daylight. Pillagers near 379,-1022.
 - Stay in the group's sight at the row or the beds.
-- Wesley and Deanna held potatoes; Riker is hungry. Deanna was asked to give Riker 2.
+- Wesley holds potatoes; Riker is hungry. Deanna was asked to give Riker 2.
 - Curious: how a give moves an item from pack to hand; where food can be found; what the chest at 447,107,-1065 holds.
 - Could tell: Billy, Riker, Lewis, Worf, Laforge, Wesley, Tommy, Picard.
