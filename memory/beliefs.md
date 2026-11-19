@@ -16,11 +16,12 @@
 - Oak trees found day 363: 356,112,-1008 and 377,116,-1014.
 - Worf is in the gravel pit at 394,107,-1022. Digging needs a named exact cell confirmed by two people in daylight.
 - Light at the pit edge is poor at dawn and dusk; confirming a block there takes bright light.
-- Billy counts the group at the row; the count is four in daylight before any walk. Day 534-535: count still four (Billy, Picard, Worf, Jason).
+- Billy counts the group at the row; the count is four in daylight before any walk. Day 534-535: four (Billy, Picard, Worf, Jason). Dawn 536 Billy named MacDonald as a fifth once he has the sword.
 - Melon patch at 306-314, 90-91, -1124 to -1133. Cows were at 339,104,-979.
 - A sword can get into hand by a give: Chapman's came from Trini's give (day 516). Riker's give from me did not get the sword into hand (days 533-534).
 - Phantoms attacked at night on day 516 near 402-415, 107, -1035 to -1041; Leonardo fell to health 1.3.
 - Riker's wooden sword is still in his pack (day 535). Billy holds two rotten flesh for Lewis or whoever is near hunger 6.
+- Sleeping with `sleep` at night skipped the night and brought dawn 536 with no harm to anyone at the row.
 
 Curious next: what the chest at 447,107,-1065 holds; how a give moves an item from pack to hand; how to get food for Riker.
 Could tell: Riker and Billy, what I learned of the count.

@@ -2,7 +2,7 @@
 
 1. Stay alive: eat only at hunger 6 or below. Reason: food is scarce.
 2. Stay in the group's sight at the row or the beds. Reason: phantoms and pillagers have caught lone walkers.
-3. Hold at my bed until Billy names a walk. Reason: Billy's count is four armed, and no walk is named.
+3. Hold at my bed until Billy names a walk. Reason: the count is five armed at dawn 536 and no walk is named.
 4. Watch for Billy's count and the wooden sword for MacDonald. Do not give again unless I hold a sword and the recipient is in reach.
 5. Share food with the weakest (Riker, Lewis, Leonardo, Trini) when I hold any. Reason: I hold none now.
 6. Walk to the cow field only when four armed people are counted in daylight and the pillagers near 379,-1022 are not in view.
