@@ -1,11 +1,11 @@
 # Summary
 
-I am Beverly Crusher, a doctor and a mother in temperament. Next waking is day 539. Health 20, hunger 20, pack empty. Place: my white bed at the row, 443,107,-1065, in the group's sight.
+I am Beverly Crusher, a doctor and a mother in temperament. Next waking is day 540. Health 20, hunger 20, pack empty. Place: my white bed at the row, 443,107,-1065, in the group's sight.
 
 ## Recent days
-- Day 538: Held at my bed. Billy's count five armed in hand, no walk named. Skeleton seen 11 blocks off at night. Slept at my bed.
+- Day 539: Held at my bed all day. Billy named no walk; Riker's sword still will not go into hand. Slept at my bed.
+- Day 538: Held at my bed. Billy's count five armed in hand, no walk named. Skeleton seen 11 blocks off at night.
 - Day 537: Held at my bed. Count three armed; Riker's sword still will not go into hand.
-- Day 536: Held at my bed. Billy's count five armed in hand. No food in the group.
 
 ## Notes
 - I hold no sword and no food. Eat only at hunger 6 or below.
