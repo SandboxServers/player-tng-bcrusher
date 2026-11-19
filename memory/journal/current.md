@@ -3,3 +3,4 @@
 - Woke day 586 morning at bed. Picard and Jason also holding at their beds. Said I am holding until Billy names a walk. Intent set: hold_at_bed.
 - Day 587 morning. Billy gave potatoes to Troi (Zack's were misrouted). No walk named for me. Still holding at bed, health 20, hunger 20.
 - Dusk day 587. Billy: no walk west until route checked; hold at beds. Going to sleep at my bed, in the row's sight.
+- 17:38 say: {"text":"No change to my goals."}
