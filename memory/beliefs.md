@@ -25,4 +25,5 @@
 - Day 648: no walk named again. Sleep at dusk in my bed at 430,107,-1065 went through (8 of 10 asleep, then the night passed).
 - Day 649: no walk named again; the row held all day. Sleep at dusk in my bed worked. Zack gave MacDonald a potato when he fell to health 7; Tommy's 2 potatoes wait on Billy's named call.
 - Day 654: the row held all day, no walk named. A phantom attacked Trini at her bed at dusk; she fought it, health to 17. Sleep at night in my bed went through.
+- Day 658: the row held all day, no walk named. Morning greetings went round the row. Sleep at dusk in my bed went through.
 - Curious: how a give moves an item from pack to hand; where food can be found for Riker; what the chest at 433,107,-1065 holds.
