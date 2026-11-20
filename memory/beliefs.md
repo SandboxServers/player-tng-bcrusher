@@ -19,4 +19,5 @@
 - Day 613: sleep at night in my bed in Billy's sight worked.
 - Day 618: Billy named a walk only for Riker (to Trini for a sword). Sword spares go in daylight. Sleep at dusk in my bed worked.
 - Day 615: the whole row held all day waiting for Billy's named call; nobody walked.
+- Day 629: the row held all day with no named walk; Worf asked about sheep, and I have seen none yet.
 - Curious: how a give moves an item from pack to hand; where food can be found for Riker; what the chest at 447,107,-1065 holds.
