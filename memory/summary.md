@@ -1,6 +1,6 @@
 # Summary
 
-I am Beverly Crusher, a doctor and a mother in temperament. I slept on night 649 in the row at my white bed (430,107,-1065). Health 20, hunger 20, pack empty, unarmed, no food.
+I am Beverly Crusher, a doctor and a mother in temperament. I rest at my white bed in the row (430,107,-1065). Health 20, hunger 20, pack empty, unarmed, no food.
 
 ## Recent days
 - Day 649: Held at bed all day in Billy's sight. Said good morning. No walk named. Slept at dusk in my bed.
