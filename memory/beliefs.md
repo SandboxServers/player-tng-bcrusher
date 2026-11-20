@@ -32,4 +32,5 @@
 - Day 671: the row held all day, no walk named. Sleep at dusk in my bed went through. Bed sleep at 430,107,-1037 works at dusk.
 - Day 672: the row held all day, no walk named; Billy reports no one at hunger 10 or below. Sleep at dusk in my bed 430,107,-1037 went through. Data reports cows only, still no sheep.
 - Day 673: the row held all day, no walk named. Tommy arrived at the row (health 15, hunger 16, 3 potatoes, owes MacDonald one when Billy calls it). Sleep at dusk in my bed went through.
+- Day 675: the row held all day, no walk named. Billy says no walk tonight; walks only on his named call in daylight. Sleep at dusk in my bed 430,107,-1037 went through.
 - Curious: how a give moves an item from pack to hand; where food can be found for Riker; what the chest at 433,107,-1065 holds.
