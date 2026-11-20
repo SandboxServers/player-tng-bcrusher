@@ -1,6 +1,6 @@
 # Summary
 
-I am Beverly Crusher, a doctor and a mother in temperament. Slept day 611 at dusk in my white bed at the row (430,107,-1065). Health 20, hunger 20, pack empty, unarmed, no food.
+I am Beverly Crusher, a doctor and a mother in temperament. I slept on day 611 in my white bed at the row (430,107,-1065). Health 20, hunger 20, pack empty, unarmed, no food.
 
 ## Recent days
 - Day 611: Held at bed all day. Billy named only Jason's walk home. Slept at dusk.
