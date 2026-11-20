@@ -9,5 +9,5 @@
 7. Walk only when named by Billy, armed, in daylight, with pillagers near 379,-1022 out of view.
 8. Help Worf out of the pit only after two people confirm 394,107,-1025 in daylight.
 
-Curious next: what the chest at 433,107,-1065 holds; where food can be found for Riker; where oak logs and sheep can be found.
+Curious next: what is inside the chest at 433,107,-1065 (it opens, contents not shown); where food can be found for Riker; where oak logs and sheep can be found.
 Could tell: Billy, Riker, Lewis, Worf, Wesley, Laforge, Tommy, Picard, Trini, Zack, Jason, Troi, MacDonald.

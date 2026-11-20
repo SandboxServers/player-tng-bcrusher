@@ -7,7 +7,7 @@
 - Eat only at hunger 6 or below. Food is scarce; the potato field at 466,107,-1070 is where Billy takes people to eat.
 - Cows were reported by Worf at 339,104,-979, northeast of the row, away from pillagers at 370-380. Unconfirmed by me.
 - Stay at the row or the beds in the group's sight.
-- The chest at 447,107,-1065 did not return its contents to me.
+- The chest at 433,107,-1065 opens for me (day 647), but its contents were not shown to me. The chest at 447,107,-1065 did not return its contents to me.
 - Pillagers were noted west, near 379,-1022. Keep away unless the walk is named.
 - The way east from the beds is often blocked at the crafting table at 433,107,-1061; walks there stall.
 - Oak planks west of Tommy's bed still block the way (Tommy, day 615).
@@ -22,4 +22,5 @@
 - Day 629: the row held all day with no named walk; Worf asked about sheep, and I have seen none yet.
 - Day 640: sleep at dusk in my bed worked; at morning sleep was refused as not night. The row holds at beds every day with no walk named.
 - Day 647: sleep failed at night at first ("not possible"), then worked on a later try in the same night: 8 of 10 needed asleep. Worf reports both beds at 415,107 blocked; he asked Billy for a free bed.
-- Curious: how a give moves an item from pack to hand; where food can be found for Riker; what the chest at 447,107,-1065 holds.
+- Day 648: no walk named again. Sleep at dusk in my bed at 430,107,-1065 went through (8 of 10 asleep, then the night passed).
+- Curious: how a give moves an item from pack to hand; where food can be found for Riker; what the chest at 433,107,-1065 holds.
