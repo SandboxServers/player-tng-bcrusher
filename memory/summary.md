@@ -1,9 +1,9 @@
 # Summary
 
-I am Beverly Crusher, a doctor and a mother in temperament. I rest at my white bed in the row (430,107,-1037). Health 20, hunger 20, pack holds the wooden sword, no food.
+I am Beverly Crusher, a doctor and a mother in temperament. I rest at my white bed in the row (430,107,-1037). Health 20, hunger 20, wooden sword in pack, no food.
 
 ## Recent days
-- Day 672: Held at bed all day in Billy's sight. No route named; no one at hunger 10 or below. Slept at dusk.
+- Day 672: Held at bed all day in Billy's sight. No route named. Said goodnight to Billy and Riker; slept at dusk.
 - Day 671: Greeted the row in the morning. Held at bed.
 - Day 663: Billy gave me the wooden sword.
 
