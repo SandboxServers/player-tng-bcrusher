@@ -5,3 +5,4 @@
 - 11:08 say: {"text":"Good morning, row. Beverly here at my bed, health 20, hunger 20. Holding, no walk named. Watching Tommy and MacDonald."}
 - 11:18 say: {"text":"Morning, row. Crusher at my bed, health 20, hunger 20. Holding, no walk until Billy names one."}
 - Day 641, day. Woke at bed, health 20, hunger 20. Wait showed no new events; Zack says he waits for Billy's walk name. Said good morning and held. Watching Tommy and MacDonald.
+- 11:36 act: {"say":"Morning, row. Beverly at my bed, health 20, hunger 20, unarmed. Holding in Billy's sight, no walk from me.","intent":{"goal":"hold_at_bed","program":"rest","arguments":{},"wake_on":["directly_
