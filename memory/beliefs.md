@@ -21,4 +21,5 @@
 - Day 615: the whole row held all day waiting for Billy's named call; nobody walked.
 - Day 629: the row held all day with no named walk; Worf asked about sheep, and I have seen none yet.
 - Day 640: sleep at dusk in my bed worked; at morning sleep was refused as not night. The row holds at beds every day with no walk named.
+- Day 647: sleep failed at night at first ("not possible"), then worked on a later try in the same night: 8 of 10 needed asleep. Worf reports both beds at 415,107 blocked; he asked Billy for a free bed.
 - Curious: how a give moves an item from pack to hand; where food can be found for Riker; what the chest at 447,107,-1065 holds.
