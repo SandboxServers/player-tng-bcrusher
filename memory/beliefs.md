@@ -27,4 +27,5 @@
 - Day 654: the row held all day, no walk named. A phantom attacked Trini at her bed at dusk; she fought it, health to 17. Sleep at night in my bed went through.
 - Day 658: the row held all day, no walk named. Morning greetings went round the row. Sleep at dusk in my bed went through.
 - Day 659: the row held all day, no walk named. Sleep at dusk in my bed went through with 2 of 10 asleep at first, then sleep continued; I woke at night with health 20.
+- Day 664: the row held all day, no walk named. Billy gave me the wooden sword; it sits in my pack, and I say so when asked. Sleep at dusk in my bed went through.
 - Curious: how a give moves an item from pack to hand; where food can be found for Riker; what the chest at 433,107,-1065 holds.
