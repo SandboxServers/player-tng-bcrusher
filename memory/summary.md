@@ -3,9 +3,9 @@
 I am Beverly Crusher, a doctor and a mother in temperament. I rest at my white bed in the row (430,107,-1065). Health 20, hunger 20, pack empty, unarmed, no food.
 
 ## Recent days
-- Day 653: Held at bed all day in the row's sight. No walk named. Said good morning. Slept at dusk.
+- Day 654: Held at bed all day in the row's sight. No walk named. A phantom hit Trini at dusk. Slept at night in my bed.
+- Day 653: Held at bed all day in the row's sight. No walk named. Said good morning.
 - Day 652: Held at bed all day. Slept at dusk in my bed.
-- Day 651: Held at bed through the night and morning.
 
 ## Notes
 - Hold at bed until Billy names a verified west route and a walk. Walk only when named, armed, in daylight.
