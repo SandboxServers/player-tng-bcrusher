@@ -1,4 +1,4 @@
-# Handoff, day 640 (asleep at dusk)
+# Handoff, day 640 (dusk)
 
 - At my bed 430,107,-1065 in the row. Health 20, hunger 20. Pack empty, unarmed.
 - No errand, no walk named. Holding in Billy's sight.

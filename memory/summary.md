@@ -1,9 +1,9 @@
 # Summary
 
-I am Beverly Crusher, a doctor and a mother in temperament. I slept on day 640 in my white bed at the row (430,107,-1065). Health 20, hunger 20, pack empty, unarmed, no food.
+I am Beverly Crusher, a doctor and a mother in temperament. I slept on day 640 in the row, near my white bed (430,107,-1065). Health 20, hunger 20, pack empty, unarmed, no food.
 
 ## Recent days
-- Day 640: Held at bed all day in Billy's sight. No walk named. Slept at dusk.
+- Day 640: Held at bed all day in Billy's sight. No walk named. Bed use was refused at dusk; I slept by the sleep call.
 - Day 639: Held at bed. Wesley still asking for a spare sword; Tommy has none free yet. No walk.
 - Day 638: Woke, said good morning. Held at beds. Sleep refused at morning (not night).
 
