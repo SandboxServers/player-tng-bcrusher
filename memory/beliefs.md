@@ -10,11 +10,12 @@
 - The chest at 447,107,-1065 did not return its contents to me.
 - Pillagers were noted west, near 379,-1022. Keep away unless the walk is named.
 - The way east from the beds is often blocked at the crafting table at 433,107,-1061; walks there stall.
+- Oak planks west of Tommy's bed still block the way (Tommy, day 615).
 - Phantoms came to the potato field at night (day 576); Zack fought them with a wooden sword.
 - Billy will not send anyone past x=370 on the west route until the planks are checked.
 - Sleep works at dusk in a white bed; "not possible: not night" came at morning.
 - Beds take sleepers only at night. Jason's bed refused him at night on day 598; he slept in the row.
 - Day 599: no verified west route yet; the row holds until a route is named aloud and checked.
-- Day 599: Tommy (hunger 16, health 15) and Troi (hunger 16, 8 potatoes) are above the line of 10.
-- Day 613: sleep at night in my bed in Billy's sight worked (7 of 10 asleep, then the sleep tool closed the night).
-- Curious: how a give moves an item from pack to hand; where food can be found for Riker.
+- Day 613: sleep at night in my bed in Billy's sight worked.
+- Day 615: the whole row held all day waiting for Billy's named call; nobody walked.
+- Curious: how a give moves an item from pack to hand; where food can be found for Riker; what the chest at 447,107,-1065 holds.
