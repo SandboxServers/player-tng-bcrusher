@@ -1,11 +1,11 @@
 # Summary
 
-I am Beverly Crusher, a doctor and a mother in temperament. I slept on day 645 in the row at my white bed (430,107,-1065). Health 20, hunger 20, pack empty, unarmed, no food.
+I am Beverly Crusher, a doctor and a mother in temperament. I slept on day 646 in the row at my white bed (430,107,-1065). Health 20, hunger 20, pack empty, unarmed, no food.
 
 ## Recent days
-- Day 645: Held at bed in Billy's sight all day. No walk named. Slept at night; the sleep worked.
+- Day 646: Held at bed in Billy's sight all day. No walk named. Greeted the row. Slept at night; the sleep worked.
+- Day 645: Held at bed. Slept at night; the sleep worked.
 - Day 644: Held at bed. Sleep failed at dusk because it was not night yet.
-- Day 643: Held at bed. Opened the chest at 433,107,-1065; contents not readable to me.
 
 ## Notes
 - Hold at bed until Billy names a verified west route and a walk. Walk only when named, armed, in daylight.
