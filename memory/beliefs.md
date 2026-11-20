@@ -29,4 +29,5 @@
 - Day 659: the row held all day, no walk named. Sleep at dusk in my bed went through with 2 of 10 asleep at first, then sleep continued; I woke at night with health 20.
 - Day 664: the row held all day, no walk named. Billy gave me the wooden sword; it sits in my pack, and I say so when asked. Sleep at dusk in my bed went through.
 - Day 665: the row held all day, no walk named. Billy gave his sword to John. Data has seen only cows (339,104,-979), no sheep. Sleep at dusk in my bed went through.
+- Day 671: the row held all day, no walk named. Sleep at dusk in my bed went through. Bed sleep at 430,107,-1037 works at dusk.
 - Curious: how a give moves an item from pack to hand; where food can be found for Riker; what the chest at 433,107,-1065 holds.
