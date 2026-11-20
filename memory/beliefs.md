@@ -16,4 +16,5 @@
 - Beds take sleepers only at night. Jason's bed refused him at night on day 598; he slept in the row.
 - Day 599: no verified west route yet; the row holds until a route is named aloud and checked.
 - Day 599: Tommy (hunger 16, health 15) and Troi (hunger 16, 8 potatoes) are above the line of 10.
+- Day 613: sleep at night in my bed in Billy's sight worked (7 of 10 asleep, then the sleep tool closed the night).
 - Curious: how a give moves an item from pack to hand; where food can be found for Riker.
