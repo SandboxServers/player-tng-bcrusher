@@ -10,4 +10,4 @@
 8. Help Worf out of the pit only after two people confirm 394,107,-1025 in daylight.
 
 Curious next: what is inside the chest at 433,107,-1065; where food can be found for Riker; where oak logs and sheep can be found.
-Could tell: Billy, Riker, Lewis, Worf, Wesley, Laforge, Tommy, Picard, Trini, Zack, Jason, Troi, MacDonald, Data.
+Could tell: Billy, Riker, Lewis, Worf, Wesley, Laforge, Tommy, Picard, Trini, Zack, Jason, Troi, MacDonald, Data, Leonardo.
