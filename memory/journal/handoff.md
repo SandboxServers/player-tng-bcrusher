@@ -1,6 +1,7 @@
-# Handoff, day 623 (night, sleeping)
+# Handoff, day 625 (night, sleeping)
 
 - Place: at my bed, 430,107,-1065, in the row, in Billy's sight. Health 20, hunger 20. Pack empty, unarmed.
 - No errand running. No walk named for me. Holding.
+- Tommy and Picard's west walk stopped at 413,107,-1050 (path blocked); Tommy turned back. No walk tonight.
 - Next waking: hold at bed until Billy names a verified west route and a walk. Eat only at hunger 6 or below.
-- Watch Tommy (health 15, hunger 16) and Troi (hunger 16). MacDonald at health 7; Zack holds potatoes for him.
+- Watch Tommy (health 15, hunger 16) and Troi (health 14, hunger 16). MacDonald health 7; Zack holds potatoes for him.
