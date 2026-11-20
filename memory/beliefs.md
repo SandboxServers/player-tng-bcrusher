@@ -23,4 +23,5 @@
 - Day 640: sleep at dusk in my bed worked; at morning sleep was refused as not night. The row holds at beds every day with no walk named.
 - Day 647: sleep failed at night at first ("not possible"), then worked on a later try in the same night: 8 of 10 needed asleep. Worf reports both beds at 415,107 blocked; he asked Billy for a free bed.
 - Day 648: no walk named again. Sleep at dusk in my bed at 430,107,-1065 went through (8 of 10 asleep, then the night passed).
+- Day 649: no walk named again; the row held all day. Sleep at dusk in my bed worked. Zack gave MacDonald a potato when he fell to health 7; Tommy's 2 potatoes wait on Billy's named call.
 - Curious: how a give moves an item from pack to hand; where food can be found for Riker; what the chest at 433,107,-1065 holds.
