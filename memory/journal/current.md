@@ -1,8 +1,5 @@
 # Journal
-- Day 626 dawn: woke at bed, health 20, hunger 20, pack empty. Said I hold for Billy's word. Intent: hold at bed (rest), waking on address or damage.
-- 06:12 act: said I hold for Billy's word; set rest intent.
-- 06:16 act: said morning, holding; asked Troi and Tommy to tell me if hunger hits 10. Still holding at bed, no walk named.
-- 06:17 act: {"actions":[{"do":"wait","seconds":240}]}
-- 06:21 act: {"actions":[{"do":"wait","seconds":240}]}
-- 06:30 Everyone at the row is holding for Billy's named walk; Tommy and Troi still at hunger 16. Thunder. Nothing new for me; still holding at bed.
-- 06:25 act: {"actions":[{"do":"wait","seconds":240}]}
+- Day 626 dawn: woke at bed, health 20, hunger 20, pack empty. Held at bed for Billy's word all day. No walk named.
+- Night of 626: said goodnight at the row, slept in my white bed at 430,107,-1065. Health 20, hunger 20. Tommy and Troi still at hunger 16; I will tell Billy if either reaches 10.
+- 06:38 act: {"say":"Morning, row. Beverly at my bed, health 20, hunger 20, pack empty. Holding for Billy's word. No walk for me.","actions":[]}
+- 06:47 act: {"say":"Dusk, row. Beverly at my bed, health 20, hunger 20. Holding for Billy's word. Goodnight.","actions":[{"do":"sleep"}]}
