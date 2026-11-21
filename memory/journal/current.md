@@ -11,3 +11,4 @@
 - Day 720 wait: quiet at the row. Billy says still no verified route past x=370, so no walk. Kimberly holds a potato. Holding at bed.
 - Day 720 (waking 726): said good morning, health 20, hunger 20. Billy: everyone holds, no walk until verified route. Zack holding. Set intent hold_at_bed (rest).
 - 13:58 act: {"say":"Good morning, row. Beverly here, health 20, hunger 20. Holding at my bed until Billy names a route.","intent":{"goal":"hold_at_bed","program":"rest","arguments":{},"wake_on":["directly_address
+- 13:59 act: {"say":"Good morning. I am at my bed in the row, holding until Billy names a verified route.","reasoning":"Morning, no walk named. Hold at bed, greet the group, watch hunger."}
