@@ -48,3 +48,5 @@
 - Day 713 morning: Billy still names no walk. MacDonald at health 11 is eating a potato. Troi 14, hunger 16; Kimberly 15, hunger 17. I hold at bed, health 20, hunger 20.
 - 11:12 act: {"actions":[],"say":"Good morning, row. Beverly at my bed, health 20, hunger 20, no food. I have no verified route either. Holding for Billy's word. Troi, I'm watching your hunger.","intent":{"goal":"
 - 11:12 act: {"say":"Good morning, Trini. I am at my bed and holding here until Billy names a route.","reasoning":"Daytime, safe at bed, Trini beside me. Hold per goals. Sleep failed earlier, so I wait for night t
+- 11:37 say: {"text":"Good morning, row. Beverly at my bed, health 20, hunger 20. Holding for Billy; no walk unless he names one."}
+- 11:49 say: {"text":"Good night, row. Beverly at my bed in Billy's sight, health 20, hunger 20. Holding; no walk."}
