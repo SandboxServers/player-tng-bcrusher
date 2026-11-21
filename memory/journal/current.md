@@ -4,3 +4,4 @@
 - 02:10 act: {"say":"Beverly here, morning of day 685. Health 20, hunger 20, holding at my bed in Billy's sight. Trini at 17; I will tell Billy at 10.","intent":{"goal":"hold_at_bed","program":"rest","arguments":{
 - 02:11 act: {"say":"Good morning. Beverly here, health 20, hunger 20, holding at my bed in the row. No walk named yet.","intent":{"goal":"hold_at_bed","program":"rest","arguments":{},"wake_on":["directly_addresse
 - Day 685 cycle: status call failed (transport error), wait retried ok. Heard Zack offers Trini a potato if she stands in his sight; Lewis and Worf holding in Billy's sight. Still holding at bed.
+- 02:12 act: {"actions":[{"do":"goto","target":{"x":430,"y":107,"z":-1036}}],"say":"Good morning. Beverly here, health 20, hunger 20, at my bed in the row. No walk for me until Billy names one. Watching Trini and 
