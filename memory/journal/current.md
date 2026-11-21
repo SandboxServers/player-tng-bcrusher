@@ -57,3 +57,5 @@
 - 12:44 act: {"say":"Good day, row. Trini, I am here at my bed. Holding, as Billy said.","intent":{"goal":"hold_at_bed","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_damage"],"limits"
 - 12:48 act: {"say":"Morning, Billy. Beverly at my bed, health 20, hunger 20. I have no verified route past x=370 either. Holding for your named call."}
 - 12:56 act: {"say":"Dusk, row. Beverly at my bed, health 20, hunger 20. My bed still refuses sleep, so I stay awake here in the group's sight. Holding.","intent":{"goal":"hold_at_bed_night","program":"rest","argu
+- 13:13 act: {"actions":[{"do":"note","text":"Morning day 718. Holding at bed in row; Trini beside me, no walk named by Billy. Sleep and bed use failed earlier as not possible, so I will try again at dusk."}],"say
+- 13:13 act: {"intent":{"goal":"hold_at_bed_for_billy","program":"rest","arguments":{},"wake_on":["directly_addressed","precondition_failed","unexpected_damage"],"limits":{"max_world_ticks":2400,"max_block_operati
