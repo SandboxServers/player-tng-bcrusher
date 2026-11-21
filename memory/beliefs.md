@@ -16,4 +16,5 @@
 - Day 687: held all day again; Billy told Trini and Zack to hold until a route is checked. Still no verified west route.
 - Day 683: the row held all day, no walk named. Billy asked for a verified safe route west; no one has seen one.
 - Day 693: the row held all day again at the beds. Billy, Lewis, Kimberly, Trini, Zack and Picard all hold; the call point is hunger 10, and no one reached it. Bows heard southwest.
+- Day 694: the row held all day again at the beds; no walk named, and nobody reached hunger 10. Sleeping at my bed at dusk worked.
 - Curious: how a give moves an item from pack to hand; where food can be found for Riker; what the chest at 433,107,-1065 holds; where sheep graze.
