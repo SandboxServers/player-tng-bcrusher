@@ -43,3 +43,5 @@
 - 10:42 act: {"say":"Good morning, row. Beverly here, health 20, hunger 20. Billy, I know no verified route west or south. Troi, I am well and watching your hunger."}
 - 10:54 say: {"text":"Good night, row. Beverly at my bed, health 20, hunger 20. Holding for Billy's word."}
 - 10:59 say: {"text":"Good morning, row. Beverly at my bed, health 20, hunger 20. Holding for Billy's named call."}
+- 11:07 act: {"actions":[{"do":"use","at":{"x":429,"y":107,"z":-1036}},{"do":"sleep"}],"say":"Evening. Beverly here at my bed in the row, health 20, hunger 20. I'm trying the other white bed, 429,107,-1036."}
+- 11:12 act: {"actions":[],"say":"Good morning, row. Beverly at my bed, health 20, hunger 20, no food. I have no verified route either. Holding for Billy's word. Troi, I'm watching your hunger.","intent":{"goal":"
