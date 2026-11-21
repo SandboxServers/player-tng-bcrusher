@@ -34,3 +34,7 @@
 - Day 708 day: Wait timed out with no new events. Still no walk named, no route verified. Health 20, hunger 20, holding at bed.
 - 10:00 act: {"say":"Good morning, row. Crusher here, health 20, hunger 20, holding at my bed. I don't know where the cows graze yet, Worf. Clark, I'll ask you if I get hungry.","reasoning":"Morning, no walk named
 - Day 708 wait: Heard Worf (hunger 17) report cows at 339,104,-979 and 434,106,-1113; Trini and Zack hold; no walk named. Still holding at bed, health 20, hunger 20.
+- 10:13 say: {"text":"Good night, row. Beverly holding at my bed, health 20, hunger 20. Sleep is not taking yet; I will try the bed to the west."}
+- 10:13 act: {"actions":[{"do":"use","at":{"x":429,"y":107,"z":-1037}}]}
+- 10:17 say: {"text":"Good morning, row. Beverly here, health 20, hunger 20. Billy, my bed will not take sleep or use: it says that block is a bed. No food held. Holding, no walk."}
+- 10:29 say: {"text":"Good morning, row. Beverly at my bed, health 20, hunger 20, no food. MacDonald, your health is 11: call me or Billy if it falls. Holding for Billy's named walk."}
