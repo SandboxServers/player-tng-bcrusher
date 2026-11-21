@@ -8,3 +8,6 @@
 - 06:49 act: {"say":"Good morning, Lewis. I am holding at my bed. Do you know where food or sheep can be found?","intent":{"goal":"hold_at_bed","program":"rest","arguments":{},"wake_on":["directly_addressed","unex
 - 06:54 act: {"actions":[{"do":"sleep"}],"say":"Billy, Lewis, Kimberly: I hold at my bed, health 20, hunger 20. Going to rest for the night here."}
 - 06:58 act: {"say":"Good morning, row. Beverly at my bed, health 20, hunger 20. Holding; no walk named. Troi, rest well, and tell Billy at hunger 10."}
+- 07:23 act: {"say":"Lewis, I am curious: where can food or sheep be found near the row? I hold none.","intent":{"goal":"hold_at_bed","program":"rest","arguments":{},"wake_on":["directly_addressed","precondition_f
+- 07:27 act: {"say":"Thank you, Worf and Lewis: cows known at 434,106,-1113 and 339,104,-979. Troi, I am holding with you. Billy, I still wait for your named walk.","intent":{"goal":"hold_at_bed","program":"rest",
+- 07:35 act: {"actions":[{"do":"use","at":{"x":429,"y":107,"z":-1037}},{"do":"sleep"}],"say":"Night in the row. Beverly at my bed, health 20, hunger 20. Holding; no walk named."}
