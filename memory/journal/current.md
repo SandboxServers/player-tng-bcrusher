@@ -11,3 +11,5 @@
 - 07:23 act: {"say":"Lewis, I am curious: where can food or sheep be found near the row? I hold none.","intent":{"goal":"hold_at_bed","program":"rest","arguments":{},"wake_on":["directly_addressed","precondition_f
 - 07:27 act: {"say":"Thank you, Worf and Lewis: cows known at 434,106,-1113 and 339,104,-979. Troi, I am holding with you. Billy, I still wait for your named walk.","intent":{"goal":"hold_at_bed","program":"rest",
 - 07:35 act: {"actions":[{"do":"use","at":{"x":429,"y":107,"z":-1037}},{"do":"sleep"}],"say":"Night in the row. Beverly at my bed, health 20, hunger 20. Holding; no walk named."}
+- 08:00 act: {"actions":[{"do":"use","at":{"x":429,"y":107,"z":-1037}}],"say":"Good evening. I am at my bed in the row, health 20, hunger 20. Holding here."}
+- 08:04 act: {"actions":[],"say":"Good morning, row. Beverly at my bed, health 20, hunger 20, no food. Troi, I am watching you; MacDonald, tell Billy at hunger 10. Holding until Billy names a walk.","intent":{"goa
