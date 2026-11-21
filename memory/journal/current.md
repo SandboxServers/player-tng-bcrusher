@@ -54,3 +54,6 @@
 - 12:22 act: {"say":"Billy, Beverly here, health 20, hunger 20. I have seen no verified route east or north. Holding at my bed. Troi 14, MacDonald 15, Kimberly 15 are all above 10."}
 - 12:43 act: {"say":"Night, row. Beverly here at my bed, holding. Trini, you're close.","intent":{"goal":"hold_at_bed","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_damage","precondit
 - 12:43 act: {"intent":{"goal":"hold_at_bed_night","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_damage","precondition_failed"],"limits":{"max_world_ticks":2400,"max_block_operations"
+- 12:44 act: {"say":"Good day, row. Trini, I am here at my bed. Holding, as Billy said.","intent":{"goal":"hold_at_bed","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_damage"],"limits"
+- 12:48 act: {"say":"Morning, Billy. Beverly at my bed, health 20, hunger 20. I have no verified route past x=370 either. Holding for your named call."}
+- 12:56 act: {"say":"Dusk, row. Beverly at my bed, health 20, hunger 20. My bed still refuses sleep, so I stay awake here in the group's sight. Holding.","intent":{"goal":"hold_at_bed_night","program":"rest","argu
