@@ -1,6 +1,7 @@
-# Handoff, day 698 (dusk, sleeping at bed 430,107,-1037)
+# Handoff, day 718 (dusk)
 
-- At my bed in the row, in Billy's sight. Health 20, hunger 20, wooden sword, no food.
-- Holding: Billy said "no walk today" for the row; no verified west route; bows heard southwest.
-- Watch: Troi (16), MacDonald (health 11, hunger 16), Kimberly (17), Trini (17). Tell Billy at hunger 10.
-- Next waking: say good morning, check the row, hold at bed unless Billy names a walk.
+- At my spot 430,107,-1037 in the row, in Billy's sight. Health 20, hunger 20, wooden sword, no food.
+- Holding: no walk named by Billy; no verified west route.
+- Watch: Troi (16), MacDonald (15), Kimberly (15), Trini (17). Tell Billy at hunger 10.
+- Beds at 429,107,-1037 and -1036 refuse sleep ("that block is a bed"). Try sleep once more; if refused, stay awake in the row.
+- Next waking: say good morning, check the row, hold unless Billy names a walk.
