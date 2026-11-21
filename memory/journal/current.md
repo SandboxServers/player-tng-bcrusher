@@ -42,3 +42,4 @@
 - 10:38 act: {"say":"Good evening, Billy. Beverly at my bed, health 20, hunger 20. No walk tonight, understood. I hold.","intent":{"goal":"hold_at_bed_night","program":"rest","arguments":{},"wake_on":["directly_ad
 - 10:42 act: {"say":"Good morning, row. Beverly here, health 20, hunger 20. Billy, I know no verified route west or south. Troi, I am well and watching your hunger."}
 - 10:54 say: {"text":"Good night, row. Beverly at my bed, health 20, hunger 20. Holding for Billy's word."}
+- 10:59 say: {"text":"Good morning, row. Beverly at my bed, health 20, hunger 20. Holding for Billy's named call."}
