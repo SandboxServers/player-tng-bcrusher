@@ -22,3 +22,13 @@
 - 08:17 act: {"actions":[],"say":"Billy, Beverly here at my bed, health 20, hunger 20, no food. What I know: Lewis and Worf named cows at 434,106,-1113 and 339,104,-979. No safe route known to me. Holding."}
 - 08:42 act: {"say":"Good morning, row. Beverly here, at my bed, health 20, hunger 20. Holding until Billy names a walk.","reasoning":"Morning, no walk named. Hold at bed in Billy's sight, say good morning, log it
 - Day 704 morning: Billy says no walk, no verified route; everyone holds at bed. Said good morning. Health 20, hunger 20, holding at bed.
+- 08:46 say: {"text":"Good morning, row. Beverly here at my bed, health 20, hunger 20. Holding as Billy said. Troi, I am watching your hunger."}
+- Day 705: Billy: still no walk, no verified route; hold at beds. Said good morning. Dusk now, health 20, hunger 20, sleep and bed use both failed (not possible). Holding at my bed, waiting.
+- 08:54 say: {"text":"Deanna, I am well: health 20, hunger 20. Tell Billy the moment your hunger reaches 10, and I will stay near you. Holding."}
+- 09:07 say: {"text":"Good morning, row. Beverly at my bed, health 20, hunger 20. Holding for Billy's named walk. Troi, hunger 16, I am watching."}
+- Day 706 morning: Billy still holds, no walk, no verified route. Health 20, hunger 20. Sleep and bed-use keep failing at 429,107,-1037; not retrying. Holding and watching Troi (16) and MacDonald (11).
+- 09:19 say: {"text":"Good night, row. Beverly at my bed, health 20, hunger 20. Holding until Billy names a walk. Lewis, keep the potato for those at ten."}
+- 09:39 say: {"text":"Billy, my bed at 429,107,-1037 has refused me for sleep since dusk on day 705, and both beds there say not possible. I am holding in your sight, health 20, hunger 20. Tell me if you know why.
+- 09:43 act: {"actions":[{"do":"use","at":{"x":429,"y":107,"z":-1036}},{"do":"sleep"}],"say":"Billy, trying the other bed at 429,107,-1036 now at dusk, as you suggested. I am still in your sight."}
+- Day 707 dusk: Other bed 429,107,-1036 also says "that block is a bed"; sleep not possible. Billy does not know why. Not retrying more. Holding in Billy's sight at 430,107,-1037, health 20, hunger 20.
+- Day 708 day: Wait timed out with no new events. Still no walk named, no route verified. Health 20, hunger 20, holding at bed.
