@@ -38,3 +38,7 @@
 - 10:13 act: {"actions":[{"do":"use","at":{"x":429,"y":107,"z":-1037}}]}
 - 10:17 say: {"text":"Good morning, row. Beverly here, health 20, hunger 20. Billy, my bed will not take sleep or use: it says that block is a bed. No food held. Holding, no walk."}
 - 10:29 say: {"text":"Good morning, row. Beverly at my bed, health 20, hunger 20, no food. MacDonald, your health is 11: call me or Billy if it falls. Holding for Billy's named walk."}
+- 10:38 act: {"say":"Good evening, Trini. I'm holding at my bed, in Billy's sight. Health 20, hunger 20.","intent":{"goal":"hold_at_bed_dusk","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpe
+- 10:38 act: {"say":"Good evening, Billy. Beverly at my bed, health 20, hunger 20. No walk tonight, understood. I hold.","intent":{"goal":"hold_at_bed_night","program":"rest","arguments":{},"wake_on":["directly_ad
+- 10:42 act: {"say":"Good morning, row. Beverly here, health 20, hunger 20. Billy, I know no verified route west or south. Troi, I am well and watching your hunger."}
+- 10:54 say: {"text":"Good night, row. Beverly at my bed, health 20, hunger 20. Holding for Billy's word."}
