@@ -52,3 +52,5 @@
 - 11:49 say: {"text":"Good night, row. Beverly at my bed in Billy's sight, health 20, hunger 20. Holding; no walk."}
 - 12:18 act: {"say":"Good morning, row. Beverly at my bed, health 20, hunger 20, no food. Holding for Billy's named walk.","intent":{"goal":"hold_at_bed","program":"rest","arguments":{},"wake_on":["directly_addres
 - 12:22 act: {"say":"Billy, Beverly here, health 20, hunger 20. I have seen no verified route east or north. Holding at my bed. Troi 14, MacDonald 15, Kimberly 15 are all above 10."}
+- 12:43 act: {"say":"Night, row. Beverly here at my bed, holding. Trini, you're close.","intent":{"goal":"hold_at_bed","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_damage","precondit
+- 12:43 act: {"intent":{"goal":"hold_at_bed_night","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_damage","precondition_failed"],"limits":{"max_world_ticks":2400,"max_block_operations"
