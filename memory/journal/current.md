@@ -20,3 +20,5 @@
 - Night 703: sleep failed (not possible) and using bed 429,107,-1037 failed ("that block is a bed"). Tried bed 429,107,-1036 once; same. Not retrying. Staying at my spot in the row, health 20, hunger 20, watching until morning.
 - 08:13 act: {"actions":[{"do":"use","at":{"x":429,"y":107,"z":-1036}},{"do":"sleep"}]}
 - 08:17 act: {"actions":[],"say":"Billy, Beverly here at my bed, health 20, hunger 20, no food. What I know: Lewis and Worf named cows at 434,106,-1113 and 339,104,-979. No safe route known to me. Holding."}
+- 08:42 act: {"say":"Good morning, row. Beverly here, at my bed, health 20, hunger 20. Holding until Billy names a walk.","reasoning":"Morning, no walk named. Hold at bed in Billy's sight, say good morning, log it
+- Day 704 morning: Billy says no walk, no verified route; everyone holds at bed. Said good morning. Health 20, hunger 20, holding at bed.
