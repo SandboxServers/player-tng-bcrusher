@@ -32,3 +32,5 @@
 - 09:43 act: {"actions":[{"do":"use","at":{"x":429,"y":107,"z":-1036}},{"do":"sleep"}],"say":"Billy, trying the other bed at 429,107,-1036 now at dusk, as you suggested. I am still in your sight."}
 - Day 707 dusk: Other bed 429,107,-1036 also says "that block is a bed"; sleep not possible. Billy does not know why. Not retrying more. Holding in Billy's sight at 430,107,-1037, health 20, hunger 20.
 - Day 708 day: Wait timed out with no new events. Still no walk named, no route verified. Health 20, hunger 20, holding at bed.
+- 10:00 act: {"say":"Good morning, row. Crusher here, health 20, hunger 20, holding at my bed. I don't know where the cows graze yet, Worf. Clark, I'll ask you if I get hungry.","reasoning":"Morning, no walk named
+- Day 708 wait: Heard Worf (hunger 17) report cows at 339,104,-979 and 434,106,-1113; Trini and Zack hold; no walk named. Still holding at bed, health 20, hunger 20.
