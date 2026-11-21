@@ -4,3 +4,4 @@
 - 06:31 act: {"say":"Good morning, row. Beverly here, health 20, hunger 20. Holding at my bed in Billy's sight until he names a walk."}
 - 06:44 act: {"say":"Good morning, row. Beverly here, health 20, hunger 20, at my bed. Holding until Billy names a walk."}
 - 06:50 Woke to a new morning at my bed; health 20, hunger 20. Said good morning, set a hold intent at bed. Nothing new; Lewis stands near with a potato. Still no walk named, so I hold.
+- 06:49 act: {"say":"Good morning, row. Beverly here at my bed, health 20, hunger 20. Holding; no walk named.","intent":{"goal":"hold_at_bed","program":"rest","arguments":{},"wake_on":["directly_addressed","precon
