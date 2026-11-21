@@ -44,4 +44,7 @@
 - 10:54 say: {"text":"Good night, row. Beverly at my bed, health 20, hunger 20. Holding for Billy's word."}
 - 10:59 say: {"text":"Good morning, row. Beverly at my bed, health 20, hunger 20. Holding for Billy's named call."}
 - 11:07 act: {"actions":[{"do":"use","at":{"x":429,"y":107,"z":-1036}},{"do":"sleep"}],"say":"Evening. Beverly here at my bed in the row, health 20, hunger 20. I'm trying the other white bed, 429,107,-1036."}
+- Day 712 day: Said good morning to Trini. Zack offered potatoes; Trini, Troi, Lewis hold at beds. Troi hunger 16, Trini 17. Still no walk named. Health 20, hunger 20. Sleep still refused at beds; will try at dusk.
+- Day 713 morning: Billy still names no walk. MacDonald at health 11 is eating a potato. Troi 14, hunger 16; Kimberly 15, hunger 17. I hold at bed, health 20, hunger 20.
 - 11:12 act: {"actions":[],"say":"Good morning, row. Beverly at my bed, health 20, hunger 20, no food. I have no verified route either. Holding for Billy's word. Troi, I'm watching your hunger.","intent":{"goal":"
+- 11:12 act: {"say":"Good morning, Trini. I am at my bed and holding here until Billy names a route.","reasoning":"Daytime, safe at bed, Trini beside me. Hold per goals. Sleep failed earlier, so I wait for night t
