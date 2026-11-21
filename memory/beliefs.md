@@ -12,5 +12,6 @@
 - The wooden sword came from Billy (day 664). To get it into hand: act use, item wooden_sword.
 - The chest at 433,107,-1065 opens for me, but its contents were not shown.
 - Phantoms have come near the beds at night; Zack and Trini fought them with wooden swords.
+- Day 687: held all day again; Billy told Trini and Zack to hold until a route is checked. Still no verified west route.
 - Day 683: the row held all day, no walk named. Billy asked for a verified safe route west; no one has seen one.
 - Curious: how a give moves an item from pack to hand; where food can be found for Riker; what the chest at 433,107,-1065 holds; where sheep graze.
