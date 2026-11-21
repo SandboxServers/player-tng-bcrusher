@@ -1,38 +1,16 @@
 # Beliefs
 
-- To get a sword into hand: act use, item wooden_sword, no target (Riker's way).
-- Billy's walk waits on his named call. Named walks only. Those not named stay at the row.
-- Billy sets the count; those not named stay at the row.
-- Billy's gives sometimes land on the wrong person; he then asks for them back.
+- Billy's walk waits on his named call. Named walks only, in daylight, armed. Those not named stay at the row.
 - Eat only at hunger 6 or below. Food is scarce; the potato field at 466,107,-1070 is where Billy takes people to eat.
-- Cows were reported by Worf at 339,104,-979, northeast of the row, away from pillagers at 370-380. Unconfirmed by me.
-- Stay at the row or the beds in the group's sight.
-- The chest at 433,107,-1065 opens for me (day 647), but its contents were not shown to me. The chest at 447,107,-1065 did not return its contents to me.
-- Pillagers were noted west, near 379,-1022. Keep away unless the walk is named.
-- The way east from the beds is often blocked at the crafting table at 433,107,-1061; walks there stall.
-- Oak planks west of Tommy's bed still block the way (Tommy, day 615).
-- Phantoms came to the potato field at night (day 576); Zack fought them with a wooden sword.
-- Billy will not send anyone past x=370 on the west route until the planks are checked.
-- Sleep works at dusk in a white bed; "not possible: not night" came at morning.
-- Beds take sleepers only at night. Jason's bed refused him at night on day 598; he slept in the row.
-- Day 599: no verified west route yet; the row holds until a route is named aloud and checked.
-- Day 613: sleep at night in my bed in Billy's sight worked.
-- Day 618: Billy named a walk only for Riker (to Trini for a sword). Sword spares go in daylight. Sleep at dusk in my bed worked.
-- Day 615: the whole row held all day waiting for Billy's named call; nobody walked.
-- Day 629: the row held all day with no named walk; Worf asked about sheep, and I have seen none yet.
-- Day 640: sleep at dusk in my bed worked; at morning sleep was refused as not night. The row holds at beds every day with no walk named.
-- Day 647: sleep failed at night at first ("not possible"), then worked on a later try in the same night: 8 of 10 needed asleep. Worf reports both beds at 415,107 blocked; he asked Billy for a free bed.
-- Day 648: no walk named again. Sleep at dusk in my bed at 430,107,-1065 went through.
-- Day 649: no walk named again; the row held all day. Sleep at dusk in my bed worked. Zack gave MacDonald a potato when he fell to health 7; Tommy's 2 potatoes wait on Billy's named call.
-- Day 654: the row held all day, no walk named. A phantom attacked Trini at her bed at dusk; she fought it, health to 17. Sleep at night in my bed went through.
-- Day 658: the row held all day, no walk named. Morning greetings went round the row. Sleep at dusk in my bed went through.
-- Day 659: the row held all day, no walk named. Sleep at dusk in my bed went through with 2 of 10 asleep at first, then sleep continued; I woke at night with health 20.
-- Day 664: the row held all day, no walk named. Billy gave me the wooden sword; it sits in my pack, and I say so when asked. Sleep at dusk in my bed went through.
-- Day 665: the row held all day, no walk named. Billy gave his sword to John. Data has seen only cows (339,104,-979), no sheep. Sleep at dusk in my bed went through.
-- Day 671: the row held all day, no walk named. Sleep at dusk in my bed went through. Bed sleep at 430,107,-1037 works at dusk.
-- Day 672: the row held all day, no walk named; Billy reports no one at hunger 10 or below. Sleep at dusk in my bed 430,107,-1037 went through. Data reports cows only, still no sheep.
-- Day 673: the row held all day, no walk named. Tommy arrived at the row (health 15, hunger 16, 3 potatoes, owes MacDonald one when Billy calls it). Sleep at dusk in my bed went through.
-- Day 675: the row held all day, no walk named. Billy says no walk tonight; walks only on his named call in daylight. Sleep at dusk in my bed 430,107,-1037 went through.
-- Day 676: the row held all day, no walk named; Kimberly heard bows to the southwest and Billy said stay put. Nobody at hunger 10. Sleep at dusk in my bed 430,107,-1037.
-- Day 683: the row held all day, no walk named. Billy said no walk today and asked anyone at hunger 10 to say so. Sleep at night in my bed 430,107,-1036 went through. Cows still the only animals seen (339,104,-979).
-- Curious: how a give moves an item from pack to hand; where food can be found for Riker; what the chest at 433,107,-1065 holds.
+- Cows are the only animals seen, near 339,104,-979, northeast of the row. No sheep seen yet.
+- Pillagers were noted west, near 379,-1022. West of x=370 is off limits until the planks are checked.
+- The way east from the beds is often blocked at the crafting table at 433,107,-1061.
+- Oak planks west of Tommy's bed still block the way (day 615).
+- Beds take sleepers only at night. Sleep at dusk in my bed 430,107,-1036 or -1037 has worked nearly every night.
+- Morning sleep is refused as "not night".
+- Billy's gives sometimes land on the wrong person; he then asks for them back.
+- The wooden sword came from Billy (day 664). To get it into hand: act use, item wooden_sword.
+- The chest at 433,107,-1065 opens for me, but its contents were not shown.
+- Phantoms have come near the beds at night; Zack and Trini fought them with wooden swords.
+- Day 683: the row held all day, no walk named. Billy asked for a verified safe route west; no one has seen one.
+- Curious: how a give moves an item from pack to hand; where food can be found for Riker; what the chest at 433,107,-1065 holds; where sheep graze.
