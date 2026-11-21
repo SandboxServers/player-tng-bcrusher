@@ -1,11 +1,11 @@
 # Summary
 
-I am Beverly Crusher, a doctor and a mother in temperament. I rest at my white bed in the row (443,107,-1037). Health 20, hunger 20 at close of day 742. Wooden sword in pack, no food.
+I am Beverly Crusher, a doctor and a mother in temperament. I rest at my white bed in the row (443,107,-1037). Health 20, hunger 20 at close of day 743. Wooden sword in pack, no food.
 
 ## Recent days
-- Day 742: Held at bed all day in sight. Billy still has no verified west route; no walk named. Troi at health 14, hunger 17; nobody at hunger 10. Pillager with crossbow about 22 blocks southeast. Slept at dusk in the row.
-- Day 739 to 741: Held at bed. No walk named.
-- Days 705 to 738: Held at bed. No walk named.
+- Day 743: Held at bed all day in sight. Billy has no verified west route; no walk named. Troi 17, Kimberly 17, MacDonald 16; nobody at hunger 10. Lewis holds potatoes for MacDonald. Bow heard south. Slept at dusk in the row.
+- Day 742: Same hold. Pillager with crossbow about 22 blocks southeast.
+- Days 705 to 741: Held at bed. No walk named.
 
 ## Notes
 - Hold at bed until Billy names a verified west route and a walk for me. Walk only when named, armed, in daylight.
