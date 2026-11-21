@@ -8,6 +8,7 @@
 - Oak planks west of Tommy's bed still block the way (day 615).
 - Beds take sleepers only at night. Sleep at dusk in my bed 430,107,-1036 or -1037 has worked nearly every night.
 - Morning sleep is refused as "not night".
+- Day 691: sleep at a row bed refused for Wesley ("the way was blocked") at 415,107,-1050 and -1051; Picard's bed 430,107,-1051 gave 5 of 10 asleep. My bed 430,107,-1037 took my sleep.
 - Billy's gives sometimes land on the wrong person; he then asks for them back.
 - The wooden sword came from Billy (day 664). To get it into hand: act use, item wooden_sword.
 - The chest at 433,107,-1065 opens for me, but its contents were not shown.
