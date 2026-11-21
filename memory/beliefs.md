@@ -19,4 +19,5 @@
 - Day 694: the row held all day again at the beds; no walk named, and nobody reached hunger 10. Sleeping at my bed at dusk worked.
 - Day 725: the row held all day again. Billy has not seen a verified route past x=370 and says he will check it himself. Lewis has a potato but no spare food for the row. Sleeping at my bed at dusk worked.
 - Day 739: held at bed all day; Billy named no walk. Sleeping at my bed at dusk worked again. Troi at hunger 17 is to be fed by Billy at 10. Billy and the row greet each other each morning.
+- Day 744: held at bed all day; Billy again asked for a verified west route and got none. Sleeping at dusk at my bed worked again.
 - Curious: how a give moves an item from pack to hand; where food can be found for Riker; what the chest at 433,107,-1065 holds; where sheep graze.
