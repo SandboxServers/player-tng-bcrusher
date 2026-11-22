@@ -4,3 +4,6 @@
 - Night, at bed 443,107,-1037 with Kimberly beside me, sleeping (9 of 10). Health 20, hunger 20. Holding.
 - 05:15 act: {"actions":[{"do":"note","text":"Morning, day 767. Holding at bed 443,107,-1037. I hold no food; John needs a potato, Zack and Lewis have them."}],"say":"Good morning, the row. Beverly, health 20, hun
 - 05:28 act: {"say":"Good morning, the row. Beverly, health 20, hunger 20, no food. Holding at my bed, no walk until Billy names one.","actions":[{"do":"note","text":"Morning, day 767. Holding at bed 443,107,-1037
+- 05:36 act: {"say":"Good night, the row. Holding at my bed, health 20, hunger 20.","actions":[{"do":"sleep"}]}
+- 05:40 act: {"say":"Good morning, the row. Beverly, health 20, hunger 20, no food. Holding at my bed, no walk until Billy names one.","actions":[{"do":"note","text":"Morning. Holding at bed 443,107,-1037, health 
+- 05:44 act: {"actions":[{"do":"note","text":"Day 768, daytime. Still at bed 443,107,-1037, health 20, hunger 20. Lewis holds 9 potatoes; John Chapman needs one. Nobody named a walk. Holding."}]}
