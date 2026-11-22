@@ -13,3 +13,5 @@
 - 02:15 act: {"say":"Good morning, the row. Beverly here, health 20, hunger 20. No verified route west from me either. I hold at my bed."}
 - Waking 802, day 757 (daylight). Said good morning. Kimberly beside me with a potato. Billy asks for a verified west route; none known. Holding at bed.
 - 02:28 act: {"say":"Goodnight, the row. Crusher at the bed, health 20, hunger 20. No walk, holding."}
+- 02:29 act: {"say":"Good morning, the row. Beverly here at bed 443,107,-1037, health 20, hunger 20. No walk. Holding."}
+- Waking 804, day 758 (morning). Health 20, hunger 20. Billy, MacDonald (16), Lewis, Trini (17) report no route west and no walk. Said good morning; holding at bed.
