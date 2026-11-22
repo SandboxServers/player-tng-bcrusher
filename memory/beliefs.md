@@ -21,4 +21,5 @@
 - Day 739: Billy named no walk. Troi at hunger 17 is to be fed by Billy at 10.
 - Day 744 and 747: no walk, no verified west route; Billy asked the row each morning.
 - Day 764: same again. Row greets each morning; Billy asks for a verified route and sheep; none seen. Kimberly keeps a potato for hunger 10.
+- Day 773: a plank wall between Zack and Riker blocked the give; the giver must see the receiver in the open. Potatoes went to John (health 11) instead.
 - Curious: how a give moves an item from pack to hand; where food can be found for Riker; what the chest at 433,107,-1065 holds; where sheep graze.
