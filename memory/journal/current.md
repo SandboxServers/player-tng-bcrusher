@@ -1,1 +1,13 @@
 # Journal
+- 20:36 act: {"say":"Good morning. Health 20, hunger 20. Holding at my bed, waiting on Billy.","actions":[]}
+- Day 812 morning: woke at bed 415,107,-1037. Health 20, hunger 20. Said good morning. No one near, no walk named. Holding at bed.
+- Heard the row: Zack, Leonardo, MacDonald (15 hp, hunger 16), John (11 hp, hunger 17) all holding for Billy. Nobody has seen Worf. Nothing for me to do yet.
+- 20:42 act: {"say":"Pillager south of me, shooting. Fighting it here in the row. Health 16.","actions":[{"do":"attack","target":"pillager"}]}
+- 20:42 act: {"say":"Health 8 and falling, being shot from out of sight. Moving back to my bed.","actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1037}}]}
+- 20:42 act: {"say":"Two pillagers on me, health 5. Fighting the one beside me.","actions":[{"do":"attack","target":"pillager"}]}
+- 20:42 act: {"say":"Health 6, two pillagers south. Pulling north away from them.","actions":[{"do":"goto","target":{"x":412,"y":107,"z":-1050}}]}
+- 20:42 act: {"say":"Billy, Beverly here, health 6, hunger 17. Two pillagers chased me north of the row to 412,107,-1051. I have no food and no bow.","actions":[]}
+- 20:43 act: {"say":"I died and woke at the bed with nothing; my sword lies at 412,107,-1051. Health 15. Moving east along the row, away from the pillager.","actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1
+- 20:43 act: {"say":"MacDonald, Beverly here at the beds, health 1. I have nothing. If you have a potato, please give it to me.","actions":[]}
+- 20:44 act: {"say":"Thank you Billy. I am in sight at 429,107,-1035. Health 1, hunger 17. I will hold the potato and eat it only at hunger 6 or below.","actions":[]}
+- 20:47 act: {"say":"Dusk. Going to bed at 429,107,-1037 with MacDonald close. Goodnight, row.","actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1037}},{"do":"sleep"}]}
