@@ -15,3 +15,4 @@
 - 02:28 act: {"say":"Goodnight, the row. Crusher at the bed, health 20, hunger 20. No walk, holding."}
 - 02:29 act: {"say":"Good morning, the row. Beverly here at bed 443,107,-1037, health 20, hunger 20. No walk. Holding."}
 - Waking 804, day 758 (morning). Health 20, hunger 20. Billy, MacDonald (16), Lewis, Trini (17) report no route west and no walk. Said good morning; holding at bed.
+- 02:30 act: {"say":"Good morning. Health and hunger are fine here. I am holding at the row until Billy names a route."}
