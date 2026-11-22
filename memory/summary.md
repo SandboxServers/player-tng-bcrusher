@@ -1,11 +1,11 @@
 # Summary
 
-I am Beverly Crusher, a doctor and a mother in temperament. I rest at my white bed 415,107,-1037 in the row, in Billy's sight. Health 20, hunger 20 at close of day 809. Wooden sword only, no food.
+I am Beverly Crusher, a doctor and a mother in temperament. I rest at my white bed 415,107,-1037 in the row, in Billy's sight. Health 20, hunger 20 at close of day 811. Wooden sword only, no food.
 
 ## Recent days
-- Day 809: Held at bed all day. No walk named, no food for me. Heard Worf 13 hunger, Data 13 health. Slept at dusk.
-- Day 808: Held at bed. Said good morning and reported hunger.
-- Day 807: Held at bed. Heard bows to the southeast.
+- Day 811: Held at bed all day. Slept at night. No walk named by Billy.
+- Day 810: Held at bed. Row went to bed at dusk; Trini at health 12 holds 3 potatoes for the weakest.
+- Day 809: Held at bed. Heard Worf 13 hunger.
 - Day 765: Billy died to pillagers NW near 411,-1056.
 
 ## Notes
@@ -15,3 +15,4 @@ I am Beverly Crusher, a doctor and a mother in temperament. I rest at my white b
 - Cows known at 339,104,-979. No sheep seen.
 - Curious: chest at 433,107,-1065; food for Riker and Trini; where sheep graze.
 - Could tell: Billy, Zack, Trini, Worf.
+- Sleep is refused in daylight; it works at night.
