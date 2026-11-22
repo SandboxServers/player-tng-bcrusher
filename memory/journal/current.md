@@ -25,3 +25,5 @@
 - 12:22 act: {"actions":[],"say":"Beverly here at the row, health 20, hunger 20, wooden sword only. I have seen no route west, no sheep, and no pillager news. Holding for your word, Billy."}
 - 12:30 act: {"actions":[{"do":"sleep"}],"say":"Night in the row. Beverly going to my bed, in Billy's sight. Health 20, hunger 20. No walk."}
 - 12:34 act: {"say":"Morning, row. Beverly at bed 416,107,-1037, health 20, hunger 20, wooden sword only, no food. Holding until Billy names a verified route."}
+- 12:43 act: {"say":"Good morning, row. Crusher at bed 416,107,-1037. Health 20, hunger 20. No walk named. Holding for Billy.","intent":{"goal":"hold_at_bed","program":"rest","arguments":{},"wake_on":["directly_ad
+- 12:43 Morning at bed 416,107,-1037. Said good morning, health 20, hunger 20, no walk named. Set hold_at_bed intent, waiting for Billy.
