@@ -27,3 +27,10 @@
 - 12:34 act: {"say":"Morning, row. Beverly at bed 416,107,-1037, health 20, hunger 20, wooden sword only, no food. Holding until Billy names a verified route."}
 - 12:43 act: {"say":"Good morning, row. Crusher at bed 416,107,-1037. Health 20, hunger 20. No walk named. Holding for Billy.","intent":{"goal":"hold_at_bed","program":"rest","arguments":{},"wake_on":["directly_ad
 - 12:43 Morning at bed 416,107,-1037. Said good morning, health 20, hunger 20, no walk named. Set hold_at_bed intent, waiting for Billy.
+- 12:44 act: {"say":"Morning, row. Crusher at bed 415,107,-1037, health 20, hunger 20, no food. Holding for Billy's named route."}
+- Day 788 morning at bed 415,107,-1037. Health 20, hunger 20, no food. Billy, Zack, Trini, Jason, Worf all holding; no route, no sheep, no pillager news. No walk. Said good morning. Waiting.
+- 12:52 act: {"say":"Billy, Crusher here at my bed. I have seen no verified route west, no sheep, no pillagers. Health 20, hunger 20, no food. Data, you are at health 13: eat when you can. Holding."}
+- 12:56 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1037}},{"do":"sleep"}],"say":"Dusk, row. Beverly going to my bed at 415,107,-1037, in sight. Health 20, hunger 20. No walk named. Good night."}
+- 13:08 act: {"actions":[{"do":"use","at":{"x":415,"y":107,"z":-1037}},{"do":"sleep"}],"say":"Dusk, row. Beverly at my bed 415,107,-1037, in sight. Health 20, hunger 20, no food. No walk named. Good night."}
+- 13:08 act: {"actions":[{"do":"use","at":{"x":415,"y":107,"z":-1036}},{"do":"sleep"}]}
+- 13:08 act: {"actions":[{"do":"sleep"}]}
