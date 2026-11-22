@@ -12,3 +12,4 @@
 - Reflect: nothing new on the west route. Still holding. Next waking: say good morning, hold unless Billy names a walk.
 - 02:15 act: {"say":"Good morning, the row. Beverly here, health 20, hunger 20. No verified route west from me either. I hold at my bed."}
 - Waking 802, day 757 (daylight). Said good morning. Kimberly beside me with a potato. Billy asks for a verified west route; none known. Holding at bed.
+- 02:28 act: {"say":"Goodnight, the row. Crusher at the bed, health 20, hunger 20. No walk, holding."}
