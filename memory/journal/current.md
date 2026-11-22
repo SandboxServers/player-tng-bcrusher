@@ -10,3 +10,5 @@
 - 02:10 act: {"say":"Good morning, row. Health 20, hunger 20. Holding at my bed as Billy said.","actions":[{"do":"open","at":{"x":447,"y":107,"z":-1037}}]}
 - Day 757: opened chest 447,107,-1037 (worked; I could not see inside from here). No walk named by Billy. Health 20, hunger 20. Slept at bed 443,107,-1036 in the row, with Kimberly close.
 - Reflect: nothing new on the west route. Still holding. Next waking: say good morning, hold unless Billy names a walk.
+- 02:15 act: {"say":"Good morning, the row. Beverly here, health 20, hunger 20. No verified route west from me either. I hold at my bed."}
+- Waking 802, day 757 (daylight). Said good morning. Kimberly beside me with a potato. Billy asks for a verified west route; none known. Holding at bed.
