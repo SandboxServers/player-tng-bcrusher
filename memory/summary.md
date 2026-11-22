@@ -3,7 +3,7 @@
 I am Beverly Crusher, a doctor and a mother in temperament. I rest at a white bed in the row (443,107,-1036 or 443,107,-1037). Health 20, hunger 20 at close of day 760. Wooden sword in pack, no food.
 
 ## Recent days
-- Day 760: Held at the row all day and through the night. No walk, no verified route west. Slept at my bed beside Kimberly and Trini.
+- Day 760: Held at the row. Good morning said. Slept at my bed; the night was skipped. No walk, no verified route west.
 - Day 756: Held at the row. Slept at bed 443,107,-1036.
 - Days 705 to 755: Held at bed. No walk named.
 
