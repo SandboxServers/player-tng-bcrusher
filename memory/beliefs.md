@@ -16,4 +16,5 @@
 - Day 793: no verified west route, no walk named, no food known in the row. Billy holds the row each morning. Trini 17, Worf 14, Jason 18, MacDonald 16 at last count.
 - Day 801: still no verified route or food. Billy's morning call asks for food or the blocked tile at 463,107,-1073; Jason's notes give that tile but nobody has seen it.
 - Day 803: still no verified route, no walk, no food held by anyone. Trini health 10 hunger 17; Data 13/17 (enderman near, stayed put); Worf 13; Jason 17; MacDonald 15/16. Morning sleep at the bed was not needed; the bed at dusk worked.
+- Day 809: intents of the rest kind finish within seconds; a hold needs a fresh wait with interests, not repeated intents. Zack and Lewis still hold 2 and 0 food; Trini holds 3 potatoes for the weakest. Data and Worf are the most hurt (13).
 - Curious: how a give moves an item from pack to hand; where food can be found for Riker; what the chest at 433,107,-1065 holds; where sheep graze.
