@@ -11,3 +11,7 @@
 - 20:43 act: {"say":"MacDonald, Beverly here at the beds, health 1. I have nothing. If you have a potato, please give it to me.","actions":[]}
 - 20:44 act: {"say":"Thank you Billy. I am in sight at 429,107,-1035. Health 1, hunger 17. I will hold the potato and eat it only at hunger 6 or below.","actions":[]}
 - 20:47 act: {"say":"Dusk. Going to bed at 429,107,-1037 with MacDonald close. Goodnight, row.","actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1037}},{"do":"sleep"}]}
+- 20:52 act: {"actions":[{"do":"note","text":"Day 813 morning at bed 429,107,-1035. Health 3, hunger 16. Holding for Billy; no walk named."}],"say":"Good morning, row. Beverly at the white beds, 429,107,-1035. Hea
+- 20:56 act: {"actions":[],"say":"Thank you, MacDonald. I am at 429,107,-1035 with health 3, hunger 16. I will eat your potato only when my hunger is 6 or below. Holding here for Billy."}
+- 21:00 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1037}},{"do":"sleep"}],"say":"Thank you, Trini and MacDonald. I will take the potato when my hunger falls, as I planned, and I will hold it. Dus
+- 21:04 act: {"actions":[{"do":"note","text":"Morning of day 813 at bed 430,107,-1037. Health 3.3, hunger 16. Holding; no walk named."}],"say":"Good morning, row. Beverly at 430,107,-1037, health 3, hunger 16, no 
