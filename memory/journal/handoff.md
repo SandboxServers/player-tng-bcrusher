@@ -1,6 +1,6 @@
-# Handoff, day 816 (night)
+# Handoff, day 817 (night)
 
-- Sleeping at white bed 430,107,-1037 in the row. Health 3.3, hunger 17, empty hands (Trini's potato was reflex-eaten). Not in danger.
-- Billy (bed 443,107,-1023) holds 3 potatoes for Worf. Zack and MacDonald hold potatoes for Worf and whoever is worst off.
-- No walk named. Do not walk south or north to the sword without Billy's named walk in daylight, with escorts.
-- Next waking: say good morning, report health and hunger, hold for Billy's word. Eat only at hunger 6 or below.
+- Asleep at white bed 430,107,-1037 in the row. Health 3.3, hunger 17, empty hands. Not in danger.
+- Billy holds at his bed with a potato for whoever is worst off. Zack, Troi, Kimberly, Lewis, Worf, Jason, MacDonald hold at their beds. No walk named.
+- Told Billy I will not eat at hunger 17; keep the potato for the worst off. Eat only at hunger 6 or below.
+- Next waking: say good morning, report health and hunger, hold for Billy's named walk.
