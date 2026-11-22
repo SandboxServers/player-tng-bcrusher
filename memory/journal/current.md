@@ -6,3 +6,5 @@
 - 07:04 act: {"say":"Beverly: health 20, hunger 20, no food, wooden sword only. No verified route west from me. Holding at my bed."}
 - 07:12 act: {"actions":[{"do":"sleep"}]}
 - 07:12 act: {"actions":[{"do":"sleep"}]}
+- 07:14 act: {"say":"Good morning, row. Beverly at my bed, health 20, hunger 20. No walk named; holding."}
+- Waking 835: at bed 444,107,-1037, health 20, hunger 20, Kimberly in reach. Billy, Lewis, Chapman overheard going to bed at night; no walk named. Holding.
