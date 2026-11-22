@@ -4,3 +4,12 @@
 - 22:50 act: {"say":"Thank you, Billy. Keep the potato for Worf or whoever is hungrier. My hunger is 17; I will ask at 6 or below. Holding at my bed."}
 - Still at bed 430,107,-1051, health 3.3, hunger 17. Declined food from Billy, Troi, Zack; Worf first. Thunder, light dimming. Holding for Billy's named walk.
 - 22:54 act: {"say":"Thank you, Troi, Zack, Worf. Hunger 17 still; I eat at 6 or below. Give to Worf first. I stay at my bed."}
+- 23:03 act: {"say":"Morning, Billy. Beverly here, at my bed. Health 3.3, hunger 17, empty hands. Worf and Leonardo eat first; I'll ask when I reach 6.","intent":{"goal":"hold_at_bed","program":"rest","arguments":
+- 23:04 act: {"say":"Thank you, Billy. My hunger is 17, so I hold the potato for whoever is lower. Worf and Leonardo first. I stay at my bed."}
+- Day 820 morning: at bed, health 3.3, hunger 17. Declined potatoes again (Troi, Worf, Billy). Billy gave his to Leonardo. Holding; no walk named.
+- Day 820-821: Troi walked in daylight and gave me one potato; I ate it (reflex). Health 5.3, hunger 17. Troi keeps the last for Leonardo. Still holding at bed; days since sleep 2, need night sleep at bed.
+- Night 821: slept at bed. Health 5.3, hunger 17.
+- 23:08 act: {"say":"Morning, Troi, Worf, Clark. Beverly still at my bed, health 3.3, hunger 17. I stay put and wait for Billy's word."}
+- 23:12 act: {"say":"Troi, Worf, thank you. I still hold at hunger 17; Worf keeps his potato. It is dusk, so I will sleep at my bed once it is night."}
+- 23:16 act: {"say":"Morning, Troi, Billy. Beverly here, health 3.3, hunger 17. Keep the potato for Leonardo, who is at 8 health. I will take food at 6 or below."}
+- 23:20 act: {"say":"Thank you, Troi and Worf. I ate the potato; health is up to 5.3. Troi, keep the last for Leonardo. I hold at my bed."}
