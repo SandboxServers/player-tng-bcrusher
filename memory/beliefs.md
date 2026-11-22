@@ -6,20 +6,12 @@
 - Pillagers were noted west, near 379,-1022. West of x=370 is off limits until the planks are checked.
 - The way east from the beds is often blocked at the crafting table at 433,107,-1061.
 - Oak planks west of Tommy's bed still block the way (day 615).
-- Beds take sleepers only at night. Sleep at dusk in my bed 430,107,-1036 or -1037 has worked nearly every night.
+- Beds take sleepers only at night. Sleep at dusk in my bed 415,107,-1037 or 430,107,-1037 has worked nearly every night.
 - Morning sleep is refused as "not night".
-- Day 691: sleep at a row bed refused for Wesley ("the way was blocked") at 415,107,-1050 and -1051; Picard's bed 430,107,-1051 gave 5 of 10 asleep. My bed 430,107,-1037 took my sleep.
 - Billy's gives sometimes land on the wrong person; he then asks for them back.
 - The wooden sword came from Billy (day 664). To get it into hand: act use, item wooden_sword.
 - The chest at 433,107,-1065 opens for me, but its contents were not shown.
 - Phantoms have come near the beds at night; Zack and Trini fought them with wooden swords.
-- Day 687: held all day again; Billy told Trini and Zack to hold until a route is checked. Still no verified west route.
-- Day 683: the row held all day, no walk named. Billy asked for a verified safe route west; no one has seen one.
-- Day 693: the row held all day again at the beds. The call point is hunger 10, and no one reached it. Bows heard southwest.
-- Day 694: held at the beds; sleeping at my bed at dusk worked.
-- Day 725: Billy has not seen a verified route past x=370 and says he will check it himself. Lewis has a potato but no spare food.
-- Day 739: Billy named no walk. Troi at hunger 17 is to be fed by Billy at 10.
-- Day 744 and 747: no walk, no verified west route; Billy asked the row each morning.
-- Day 764: same again. Row greets each morning; Billy asks for a verified route and sheep; none seen. Kimberly keeps a potato for hunger 10.
-- Day 773: a plank wall between Zack and Riker blocked the give; the giver must see the receiver in the open. Potatoes went to John (health 11) instead.
+- Day 773: a plank wall between Zack and Riker blocked the give; the giver must see the receiver in the open.
+- Day 793: no verified west route, no walk named, no food known in the row. Billy holds the row each morning. Trini 17, Worf 14, Jason 18, MacDonald 16 at last count.
 - Curious: how a give moves an item from pack to hand; where food can be found for Riker; what the chest at 433,107,-1065 holds; where sheep graze.
