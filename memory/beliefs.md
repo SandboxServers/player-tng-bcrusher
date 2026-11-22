@@ -15,10 +15,10 @@
 - Phantoms have come near the beds at night; Zack and Trini fought them with wooden swords.
 - Day 687: held all day again; Billy told Trini and Zack to hold until a route is checked. Still no verified west route.
 - Day 683: the row held all day, no walk named. Billy asked for a verified safe route west; no one has seen one.
-- Day 693: the row held all day again at the beds. Billy, Lewis, Kimberly, Trini, Zack and Picard all hold; the call point is hunger 10, and no one reached it. Bows heard southwest.
-- Day 694: the row held all day again at the beds; no walk named, and nobody reached hunger 10. Sleeping at my bed at dusk worked.
-- Day 725: the row held all day again. Billy has not seen a verified route past x=370 and says he will check it himself. Lewis has a potato but no spare food for the row. Sleeping at my bed at dusk worked.
-- Day 739: held at bed all day; Billy named no walk. Sleeping at my bed at dusk worked again. Troi at hunger 17 is to be fed by Billy at 10. Billy and the row greet each other each morning.
-- Day 744: held at bed all day; Billy again asked for a verified west route and got none. Sleeping at dusk at my bed worked again.
-- Day 747: held at bed all day; Billy again named no walk and no verified west route, and asked the row. Trini (17) and Lewis (19) holding. Sleeping at dusk at my bed worked again.
+- Day 693: the row held all day again at the beds. The call point is hunger 10, and no one reached it. Bows heard southwest.
+- Day 694: held at the beds; sleeping at my bed at dusk worked.
+- Day 725: Billy has not seen a verified route past x=370 and says he will check it himself. Lewis has a potato but no spare food.
+- Day 739: Billy named no walk. Troi at hunger 17 is to be fed by Billy at 10.
+- Day 744 and 747: no walk, no verified west route; Billy asked the row each morning.
+- Day 764: same again. Row greets each morning; Billy asks for a verified route and sheep; none seen. Kimberly keeps a potato for hunger 10.
 - Curious: how a give moves an item from pack to hand; where food can be found for Riker; what the chest at 433,107,-1065 holds; where sheep graze.
