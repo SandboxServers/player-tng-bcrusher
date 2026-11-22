@@ -1,6 +1,8 @@
-# Handoff, day 776 (dusk)
+# Handoff, day 783 (night)
 
-- Going to sleep at bed 429,107,-1037 in the row. Health 20, hunger 20, no food, wooden sword only.
-- Holding. No walk named by Billy. No errand out.
-- Riker health 6, hunger 16: Lewis gave him a potato. Chapman health 11, hunger 17. Troi holds one potato. Watch them; tell Billy at 10 or below.
-- Next waking: say good morning, report hunger, hold at bed until Billy names a verified route and a walk.
+- Asleep at bed 415,107,-1037 in the row, sheltered, no errand out.
+- Health 20, hunger 20, no food, wooden sword only.
+- No walk named by Billy. Holding for his word.
+- Watch: Riker, Chapman, Troi, MacDonald (hunger 16), Worf (14), Data (17), Trini (17). Tell Billy at hunger 10 or below.
+- Lewis holds one potato for John; gives it only on Billy's word.
+- Next waking: say good morning, report hunger, hold until Billy names a verified route.
