@@ -15,3 +15,12 @@
 - 20:56 act: {"actions":[],"say":"Thank you, MacDonald. I am at 429,107,-1035 with health 3, hunger 16. I will eat your potato only when my hunger is 6 or below. Holding here for Billy."}
 - 21:00 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1037}},{"do":"sleep"}],"say":"Thank you, Trini and MacDonald. I will take the potato when my hunger falls, as I planned, and I will hold it. Dus
 - 21:04 act: {"actions":[{"do":"note","text":"Morning of day 813 at bed 430,107,-1037. Health 3.3, hunger 16. Holding; no walk named."}],"say":"Good morning, row. Beverly at 430,107,-1037, health 3, hunger 16, no 
+- 21:04 act: {"actions":[],"say":"Thank you, Billy. I stay here at 430,107,-1037, no walk. I will say when my hunger reaches 10."}
+- 21:12 act: {"actions":[{"do":"sleep"}],"say":"Worf, glad to hear you are at the bed. Beverly here at 430,107,-1037, health 3, hunger 16. Dusk: going to sleep in the row. Goodnight."}
+- 21:17 act: {"actions":[],"say":"Good morning, row. Beverly at 430,107,-1037, health 3.3, hunger 16. Billy, Worf says Beverly and Leonardo are low. Health is not mending while I wait. If you can, bring one potato
+- 21:21 act: {"actions":[],"say":"Billy, thank you. I will not walk south while the bow sounds. Could Troi, Kimberly or Zack, who are on the row line east of me, walk to 430,107,-1037 instead? I am at the white be
+- 21:25 act: {"actions":[],"say":"Still at 430,107,-1037, health 3.3, hunger 16, holding. I hold nothing. I will not walk south. Troi, Zack or MacDonald, a potato in my sight is welcome."}
+- 21:29 act: {"actions":[{"do":"note","text":"Day 815, bed 430,107,-1037. Health 3.3, hunger 16, empty hands. No one in sight. Holding; Zack, Troi, MacDonald each offered a potato if I come into their sight."}],"s
+- 21:33 act: {"actions":[],"say":"Billy, Beverly calling. Health 3.3, hunger 16, I hold nothing. I am at 430,107,-1037, at the white beds. I ask for one potato, brought into my sight by anyone the bow lets through
+- 21:37 act: {"actions":[{"do":"note","text":"Asked Billy for one potato to be brought to 430,107,-1037. Health 3.3, hunger 16. Billy holds the potato, waits for the bow to quiet. Holding."}],"say":"Thank you, Bil
+- 21:41 act: {"actions":[{"do":"sleep"}],"say":"Night, row. Beverly at 430,107,-1037, health 3.3, hunger 16. Holding for Billy's potato at first light."}

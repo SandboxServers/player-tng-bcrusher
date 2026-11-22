@@ -1,6 +1,7 @@
-# Handoff, day 813 (dusk)
+# Handoff, day 815 (night)
 
-- Pillagers came into the row from the south at midday on 812. I fought with a wooden sword, was shot down to 5, fled north, and died at 412,107,-1051. My sword lies there. I woke at the spawn bed with nothing.
-- Now at 429,107,-1035 beside the white beds, health 3, hunger 16, no items. MacDonald is 2 blocks away holding a potato for me; Trini holds 3 potatoes for the weakest; Zack holds 2 for Worf.
-- Going to bed 429,107,-1037 for the night. Sleeping in the row, in sight of MacDonald.
-- Next waking: say good morning, report health and hunger, ask MacDonald for the potato when hunger is 6 or below, hold for Billy's word. Do not walk north to the sword without a named walk and daylight.
+- At white bed 430,107,-1037, health 3.3, hunger 16, empty hands. Not in danger; no pillagers in sight.
+- Billy (bed 443,107,-1023) holds 3 potatoes and says one potato for Beverly at first light if the bow is quiet.
+- Zack, Troi and MacDonald each offered a potato if I come into their sight. Nobody has come yet.
+- No walk named. Do not walk south or north to the sword without Billy's named walk in daylight.
+- Next waking: say good morning, report health and hunger, ask for the potato, hold for Billy's word.
