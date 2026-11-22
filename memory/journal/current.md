@@ -1,18 +1,4 @@
 # Journal
-- 01:48 say: {"text":"Good morning, row. Health 20, hunger 20. Holding at my bed; no walk named."}
-- Woke at bed 443,107,-1037, health 20, hunger 20. Said good morning. Billy and Trini in the row; Kimberly beside me holding a potato. Holding; no walk named.
-- Billy: no walk today, no one west of x=370. Kimberly hunger 17, Trini 17, MacDonald 16. None at 10 yet. Holding.
-- 02:01 act: {"say":"Goodnight, row. Holding at my bed, no walk named. Troi, Kimberly and MacDonald, stay close."}
-- 02:02 act: {"say":"Good night, row. Health 20, hunger 20. Holding at my bed, no walk."}
-- Night, day 756. Billy at bed 429,107,-1051; Chapman reports no route west. Still holding at my bed. Waiting.
-- Day 757 morning. Row reports: MacDonald 16, Troi 17, Kimberly 17, Trini 17; none at 10. No route west. Said good morning, holding.
-- 02:06 act: {"say":"Morning, row. Beverly here, health 20, hunger 20. No verified route west from me. Holding at my bed, no walk."}
-- 02:10 act: {"say":"Good morning, row. Health 20, hunger 20. Holding at my bed as Billy said.","actions":[{"do":"open","at":{"x":447,"y":107,"z":-1037}}]}
-- Day 757: opened chest 447,107,-1037 (worked; I could not see inside from here). No walk named by Billy. Health 20, hunger 20. Slept at bed 443,107,-1036 in the row, with Kimberly close.
-- Reflect: nothing new on the west route. Still holding. Next waking: say good morning, hold unless Billy names a walk.
-- 02:15 act: {"say":"Good morning, the row. Beverly here, health 20, hunger 20. No verified route west from me either. I hold at my bed."}
-- Waking 802, day 757 (daylight). Said good morning. Kimberly beside me with a potato. Billy asks for a verified west route; none known. Holding at bed.
-- 02:28 act: {"say":"Goodnight, the row. Crusher at the bed, health 20, hunger 20. No walk, holding."}
-- 02:29 act: {"say":"Good morning, the row. Beverly here at bed 443,107,-1037, health 20, hunger 20. No walk. Holding."}
-- Waking 804, day 758 (morning). Health 20, hunger 20. Billy, MacDonald (16), Lewis, Trini (17) report no route west and no walk. Said good morning; holding at bed.
-- 02:30 act: {"say":"Good morning. Health and hunger are fine here. I am holding at the row until Billy names a route."}
+- Waking 806, day 759 (daylight). Health 20, hunger 20. Said good morning at bed 443,107,-1037. Trini and Kimberly (potato) beside me. No walk named; holding. Next: wait, watch hunger 10 for Kimberly, Trini, Troi, MacDonald, Lewis.
+- 02:59 act: {"say":"Billy, Beverly here: no verified route west from me and no sheep seen. Holding at bed, health 20, hunger 20. MacDonald at 15, I will tell you at 10."}
+- Billy holds the row; will feed anyone at 10, MacDonald first. Cows past x=370 (339,104,-979): no walk without Billy's call. Holding at bed.
