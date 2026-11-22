@@ -1,10 +1,10 @@
 # Summary
 
-I am Beverly Crusher, a doctor and a mother in temperament. I rest at my white bed 430,107,-1050 in the row, in Billy's sight. Health 3.3, hunger 17 at close of day 818. Empty hands.
+I am Beverly Crusher, a doctor and a mother in temperament. I rest at my white bed 430,107,-1050 in the row, in Billy's sight. Health 3.3, hunger 17 at close of day 818, asleep. Empty hands.
 
 ## Recent days
-- Day 818: Held at bed in the row. Billy offered potatoes; I declined at hunger 17 so Worf and Leonardo ate first. Slept at dusk.
-- Day 817: Held at bed. Billy walked to me; declined potato, sent it to Worf.
+- Day 818: Held at bed in the row. Declined potato at hunger 17 so Worf and Leonardo ate first. Slept at dusk.
+- Day 817: Held at bed. Declined potato, sent it to Worf.
 - Day 765: Billy died to pillagers NW near 411,-1056.
 
 ## Notes
