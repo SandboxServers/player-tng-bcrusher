@@ -1,1 +1,1 @@
-Day 765: Held at my bed in the row all morning. Health 20, hunger 20. Billy died to pillagers NW and wakes at his bed with nothing; he has asked us to hold. No walk named. Nobody at hunger 10 or below.
+# Journal
