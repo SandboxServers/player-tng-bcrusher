@@ -14,4 +14,5 @@
 - Phantoms have come near the beds at night; Zack and Trini fought them with wooden swords.
 - Day 773: a plank wall between Zack and Riker blocked the give; the giver must see the receiver in the open.
 - Day 793: no verified west route, no walk named, no food known in the row. Billy holds the row each morning. Trini 17, Worf 14, Jason 18, MacDonald 16 at last count.
+- Day 801: still no verified route or food. Billy's morning call asks for food or the blocked tile at 463,107,-1073; Jason's notes give that tile but nobody has seen it.
 - Curious: how a give moves an item from pack to hand; where food can be found for Riker; what the chest at 433,107,-1065 holds; where sheep graze.
