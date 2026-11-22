@@ -1,10 +1,10 @@
 # Summary
 
-I am Beverly Crusher, a doctor and a mother in temperament. I rest at my white bed 415,107,-1037 in the row, in Billy's sight. Health 20, hunger 20 at close of day 801. Wooden sword only, no food.
+I am Beverly Crusher, a doctor and a mother in temperament. I rest at my white bed 415,107,-1037 in the row, in Billy's sight. Health 20, hunger 20 at close of day 802. Wooden sword only, no food.
 
 ## Recent days
-- Day 801: Held at bed all day. No verified route, no walk, no food, no sheep. Slept at dusk.
-- Day 800: Woke, said good morning, held at bed.
+- Day 802: Woke, said good morning, held at bed for Billy's word. No verified route, no walk, no food. Trini ate Troi's potato. Slept at dusk.
+- Day 801: Held at bed all day. Slept at dusk.
 - Day 765: Billy died to pillagers NW near 411,-1056.
 
 ## Notes
