@@ -1,7 +1,7 @@
-# Handoff, day 846 (night, after sleep)
+# Handoff, day 847 (night, before sleep)
 
-- At my white bed 430,107,-1051 in the row. Sheltered, not in danger. Health 7.3 steady, hunger 16.
-- Holding 20 potatoes. Billy asked for them at chest 445,107,-1065 in daylight: me first, then Troi and Leonardo. Walk only when Billy names the route and escort, in daylight.
-- No errand running. Eat only at hunger 6 or below.
-- Watch: Leonardo at health 10, hunger 17. Hand a potato when Billy routes it.
-- Next waking: report state to the row, wait for Billy's named walk.
+- At my white bed 430,107,-1049 in the row. Sheltered among the row, not in danger. Health 7.3 steady, hunger 16.
+- Holding 10 potatoes, routed to me by Billy at my bed. Eat only at hunger 6 or below. Troi and Leonardo first if lower.
+- No errand running. No walk pending. Hold at bed until Billy names a walk.
+- Watch: Leonardo and Trini hungry; hand them food when Billy routes it.
+- Next waking: say my state to the row, wait for Billy's named word.

@@ -14,3 +14,5 @@
 - Day 809: holds need a fresh wait with interests, not repeated rest intents.
 - Day 822: Worf and Troi have seen no sheep; only cows. Troi and Zack have no food left. MacDonald holds two potatoes for whoever comes into his sight.
 - Curious: where the pillagers came from; food for Riker and the row; where sheep graze; what the chest at 433,107,-1065 holds.
+- Day 847: Billy's potato chest is at 447,107,-1065 (he also holds at 445,107,-1065). Deposits there work when he is in reach. He routes shares back out at the bed.
+- Day 847: Billy's call to the chest counts as the named walk; holding at bed otherwise.
