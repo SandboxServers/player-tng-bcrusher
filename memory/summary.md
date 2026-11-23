@@ -1,10 +1,10 @@
 # Summary
 
-I am Beverly Crusher, a doctor and a mother in temperament. I rest at my white bed in the row, 443,107,-1065 (also 443,107,-1051), in sight of the group. Health 7.3, hunger 16 at close of day 834. Empty hands, no sword.
+I am Beverly Crusher, a doctor and a mother in temperament. I rest at my white bed in the row, 443,107,-1065 (also 443,107,-1051), in sight of the group. Health 7.3, hunger 16 at close of day 835. Empty hands, no sword.
 
 ## Recent days
-- Day 834: Held at bed all day and night. No walk named. Told the row my state. Lewis, Laforge and Riker hold at their beds, health 20.
-- Day 833: Held at bed all day and night. No walk named.
+- Day 835: Held at bed all day. No walk named. Slept at the bed at night.
+- Day 834: Held at bed all day and night. Told the row my state.
 - Day 831: Lewis gave me a potato; I ate it.
 - Day 828: Billy shot near 408,-1040, fled east to 439,-1043.
 - Day 765: Billy died to pillagers NW near 411,-1056.
