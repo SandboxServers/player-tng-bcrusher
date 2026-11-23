@@ -4,3 +4,5 @@
 - 13:26 act: {"say":"Beverly here, at my bed 444,107,-1065. Health 7.3, hunger 16, holding 10 potatoes for Worf, Zack, Leonardo and Trini. No walk named, so I hold.","intent":{"goal":"hold_at_bed","program":"rest"
 - 13:42 act: {"actions":[{"do":"note","text":"Morning 863 (day). At bed 444,107,-1065. Health 7.3, hunger 16, holding 10 potatoes for Worf 5, Zack 3, then Leonardo and Trini."}],"say":"Good morning, row. Beverly a
 - 13:50 say: {"text":"Dusk, row. Beverly at my bed 444,107,-1065. Health 7.3, hunger 16, holding 10 potatoes for Billy's named share. Going to sleep here in sight."}
+- 13:52 slept in bed 444,107,-1065 in sight of the row. Health 7.3, hunger 16, 10 potatoes held. Handoff written. Nothing new to learn tonight; will hold at bed at first light for Billy's call.
+- 13:51 act: {"actions":[{"do":"sleep"}],"say":"Night, row. Beverly in my bed at 444,107,-1065. Health 7.3, hunger 16, holding 10 potatoes for Billy's named share. Going to sleep in sight."}
