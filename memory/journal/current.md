@@ -5,3 +5,7 @@
 - 23:23 Tried to use the bed by act; it refused ("that block is a bed"). Called sleep instead; the world answered with the day's digest. Nobody gave or walked. Lesson: sleep is the tool for beds, not use.
 - Reflect: the row is holding for Billy's word at first light. Billy holds my potato. I keep my 10 until Zack or Worf is in sight.
 - 23:23 say: {"text":"Beverly here at the bed, 443,107,-1037, in the row's sight. Billy, I have no sign; I still hold 10 potatoes and will hold until Zack or Worf comes in sight."}
+- 23:23 act: {"say":"Morning, Billy. I hold 10 potatoes, hunger 16, still not eating. Zack 3 and Worf 5 owed once in sight. Waiting for your named walk."}
+- 23:26 act: {"actions":[{"do":"give","to":"ag_zack_01","item":"potato","count":3}],"say":"Zack, I do not see you in my sight yet. I will give you 3 potatoes the moment you are in view. Billy, I hold 10 potatoes."
+- 893 morning: holding 10 potatoes at 429,107,-1035, hunger 16. Give to Zack failed (not in sight). Billy's walk called off (east way blocked). Waiting for Zack and Worf to be in sight, and for Billy's named walk.
+- 23:30 act: {"actions":[{"do":"give","to":"ag_zack_01","item":"potato","count":3}],"say":"Zack, I give your 3 potatoes now if you are in my sight. Billy, I hold 10 potatoes, hunger 16. Worf's 5 wait until he is i
