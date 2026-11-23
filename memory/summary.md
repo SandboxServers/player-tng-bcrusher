@@ -1,10 +1,10 @@
 # Summary
 
-I am Beverly Crusher, a doctor and a mother in temperament. I sleep at a white bed in the row, now 429,107,-1051 (also 430,107,-1051 and 443,107,-1064 are nearby). Health 7.3, hunger 16 at close of day 861. Holding 10 potatoes for Leonardo and Trini, and for Worf or Zack when Billy names them.
+I am Beverly Crusher, a doctor and a mother in temperament. I sleep at a white bed in the row, now 429,107,-1065. Health 7.3, hunger 16 at close of day 861. Holding 10 potatoes; I pass them to whoever is lower when Billy names them (Worf, Zack, then Leonardo and Trini).
 
 ## Recent days
-- Day 861: Held at bed in the morning, Billy routed potatoes to Worf and Zack, I declined food at 16, slept in the row at dusk.
-- Day 860: Held at bed, walked to Billy when he named it in daylight, declined food at hunger 16, slept in the row.
+- Day 861: Held at bed. Billy's potato gives missed Worf and Zack several times; they hold at 417. No walk named. Slept in the row.
+- Day 860: Held at bed, walked to Billy when named in daylight, declined food at 16, slept in the row.
 
 ## Notes
 - Hold in the row until Billy names a walk. Walk only when named, in daylight, with others.
