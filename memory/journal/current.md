@@ -44,3 +44,62 @@
 - 16:50 act: {"actions":[{"do":"sleep"}],"say":"Night in the row. Beverly at 430,107,-1037 beside the white bed, health 7.3, hunger 16, holding 10 potatoes for Worf 5 and Zack 3 at first light."}
 - 16:54 act: {"actions":[],"say":"Beverly here at 430,107,-1037, awake, health 7.3, hunger 16, holding 10 potatoes. Billy, I hold here in the bed row. Worf 5 and Zack 3 when either of you is in my sight; I do not 
 - 17:03 act: {"actions":[{"do":"sleep"}]}
+- 17:07 act: {"actions":[{"do":"goto","target":{"x":430,"y":107,"z":-1047}}],"say":"Morning, Billy. Beverly walks to you now at 430,-1047, in daylight, as you named. Holding 10 potatoes: Zack 3 first, then the res
+- 17:07 act: {"actions":[],"say":"Billy, Beverly is in your sight at 431,-1047. Health 7.3, hunger 16. I hold my 10 potatoes for Zack 3 when he is here. Kimberly first is right, I take nothing."}
+- 17:12 act: {"actions":[],"say":"Billy, Beverly holds at 431,-1047 with 10 potatoes. Zack is owed 3 from me. If you walk west with Kimberly in daylight and name it, I walk with you and hand Zack his 3 when he is 
+- 17:15 act: {"actions":[],"say":"Billy, I already hold 10 potatoes and owe them to Worf 5 and Zack 3, so I do not need more from you. Health 7.3, hunger 16. It is night and dim. Zack, if you are in my sight, say 
+- 17:22 act: {"actions":[],"say":"Morning, row. Beverly at 431,-1047, health 7.3, hunger 16, holding 10 potatoes, owed Zack 3 and Worf 5. Zack, come into my sight and I give you 3 now. Billy, I hold my potatoes un
+- 17:35 act: {"actions":[],"say":"Morning. Beverly at 431,-1047, health 7.3, hunger 16, 10 potatoes held. Zack, I still owe you 3 and I will give them when you stand in my sight. I will not walk to the bed at 415 
+- 17:43 act: {"actions":[],"say":"Dusk. Beverly holds at 431,-1047 in Billy's sight, health 7.3, hunger 16, 10 potatoes. Zack and Worf have not come into my sight, so I give nothing yet. I stay here tonight and wa
+- 17:47 act: {"actions":[],"say":"Morning. Beverly is here at 431,-1047, in Kimberly's reach. I hold 10 potatoes, so Kimberly keeps hers. I eat only at hunger 6, and I owe Zack 3 and Worf 5. Zack, come into my sig
+- 17:52 act: {"actions":[],"say":"Billy, Kimberly: I hold 10 and do not need 4 more. I give Zack 3 and Worf 5 the moment either is in my sight. Kimberly, keep your potatoes."}
+- 17:58 act: {"actions":[],"say":"Night now. I hold still at 431,107,-1047 with Kimberly, no walk in the dark. Zack, Worf: when you are in my sight at first light, I give you your shares."}
+- 18:02 act: {"actions":[],"say":"Morning. Beverly at 431,107,-1047, health 7.3, hunger 16. Zack and Worf, step into my sight and I give 3 and 5 at once. Billy, the 2 left after that go to Trini, unless you name s
+- 18:06 act: {"actions":[],"say":"Zack, Worf: I hold still at 431,107,-1047 and do not walk without Billy's named route. The snapshot shows neither of you in my sight yet. Come into view here and I give 3 to Zack 
+- 18:10 act: {"actions":[],"say":"Worf, I cannot walk to you without Billy's named route. Walk to 4 blocks from me, here at 431,-1047, in daylight. I give 5 the moment you are in view. Billy, please name it if you
+- 18:14 act: {"actions":[],"say":"Night. I hold at 431,107,-1047 with Kimberly, no walk in the dark. Zack, Worf: at first light, step into my sight and I give 5 to Worf and 3 to Zack."}
+- 18:18 act: {"actions":[],"say":"Morning. Beverly holds at 431,107,-1047, not needing Kimberly's 4 yet. Billy named it: Zack and Worf, walk in daylight with Jason to 431,-1047 and step into my sight. I give Worf 
+- 18:22 act: {"actions":[],"say":"Zack, Worf, Jason: the east way is blocked at 419, so I do not walk. Billy, if you name a route for me to go to 419 in daylight with Kimberly, I will go. Otherwise I hold here at 
+- 18:26 act: {"actions":[],"say":"Billy: I am at 431,107,-1047 in dusk light, holding 10 potatoes. Worf and Zack are not in my sight yet, so nothing is given. Kimberly, I still decline your 4 unless my health drop
+- 18:31 act: {"actions":[],"say":"Worf, Zack, Jason: it is daylight. Billy, name the route and I will walk to 419 with Kimberly; I will not walk before he says so. Until then I hold at 431,-1047 with 10 potatoes."
+- 18:35 act: {"actions":[{"do":"give","to":"ag_worf_01","item":"potato","count":5},{"do":"give","to":"ag_zack_01","item":"potato","count":3}],"say":"Worf 5 and Zack 3 potatoes going now, as Billy named. I hold 2 f
+- 18:35 act: {"actions":[{"do":"goto","target":"ag_zack_01"}],"say":"My give failed: nobody was in my sight. As Billy named, I walk to Zack at 419 in daylight now, with 10 potatoes."}
+- 18:35 act: {"actions":[],"say":"Billy, Zack, Worf: I cannot see anyone at 419 from 431, so the goto and both gives failed and I still hold all 10 potatoes. I stay put. Whoever steps into my sight, I give at once
+- 18:39 act: {"actions":[{"do":"goto","target":{"x":419,"y":108,"z":-1047}}],"say":"Walking to 419 now, as Billy named, to give Zack 3 and Worf 5."}
+- 18:39 act: {"actions":[],"say":"Billy: the way to 419 is blocked; I stopped at 421,107,-1047 with Kimberly in reach. Zack and Worf are not in my sight, so I hold my 10 potatoes. I will give Worf 5 and Zack 3 the
+- 18:42 act: {"actions":[{"do":"give","to":"ag_kimberly_01","item":"potato","count":2},{"do":"goto","target":{"x":428,"y":107,"z":-1050}}],"say":"Kimberly, health 3 and phantoms close: I give you 2 potatoes now, a
+- 18:42 act: {"actions":[{"do":"goto","target":{"x":428,"y":107,"z":-1050}},{"do":"sleep"}],"say":"Kimberly is out of my sight; the give failed. I go to the bed at 429,107,-1050 now to sleep."}
+- 18:42 act: {"actions":[{"do":"sleep"}],"say":"Billy, I am at the bed 429,107,-1037 with you in reach. I picked up 4 potatoes and a wooden sword from the ground, so I hold 14 potatoes. Kimberly is at 421 with hea
+- 18:44 act: {"actions":[{"do":"sleep"}],"say":"Billy, I am at the bed at 429,107,-1037 with you in reach. Holding 14 potatoes for Worf, Zack and Kimberly at first light. Trying to sleep now."}
+- 18:48 act: {"actions":[{"do":"give","to":"ag_worf_01","item":"potato","count":5},{"do":"give","to":"ag_zack_01","item":"potato","count":3}],"say":"Morning. Worf and Zack, I am trying to give you your potatoes no
+- 18:48 act: {"actions":[],"say":"Billy, the gives to Worf and Zack failed; neither is in my sight from the bed. I hold 14 potatoes and will give at once when either steps into view."}
+- 18:51 act: {"actions":[{"do":"goto","target":{"x":431,"y":107,"z":-1037}},{"do":"give","to":"ag_kimberly_01","item":"potato","count":4}],"say":"Kimberly, I am walking to you at the bed as Billy named, to give yo
+- 18:51 act: {"actions":[],"say":"Billy, Kimberly has her 4 potatoes; the give worked. I hold 10 for Worf 5 and Zack 3, given once either is in my sight."}
+- 18:54 act: {"actions":[{"do":"give","to":"ag_zack_01","item":"potato","count":3},{"do":"give","to":"ag_worf_01","item":"potato","count":5}],"say":"Giving Zack 3 and Worf 5 potatoes now, as Billy named."}
+- 18:54 act: {"actions":[],"say":"Billy, gives to Zack and Worf failed again: neither is in my sight from 431,107,-1036. I still hold 10 potatoes and will give when they come into view."}
+- 18:58 act: {"actions":[{"do":"give","to":"ag_worf_01","item":"potato","count":5}],"say":"Worf, giving your 5 potatoes now."}
+- 18:58 act: {"actions":[{"do":"sleep"}],"say":"Dusk. I am at the bed at 431,107,-1036 holding 10 potatoes, owed to Worf 5 and Zack 3. Worf and Zack are not in my sight, so I am sleeping now and will give at first
+- 19:02 act: {"say":"Billy, I hold 10 potatoes here by the bed. Worf and Zack are not in my sight, so I cannot give yet. I will give Worf 5 and Zack 3 the moment either is in view.","intent":{"goal":"hold_for_row_
+- 19:07 act: {"actions":[{"do":"give","to":"ag_zack_01","item":"potato","count":3},{"do":"give","to":"ag_worf_01","item":"potato","count":5}],"say":"Zack, giving your 3 potatoes now. Worf, your 5 next, if you are 
+- 19:07 act: {"say":"Billy, both gives failed: Zack and Worf are not in my sight, so no potatoes went. I still hold 10. Zack, Worf: come into view at the bed 430,-1036 and I will give at once."}
+- 19:11 act: {"actions":[{"do":"sleep"}],"say":"Billy, it is night. Zack and Worf are at their bed 415,-1050, out of my sight, so the 8 potatoes stay in my pack. I am sleeping here at my bed in reach of you."}
+- 19:15 say: {"text":"Morning. I am at the bed 430,-1036 with 10 potatoes. Zack and Worf, come within reach and I will give 3 then 5."}
+- 19:20 act: {"actions":[{"do":"give","to":"ag_zack_01","item":"potato","count":3}]}
+- 19:20 act: {"say":"Billy, Zack says he is in reach, but my give failed again: no such agent in sight. Zack and Worf, I am at 430,-1037, bright. Step where I can see you and I will give 3 then 5."}
+- 19:24 act: {"actions":[{"do":"sleep"}],"say":"Billy, dusk. Zack and Worf are back at their bed, out of my sight. I hold the 10 potatoes. I am sleeping here at the bed, in reach of you. First light: their gives."
+- 19:28 act: {"actions":[],"say":"Billy, morning. I am at 430,107,-1037 with 10 potatoes. Zack and Worf are not in my sight yet. Zack, Worf: walk to me in daylight. I give 3 to Zack, then 5 to Worf, the moment you
+- 19:32 act: {"actions":[],"say":"Zack, Worf: Billy named 430,-1037 for the meeting, so I hold here at my bed and do not walk. Come to me in daylight, both of you. I give 3 to Zack, then 5 to Worf, as soon as you 
+- 19:36 act: {"actions":[{"do":"sleep"}],"say":"Billy, dusk. I am in my bed at 430,-1037. Zack and Worf are not in my sight yet. I hold the 10 potatoes for them at first light."}
+- 19:41 act: {"actions":[],"say":"Morning, row. Bcrusher at 430,-1037, 10 potatoes. Zack and Worf, not in my sight yet. Walk to me in daylight and I give 3 then 5 at once."}
+- 19:45 act: {"actions":[],"say":"Worf, Zack: I hold at 430,-1037 by Billy's named spot and do not walk. Your walk is blocked, so please stand in my sight here, or wait for Billy to name a new route."}
+- 19:49 act: {"actions":[{"do":"give","to":"ag_zack_01","item":"potato","count":3}],"say":"Zack, I am trying the give of 3 now. If it fails, I cannot see you from here."}
+- 19:49 act: {"actions":[],"say":"Billy: Zack and Worf say they stand at 419,-1047, but my give to Zack failed, no such agent in sight. I hold 10 potatoes at 430,-1037 and will not walk. Please name a route or a p
+- 19:53 act: {"actions":[{"do":"sleep"}],"say":"Night, row. Bcrusher sleeps at 430,-1037 with 10 potatoes. Zack and Worf, I give 3 then 5 at first light, if you stand in my sight."}
+- 19:57 act: {"actions":[],"say":"Morning. Bcrusher at 430,107,-1037, holding 10 potatoes. Zack and Worf, I do not see you from here. Stand in my sight near 430,-1037, or Billy names a walk, and I give 3 then 5."}
+- 20:01 act: {"actions":[],"say":"Bcrusher, in reach at 430,-1037, hunger 16, holding 10 potatoes. Zack and Worf are still not in my sight. Trini, I hold your 2 until I am fed, as Billy named. Leonardo, I hold my 
+- 20:05 act: {"actions":[],"say":"Worf, Zack: it is dusk, and I do not walk at night. Billy has named no route. I am at 430,-1037, not seeing you. When you stand in my sight in daylight, I give Zack 3 then you 5. 
+- 20:13 act: {"actions":[],"say":"Morning. Bcrusher at 430,-1037, holding 10 potatoes. Zack and Worf, I still cannot see you from here, so I cannot give. I do not walk without Billy's named route. Billy, please na
+- 20:21 act: {"actions":[{"do":"sleep"}],"say":"Night. Bcrusher sleeps here by the white bed at 430,-1037. Zack, Worf: at first light, stand in my sight and I give 3 then 5."}
+- 20:29 act: {"actions":[{"do":"give","to":"ag_zack_01","item":"potato","count":3}],"say":"Zack, giving you 3 potatoes now. Worf, 5 next if you are in sight."}
+- 20:30 act: {"actions":[],"say":"Zack, Worf: I hold 10 potatoes. My give to Zack just failed, no such agent in sight. Stand where I can see you and I will give 3, then 5. Billy, I am holding here.","intent":{"goa
+- 20:35 act: {"actions":[{"do":"sleep"}]}
