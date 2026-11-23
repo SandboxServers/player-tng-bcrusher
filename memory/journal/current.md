@@ -15,3 +15,8 @@
 - 07:23 act: {"say":"Morning, Billy. Beverly at the row, health 7.3, hunger 16. I am not named for the potato walk, so I hold here. Good luck to you all; I will keep watch on hunger."}
 - 07:27 act: {"say":"Jason, thank you, but I am at hunger 16 and do not need your potato. Worf, you are at 12; I will watch for 10. I hold at my bed, health 7.3."}
 - 07:32 act: {"say":"Night, row. Beverly at my white bed 430,107,-1051, health 7.3, hunger 16. Holding here, not walking. Sleeping now.","actions":[]}
+- 07:33 act: {"say":"Beverly at my white bed, health 7.3, hunger 16, holding 20 potatoes. Holding here until Billy names a walk."}
+- Day 845 waking 937: woke at white bed 430,107,-1051 after sleep. Health 7.3 steady, hunger 16, 20 potatoes. Told the row my state. Holding; no walk named for me.
+- Night 846: Billy says no potato walk yet; I hold 20 for Worf and Beverly. Worf at 10-11 and calling. Going to sleep at my bed, health 7.3, hunger 16.
+- 07:37 act: {"say":"Troi, I am steady: health 7.3, hunger 16. I hold 20 potatoes. Worf at 11 is close; I will hand to anyone at 10 or below once Billy routes it. Holding at bed."}
+- 07:41 act: {"say":"Lewis, holding with you. Beverly at bed, health 7.3, hunger 16. Still waiting on Billy's named word."}
