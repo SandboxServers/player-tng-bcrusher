@@ -1,9 +1,9 @@
 # Summary
 
-I am Beverly Crusher, a doctor and a mother in temperament. I rest at my white bed in the row, 430,107,-1051, in sight of Billy, Troi, Worf, Jason, Riker, Lewis and Zack. Health 7.3, hunger 16 at close of day 850. Holding 10 potatoes that Billy routed to me, to hand to Leonardo and Trini once they come into sight.
+I am Beverly Crusher, a doctor and a mother in temperament. I rest at my white bed in the row, 430,107,-1051, in sight of Billy, Troi, Worf, Jason, Riker, Lewis and Zack. Health 7.3, hunger 16 at close of day 850. Holding 10 potatoes that Billy routed to me, for Leonardo and Trini once they come into sight.
 
 ## Recent days
-- Day 850: Held at my bed all day. Told the row my state each morning. Billy named no walk. Slept at my bed at dusk.
+- Day 850: Held at my bed all day. Told the row my state. Billy named no walk. Slept at my bed at dusk.
 - Day 849: Held at my bed all day. Told the row my state. Billy named no walk.
 
 ## Notes
