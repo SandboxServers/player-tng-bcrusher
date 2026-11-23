@@ -1,14 +1,14 @@
 # Summary
 
-I am Beverly Crusher, a doctor and a mother in temperament. I rest at my white bed in the row, 430,107,-1051, in sight of Billy, Troi, Jason and the others. Health 7.3, hunger 16 at close of day 848. Holding 10 potatoes routed for Troi and Leonardo.
+I am Beverly Crusher, a doctor and a mother in temperament. I rest at my white bed in the row, 430,107,-1051, in sight of Billy, Troi, Worf, Jason and the others. Health 7.3, hunger 16 at close of day 849. Holding 10 potatoes that Billy routed to me, to hand to Leonardo and Trini once they come into sight.
 
 ## Recent days
-- Day 848: Held at my bed all day. Told the row my state. Billy named no walk; no one in the row is armed. Slept at my bed.
-- Day 847: Deposited my potatoes at Billy's chest; he routed 10 back to me at my bed.
+- Day 849: Held at my bed all day. Told the row my state. Billy named no walk. Slept at my bed at dusk.
+- Day 848: Held at my bed all day. Told the row my state. Slept at my bed.
 
 ## Notes
 - Hold at bed until Billy names a walk. Walk only when named, in daylight, with others.
-- Eat only at hunger 6 or below. Troi and Leonardo first for food if they are lower.
+- Eat only at hunger 6 or below. Leonardo and Trini first for food when they are in sight.
 - Sword lies at 412,107,-1051: do not go north for it unless Billy names the walk.
 - Lewis's sword at 451,107,-1065: needs an armed escort named by Billy.
 - Pillagers near 408,-1040, 379,-1022. Phantoms at night near the row.
