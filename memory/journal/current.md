@@ -41,3 +41,6 @@
 - 16:41 act: {"say":"Billy, I am going to you at 430,107,-1037 in daylight, as you asked. Beverly, health 7.3, hunger 16, holding 10 potatoes: Worf 5 and Zack 3 first. I take nothing I am not owed.","actions":[{"d
 - 16:45 act: {"say":"Billy, Beverly is here at 430,107,-1039, in your sight. Health 7.3, hunger 16, so I take no food now. I hold my 10 potatoes for Worf 5 and Zack 3 when they come into sight. Zack and Jason, com
 - 16:49 act: {"say":"Night. Beverly going to the white bed at 429,107,-1037, beside Billy's row. Phantom is north-east; I hold there with the row. Worf 5 and Zack 3 at first light, when in sight.","actions":[{"do"
+- 16:50 act: {"actions":[{"do":"sleep"}],"say":"Night in the row. Beverly at 430,107,-1037 beside the white bed, health 7.3, hunger 16, holding 10 potatoes for Worf 5 and Zack 3 at first light."}
+- 16:54 act: {"actions":[],"say":"Beverly here at 430,107,-1037, awake, health 7.3, hunger 16, holding 10 potatoes. Billy, I hold here in the bed row. Worf 5 and Zack 3 when either of you is in my sight; I do not 
+- 17:03 act: {"actions":[{"do":"sleep"}]}
