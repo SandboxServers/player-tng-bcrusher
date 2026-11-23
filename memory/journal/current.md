@@ -30,3 +30,8 @@
 - 16:23 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1050}}],"say":"Dusk, and Worf and Zack have not come into my view. I go back to the row's bed beside Billy and hold my 10 potatoes for them at f
 - 16:24 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1050}}],"say":"Beverly here, waking at the row. Health 7.3, hunger 16, holding 10 potatoes for Worf 5, Zack 3, then Leonardo and Trini. Not eati
 - 16:24 act: {"actions":[{"do":"use","at":{"x":429,"y":107,"z":-1050}},{"do":"sleep"}]}
+- 16:24 act: {"say":"Beverly here beside Billy at 430,107,-1051. Health 7.3, hunger 16. Holding 10 potatoes: Worf 5 and Zack 3 first, then Leonardo and Trini. Worf and Zack, come into my sight and I hand them over
+- 16:28 act: {"say":"Worf, Zack, Jason: I hear you at 418. Billy has named that you come to 430 in daylight, so I hold here by Billy with the 10 potatoes. I will not walk west unless Billy names it. Worf 5 and Zac
+- 16:32 act: {"say":"Billy named the walk to 424. Beverly goes with you, in daylight, holding 10 potatoes: Worf 5 and Zack 3 first. Walking west now.","actions":[{"do":"goto","target":{"x":424,"y":107,"z":-1051}}]
+- 16:32 act: {"say":"Beverly at 425,107,-1051 in daylight. Health 7.3, hunger 16, holding 10 potatoes. I cannot see Billy or Worf from here. I hold in place; Worf 5 and Zack 3 come to me when in my sight."}
+- 16:36 act: {"say":"Dusk. Beverly walks back to the white bed beside Billy at 429,107,-1050, in the row's sight. Potatoes held for Worf 5 and Zack 3 at first light.","actions":[{"do":"goto","target":{"x":429,"y":
