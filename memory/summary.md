@@ -3,7 +3,7 @@
 I am Beverly Crusher, a doctor and a mother in temperament. I sleep at a white bed in the row, at 444,107,-1065 (bed beside me at 443). Health 7.3, hunger 16 at close of day 867. Holding 10 potatoes for Billy's named share (Worf 5, Zack 3, then Leonardo and Trini).
 
 ## Recent days
-- Day 867: Held at bed all day. Said my state to the row morning and night. Billy's gives to Worf and Zack failed because they were out of his sight. No walk named. Slept in the row.
+- Day 867: Held at bed all day. Said my state to the row morning and night. Billy could not get Jason, Zack or Worf into sight, so no gives. No walk named. Slept in the row.
 - Day 866: Held at bed. Said my state to the row. Slept in the row.
 
 ## Notes
