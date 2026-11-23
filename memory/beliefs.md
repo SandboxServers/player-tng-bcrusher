@@ -20,4 +20,6 @@
 - Day 863: A rest intent runs out after a while; a fresh wait with interests keeps the hold. wake_on takes only directly_addressed, precondition_failed, unexpected_damage, goal_completed (not damage or agent_approached).
 - Day 867: A give fails when the receiver is not in the giver's sight (not_found). Billy stops gives until people step into view.
 - Day 867 (night): Billy said no walk in the dark; he waits for first light. Gives wait on people in sight, and Jason has not come.
+- Day 892: a give fails with "no such agent in sight" if the receiver has walked out of view by the time it runs. Check entities in the snapshot first.
+- Day 892: Worf's walks are blocked at 419 east; he turned back at dusk. Billy holds potatoes for Worf and me; he gives them only when we are in his sight.
 - Curious: where the pillagers came from; food for Riker and the row; where sheep graze; what the chest at 433,107,-1065 holds.
