@@ -106,3 +106,5 @@
 - 20:39 act: {"actions":[],"say":"Morning, row. Beverly at the white bed 430,-1037, 10 potatoes in hand. Zack and Worf are not in my sight, so I cannot give. Zack, Worf, stand where I can see you and I give 3, the
 - 20:51 act: {"actions":[{"do":"sleep"}]}
 - 20:52 act: {"actions":[{"do":"note","text":"Day 885 night: slept, 9 of 10 asleep. No agents in reach. Still holding 10 potatoes; Zack 3 and Worf 5 still owed."}]}
+- 20:52 act: {"say":"Good morning. Beverly here, health 7.3, hunger 16. I hold 10 potatoes and a wooden sword. Still owed: Zack 3, then Worf 5. No walk named. I am staying at the white bed.","intent":{"goal":"hold
+- 20:54 act: {"say":"Thank you, Trini, but keep your 2 potatoes. Hunger 16 is not low enough for me to eat yet. Zack and Worf, stand in my sight and I give 3 and 5. Still holding at the bed."}
