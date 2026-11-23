@@ -37,3 +37,7 @@
 - 16:36 act: {"say":"Dusk. Beverly walks back to the white bed beside Billy at 429,107,-1050, in the row's sight. Potatoes held for Worf 5 and Zack 3 at first light.","actions":[{"do":"goto","target":{"x":429,"y":
 - 16:36 say: {"text":"Beverly here, in the row at night. Health 7.3, hunger 16. Holding 10 potatoes for Worf 5 and Zack 3 at first light, in sight. Not moving until Billy names a walk."}
 - 16:36 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1050}},{"do":"use","at":{"x":429,"y":107,"z":-1050}}]}
+- 16:37 act: {"say":"Beverly here, at the row. Health 7.3, hunger 16. Holding 10 potatoes for Worf 5 and Zack 3, then Leonardo and Trini. Holding still until Billy names a walk.","actions":[]}
+- 16:41 act: {"say":"Billy, I am going to you at 430,107,-1037 in daylight, as you asked. Beverly, health 7.3, hunger 16, holding 10 potatoes: Worf 5 and Zack 3 first. I take nothing I am not owed.","actions":[{"d
+- 16:45 act: {"say":"Billy, Beverly is here at 430,107,-1039, in your sight. Health 7.3, hunger 16, so I take no food now. I hold my 10 potatoes for Worf 5 and Zack 3 when they come into sight. Zack and Jason, com
+- 16:49 act: {"say":"Night. Beverly going to the white bed at 429,107,-1037, beside Billy's row. Phantom is north-east; I hold there with the row. Worf 5 and Zack 3 at first light, when in sight.","actions":[{"do"
