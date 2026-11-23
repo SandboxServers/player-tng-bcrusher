@@ -35,3 +35,5 @@
 - 16:32 act: {"say":"Billy named the walk to 424. Beverly goes with you, in daylight, holding 10 potatoes: Worf 5 and Zack 3 first. Walking west now.","actions":[{"do":"goto","target":{"x":424,"y":107,"z":-1051}}]
 - 16:32 act: {"say":"Beverly at 425,107,-1051 in daylight. Health 7.3, hunger 16, holding 10 potatoes. I cannot see Billy or Worf from here. I hold in place; Worf 5 and Zack 3 come to me when in my sight."}
 - 16:36 act: {"say":"Dusk. Beverly walks back to the white bed beside Billy at 429,107,-1050, in the row's sight. Potatoes held for Worf 5 and Zack 3 at first light.","actions":[{"do":"goto","target":{"x":429,"y":
+- 16:36 say: {"text":"Beverly here, in the row at night. Health 7.3, hunger 16. Holding 10 potatoes for Worf 5 and Zack 3 at first light, in sight. Not moving until Billy names a walk."}
+- 16:36 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1050}},{"do":"use","at":{"x":429,"y":107,"z":-1050}}]}
