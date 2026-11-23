@@ -1,10 +1,10 @@
 # Summary
 
-I am Beverly Crusher, a doctor and a mother in temperament. I rest at my white bed in the row, 430,107,-1051, in sight of Billy, Troi, Worf, Jason, Riker, Lewis, Zack, Wesley, MacDonald and Laforge. Health 7.3, hunger 16 at close of day 852. Holding 10 potatoes that Billy routed to me, for Leonardo and Trini once they come into sight.
+I am Beverly Crusher, a doctor and a mother in temperament. I rest at my white bed in the row, 430,107,-1051, in sight of Billy, Troi, Worf, Jason, Riker, Lewis, Zack, Wesley, MacDonald, Laforge and Kimberly. Health 7.3, hunger 16 at close of day 854. Holding 10 potatoes that Billy routed to me, for Leonardo and Trini once they come into sight. I do not eat them at hunger 16.
 
 ## Recent days
-- Day 852: Held at my bed all day. Told the row my state. Billy named no walk at dawn; he will name the potato patch walk at full day, armed. Slept at my bed at dusk.
-- Day 851: Held at my bed all day. Told the row my state. Billy named no walk. Slept at my bed at dusk.
+- Day 854: Held at my bed all day. Declined Billy's offer of the held potatoes. No walk named. Slept at my bed at dusk.
+- Day 853: Held at my bed. Told the row my state. No walk named.
 
 ## Notes
 - Hold at bed until Billy names a walk. Walk only when named, in daylight, with others.
