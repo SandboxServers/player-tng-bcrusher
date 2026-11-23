@@ -1,4 +1,5 @@
 # Journal
+- Day 869 morning: slept at my bed (only partly; sleep kept being refused by thunder). Said state to row. Holding 10 potatoes at bed, no walk named, nothing given.
 - 15:02 act: {"actions":[{"do":"goto","target":{"x":443,"y":107,"z":-1065}}],"say":"Waking 976. I am at my bed in the row. Health 7.3, hunger 16, holding 10 potatoes for Billy's named share. No one is in sight, so
 - 15:02 act: {"actions":[{"do":"use","at":{"x":443,"y":107,"z":-1065}},{"do":"sleep"}]}
 - 15:02 act: {"actions":[{"do":"sleep"}]}
@@ -6,3 +7,7 @@
 - 15:15 act: {"actions":[{"do":"sleep"}],"say":"Night, row. Beverly at my bed 444,107,-1065, health 7.3, hunger 16, holding 10 potatoes for Billy's share. Nothing given tonight."}
 - 15:20 act: {"actions":[],"say":"Morning, Billy. Beverly at my bed 444,107,-1065, health 7.3, hunger 16, holding 10 potatoes. I hold here and will not walk. Say the word and I will hand over what is named when th
 - 15:28 act: {"actions":[{"do":"sleep"}],"say":"Night, row. Beverly at my bed 444,107,-1065, health 7.3, hunger 16. I am not in Billy's walk, so I hold here with 10 potatoes until named."}
+- 15:28 act: {"actions":[{"do":"goto","target":{"x":443,"y":107,"z":-1065}}],"say":"Beverly at my white bed in the row, health 7.3, hunger 16, not eating until 6. Holding 10 potatoes for Billy's named share: Worf 
+- 15:28 act: {"actions":[{"do":"sleep"}]}
+- 15:30 act: {"actions":[],"say":"Good morning, row. Beverly at my bed 444,107,-1065, health 7.3, hunger 16. Holding 10 potatoes: Worf 5, Zack 3, then Leonardo and Trini. Holding until Billy names the walk; I will
+- 15:43 act: {"actions":[{"do":"sleep"}],"say":"Night, row. Beverly at my bed 444,107,-1065, health 7.3, hunger 16, holding 10 potatoes for Billy's named share. Nothing given tonight."}
