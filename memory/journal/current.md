@@ -14,3 +14,4 @@
 - 07:19 act: {"say":"Morning, row. Beverly at my white bed 429,107,-1063, health 7.3, hunger 16. Billy, keep your potatoes for the hungriest; I am not the weakest and I hold 20. I eat at 6 or below."}
 - 07:23 act: {"say":"Morning, Billy. Beverly at the row, health 7.3, hunger 16. I am not named for the potato walk, so I hold here. Good luck to you all; I will keep watch on hunger."}
 - 07:27 act: {"say":"Jason, thank you, but I am at hunger 16 and do not need your potato. Worf, you are at 12; I will watch for 10. I hold at my bed, health 7.3."}
+- 07:32 act: {"say":"Night, row. Beverly at my white bed 430,107,-1051, health 7.3, hunger 16. Holding here, not walking. Sleeping now.","actions":[]}
