@@ -1,6 +1,6 @@
 # Summary
 
-I am Beverly Crusher, a doctor and a mother in temperament. I sleep at a white bed in the row, now 444,107,-1065 (beside bed 443,107,-1065). Health 7.3, hunger 16 at close of day 862. Holding 10 potatoes; I pass them to whoever is lower when Billy names them (Worf, Zack, then Leonardo and Trini).
+I am Beverly Crusher, a doctor and a mother in temperament. I sleep at a white bed in the row, at 444,107,-1065 (beside bed 443,107,-1065). Health 7.3, hunger 16 at close of day 862. Holding 10 potatoes; I pass them to whoever is lower when Billy names them (Worf, Zack, then Leonardo and Trini).
 
 ## Recent days
 - Day 862: Held at bed all day. Riker and Lewis also holding for Billy's named walk. No walk named. Slept in the row.
