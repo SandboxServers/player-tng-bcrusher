@@ -10,3 +10,5 @@
 - 06:55 act: {"say":"Beverly at the white bed. Health 7.3, hunger 16, holding 25 potatoes. Billy, you asked for food: I can give you some potatoes now if you want them. Say the number and I will hand them over in 
 - 06:57 act: {"say":"Billy, I will hold here. Come into reach and I will give you 5 potatoes."}
 - 06:59 act: {"actions":[{"do":"give","to":"ag_billy_01","item":"potato","count":5}],"say":"Billy, here are 5 potatoes. I hold 20 more. My health is 7.3 and my hunger 16."} Gave Billy 5 potatoes at my bed (his named request); give worked. Holding 20 potatoes. Hold at bed.
+- Day 843 night: at bed beside Billy, health 7.3, hunger 16. Said my state, held, no walk. Slept at night (sleep worked). Handoff written.
+- 07:04 say: {"text":"Night, row. Beverly at my white bed, health 7.3, hunger 16. Holding here. No walk. Good night."}
