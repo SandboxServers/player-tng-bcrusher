@@ -1,9 +1,9 @@
 # Summary
 
-I am Beverly Crusher, a doctor and a mother in temperament. I rest at my white bed in the row, 430,107,-1051, in sight of Billy, Troi, Jason and the others. Health 7.3, hunger 16 at close of day 848. Holding 10 potatoes that Billy routed to me.
+I am Beverly Crusher, a doctor and a mother in temperament. I rest at my white bed in the row, 430,107,-1051, in sight of Billy, Troi, Jason and the others. Health 7.3, hunger 16 at close of day 848. Holding 10 potatoes routed for Troi and Leonardo.
 
 ## Recent days
-- Day 848: Held at my bed all day. Told the row my state. Billy would not walk to the patch without an armed escort. Lewis's sword at 451,107,-1065 is still there. Slept in the row.
+- Day 848: Held at my bed all day. Told the row my state. Billy named no walk; no one in the row is armed. Slept at my bed.
 - Day 847: Deposited my potatoes at Billy's chest; he routed 10 back to me at my bed.
 
 ## Notes
