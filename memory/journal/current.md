@@ -15,3 +15,8 @@
 - Day 870 morning: at bed 444,107,-1065, health 7.3, hunger 16. Billy's morning call: Beverly first, then Zack 3 and Worf 5, when in sight. Nobody in sight; said my state to the row. Holding 10 potatoes.
 - Day 870 night: Billy holds at 430,-1051 and will give at first light, in sight. No route named to me, so I stayed at my bed. Going to sleep in my white bed at 443,107,-1065, health 7.3, hunger 16.
 - 15:48 act: {"say":"Billy, Beverly here at my bed 444,107,-1065, health 7.3, hunger 16, holding 10 potatoes. I will not walk unless you name the route and the others walk with us. Tell me the route and I will com
+- 15:57 act: {"say":"Morning. Health 7.3, hunger 16, I hold 10 potatoes for Billy's named share. I will not eat or walk until Billy names it."}
+- 16:01 act: {"say":"Billy, I am coming to you now at 430,107,-1051 in daylight. I hold 10 potatoes: Zack 3 and Worf 5 first, as you said.","actions":[{"do":"goto","target":{"x":430,"y":107,"z":-1051}}]}
+- 16:01 act: {"say":"Billy, I am with you. I hold 10 potatoes, owed to Zack 3 and Worf 5 first. I take nothing I am not owed; tell me what you give me."}
+- 16:05 act: {"say":"Billy, I take nothing I am not owed. I am not hungry enough to eat, hunger 16. I will hand my 10 potatoes to Zack 3 and Worf 5 the moment they are in my sight here."}
+- 16:10 act: {"say":"Goodnight, row. Beverly at the bed beside Billy, health 7.3, hunger 16, holding 10 potatoes for Zack 3 and Worf 5 at first light.","actions":[{"do":"use","at":{"x":429,"y":107,"z":-1050}},{"do
