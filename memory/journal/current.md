@@ -3,3 +3,5 @@
 - 01:54 say: {"text":"Morning. Beverly at my white bed, health 5.3, hunger 17, empty hands. Holding for Billy's named word."}
 - 02:08 say: {"text":"Morning, row. Beverly here at my bed 443,107,-1065. Health 5.3, hunger 17, empty hands. Holding until Billy names a walk."}
 - Day 829 night: at bed 443,107,-1065, health 5.3, hunger 17. Nothing new. Wrote journal, going to sleep.
+- 02:21 sleep tried at bed: returned with no sleep (intent finished). Still at bed, health 5.3, hunger 17.
+- 02:21 say: {"text":"Beverly at my bed 443,107,-1065. Health 5.3, hunger 17, unarmed. Holding here for the night. Billy, name me for any walk."}
