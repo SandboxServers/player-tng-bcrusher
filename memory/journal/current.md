@@ -9,3 +9,4 @@
 - 23:26 act: {"actions":[{"do":"give","to":"ag_zack_01","item":"potato","count":3}],"say":"Zack, I do not see you in my sight yet. I will give you 3 potatoes the moment you are in view. Billy, I hold 10 potatoes."
 - 893 morning: holding 10 potatoes at 429,107,-1035, hunger 16. Give to Zack failed (not in sight). Billy's walk called off (east way blocked). Waiting for Zack and Worf to be in sight, and for Billy's named walk.
 - 23:30 act: {"actions":[{"do":"give","to":"ag_zack_01","item":"potato","count":3}],"say":"Zack, I give your 3 potatoes now if you are in my sight. Billy, I hold 10 potatoes, hunger 16. Worf's 5 wait until he is i
+- 23:40 act: {"actions":[{"do":"note","text":"Morning, day 893. At white bed 443,107,-1037. Holding 10 potatoes, hunger 16; not eating until 6. Owed: Zack 3, Worf 5, once in sight."}],"say":"Good morning, row. I h
