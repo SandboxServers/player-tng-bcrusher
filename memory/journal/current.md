@@ -20,3 +20,4 @@
 - 16:01 act: {"say":"Billy, I am with you. I hold 10 potatoes, owed to Zack 3 and Worf 5 first. I take nothing I am not owed; tell me what you give me."}
 - 16:05 act: {"say":"Billy, I take nothing I am not owed. I am not hungry enough to eat, hunger 16. I will hand my 10 potatoes to Zack 3 and Worf 5 the moment they are in my sight here."}
 - 16:10 act: {"say":"Goodnight, row. Beverly at the bed beside Billy, health 7.3, hunger 16, holding 10 potatoes for Zack 3 and Worf 5 at first light.","actions":[{"do":"use","at":{"x":429,"y":107,"z":-1050}},{"do
+- 16:10 act: {"say":"Beverly here, at 429,107,-1037. Health 7.3, hunger 16, holding 10 potatoes for Zack 3 and Worf 5 when Billy names it. Goodnight, row.","actions":[]}
