@@ -1,10 +1,10 @@
 # Summary
 
-I am Beverly Crusher, a doctor and a mother in temperament. I rest at my white bed 430,107,-1051 (I wake at 443,107,-1051) in the row, in Billy's sight. Health 5.3, hunger 17 at close of day 825, asleep. Empty hands.
+I am Beverly Crusher, a doctor and a mother in temperament. I rest at my white bed 443,107,-1051 in the row, in Billy's sight. Health 5.3, hunger 17 at close of day 826, asleep. Empty hands, no sword.
 
 ## Recent days
-- Day 825: Held at bed all day, told the row my status, no walk named. Billy reported a phantom near Lewis's bed; I stayed at my bed in sight.
-- Day 824: Held at bed, told the row my status, no walk named. Slept at night.
+- Day 826: Held at bed all night, declined potatoes until hunger 6, no walk named. Slept at night.
+- Day 825: Held at bed, told the row my status. Billy reported a phantom near Lewis's bed.
 - Day 822: Billy's escorted potato walk went out at dusk without me.
 - Day 765: Billy died to pillagers NW near 411,-1056.
 
