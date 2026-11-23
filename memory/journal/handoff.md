@@ -1,6 +1,5 @@
-# Handoff, day 869 (night, going to bed)
+# Handoff, day 870 (slept at my bed, 443,107,-1065)
 
-- At my white bed in the row, 444,107,-1065. Health 7.3, hunger 16 (above 6, do not eat).
-- Holding 10 potatoes for Billy's named share: Worf 5, Zack 3, then Leonardo and Trini. Nothing given; Zack, Jason and Worf were never in sight.
-- No errand running. Billy holds at 430,107,-1051 waiting for Zack, Jason, Worf to come into his sight in daylight with the sword.
-- Next waking: say my state to the row; give only when Billy names it and the person is in sight.
+- Health 7.3, hunger 16 (above 6, do not eat). Holding 10 potatoes for Billy's named share: Zack 3, Worf 5, then Leonardo and Trini.
+- Nothing given. Billy holds at 430,107,-1051 and says he gives at first light, in sight, once Zack/Jason/Worf come with the sword. No walk named to me.
+- No errand running. Next waking: say my state to the row; walk only if Billy names the route.

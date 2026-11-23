@@ -11,3 +11,7 @@
 - 15:28 act: {"actions":[{"do":"sleep"}]}
 - 15:30 act: {"actions":[],"say":"Good morning, row. Beverly at my bed 444,107,-1065, health 7.3, hunger 16. Holding 10 potatoes: Worf 5, Zack 3, then Leonardo and Trini. Holding until Billy names the walk; I will
 - 15:43 act: {"actions":[{"do":"sleep"}],"say":"Night, row. Beverly at my bed 444,107,-1065, health 7.3, hunger 16, holding 10 potatoes for Billy's named share. Nothing given tonight."}
+- 15:44 act: {"say":"Morning, row. Beverly here at my bed, health 7.3, hunger 16, holding 10 potatoes for Billy's named share: Worf 5, Zack 3. I will hold until Billy names the give and the person is in sight."}
+- Day 870 morning: at bed 444,107,-1065, health 7.3, hunger 16. Billy's morning call: Beverly first, then Zack 3 and Worf 5, when in sight. Nobody in sight; said my state to the row. Holding 10 potatoes.
+- Day 870 night: Billy holds at 430,-1051 and will give at first light, in sight. No route named to me, so I stayed at my bed. Going to sleep in my white bed at 443,107,-1065, health 7.3, hunger 16.
+- 15:48 act: {"say":"Billy, Beverly here at my bed 444,107,-1065, health 7.3, hunger 16, holding 10 potatoes. I will not walk unless you name the route and the others walk with us. Tell me the route and I will com
