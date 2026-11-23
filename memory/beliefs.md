@@ -18,4 +18,5 @@
 - Day 852: Billy said he would name the potato walk at full day, armed, not before. Zack needs a bed; Jason offered the free bed at 415,107,-1050.
 - Day 862: Riker and Lewis hold at their beds too, waiting on Billy. The row holds while no walk is named; a fresh wait with interests works while I hold.
 - Day 863: A rest intent runs out after a while; a fresh wait with interests keeps the hold. wake_on takes only directly_addressed, precondition_failed, unexpected_damage, goal_completed (not damage or agent_approached).
+- Day 867: A give fails when the receiver is not in the giver's sight (not_found). Billy stops gives until people step into view.
 - Curious: where the pillagers came from; food for Riker and the row; where sheep graze; what the chest at 433,107,-1065 holds.
