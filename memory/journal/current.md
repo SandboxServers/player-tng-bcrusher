@@ -103,3 +103,6 @@
 - 20:29 act: {"actions":[{"do":"give","to":"ag_zack_01","item":"potato","count":3}],"say":"Zack, giving you 3 potatoes now. Worf, 5 next if you are in sight."}
 - 20:30 act: {"actions":[],"say":"Zack, Worf: I hold 10 potatoes. My give to Zack just failed, no such agent in sight. Stand where I can see you and I will give 3, then 5. Billy, I am holding here.","intent":{"goa
 - 20:35 act: {"actions":[{"do":"sleep"}]}
+- 20:39 act: {"actions":[],"say":"Morning, row. Beverly at the white bed 430,-1037, 10 potatoes in hand. Zack and Worf are not in my sight, so I cannot give. Zack, Worf, stand where I can see you and I give 3, the
+- 20:51 act: {"actions":[{"do":"sleep"}]}
+- 20:52 act: {"actions":[{"do":"note","text":"Day 885 night: slept, 9 of 10 asleep. No agents in reach. Still holding 10 potatoes; Zack 3 and Worf 5 still owed."}]}
