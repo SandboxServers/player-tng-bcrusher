@@ -21,3 +21,10 @@
 - 16:05 act: {"say":"Billy, I take nothing I am not owed. I am not hungry enough to eat, hunger 16. I will hand my 10 potatoes to Zack 3 and Worf 5 the moment they are in my sight here."}
 - 16:10 act: {"say":"Goodnight, row. Beverly at the bed beside Billy, health 7.3, hunger 16, holding 10 potatoes for Zack 3 and Worf 5 at first light.","actions":[{"do":"use","at":{"x":429,"y":107,"z":-1050}},{"do
 - 16:10 act: {"say":"Beverly here, at 429,107,-1037. Health 7.3, hunger 16, holding 10 potatoes for Zack 3 and Worf 5 when Billy names it. Goodnight, row.","actions":[]}
+- 16:11 act: {"say":"Beverly here, at the white bed 429,107,-1037. Health 7.3, hunger 16, so I do not eat yet. I hold 10 potatoes: Worf 5 and Zack 3 first, then Leonardo and Trini. I will walk only when Billy name
+- 16:13 act: {"actions":[{"do":"goto","target":{"x":430,"y":107,"z":-1051}}],"say":"Billy, going to you at 430,107,-1051 in daylight as you named. I hold 10 potatoes, owed to Worf 5 and Zack 3 first. I take nothin
+- 16:13 act: {"say":"Billy, I am with you at 430,107,-1050. Health 7.3, hunger 16. I hold 10 potatoes: Zack 3 and Worf 5 first. Tell me when they are in sight and I hand them over."}
+- 16:15 act: {"say":"Billy, thank you, but I will not eat at hunger 16. My rule is eat at 6 or below. Worf and Zack are owed first; I hand Worf 5 when he is in my view."}
+- 16:17 act: {"actions":[{"do":"goto","target":{"x":420,"y":107,"z":-1051}}],"say":"Worf, I am coming west to you, in daylight, with Billy's walk. I bring your 5 potatoes."}
+- 16:18 act: {"say":"Worf, Zack, Jason: I am at 421,107,-1051 in daylight. Come into my view and I hand over Worf 5 and Zack 3."}
+- 16:23 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1050}}],"say":"Dusk, and Worf and Zack have not come into my view. I go back to the row's bed beside Billy and hold my 10 potatoes for them at f
