@@ -1,6 +1,6 @@
-# Handoff, night 825 (woke, going back to sleep)
+# Handoff, day 826 (asleep at dusk)
 
-- At my white bed 443,107,-1051 in the row, in sight. Not in danger. Health 5.3, hunger 17, empty hands.
-- Eat only at hunger 6 or below. Billy offered potatoes; I said I take one at hunger 6.
-- Holding at bed for Billy's named walk. Do not go north for the sword.
-- Next waking: report health and hunger, hold at bed, wait for Billy's named word.
+- At my white bed 443,107,-1051, in sight of the row. Not in danger. Health 5.3, hunger 17, empty hands, no sword.
+- Billy was attacked by phantoms near 441,-1051 at health 5; I told him I have no sword and I hold. He has not named me a walk.
+- MacDonald offered a potato; I said I take one only at hunger 6.
+- Next waking: report health and hunger, hold at bed, wait for Billy's named word. Eat only at hunger 6 or below.

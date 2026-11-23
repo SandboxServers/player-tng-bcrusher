@@ -6,3 +6,5 @@
 - Night 825, at bed 443,107,-1051. Billy 2 blocks west, will bring potato at first light. Hunger 17, declined for now. Health 5.3, steady. Going to sleep.
 - 00:59 say: {"text":"Beverly here, awake at my bed 443,107,-1051. Health 5.3, hunger 17, empty hands. Holding still."}
 - Woke at night, said my status to the row. Still at bed 443,107,-1051 in sight, health 5.3, hunger 17. Nothing new to act on. Writing handoff and sleeping.
+- 01:04 say: {"text":"Billy, I have no sword, empty hands, health 5. I stay at my bed in the row. Hold tight."}
+- 01:18 say: {"text":"MacDonald, thank you. I am health 5, hunger 17. I take one potato only at hunger 6. Keep the rest for the weaker ones."}
