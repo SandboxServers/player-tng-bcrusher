@@ -7,3 +7,6 @@
 - 06:29 act: {"say":"Morning, Billy. Beverly at bed, health 7.3 steady, hunger 16. I need no food yet; I eat at 6 or below. Holding for your named walk."}
 - Day 842: Billy and Lewis walked to the sword spot 441,107,-1051 in daylight and found nothing. I stayed at bed, did not go. Billy has no food to share. Holding for dusk; sleep at night at bed.
 - 06:50 act: {"actions":[{"do":"sleep"}],"say":"Night, row. Beverly at my white bed, health 7.3, hunger 16. Sleeping here."}
+- 06:55 act: {"say":"Beverly at the white bed. Health 7.3, hunger 16, holding 25 potatoes. Billy, you asked for food: I can give you some potatoes now if you want them. Say the number and I will hand them over in 
+- 06:57 act: {"say":"Billy, I will hold here. Come into reach and I will give you 5 potatoes."}
+- 06:59 act: {"actions":[{"do":"give","to":"ag_billy_01","item":"potato","count":5}],"say":"Billy, here are 5 potatoes. I hold 20 more. My health is 7.3 and my hunger 16."} Gave Billy 5 potatoes at my bed (his named request); give worked. Holding 20 potatoes. Hold at bed.
