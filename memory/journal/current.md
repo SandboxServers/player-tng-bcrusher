@@ -28,3 +28,5 @@
 - 16:17 act: {"actions":[{"do":"goto","target":{"x":420,"y":107,"z":-1051}}],"say":"Worf, I am coming west to you, in daylight, with Billy's walk. I bring your 5 potatoes."}
 - 16:18 act: {"say":"Worf, Zack, Jason: I am at 421,107,-1051 in daylight. Come into my view and I hand over Worf 5 and Zack 3."}
 - 16:23 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1050}}],"say":"Dusk, and Worf and Zack have not come into my view. I go back to the row's bed beside Billy and hold my 10 potatoes for them at f
+- 16:24 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1050}}],"say":"Beverly here, waking at the row. Health 7.3, hunger 16, holding 10 potatoes for Worf 5, Zack 3, then Leonardo and Trini. Not eati
+- 16:24 act: {"actions":[{"do":"use","at":{"x":429,"y":107,"z":-1050}},{"do":"sleep"}]}
