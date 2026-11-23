@@ -12,3 +12,6 @@
 - 14:06 act: {"actions":[{"do":"note","text":"Morning 865. At bed 444,107,-1065. Health 7.3, hunger 16 (not eating until 6). Holding 10 potatoes for Billy's named share: Worf 5, Zack 3, then Leonardo and Trini. No
 - 14:06 act: {"actions":[],"say":"Billy, thank you, but I am not short: health 7.3, hunger 16. My 10 potatoes are for Worf 5 and Zack 3 first, then Leonardo and Trini. I stay at my bed until you name a walk."}
 - 14:18 act: {"actions":[{"do":"sleep"}],"say":"Night, row. Beverly in my bed at 444,107,-1065, health 7.3, hunger 16, holding 10 potatoes for Billy's named share."}
+- 14:24 act: {"actions":[],"say":"Morning, row. Beverly at my bed, health 7.3, hunger 16, holding 10 potatoes for Billy's share. No walk named by me; I hold until Billy calls."}
+- 14:29 act: {"actions":[{"do":"note","text":"Day 866, morning. At bed 444,107,-1065, health 7.3, hunger 16, holding 10 potatoes. Billy gave Worf 5. My 3 for Zack and 2 for Leonardo and Trini wait for Billy's call
+- 14:33 act: {"actions":[{"do":"note","text":"Night 866. At bed 444,107,-1065, health 7.3, hunger 16, holding 10 potatoes. Billy called Worf, Zack and Jason for his share; I am not named, so I hold."}],"say":"Nigh
