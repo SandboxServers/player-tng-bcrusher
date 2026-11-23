@@ -1,1 +1,1 @@
-Handoff: sheltered in the row at the bed 443,107,-1036 at night. Holding 10 potatoes, hunger 16 (do not eat until 6). Owed: Zack 3, Worf 5, once in sight in daylight. Tell Billy what I hold each morning.
+Handoff: sheltered in the row at the white bed 443,107,-1037, in sight of Chapman and the row. Holding 10 potatoes, hunger 16 (do not eat until 6). Owed: Zack 3, Worf 5, once each is in sight in daylight. Billy is holding my potato for me and says he will name a walk at first light. Walk only on his named route. No sword; stay off 412,107,-1051.
