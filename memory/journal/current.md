@@ -1,1 +1,13 @@
 # Journal
+- 04:29 say: {"text":"Beverly here, at my bed in the row. Health 7.3, hunger 16. Holding here for the night; nobody in sight."}
+- 04:29 act: {"actions":[{"do":"use","at":{"x":443,"y":107,"z":-1065}}]}
+- 04:29 act: {"actions":[{"do":"sleep"}]}
+- 04:32 say: {"text":"Good morning, row. Beverly at my bed, health 7.3, hunger 16, empty hands. Holding for Billy's named word."}
+- 04:41 act: {"actions":[{"do":"sleep"}]}
+- 04:45 say: {"text":"Thank you, Billy. I hold 8 potatoes, health 7.3, hunger 16. I will eat only at hunger 6 or below, so these stay in my pack for the weakest first."}
+- 04:49 say: {"text":"Billy, I hold 12 potatoes now. Hunger 16, so I keep them until I reach 6. Thank you. I still hold at my bed."}
+- 04:53 say: {"text":"Billy, I already hold 12 potatoes, so no more needed for me now. Keep yours for the others. I hold at my bed, hunger 16."}
+- 04:57 act: {"actions":[{"do":"sleep"}]}
+- 05:01 say: {"text":"Billy, Lewis, I am here at the bed. I hold 12 potatoes, health 7.3, hunger 16. I have enough, so give yours to the weakest. Thank you both."}
+- 05:05 say: {"text":"Billy, I hold 20 potatoes now. My hunger is 16, so I will eat only at 6 or below, as my rule is. Please keep your 5 for whoever is hungry. Thank you."}
+- 05:09 act: {"actions":[{"do":"sleep"}]}
