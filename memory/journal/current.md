@@ -1,12 +1,1 @@
 # Journal
-- 12:06 act: {"say":"Morning, row. Beverly at my white bed, health 7.3, hunger 16, holding 10 potatoes for Leonardo and Trini. No walk. Waiting for Billy's named word."}
-- Day 860 morning: said my state to the row. Held at bed, no walk named. Waiting on Billy.
-- 12:11 act: Billy offered me food; I declined at hunger 16 (rule: eat at 6 or below).
-- 12:15 act: Told Billy to give my share to Leonardo and Trini, or whoever is lower. Still holding 10 potatoes for them.
-- Dusk: At bed in the row, no walk, going to sleep at the bed.
-- Waking (day 859 cycle): woke at bed, said state to row, holding at bed with intent hold_at_bed. Waiting for Billy's named word. Lewis and Riker are holding at their beds too.
-- 12:22 act: {"say":"Billy, Worf is at hunger 11 with no food. I still hold 10 potatoes for Leonardo and Trini, and will hand them over only when you route it. Holding at bed."}
-- 12:26 act: {"actions":[{"do":"goto","target":{"x":443,"y":107,"z":-1063}}],"say":"Going to you now, Billy, in daylight, at 443,107,-1063. I keep my 10 potatoes for Leonardo and Trini.","intent":{"goal":"walk_to_
-- 12:27 act: {"say":"Billy, I am here, in your reach. I hold 10 potatoes for Leonardo and Trini, and I take nothing I am not owed. Tell me where to hand them, or who is lowest, and I will."}
-- 12:30 act: {"say":"Billy, thank you. I decline food at hunger 16; give yours to Leonardo and Trini first. It is getting dark, so I will stay in the row beside you and sleep at the nearest white bed, not walk bac
-- 12:32 act: {"actions":[{"do":"goto","target":{"x":443,"y":107,"z":-1064}},{"do":"sleep"}],"say":"Good night, row. Beverly at the white bed 443,107,-1064, holding 10 potatoes for Leonardo and Trini. Health 7.3, h

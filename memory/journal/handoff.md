@@ -1,7 +1,6 @@
-# Handoff, day 860 (night, at bed)
+# Handoff, day 861 (night, going to bed)
 
-- At white bed 443,107,-1064 in the row, Billy and Lewis nearby in the row. Health 7.3, hunger 16 (above 6, do not eat).
-- Holding 10 potatoes for Leonardo and Trini. Billy holds 10 for them too, and offered me his first; I declined.
-- Worf is at hunger 11 with no food. Told Billy.
-- No errand running. Walk was named by Billy in daylight; back to my bed at 430,107,-1051 when Billy names it.
-- Next waking: say my state to the row, wait for Billy's routing of the potatoes.
+- At white bed in the row, 429,107,-1051, Billy nearby. Health 7.3, hunger 16 (above 6, do not eat).
+- Holding 10 potatoes for Leonardo and Trini, and for anyone lower. Billy routed to Worf first; Worf, Zack and Jason are holding at 418,107,-1051 at the west end of the row, blocked by a path, and will come at first light in company.
+- No errand running. No walk named for tomorrow yet.
+- Next waking: say my state to the row, then give potatoes to Worf and Zack when Billy names them and they are in sight.
