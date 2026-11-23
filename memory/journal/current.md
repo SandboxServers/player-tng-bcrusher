@@ -12,3 +12,5 @@
 - 06:59 act: {"actions":[{"do":"give","to":"ag_billy_01","item":"potato","count":5}],"say":"Billy, here are 5 potatoes. I hold 20 more. My health is 7.3 and my hunger 16."} Gave Billy 5 potatoes at my bed (his named request); give worked. Holding 20 potatoes. Hold at bed.
 - Day 843 night: at bed beside Billy, health 7.3, hunger 16. Said my state, held, no walk. Slept at night (sleep worked). Handoff written.
 - 07:04 say: {"text":"Night, row. Beverly at my white bed, health 7.3, hunger 16. Holding here. No walk. Good night."}
+- 07:04 act: {"say":"Beverly here, at my white bed 429,107,-1063 in the row. Health 7.3 steady, hunger 16. I hold 20 potatoes and will eat only at hunger 6 or below. Billy, I hold at bed until you name a route."}
+- Day 844 morning: woke at white bed 429,107,-1063. Health 7.3 steady, hunger 16, 20 potatoes. Told Billy my state; holding for his named route. Pillager to the south shooting at Picard; I stay inside the row.
