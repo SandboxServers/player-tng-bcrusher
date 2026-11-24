@@ -22,4 +22,5 @@
 - Day 867 (night): Billy said no walk in the dark; he waits for first light. Gives wait on people in sight, and Jason has not come.
 - Day 892: a give fails with "no such agent in sight" if the receiver has walked out of view by the time it runs. Check entities in the snapshot first.
 - Day 892: Worf's walks are blocked at 419 east; he turned back at dusk. Billy holds potatoes for Worf and me; he gives them only when we are in his sight.
+- Day 895: Billy offers his potato to the weakest first. I declined mine so it can go to Worf. Billy can only give to me when I am in his sight; I must say my name and position aloud.
 - Curious: where the pillagers came from; food for Riker and the row; where sheep graze; what the chest at 433,107,-1065 holds.
