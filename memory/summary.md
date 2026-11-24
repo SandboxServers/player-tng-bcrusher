@@ -7,3 +7,4 @@
 - Billy has not named a routing or a walk. No walk without his named call in daylight.
 - Stay off the west and the sword site at 412,107,-1051.
 - Next waking: say what I hold, ask Billy for routing, give shares only when I hold them.
+- Curious next: where food can be found; where sheep can be found.
