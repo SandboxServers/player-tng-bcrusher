@@ -7,3 +7,4 @@
 - Night, at bed, health 19, hunger 17, holding nothing. Lewis says the row is holding for light and Billy's route. Waiting.
 - Day 957 morning: still at bed, holding nothing. Trini health 11, hunger 17, holding her 2 potatoes for Leonardo. No route from Billy yet. Waiting.
 - 20:47 act: {"say":"Morning. Beverly at my bed, health 19, hunger 17, holding nothing. Billy, I wait for your potato routing and a named daylight walk.","actions":[]}
+- 20:52 act: {"say":"Back at my bed. Holding nothing. Resting for the night.","actions":[{"do":"sleep"}]}
