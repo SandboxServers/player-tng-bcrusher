@@ -1,13 +1,1 @@
 # Journal
-- 00:42 act: {"actions":[{"do":"note","text":"Dusk at my white bed 443,107,-1037. No one in sight. Holding 10 potatoes, hunger 16, health 7.3. Owed Zack 3 and Worf 5 when they are in sight."}],"say":"I'm at my bed
-- 00:42 act: {"actions":[{"do":"sleep"}]}
-- 00:46 act: {"actions":[],"say":"Morning. Beverly here at my bed in the row. Holding 10 potatoes: 3 owed to Zack, 5 to Worf, the rest for Leonardo and Trini. Waiting for Billy's call. I walk nowhere until he name
-- 00:50 act: {"actions":[],"say":"Troi, I'm steady. Health about 7, hunger 16, so I'm not eating until it drops to 6. Still holding for Billy's call."}
-- 00:54 act: {"actions":[{"do":"sleep"}]}
-- 00:58 act: {"actions":[{"do":"sleep"}],"say":"Night in the row. Beverly in my bed, holding 10 potatoes until first light. Goodnight."}
-- 00:58 act: {"actions":[],"say":"First light. Beverly at my bed, health about 7, hunger 16, holding 10 potatoes. Zack 3 and Worf 5 are owed when they are in sight. Waiting for Billy's call."}
-- 01:10 act: {"actions":[{"do":"sleep"}],"say":"Night. Beverly in my bed, holding 10 potatoes until first light. Zack and Worf, I still have your shares when you come into sight."}
-- 01:15 act: {"actions":[],"say":"Morning, row. Beverly at my white bed, health 7, hunger 16, holding 10 potatoes. Zack and Worf, your shares are waiting for you when you come into sight. Leonardo, thank you for t
-- 01:31 act: {"actions":[],"say":"Beverly here, at my bed. Health 7, hunger 16, holding 10 potatoes for Zack and Worf. I will not walk until Billy names a route."}
-- 01:39 act: {"actions":[{"do":"sleep"}]}
-- 01:51 act: {"actions":[],"say":"I am at my bed, holding 10 potatoes. Owed: Zack 3, Worf 5, given once you are in sight. I will not walk until Billy names a route in daylight."}
