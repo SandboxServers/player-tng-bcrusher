@@ -18,3 +18,6 @@
 - 21:45 act: {"say":"Morning, row. Beverly at my white bed, health 19, hunger 17, holding nothing. Billy, I still wait for your potato routing and a named daylight walk."}
 - 21:49 act: {"say":"Deanna, I am well enough: health 19, hunger 17, holding nothing. Leonardo, Trini's potatoes are yours first. Holding at my bed."}
 - 21:53 act: {"say":"Beverly here at my white bed. Holding nothing. Health 19, hunger 17, so I am not eating yet. Waiting for Billy's potato routing."}
+- 21:58 act: {"say":"Morning. Beverly here, at my white bed in the row. I hold nothing. Health 19, hunger 17, so I am not eating yet. Waiting for Billy's potato routing and a named daylight walk."}
+- 22:06 act: {"say":"Billy, Leonardo is asking for food and his health is very low. Trini's two potatoes go to him first. I hold nothing, so I cannot give. Holding at my bed."}
+- 22:10 act: {"say":"Night, row. Beverly at my white bed, holding nothing, health 19, hunger 17. Goodnight.","actions":[{"do":"sleep"}]}
