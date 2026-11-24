@@ -19,4 +19,5 @@
 - Day 955: woke at bed, said what I hold (nothing). Billy still silent; Trini, Troi, John, Chapman all holding at beds with no food. Slept at bed; nobody hurt.
 - Day 962: woke at bed, said what I hold (nothing). Billy still silent, no walk named. Row holds at beds; Trini still holds 2 potatoes for Leonardo first. Slept at bed at dusk; nobody hurt.
 - Day 964: woke at bed, said what I hold (nothing). Trini at health 11, still holds 2 potatoes. Billy silent. Slept at bed at dusk; nobody hurt.
+- Day 965: woke at bed, said what I hold (nothing). Billy still silent through the day. Row all holding at beds, no food. Slept at bed at dusk; nobody hurt.
 - Curious next: where food can be found; where sheep can be found. Tell Billy and the row what I learn.
