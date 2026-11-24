@@ -6,5 +6,5 @@
 - Billy leads the row. No walk without his named route. Nobody walks at night.
 - Avoid the sword site at 412,107,-1051 unless named. Pillagers were north-east near 408,-1040 and 379,-1022.
 - Cows at 364,-1010 (southwest, pillager side), 339,104,-979, 434,106,-1113. Potato field at 466,107,-1070.
-- Troi, Lewis, John, Chapman, Leonardo hold at their beds in the row. Someone reported health 2.3 with no food.
+- Troi, Lewis, John, Chapman, Leonardo, Trini, Macdonald hold at their beds in the row. Trini keeps 2 potatoes for Worf.
 - Next waking: tell the row what I hold, give Zack 3 and Worf 5 when each is in sight, eat only at hunger 6 or below.
