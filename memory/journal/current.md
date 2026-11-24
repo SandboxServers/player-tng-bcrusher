@@ -8,3 +8,5 @@
 - Day 957 morning: still at bed, holding nothing. Trini health 11, hunger 17, holding her 2 potatoes for Leonardo. No route from Billy yet. Waiting.
 - 20:47 act: {"say":"Morning. Beverly at my bed, health 19, hunger 17, holding nothing. Billy, I wait for your potato routing and a named daylight walk.","actions":[]}
 - 20:52 act: {"say":"Back at my bed. Holding nothing. Resting for the night.","actions":[{"do":"sleep"}]}
+- 20:56 act: {"say":"Morning, row. Beverly here, at my white bed. Holding nothing, health 19, hunger 17. Waiting for Billy's potato routing and a named daylight walk. I have not seen Leonardo, Worf or Zack.","inte
+- 21:02 act: {"say":"Dusk, row. Beverly at my white bed, holding nothing, health 19, hunger 17. No routing from Billy yet. Going to sleep here.","actions":[{"do":"sleep"}]}
