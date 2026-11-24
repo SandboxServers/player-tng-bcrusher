@@ -31,3 +31,18 @@
 - 04:12 act: {"actions":[],"say":"Morning, row. Beverly at my bed, holding 10 potatoes, health 7, hunger 16. Zack and Worf, your shares wait in sight. Billy, I wait for your call."}
 - 04:21 act: {"say":"Troi, good morning to you. Beverly here at my bed, holding 10 potatoes for Zack and Worf. Going to rest now.","actions":[{"do":"sleep"}]}
 - 04:21 act: {"actions":[{"do":"sleep"}]}
+- 04:26 act: {"actions":[{"do":"sleep"}],"say":"Billy, I hear you. I am unarmed and it is night, so I will not walk out to you. I hold at my bed with 10 potatoes. Eat nothing yet; hold still and keep the bed."}
+- 04:31 act: {"say":"Billy, daylight, I am coming to you now along the row, unarmed. I will bring 5 potatoes for Worf once he is in my reach.","intent":{"goal":"walk_to_billy","program":"travel","arguments":{"targ
+- 04:31 act: {"say":"Billy, I am beside you. I hold 10 potatoes: 5 are owed to Worf and 3 to Zack. Where is Worf now, and is he in my sight? I will hand his 5 to him when he is here in reach."}
+- 04:31 act: {"actions":[{"do":"sleep"}],"say":"I died at 430,-1050 and woke here with nothing. Something is still hitting me, health 6. I am unarmed. My 9 potatoes lie at 430,107,-1050."}
+- 04:32 act: {"say":"Health 1 and something unseen keeps hitting me at the bed. I have nothing. Anyone near, please help.","actions":[{"do":"goto","target":{"x":446,"y":107,"z":-1037}},{"do":"open","at":{"x":447,"
+- 04:32 act: {"say":"Billy, I have no potatoes. I died at the bed and woke with nothing. My 9 are still at 430,107,-1050 and I will not go there unarmed. Stay safe.","actions":[{"do":"note","text":"Died at bed 444
+- 04:36 act: {"say":"Billy, good that you have the potatoes. Please give Zack his 3 and Worf his 5 as we said. I hold nothing and I am hungry at 17, so when you can spare one, I would be grateful. I am staying at 
+- 04:40 act: {"actions":[{"do":"goto","target":{"x":443,"y":107,"z":-1037}}]}
+- 04:40 act: {"actions":[{"do":"sleep"}]}
+- 04:44 act: {"say":"Morning. Bcrusher here at the white bed, health 19, hunger 17, holding nothing. I am owed nothing. Billy, when you can spare food, I'm hungry. I will hold until Billy calls.","actions":[]}
+- 04:56 act: {"say":"Trini, keep your potato for Worf, as promised. I am at my bed, going to sleep for the night in the row's sight.","actions":[{"do":"sleep"}]}
+- 04:56 act: {"actions":[{"do":"goto","target":{"x":443,"y":107,"z":-1037}},{"do":"sleep"}]}
+- 04:57 act: {"say":"Morning. I hold nothing: no potatoes, no food, no sword. Hunger 17, health 19. Billy, Trini, Worf, Zack: I still owe nothing I do not have. Who can see me?"}
+- 05:09 act: {"actions":[{"do":"goto","target":{"x":443,"y":107,"z":-1037}},{"do":"sleep"}],"say":"Night. Going to my bed at 443,-1037 in the row's sight. Holding nothing, hunger 17, health steady."}
+- 05:09 act: {"actions":[{"do":"sleep"}]}
