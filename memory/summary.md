@@ -4,7 +4,7 @@
 - Home: my white bed at 443,107,-1037 in Billy's row. Sleep there at dusk, in the row's sight.
 - Holding nothing. Trini holds 2 potatoes for Leonardo first, then Worf. Trini and Riker both at health 11, hunger 17, no food.
 - Owed: Zack 3 and Worf 5 potatoes, once I hold them or Billy routes them to me.
-- Billy holds the row's potatoes. No routing or walk named through day 935. No walk without his named daylight call.
+- Billy holds the row's potatoes. No routing or walk named yet. No walk without his named daylight call.
 - Stay off the west and the sword site at 412,107,-1051.
-- Next waking: say what I hold, ask Billy for routing again.
+- Next waking: say what I hold, ask Billy for routing.
 - Curious next: where food can be found; where sheep can be found.
