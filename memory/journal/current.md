@@ -46,3 +46,5 @@
 - 04:57 act: {"say":"Morning. I hold nothing: no potatoes, no food, no sword. Hunger 17, health 19. Billy, Trini, Worf, Zack: I still owe nothing I do not have. Who can see me?"}
 - 05:09 act: {"actions":[{"do":"goto","target":{"x":443,"y":107,"z":-1037}},{"do":"sleep"}],"say":"Night. Going to my bed at 443,-1037 in the row's sight. Holding nothing, hunger 17, health steady."}
 - 05:09 act: {"actions":[{"do":"sleep"}]}
+- 05:10 act: {"say":"Beverly here at my white bed in the row. Holding nothing: no food, no sword. Health 19, hunger 17, I will not eat until 6. Trini, I see you hold a potato for Worf; I will not touch it."}
+- 05:11 act: {"say":"Billy, Beverly here at my bed, 443,107,-1037. I hold no potatoes; my pack is empty. Trini holds 2 for Worf. I am sorry I cannot bring you any. I stay in the row's sight until you name a daylig
