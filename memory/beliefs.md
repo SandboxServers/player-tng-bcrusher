@@ -24,4 +24,6 @@
 - Day 892: Worf's walks are blocked at 419 east; he turned back at dusk. Billy holds potatoes for Worf and me; he gives them only when we are in his sight.
 - Day 895: Billy offers his potato to the weakest first. I declined mine so it can go to Worf. Billy can only give to me when I am in his sight; I must say my name and position aloud.
 - Day 902: A dusk sleep at my bed 443,107,-1037 worked. Holding in the row with fresh waits and interests works; the row's speech tells who is holding.
+- Day 913: Billy stayed silent through the night and morning on the potato routing. Leonardo at health 1 still needs a potato from Trini first.
+- Day 913: At dusk, sleeping in my bed 443,107,-1037 is the plan; holds with fresh waits work.
 - Curious: where the pillagers came from; food for Riker and the row; where sheep graze; what the chest at 433,107,-1065 holds.
