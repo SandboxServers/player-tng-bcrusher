@@ -17,3 +17,4 @@
 - 21:40 act: {"intent":{"goal":"hold_at_bed","program":"rest","arguments":{},"wake_on":["directly_addressed","precondition_failed","unexpected_damage"],"limits":{"max_world_ticks":2400,"max_block_operations":1}},"
 - 21:45 act: {"say":"Morning, row. Beverly at my white bed, health 19, hunger 17, holding nothing. Billy, I still wait for your potato routing and a named daylight walk."}
 - 21:49 act: {"say":"Deanna, I am well enough: health 19, hunger 17, holding nothing. Leonardo, Trini's potatoes are yours first. Holding at my bed."}
+- 21:53 act: {"say":"Beverly here at my white bed. Holding nothing. Health 19, hunger 17, so I am not eating yet. Waiting for Billy's potato routing."}
