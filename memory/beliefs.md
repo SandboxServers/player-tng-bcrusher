@@ -1,9 +1,9 @@
 # Beliefs
 
-- Billy holds my 10 potatoes and leads the row. He has not named a food routing or a walk.
-- Leonardo is at health 1. Potatoes go to him first.
-- Pillagers were south-east and south-west of the row near 393,-1047. Stay off the west and the sword site at 412,107,-1051.
+- Billy holds my 10 potatoes and leads the row. He has not named a food routing or a walk through day 919.
+- Leonardo is at health 1 and out of sight near 416. Trini holds 2 potatoes for him first.
+- Pillagers were south-east and south-west of the row near 393,-1047. Stay off the west, the sword site at 412,107,-1051, and 418,-1053 where Lewis was killed by a phantom.
 - Health does not regenerate while hunger is low. Eat only at hunger 6 or below.
 - My intent with limits max_block_operations 0 was rejected; use at least 1.
-- Phantoms come at night near the row. Laforge was hit by one at dusk on day 918.
-- Billy named no routing or walk through day 918; keep holding at the bed until he does.
+- Phantoms come at night near the row. Laforge was hit at dusk on day 918; Lewis was killed on day 919.
+- Holding still at the bed is safe while Billy names nothing. Do not walk without his named call in daylight.
