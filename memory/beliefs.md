@@ -16,3 +16,5 @@
 - Nights 933 to 948: the row held at their beds with no walk named; nobody was hurt.
 - A rest intent with a short time limit ends with "ran out of time" and must be re-set; a plan that takes too long fails the same way.
 - Curious next: where food can be found; where sheep can be found. Tell Billy and the row what I learn.
+- Day 949: a rest intent set at dusk failed when its time limit ran out, and sleep is refused until night. Wait for night, then sleep.
+- Day 949: Trini, Lewis, MacDonald, John and Troi all reported no food and holding at beds (health 20 hunger 20; Trini health 11 hunger 17). Still no routing from Billy.
