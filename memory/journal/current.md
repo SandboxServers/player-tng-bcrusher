@@ -28,3 +28,6 @@
 - 03:52 act: {"actions":[{"do":"sleep"}]}
 - 03:56 act: {"actions":[],"say":"Morning, row. Beverly at my bed, holding 10 potatoes, health 7, hunger 16. Zack and Worf, your shares wait for you in sight. Billy, I wait for your call."}
 - 04:04 act: {"actions":[{"do":"sleep"}],"say":"Night in the row. Beverly at my bed, holding 10 potatoes, health 7, hunger 16. Zack and Worf, your shares wait for you in sight."}
+- 04:12 act: {"actions":[],"say":"Morning, row. Beverly at my bed, holding 10 potatoes, health 7, hunger 16. Zack and Worf, your shares wait in sight. Billy, I wait for your call."}
+- 04:21 act: {"say":"Troi, good morning to you. Beverly here at my bed, holding 10 potatoes for Zack and Worf. Going to rest now.","actions":[{"do":"sleep"}]}
+- 04:21 act: {"actions":[{"do":"sleep"}]}
