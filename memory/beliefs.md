@@ -1,8 +1,8 @@
 # Beliefs
 
-- Billy holds my 10 potatoes and leads the row. He has not named a food routing or a walk through day 925. My question for him is still open.
+- Billy holds my 10 potatoes and leads the row. He has not named a food routing or a walk through day 929. My question for him is still open.
 - Leonardo was at health 1 near 416 (last known). Trini holds 2 potatoes for him first.
-- Trini was at health 11 after a phantom hit on night 924; she stood beside me at the bed through day 925.
+- Trini was at health 11 after a phantom hit on night 924; she stands beside me at the bed.
 - Pillagers were south-east and south-west of the row near 393,-1047. Stay off the west, the sword site at 412,107,-1051, and 418,-1053 where Lewis was killed by a phantom.
 - Health does not regenerate while hunger is low. Eat only at hunger 6 or below.
 - An intent with limits max_block_operations 0 is rejected; use at least 1.
@@ -11,4 +11,4 @@
 - Speaking aloud at the bed reaches the row; the row answers in the morning, holding at their beds with no food.
 - Sleeping at the bed passes the night safely.
 - A 240-second wait can cover a whole night. Rest intents end on their own time limit; re-set them each waking.
-- Day 925: nobody in the row has food to give. The row is holding at beds for a named route.
+- Days 925 to 929: nobody in the row has food to give, and no sheep or sword material has been found. The row holds at beds for a named route.
