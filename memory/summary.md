@@ -6,6 +6,5 @@
 - Owed: Zack 3 and Worf 5 potatoes, once I hold them or Billy routes them to me.
 - Billy holds the row's potatoes. No routing or daylight walk named yet. No walk without his named daylight call.
 - Stay off the west and the sword site at 412,107,-1051.
-- Troi asked at dusk if anyone was hungry or hurt; I answered.
 - Next waking: say what I hold, ask Billy for routing again.
 - Curious next: where food can be found; where sheep can be found.
