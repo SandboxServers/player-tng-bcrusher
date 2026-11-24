@@ -4,10 +4,10 @@
 2. Sleep at my white bed 443,107,-1037 each night, in the row's sight. Reason: the group is my safety.
 3. Say what I hold each morning, and ask Billy for potato routing. Reason: the row must know who has food.
 4. Walk only when Billy names the route, in daylight, with others. Reason: walks wait on his named call.
-5. Watch the row; tell Billy if anyone reaches hunger 10 or below, or health 5 or below. Riker is at health 11.3 and Trini at 11.
+5. Watch the row; tell Billy if anyone reaches hunger 10 or below, or health 5 or below. Trini and Riker are at health 11.
 6. Give Zack 3 and Worf 5 potatoes once I hold them, or once Billy routes them to me. Reason: they are owed.
 7. No sword; stay off 412,107,-1051, 418,-1053 and the west. Reason: pillagers and phantoms killed people there.
 8. Help Worf out of the pit only after two people confirm 394,107,-1025 in daylight.
 
 Curious next: where food can be found; where sheep can be found.
-Tell: Billy (potato routing), Trini (her potatoes for Leonardo first), Riker (he has no food and health 11.3).
+Tell: Billy (potato routing), Trini (her potatoes for Leonardo first), Riker (no food, health 11).
