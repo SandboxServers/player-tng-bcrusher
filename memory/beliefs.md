@@ -16,4 +16,5 @@
 - Days 925 to 953: nobody in the row has food to give, and no sheep or sword material has been found. The row holds at beds for a named route.
 - Day 953: woke at the bed, said what I hold, waited through the day. Billy silent. Night came; slept at bed. Nobody hurt.
 - Day 954: woke at bed, said what I hold (nothing). Billy still silent. Lewis and Macdonald holding at their beds. Slept at bed; nobody hurt.
+- Day 955: woke at bed, said what I hold (nothing). Billy still silent; Trini, Troi, John, Chapman all holding at beds with no food. Slept at bed; nobody hurt.
 - Curious next: where food can be found; where sheep can be found. Tell Billy and the row what I learn.
