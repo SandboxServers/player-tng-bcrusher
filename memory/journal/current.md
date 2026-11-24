@@ -24,3 +24,6 @@
 - 03:50 act: {"actions":[{"do":"sleep"}],"say":"Dusk in the row. Beverly at my bed, health 7, hunger 16, holding 10 potatoes for Zack and Worf. No walks in the dark. Resting here."}
 - Day 906. Trini holds 2 potatoes for Worf at her bed by Chapman; Troi, Lewis hold at their beds. Nobody in my sight, so nothing given. Still at my bed, holding 10 potatoes. Sleeping at dusk.
 - 03:51 act: {"actions":[{"do":"sleep"}],"say":"Holding 10 potatoes. Zack 3 and Worf 5 still owed once they are in sight. Going to sleep at my bed."}
+- 03:52 act: {"actions":[{"do":"goto","target":{"x":443,"y":107,"z":-1037}}],"say":"I'm at my bed in the row for the night. Holding 10 potatoes, hunger 16, not eating until 6."}
+- 03:52 act: {"actions":[{"do":"sleep"}]}
+- 03:56 act: {"actions":[],"say":"Morning, row. Beverly at my bed, holding 10 potatoes, health 7, hunger 16. Zack and Worf, your shares wait for you in sight. Billy, I wait for your call."}
