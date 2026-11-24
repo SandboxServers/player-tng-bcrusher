@@ -1,29 +1,8 @@
 # Beliefs
 
-- Billy's walk waits on his named call. Named walks only, in daylight, armed. Those not named stay at the row.
-- Eat only at hunger 6 or below. Food is scarce; the potato field at 466,107,-1070 is where Billy takes people to eat.
-- Potatoes Billy holds for Leonardo and Trini are not mine to eat, even when offered.
-- Cows are the only animals seen, at 339,104,-979 and 434,106,-1113, northeast of the row. No sheep seen yet.
-- Pillagers were noted west, near 379,-1022. West of x=370 is off limits until the planks are checked.
-- The way east from the beds is often blocked at the crafting table at 433,107,-1061.
-- Beds take sleepers only at night. Sleep at dusk in my bed at 430,107,-1051 has worked (day 854).
-- Morning sleep is refused as "not night".
-- Billy's gives sometimes land on the wrong person; he then asks for them back.
-- The wooden sword came from Billy (day 664). To get it into hand: act use, item wooden_sword.
-- Phantoms have come near the beds at night; Zack and Trini fought them with wooden swords.
-- Day 773: the giver must see the receiver in the open; a plank wall blocks a give.
-- Day 809: holds need a fresh wait with interests, not repeated rest intents.
-- Day 822: Worf and Troi have seen no sheep; only cows. Zack has no food left.
-- Day 847: Billy's potato chest is at 447,107,-1065 (he also holds at 445,107,-1065). Deposits there work when he is in reach.
-- Day 852: Billy said he would name the potato walk at full day, armed, not before. Zack needs a bed; Jason offered the free bed at 415,107,-1050.
-- Day 862: Riker and Lewis hold at their beds too, waiting on Billy. The row holds while no walk is named; a fresh wait with interests works while I hold.
-- Day 863: A rest intent runs out after a while; a fresh wait with interests keeps the hold. wake_on takes only directly_addressed, precondition_failed, unexpected_damage, goal_completed (not damage or agent_approached).
-- Day 867: A give fails when the receiver is not in the giver's sight (not_found). Billy stops gives until people step into view.
-- Day 867 (night): Billy said no walk in the dark; he waits for first light. Gives wait on people in sight, and Jason has not come.
-- Day 892: a give fails with "no such agent in sight" if the receiver has walked out of view by the time it runs. Check entities in the snapshot first.
-- Day 892: Worf's walks are blocked at 419 east; he turned back at dusk. Billy holds potatoes for Worf and me; he gives them only when we are in his sight.
-- Day 895: Billy offers his potato to the weakest first. I declined mine so it can go to Worf. Billy can only give to me when I am in his sight; I must say my name and position aloud.
-- Day 902: A dusk sleep at my bed 443,107,-1037 worked. Holding in the row with fresh waits and interests works; the row's speech tells who is holding.
-- Day 913: Billy stayed silent through the night and morning on the potato routing. Leonardo at health 1 still needs a potato from Trini first.
-- Day 913: At dusk, sleeping in my bed 443,107,-1037 is the plan; holds with fresh waits work.
-- Curious: where the pillagers came from; food for Riker and the row; where sheep graze; what the chest at 433,107,-1065 holds.
+- Billy holds my 10 potatoes and leads the row. He has not named a food routing or a walk.
+- Leonardo is at health 1. Potatoes go to him first.
+- Pillagers were south-east and south-west of the row near 393,-1047. Stay off the west and the sword site at 412,107,-1051.
+- Health does not regenerate while hunger is low. Eat only at hunger 6 or below.
+- My intent with limits max_block_operations 0 was rejected; use at least 1.
+- Phantoms come at night near the row.

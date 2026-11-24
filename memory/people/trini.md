@@ -1,3 +1,3 @@
-# Trini
+# Trini (ag_trini_01)
 
-Holds at her bed near 444,107,-1037 beside mine. Day 913: holding 2 potatoes for Leonardo first, then Worf. Honest about not knowing Billy's routing. Trust 74: plain, patient, sharing what she holds.
+Stands near my bed at 444,107,-1037. Holds a potato. Trust 60. I told her at my bed that Leonardo comes first for her potatoes. She has said nothing new, so I cannot yet tell whether she will give.
