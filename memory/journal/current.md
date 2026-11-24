@@ -4,3 +4,6 @@
 - Morning, day 914. Told the row what I hold and asked Billy for routing and a named daylight walk. Holding at my bed; no walk without his call.
 - Still at bed, nothing new from Billy. Health 19.3, hunger 17. Waiting.
 - 06:31 act: {"say":"Morning, row. Beverly here at my white bed 443,107,-1037, health 19, hunger 17, unarmed, holding nothing. Billy, I hold no food; I am waiting for your routing of my 10 potatoes and for a named
+- 06:44 act: {"say":"Morning. I hold nothing, not even a potato. Trini, Leonardo first. Billy, I'm still waiting on a food routing, and I'm at my bed.","actions":[{"do":"note","text":"Woke at my white bed, day 914
+- 06:48 act: {"say":"Morning, Troi. Beverly, at my bed, health 19, hunger 17, unarmed, holding nothing. Waiting on Billy's routing."}
+- 06:56 act: {"say":"Good evening, row. Beverly at my white bed 443,107,-1037, health 19, hunger 17, no food, holding for the night. No walk in the dark."}
