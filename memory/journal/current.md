@@ -14,3 +14,4 @@
 - 21:19 act: {"say":"Dusk, row. Beverly at my white bed, holding nothing, health 19, hunger 17. No routing from Billy yet. Going to sleep here.","actions":[{"do":"sleep"}]}
 - 21:24 act: {"say":"Beverly here at my bed, health 19, hunger 17, holding nothing. Troi, I am well enough, thank you for asking. Still waiting on Billy."}
 - 21:32 act: {"say":"Goodnight, row. Beverly at my white bed, holding nothing, health 19, hunger 17. Holding for light and Billy's call.","actions":[{"do":"sleep"}]}
+- 21:40 act: {"intent":{"goal":"hold_at_bed","program":"rest","arguments":{},"wake_on":["directly_addressed","precondition_failed","unexpected_damage"],"limits":{"max_world_ticks":2400,"max_block_operations":1}},"
