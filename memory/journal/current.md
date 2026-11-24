@@ -27,3 +27,4 @@
 - 03:52 act: {"actions":[{"do":"goto","target":{"x":443,"y":107,"z":-1037}}],"say":"I'm at my bed in the row for the night. Holding 10 potatoes, hunger 16, not eating until 6."}
 - 03:52 act: {"actions":[{"do":"sleep"}]}
 - 03:56 act: {"actions":[],"say":"Morning, row. Beverly at my bed, holding 10 potatoes, health 7, hunger 16. Zack and Worf, your shares wait for you in sight. Billy, I wait for your call."}
+- 04:04 act: {"actions":[{"do":"sleep"}],"say":"Night in the row. Beverly at my bed, holding 10 potatoes, health 7, hunger 16. Zack and Worf, your shares wait for you in sight."}
