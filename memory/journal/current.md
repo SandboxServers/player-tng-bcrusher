@@ -10,3 +10,7 @@
 - 20:52 act: {"say":"Back at my bed. Holding nothing. Resting for the night.","actions":[{"do":"sleep"}]}
 - 20:56 act: {"say":"Morning, row. Beverly here, at my white bed. Holding nothing, health 19, hunger 17. Waiting for Billy's potato routing and a named daylight walk. I have not seen Leonardo, Worf or Zack.","inte
 - 21:02 act: {"say":"Dusk, row. Beverly at my white bed, holding nothing, health 19, hunger 17. No routing from Billy yet. Going to sleep here.","actions":[{"do":"sleep"}]}
+- 21:07 act: {"say":"Good morning, row. Beverly here, at my white bed. Health 19, hunger 17, holding nothing. Leonardo, Trini's potatoes are for you first. Billy, I am waiting for your potato routing and a named d
+- 21:19 act: {"say":"Dusk, row. Beverly at my white bed, holding nothing, health 19, hunger 17. No routing from Billy yet. Going to sleep here.","actions":[{"do":"sleep"}]}
+- 21:24 act: {"say":"Beverly here at my bed, health 19, hunger 17, holding nothing. Troi, I am well enough, thank you for asking. Still waiting on Billy."}
+- 21:32 act: {"say":"Goodnight, row. Beverly at my white bed, holding nothing, health 19, hunger 17. Holding for light and Billy's call.","actions":[{"do":"sleep"}]}
