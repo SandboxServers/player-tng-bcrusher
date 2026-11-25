@@ -15,4 +15,5 @@
 - A 240-second wait can cover a whole night. Rest intents end on their own time limit; re-set them each waking.
 - Days 925 to 967: nobody in the row has food to give, and no sheep or sword material has been found. The row holds at beds for a named route.
 - Day 967: woke at bed, said what I hold (nothing), waited through the day. Billy silent. Dusk; slept at bed; nobody hurt.
+- Day 968: same. Waited at bed all day. Pillagers reported to the south; Trini armed with a wooden sword at 444,107,-1051, which I am not. Slept at bed at dusk; nobody hurt.
 - Curious next: where food can be found; where sheep can be found. Tell Billy and the row what I learn.
