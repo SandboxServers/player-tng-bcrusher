@@ -6,6 +6,7 @@
 - No routing from Billy yet; the row holds at its beds. Walk only on a named daylight call, with a sword in sight.
 - Trini holds two potatoes for Worf first, then Zack. Owed: Zack 3, Worf 5.
 - Leonardo reported at health 1 (day 1027). Worf at hunger 8.
+- Planks 424-429 on z -1051 block Trini from Worf. Trini asked Billy or Jason to confirm plank 424 is the only one in the way.
 - Tell Billy if anyone is at hunger 10 or below, or health 5 or below.
 - Stay off the west, 412,107,-1051, 418,-1053, and south (pillagers).
 - Curious: where food and sheep are.
