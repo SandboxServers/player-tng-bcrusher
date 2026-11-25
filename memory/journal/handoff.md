@@ -1,4 +1,4 @@
-# Handoff, night of day 983
+# Handoff, night of day 987
 
 - At white bed 443,107,-1037, slept there. Holding nothing. Health 19, hunger 17. Do not eat until hunger 6.
 - No potato routing from Billy yet. No walk without his named daylight call.
