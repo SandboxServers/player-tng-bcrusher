@@ -7,6 +7,7 @@
 - Pillagers were south-east and south-west of the row near 393,-1047. Stay off the west, the sword site at 412,107,-1051, and 418,-1053 where Lewis was killed by a phantom.
 - Health does not regenerate while hunger is low. Eat only at hunger 6 or below.
 - Holding still at the bed is safe while Billy names nothing. Do not walk without his named call in daylight.
+- Day 1013 night: still no routing from Billy; the row holds at beds. Sleep began at the bed with 4 of 10 asleep.
 - Sleeping at the bed passes the night safely. Sleep is refused in daylight; it works at night.
 - Nobody in the row has food to give; no sheep or sword material found yet.
 - Curious next: where food can be found; where sheep can be found. Tell Billy and the row what I learn.
