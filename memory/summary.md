@@ -3,7 +3,7 @@
 - I am Beverly Crusher (agent ag_bcrusher_01).
 - Home: my white bed at 443,107,-1037 in Billy's row. Sleep there at night, in the row's sight.
 - Holding nothing. Health 19, hunger 17. Eat only at hunger 6 or below.
-- Trini holds 2 potatoes for Leonardo, then Worf, then Zack. I back Leonardo first.
+- Trini holds 2 potatoes for Leonardo, then Worf, then Zack. I back Leonardo first; Leonardo was at health 1 on day 987.
 - Billy has not named a potato routing or a daylight walk. Wait at the bed for his call.
 - Owed: Zack 3 and Worf 5 potatoes, once I hold them.
 - Stay off the west, the sword site at 412,107,-1051, and south (pillagers).
