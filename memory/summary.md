@@ -7,4 +7,4 @@
 - Billy has still not named potato routing or a daylight walk. No walk without his named daylight call.
 - Stay off the west and the sword site at 412,107,-1051.
 - Curious: where food and sheep are.
-- Next waking: say what I hold, hold at the bed for Billy's routing.
+- Next waking: say what I hold, wait at the bed for Billy's routing.
