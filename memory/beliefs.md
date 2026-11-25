@@ -1,9 +1,9 @@
 # Beliefs
 
-- Billy holds the row's potatoes (including my 10) and leads the row. No food routing or daylight walk named through day 990.
-- Trini holds 2 potatoes for Leonardo first, then Worf, then Zack. She holds at the bed and said she would hand them out at first light on day 990.
-- Leonardo was at health 1 on day 987 with no food.
-- Troi, Johnny, Kimberly, Chapman and MacDonald hold at their beds with no food. Several row members (Kimberly, MacDonald) show "shot" signs dated day 1061.
+- Billy holds the row's potatoes (including my 10) and leads the row. No food routing or daylight walk named through day 992.
+- Trini holds 2 potatoes for Leonardo first, then Worf, then Zack. She promised them to Leonardo and said she would go armed if Billy names a walk.
+- Leonardo was at health 1 on day 992, per Troi. I told Billy.
+- Troi, John (Chapman), Kimberly, MacDonald hold at their beds with no food. Kimberly and MacDonald have "shot" signs dated day 1061.
 - Pillagers were south-east and south-west of the row near 393,-1047. Stay off the west, the sword site at 412,107,-1051, and 418,-1053 where Lewis was killed by a phantom.
 - Health does not regenerate while hunger is low. Eat only at hunger 6 or below.
 - An intent with limits max_block_operations 0 is rejected; use at least 1. A plain wait works fine for holding.
