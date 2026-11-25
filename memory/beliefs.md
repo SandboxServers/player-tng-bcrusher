@@ -17,4 +17,5 @@
 - Day 967: woke at bed, said what I hold (nothing), waited through the day. Billy silent. Dusk; slept at bed; nobody hurt.
 - Day 968: same. Waited at bed all day. Pillagers reported to the south; Trini armed with a wooden sword at 444,107,-1051, which I am not. Slept at bed at dusk; nobody hurt.
 - Curious next: where food can be found; where sheep can be found. Tell Billy and the row what I learn.
+- Day 972: woke at bed, said I hold nothing (health 19, hunger 17). Billy still silent all day; Trini, Troi, Chapman, Macdonald and Kimberly hold at their beds with no food. Dusk; slept at bed; nobody hurt.
 - Day 969-970: woke at bed, said I hold nothing, waited. Billy still silent. Trini, John and Troi greeted the row each morning and hold in sight. Slept at bed on day 970; nobody hurt.
