@@ -1,7 +1,6 @@
-# Handoff, night of day 1003
+# Handoff, night of day 1007
 
 - Asleep at white bed 443,107,-1037 in Billy's row, in the row's sight. Holding nothing. Health 19, hunger 17. Do not eat until hunger 6.
-- No potato routing from Billy and no daylight walk named yet. Trini holds 2 potatoes for Zack and Worf.
-- Others in the row (Chapman, Kimberly, Troi, Macdonald) hold at their beds with no food, waiting for Billy's call.
+- No potato routing from Billy and no daylight walk named. Trini holds 2 potatoes for Zack and Worf.
 - Owed: Zack 3 and Worf 5 potatoes, once I hold them.
 - On waking: say what I hold, then wait at the bed for Billy's routing.
