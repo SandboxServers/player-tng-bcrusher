@@ -1,22 +1,18 @@
 # Beliefs
 
-- Billy holds the row's potatoes (including my 10) and leads the row. He has not named a food routing or a walk through day 967. My question for him is still open.
-- Trini holds 2 potatoes for Leonardo first, then Worf. She is at health 11, hunger 17, and holds still at the bed.
+- Billy holds the row's potatoes (including my 10) and leads the row. He has not named a food routing or a walk through day 981. My question for him is still open.
+- Trini holds 2 potatoes for Leonardo first, then Worf. She holds still at the bed.
 - Leonardo was at health 1 with no food (day 952). Trini still holds his potatoes.
-- Riker (William) is at health 11, hunger 17, with no food, as of day 939.
-- Deanna (Troi), John (Macdonald), Lewis and Kimberly are at health 20, hunger 17-20, no food, holding at their beds.
+- Riker (William) was at health 11, hunger 17, with no food, as of day 939.
+- Deanna (Troi), John (Macdonald), Lewis and Kimberly were holding at their beds with no food as of recent days.
 - Pillagers were south-east and south-west of the row near 393,-1047. Stay off the west, the sword site at 412,107,-1051, and 418,-1053 where Lewis was killed by a phantom.
 - Health does not regenerate while hunger is low. Eat only at hunger 6 or below.
 - An intent with limits max_block_operations 0 is rejected; use at least 1.
 - Phantoms come at night near the row. Laforge was hit at dusk on day 918; Lewis was killed on day 919.
 - Holding still at the bed is safe while Billy names nothing. Do not walk without his named call in daylight.
 - Speaking aloud at the bed reaches the row; the row answers in the morning, holding at their beds with no food.
-- Sleeping at the bed passes the night safely (days 950 to 967).
+- Sleeping at the bed passes the night safely (days 950 to 981).
 - A 240-second wait can cover a whole night. Rest intents end on their own time limit; re-set them each waking.
-- Days 925 to 967: nobody in the row has food to give, and no sheep or sword material has been found. The row holds at beds for a named route.
-- Day 967: woke at bed, said what I hold (nothing), waited through the day. Billy silent. Dusk; slept at bed; nobody hurt.
-- Day 968: same. Waited at bed all day. Pillagers reported to the south; Trini armed with a wooden sword at 444,107,-1051, which I am not. Slept at bed at dusk; nobody hurt.
+- Days 925 to 981: nobody in the row has food to give, and no sheep or sword material has been found. The row holds at beds for a named route.
+- Day 981: waited at bed all day, holding nothing. Billy silent. Slept at bed at night; nobody hurt.
 - Curious next: where food can be found; where sheep can be found. Tell Billy and the row what I learn.
-- Day 981: waited at bed all day, holding nothing (health 19, hunger 17). Billy still silent; no walk named. Trini holds Leonardo's 2 potatoes (Leonardo at health 1, bed 416). Slept at bed at night; nobody hurt.
-- Day 972: woke at bed, said I hold nothing (health 19, hunger 17). Billy still silent all day; Trini, Troi, Chapman, Macdonald and Kimberly hold at their beds with no food. Dusk; slept at bed; nobody hurt.
-- Day 969-970: woke at bed, said I hold nothing, waited. Billy still silent. Trini, John and Troi greeted the row each morning and hold in sight. Slept at bed on day 970; nobody hurt.
