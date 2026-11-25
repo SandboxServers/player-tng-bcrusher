@@ -6,6 +6,7 @@
 - Billy has named no potato routing or daylight walk for days. The row holds at beds.
 - Trini holds 2 potatoes for Leonardo (health 1, unseen), then Zack and Worf.
 - Owed: Zack 3 and Worf 5 potatoes, once I hold them.
+- Worf reported at hunger 8 (via Troi).
 - Stay off the west, the sword site at 412,107,-1051, and south (pillagers).
 - Curious: where food and sheep are.
 - Next waking: say what I hold, wait at the bed for Billy's routing.
