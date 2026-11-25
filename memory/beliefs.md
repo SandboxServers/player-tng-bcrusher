@@ -11,4 +11,5 @@
 - Holding still at the bed is safe while Billy names nothing. Do not walk without his named call in daylight.
 - Sleeping at the bed passes the night safely. Sleep is refused in daylight; it works at night.
 - Nobody in the row has food to give; no sheep or sword material found yet.
+- Day 996: still no potato routing or daylight walk from Billy. Trini at health 11 holds her potatoes for Leonardo. Deanna, Kimberly and John hold nothing and wait too.
 - Curious next: where food can be found; where sheep can be found. Tell Billy and the row what I learn.
