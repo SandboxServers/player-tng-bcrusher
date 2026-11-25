@@ -6,3 +6,4 @@
 - 15:48 act: say morning, holding at bed, waiting for Billy's potato routing.
 - Night of day 1014: slept at bed 443,107,-1037 in the row's sight. Heard Trini holds 2 potatoes for Leonardo (health 1, unseen). No route named.
 - Morning day 1015: woke at bed, still empty-handed, health 19, hunger 17. Waiting for Billy's routing and any named daylight walk. Trini's potatoes stay for Leonardo first.
+- 16:04 act: {"say":"Johnny, no food has come to me, and I hold nothing. Still at my bed 443,107,-1037, waiting on Billy's routing.","actions":[]}
