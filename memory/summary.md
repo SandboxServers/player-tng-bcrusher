@@ -9,3 +9,4 @@
 - Stay off the west: 412,107,-1051 and 418,-1053.
 - Each morning: say what I hold, wait at the bed for Billy's routing.
 - Curious next: where food and sheep are. Tell the row what I find.
+- Day 1101: slept at the bed, nothing new. Goals unchanged.
