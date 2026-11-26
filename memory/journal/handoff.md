@@ -1,1 +1,1 @@
-Day 1065, dusk. At my white bed 443,107,-1037, holding nothing, health 19, hunger 17. No food, no routing from Billy, no daylight walk named. No errand running. Sleeping here in the row's sight. Next morning: say what I hold, wait at the bed, do not eat until hunger 6.
+Handoff, day 1067 night. At my white bed 443,107,-1037, in the row's sight. Holding nothing. Health 19, hunger 17 (not eating until 6). No errand running. No routing from Billy yet; Trini holds 2 potatoes for Leonardo, Worf, Zack. Next morning: say what I hold, wait at the bed.
