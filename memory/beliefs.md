@@ -13,5 +13,6 @@
 - Dusk to night comes within a few waits.
 - Sleep is refused in daylight ("it is not night"), so wait for dusk before trying it.
 - Curious next: where food and sheep are. Tell the row what I find. Ask Billy for routing.
+- Day 1089 dusk: Sleep worked at my bed with Chapman and Kimberly near. Troi holds at 430 with no food. No routing from Billy yet.
 - Day 1086: still no routing from Billy and no walk named; the east wall stays closed. Leonardo has named his cell to Trini. Troi, Trini, Kimberly, MacDonald, Chapman, Lewis, Meriwether all hold at their beds with no food.
 - Day 1083: Trini still holds 2 potatoes and waits for Worf, who has not come into sight. Lewis, Johnny, John, Deanna and Meriwether all hold at their beds with no food.
