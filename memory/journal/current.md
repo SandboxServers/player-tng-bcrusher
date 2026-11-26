@@ -1,11 +1,3 @@
 # Journal
-- 16:59 act: said I hold nothing, waiting at bed for Billy's routing. Woke at white bed 443,107,-1037. Health 19, hunger 17.
-- Day 1090 morning: still at bed, holding nothing. Heard Trini say Worf is at 418 with hunger 5, west, which I stay off. No walk named by Billy. Waiting.
-- 17:13 act: {"actions":[{"do":"goto","target":{"x":443,"y":107,"z":-1037}}],"say":"Night is coming. I hold nothing, and I'm going to my bed in the row."}
-- 17:13 act: {"actions":[{"do":"use","at":{"x":443,"y":107,"z":-1037}}]}
-- Night 1090: at white bed 443,107,-1037, holding nothing, health 19, hunger 17. Kimberly thanked me for 4 potatoes, waiting at 444,-1021 for Billy. Slept in the row.
-- 17:18 act: {"say":"Morning, row. Beverly here, at my white bed 443,107,-1037. I hold nothing. Health 19, hunger 17. Waiting here for Billy's routing. No walk from me."}
-- 17:31 say: {"text":"Good morning, row. Beverly here, at my white bed. I hold nothing, and health and hunger are steady. Billy, I'm waiting here for your routing."}
-- Day 1091 morning: said I hold nothing, waiting at bed 443,107,-1037 for Billy. John and Deanna also holding, no food. Health 19, hunger 17. No walk.
-- 17:44 say: {"text":"Beverly here, at my white bed 443,107,-1037. Holding nothing. Health 19, hunger 17, not eating until 6. Sleeping in the row tonight; no walk."}
-- Night 1091: at white bed 443,107,-1037, in the row, holding nothing. Health 19, hunger 17. No walk, no food. Going to sleep.
+- 17:45 act: said I hold nothing, waiting at bed 443,107,-1037 for Billy's routing. Health 19, hunger 17. No walk.
+- Day 1092 morning: woke at bed, Meriwether said goodnight to the row. Nothing new named. Waiting.
