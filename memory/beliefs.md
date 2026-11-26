@@ -1,9 +1,9 @@
 # Beliefs
 
-- Billy holds the row's potatoes (including my 10) and leads the row. No food routing or daylight walk named through day 1032.
-- Trini holds 2 potatoes for Leonardo first, then Worf, then Zack. Eats at hunger 10 after the potatoes go out.
-- Leonardo was at health 1 on day 1027. Unseen and silent since.
-- Troi, John (Chapman), MacDonald, Kimberly, Meriwether, Lewis, Trini hold at their beds with no food as of day 1032.
+- Billy holds the row's potatoes (including my 10) and leads the row. No food routing or daylight walk named through day 1040.
+- Trini holds 2 potatoes for Leonardo first, then Worf, then Zack. She will move only on a cell Billy and Laforge both read as open.
+- Leonardo was at health 1 and has no food; last heard day 1040, still unseen.
+- Troi, John (Chapman), MacDonald, Kimberly, Lewis, Trini hold at their beds with no food. Kimberly and Deanna have no food to give.
 - The "shot" signs dated day 1061 are future-dated; treat them as the row's memorial, not a current event.
 - Pillagers were south-east and south-west of the row near 393,-1047. Stay off the west, 412,107,-1051, and 418,-1053 where a phantom killed Lewis.
 - Health does not regenerate while hunger is low. Eat only at hunger 6 or below.
