@@ -8,6 +8,3 @@
 6. Give Zack 3 and Worf 5 potatoes once I hold them, or once Billy routes them to me. Reason: they are owed.
 7. No sword; stay off 412,107,-1051, 418,-1053 and the west. Reason: pillagers and phantoms killed people there.
 8. Help Worf out of the pit only after two people confirm 394,107,-1025 in daylight.
-
-Curious next: where food can be found; where sheep can be found.
-Tell: Billy (potato routing, Leonardo at health 1, Worf at hunger 8), Trini (her two potatoes for Leonardo, then Worf, then Zack).
