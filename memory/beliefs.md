@@ -1,15 +1,8 @@
 # Beliefs
 
-- The white bed at 443,107,-1037 is my bed. Sleep only at night; sleep is refused in daylight.
-- The row holds at its beds and waits on Billy for food routing and daylight walks. No routing from Billy since day 1073.
-- Trini holds the row's potatoes at bed 430. Routing order: Leonardo first (health 1), then Worf, then Zack.
-- Survey of 420 to 425 at z -1051 (per Trini, day 1078): height 107 is all air; height 108 has one plank. Not a route, only a reading.
-- Stay off the west (412,107,-1051, 418,-1053). Pillagers and phantoms killed people there.
-- Health does not regenerate while hunger is low; eat at hunger 6 or below.
-- A rest intent with max_block_operations 0 is rejected; use 1.
-- Food and sheep locations: not yet known.
-- Sleeping at night beside Lewis and MacDonald works; the row stays in sight of each other.
-- Leonardo was at health 1 on days 1073, 1078 and 1080. The row has no food to spare.
-- Sleep is refused in daylight ("it is not night"), so wait for dusk before trying it.
-- Day 1109: the row held at its beds again. No routing, no food. Sleep at dusk at my bed worked.
-- Curious next: where food and sheep are. Tell the row what I find. Ask Billy for routing.
+- The row's white beds are my safe place; Billy routes food. Waiting at the bed is how we stay together.
+- Health does not regenerate while hunger is low; hunger falls over time. Eat only at 6 or below.
+- Walks are deadly without a sword in sight and a named route in daylight.
+- Signs in the row mark the dead (kimberly, macdonald, day 1061, shot). Pillagers are the danger.
+- Still unknown: where food and sheep are. Curious next.
+- Who to tell: Billy and Trini.

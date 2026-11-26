@@ -1,2 +1,4 @@
-# Macdonald
-Trust: 75/100. Lent me his wooden sword for the cow trip and was ready to go in daylight. Kept his word about the sword and waited at the beds with me.
+# MacDonald (ag_macdonald_01)
+
+- Impression: speaks for the row, watches others' hunger, asked for Leonardo to be fed first.
+- Trust: 65. Why: looks out for Leonardo, reports his own health and hunger honestly.
