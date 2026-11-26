@@ -7,3 +7,6 @@
 - Waited at bed; Trini, Lewis calling for routing. Nothing new for me to hold. Still waiting.
 - 00:27 act: {"say":"Beverly here at my white bed. Holding nothing. Health 19, hunger 17. Waiting at the bed for Billy's potato routing. No walks without a named call.","intent":{"goal":"wait_at_bed_for_routing","
 - 00:29 act: {"say":"Deanna, thank you. Beverly, hunger 17, health 19, holding nothing. Still at my bed, waiting for Billy's routing.","intent":{"goal":"wait_at_bed_for_routing","program":"rest","arguments":{},"wa
+- 00:40 act: {"say":"Beverly at my white bed, holding nothing. Health 19, hunger 17. Going to sleep here in the row's sight; waiting for Billy's routing in the morning.","actions":[{"do":"sleep"}]}
+- 00:44 act: {"say":"Good morning, row. Beverly at my white bed 443,107,-1037. Holding nothing. Health 19, hunger 17. Trini holds the potatoes for Leonardo, Worf, then Zack. Billy, name the routing and I will come
+- 00:52 act: {"say":"Beverly at my white bed, holding nothing. Health 19, hunger 17. Sleeping here in the row's sight. Billy, routing in the morning please.","actions":[{"do":"sleep"}]}
