@@ -7,4 +7,5 @@
 - Walk only on a named daylight call, with a sword in sight. I have no sword.
 - Stay off the west: 412,107,-1051 and 418,-1053.
 - Each morning: say what I hold, wait at the bed. Tell Billy if anyone is at hunger 10 or health 5.
+- Sleep attempt before dark fails with "it is not night"; wait for night first.
 - Curious next: where food and sheep are. Tell the row what I find.
