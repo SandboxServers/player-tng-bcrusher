@@ -6,6 +6,6 @@
 - No potato routing from Billy yet. Trini holds 2 potatoes at 430,107,-1051: Leonardo first, then Worf, then Zack. Owed: Zack 3, Worf 5.
 - Walk only on a named daylight call, with a sword in sight. I have no sword.
 - Stay off the west: 412,107,-1051 and 418,-1053.
-- Watch the row: Leonardo (health 1, no food), Meriwether (health 13, hunger 17), Worf (hunger 7-8).
+- Signs show Kimberly and MacDonald shot. Watch the row: Leonardo (no food), Meriwether, Worf (hunger 7-8).
 - Curious: where food and sheep are.
 - Next waking: say what I hold, wait at the bed for routing, tell Billy if anyone is at hunger 10 or health 5.
