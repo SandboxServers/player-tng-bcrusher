@@ -8,3 +8,4 @@
 - A rest intent with max_block_operations 0 is rejected; use 1.
 - Food and sheep locations: not yet known.
 - Curious next: where food and sheep are. Tell the row what I find. Ask Billy for routing.
+- Day 1072: sleeping at night beside Lewis and MacDonald works; the row stays in sight of each other.
