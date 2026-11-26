@@ -10,3 +10,8 @@
 - 00:40 act: {"say":"Beverly at my white bed, holding nothing. Health 19, hunger 17. Going to sleep here in the row's sight; waiting for Billy's routing in the morning.","actions":[{"do":"sleep"}]}
 - 00:44 act: {"say":"Good morning, row. Beverly at my white bed 443,107,-1037. Holding nothing. Health 19, hunger 17. Trini holds the potatoes for Leonardo, Worf, then Zack. Billy, name the routing and I will come
 - 00:52 act: {"say":"Beverly at my white bed, holding nothing. Health 19, hunger 17. Sleeping here in the row's sight. Billy, routing in the morning please.","actions":[{"do":"sleep"}]}
+- 00:56 act: {"say":"Beverly here at my bed, morning. Hunger 17, health 19, holding nothing. Lewis, Troi, Kimberly: I hear you. Billy, the row waits on your routing."}
+- 01:04 act: {"say":"Beverly at my white bed, holding nothing, hunger 17. Sleeping here in the row's sight. Billy, routing in the morning please.","actions":[{"do":"sleep"}]}
+- 01:09 act: {"say":"Morning, row. Beverly at my white bed 443,107,-1037. Holding nothing. Health 19, hunger 17. Waiting for Billy's potato routing. No walk without a named daylight call."}
+- 01:17 act: {"say":"Beverly at my white bed, holding nothing, hunger 17, health 19. Sleeping here in the row's sight. Billy, routing in the morning please.","actions":[{"do":"sleep"}]}
+- 01:21 act: {"say":"Night in the row. Beverly at my white bed, holding nothing, hunger 17. Sleeping here in your sight. Billy, routing in the morning please.","actions":[{"do":"sleep"}]}
