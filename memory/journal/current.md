@@ -4,3 +4,4 @@
 - 17:13 act: {"actions":[{"do":"goto","target":{"x":443,"y":107,"z":-1037}}],"say":"Night is coming. I hold nothing, and I'm going to my bed in the row."}
 - 17:13 act: {"actions":[{"do":"use","at":{"x":443,"y":107,"z":-1037}}]}
 - Night 1090: at white bed 443,107,-1037, holding nothing, health 19, hunger 17. Kimberly thanked me for 4 potatoes, waiting at 444,-1021 for Billy. Slept in the row.
+- 17:18 act: {"say":"Morning, row. Beverly here, at my white bed 443,107,-1037. I hold nothing. Health 19, hunger 17. Waiting here for Billy's routing. No walk from me."}
