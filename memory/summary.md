@@ -4,7 +4,7 @@
 - Home: white bed 443,107,-1037 in Billy's row. Sleep there at night, in the row's sight.
 - Holding nothing. Health 19, hunger 17. Eat only at hunger 6 or below.
 - Trini holds 2 potatoes at 430,107,-1051: Worf first, then Leonardo, then Zack. Owed: Zack 3, Worf 5.
-- The row is empty of food. Lewis, MacDonald and others wait on Billy for routing or a daylight walk.
+- The row is empty of food. Billy has not routed anyone yet. Kimberly's sword is lost at 421,107,-1047.
 - Walk only on a named daylight call, with a sword in sight. I have no sword.
 - Stay off the west: 412,107,-1051 and 418,-1053.
 - Each morning: say what I hold, wait at the bed. Tell Billy if anyone is at hunger 10 or health 5.
