@@ -1,7 +1,7 @@
 # Beliefs
 
 - The white bed at 443,107,-1037 is my bed. Sleep only at night; sleep is refused in daylight.
-- The row holds at its beds and waits on Billy for food routing and daylight walks. No routing from Billy since day 1073 (days 1073 to 1083).
+- The row holds at its beds and waits on Billy for food routing and daylight walks. No routing from Billy since day 1073.
 - Trini holds the row's potatoes at bed 430. Routing order: Leonardo first (health 1), then Worf, then Zack.
 - Survey of 420 to 425 at z -1051 (per Trini, day 1078): height 107 is all air; height 108 has one plank. Not a route, only a reading.
 - Stay off the west (412,107,-1051, 418,-1053). Pillagers and phantoms killed people there.
@@ -10,9 +10,6 @@
 - Food and sheep locations: not yet known.
 - Sleeping at night beside Lewis and MacDonald works; the row stays in sight of each other.
 - Leonardo was at health 1 on days 1073, 1078 and 1080. The row has no food to spare.
-- Dusk to night comes within a few waits.
 - Sleep is refused in daylight ("it is not night"), so wait for dusk before trying it.
+- Day 1093: the whole row holds at its beds with no food, no sword, no routing. Trini still holds 2 potatoes at 430. Kimberly owes me food when found.
 - Curious next: where food and sheep are. Tell the row what I find. Ask Billy for routing.
-- Day 1089 dusk: Sleep worked at my bed with Chapman and Kimberly near. Troi holds at 430 with no food. No routing from Billy yet.
-- Day 1086: still no routing from Billy and no walk named; the east wall stays closed. Leonardo has named his cell to Trini. Troi, Trini, Kimberly, MacDonald, Chapman, Lewis, Meriwether all hold at their beds with no food.
-- Day 1083: Trini still holds 2 potatoes and waits for Worf, who has not come into sight. Lewis, Johnny, John, Deanna and Meriwether all hold at their beds with no food.
