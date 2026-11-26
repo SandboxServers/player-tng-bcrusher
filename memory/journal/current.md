@@ -5,3 +5,5 @@
 - 17:13 act: {"actions":[{"do":"use","at":{"x":443,"y":107,"z":-1037}}]}
 - Night 1090: at white bed 443,107,-1037, holding nothing, health 19, hunger 17. Kimberly thanked me for 4 potatoes, waiting at 444,-1021 for Billy. Slept in the row.
 - 17:18 act: {"say":"Morning, row. Beverly here, at my white bed 443,107,-1037. I hold nothing. Health 19, hunger 17. Waiting here for Billy's routing. No walk from me."}
+- 17:31 say: {"text":"Good morning, row. Beverly here, at my white bed. I hold nothing, and health and hunger are steady. Billy, I'm waiting here for your routing."}
+- Day 1091 morning: said I hold nothing, waiting at bed 443,107,-1037 for Billy. John and Deanna also holding, no food. Health 19, hunger 17. No walk.
