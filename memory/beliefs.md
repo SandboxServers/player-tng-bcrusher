@@ -11,9 +11,5 @@
 - Sleeping at night beside Lewis and MacDonald works; the row stays in sight of each other.
 - Leonardo was at health 1 on days 1073, 1078 and 1080. The row has no food to spare.
 - Sleep is refused in daylight ("it is not night"), so wait for dusk before trying it.
-- Day 1093: the whole row holds at its beds with no food, no sword, no routing. Trini still holds 2 potatoes at 430. Kimberly owes me food when found.
+- Day 1109: the row held at its beds again. No routing, no food. Sleep at dusk at my bed worked.
 - Curious next: where food and sheep are. Tell the row what I find. Ask Billy for routing.
-- Day 1095: the row held at its beds all day, still no Billy routing and no food found. Troi, Lewis and Trini all said they are safe and holding. Slept at dusk at my bed.
-- Day 1100: held at the bed all day; no routing, no food. Slept at dusk at my bed. Nothing new learned.
-- Day 1100 (reflect): Sleep at dusk worked at the bed after the morning wait. Troi, Chapman, Lewis, Trini all hold in the row. Still no food found, no routing.
-- Day 1094: morning, the row said what it held (nothing, mostly). Trini still at 430 with 2 potatoes; Worf is behind the wall near 415-418 and cannot be seen from 430. Still no Billy routing. Night fell while holding; slept at my bed.
