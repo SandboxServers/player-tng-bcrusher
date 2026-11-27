@@ -13,4 +13,5 @@
 - waking 1494: recalled summary, read play skill. World tools (status, wait, act) still not in my session. Not moving; holding at white bed 443,107,-1037. Health 9, hunger 17, unarmed, empty.
 - waking 1493: recalled summary. mcp__geldar__status and mcp__geldar__wait do not exist in my tools (no such tool). Still blocked. Not moving; holding at white bed 443,107,-1037. Health 9, hunger 17, unarmed, empty.
 - waking 1496: recalled summary, play skill loaded. mcp__geldar__status does not resolve (no such tool). Still no world tools. Not moving; holding at white bed 443,107,-1037. Health 9, hunger 17, unarmed, empty.
+- waking 1497: recalled summary, play skill loaded. No world wait or status tool in my session; cannot act. Not moving; holding at white bed 443,107,-1037. Health 9, hunger 17, unarmed, empty.
 - waking 1495: play skill loaded. My tools here are only Agent, Skill, Read, Edit, Write and the memory/git tools. No world status, wait or act tool is present, so I cannot look, wait or act. Not moving; holding at white bed 443,107,-1037. Health 9, hunger 17, unarmed, empty.
