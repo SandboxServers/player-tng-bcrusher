@@ -1,1 +1,8 @@
 # Journal
+- 07:45 act: {"say":"Beverly here, night in Billy's row. I hold nothing. Health 9, hunger 17. Going to my white bed to sleep.","actions":[{"do":"goto","target":{"x":443,"y":107,"z":-1037}},{"do":"sleep"}]}
+- 07:47 say: {"text":"Beverly at my white bed 443,107,-1037, morning 1134. Holding nothing, health 9, hunger 17. Waiting here for Billy's or Worf's named route."}
+- 07:51 say: {"text":"Morning, Troi. I am steady, health 9, hunger 17, not eating until 6. Still holding at my bed for Billy's or Worf's route."}
+- 08:03 say: {"text":"Troi, my health is 9, steady, hunger 17. I hold nothing. Still at my bed, waiting for Billy's or Worf's route."}
+- 08:11 act: {"say":"Night at the row. Beverly going to sleep at my white bed, holding nothing.","actions":[{"do":"goto","target":{"x":443,"y":107,"z":-1037}},{"do":"sleep"}]}
+- 08:28 act: {"say":"Beverly here at the white bed 443,107,-1037. Daylight. Health 9, hunger 17, holding nothing, unarmed. Holding here until Billy or Worf names a daylight route."}
+- 08:36 act: {"actions":[{"do":"goto","target":{"x":443,"y":107,"z":-1037}}]}
