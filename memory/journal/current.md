@@ -1,5 +1,6 @@
 # Journal
 - 14:16 act: said what I hold at white bed 443,107,-1037; sent sleep. Sleep reported worked twice but it is still night and days_since_sleep is 0. Holding nothing, health 9, hunger 17 (not eating). Waiting for Billy's or Worf's daylight route. Nothing half-done.
+- waking: tried worker errand for status and wait. Worker failed to spawn: no tools resolved (mcp__geldar__* missing). Still no world tools. Not moving. Holding at white bed 443,107,-1037; health 9, hunger 17, unarmed, empty.
 - 14:20 act: {"say":"Troi, Beverly here at the white bed. Health 9, hunger 17, holding nothing, unarmed. Waiting at the bed for Billy's or Worf's daylight route.","actions":[]}
 - 14:32 act: {"say":"Goodnight, row. Beverly holding at the white bed, health 9, hunger 17, unarmed and empty.","actions":[{"do":"sleep"}]}
 - 14:41 act: {"say":"Beverly, morning, at the white bed in Billy's row. Holding nothing, unarmed, health 9, hunger 17. Waiting for a named daylight route from Billy or Worf.","actions":[]}
