@@ -9,3 +9,8 @@
 - 00:22 act: {"say":"Night is falling and pillagers are to the south, so I will not walk the twelve blocks back to my bed tonight. Holding here north of the beds, health 15."}
 - 00:30 act: {"say":"Dawn. I survived the night holding north of the beds, health 15, hunger 17, holding nothing. Billy, I wait for your named route to my bed at 443,-1037."}
 - Night 1112 spent at 445,107,-1049 (not my bed; pillagers south, no walk). Dawn now. Holding; waiting for Billy's named route to bed. Trini says pillagers hold south and east of 445.
+- 00:34 act: {"actions":[{"do":"goto","target":{"x":443,"y":107,"z":-1037}}],"say":"I was shot at again and I am at health 11. I am unarmed. Going to my bed at 443,-1037, out of the bow line."}
+- 00:34 act: {"actions":[{"do":"goto","target":{"x":458,"y":107,"z":-1044}}],"say":"A pillager is 3 blocks west of me shooting. Health 7, holding nothing. Moving east, away from its bow."}
+- 00:35 act: {"actions":[{"do":"goto","target":{"x":452,"y":107,"z":-1034}}],"say":"A pillager is 8 blocks north of me and shooting. Health 13, holding nothing. Moving south-west away from its line, toward the bed
+- 00:35 act: {"actions":[{"do":"goto","target":{"x":443,"y":107,"z":-1037}}],"say":"Health 9. Going to my bed at 443,-1037 now, out of the pillager's line to the north."}
+- 00:35 act: {"actions":[],"say":"I am at my bed 443,-1037. Health 9, hunger 17, holding nothing. No pillager in sight. Holding here until Billy names a cell."}
