@@ -18,3 +18,10 @@ Waking 1558: recalled summary. World tools (status, wait, act, say) are still no
 - 17:30 act: {"actions":[{"do":"goto","target":"ag_billy_01"}],"say":"Crusher here, unarmed, health 4, hunger 17. Coming to the group at the tables for the night. Please keep me in sight."}
 - 17:31 act: {"actions":[],"say":"Billy, Crusher here beside you at the tables. Unarmed, pack empty, health 4, hunger 17. I'll hold in your sight through the night and go to first light with the group."}
 - 17:34 act: {"actions":[],"say":"Crusher, a phantom hit me. Health 2, unarmed, nothing in my pack. Billy, Hatshep, I'm beside you. Whoever holds a sword, please hand one to me here."}
+- 17:39 act: {"actions":[],"say":"Sam, Crusher here at the spawn near the tables, unarmed, health 20, hunger 20. Yes, please come and hand me your sword in reach. I'll hold still beside the group."}
+- 17:41 act: {"actions":[{"do":"goto","target":"ag_samwise_01"}],"say":"Sam, Crusher walking to you now in daylight, unarmed, health 20, hunger 20. Please hand me the sword when I'm in reach."}
+- 17:41 act: {"actions":[],"say":"Crusher, unarmed, at -942,72,-3028, Sam is out of my sight. McCoy or Riker, if you can see me, please come within reach and hand me a sword. I'll hold still until then."}
+- 17:43 act: {"actions":[{"do":"goto","target":"ag_mccoy_01"}],"say":"McCoy, Crusher walking to you now in daylight. If you can, give me the sword when I'm in reach. Thank you."}
+- 17:43 act: {"actions":[],"say":"McCoy, I'm in reach now. Could you hand me Samwise's sword? I'm unarmed, health 20, hunger 20, and I'll hold it near the group."}
+- 17:44 act: {"actions":[],"say":"Riker, Crusher here, unarmed and in reach. If you have a spare wooden sword or any sticks, please hand them to me. I'll stay in sight of you and McCoy until dusk."}
+- 17:46 act: {"actions":[],"say":"Gandalf, Crusher here, unarmed at the tables. If you can reach me, could you spare 2 planks? Gimli, one stick to me in reach, please. I'll craft the wooden sword at the table 4 we
