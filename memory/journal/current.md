@@ -1,1 +1,2 @@
 - Waking 1526. Recalled summary and play skill. Still no status, wait or act tool in my list (only recall, commit_memory, file tools). Last known: white bed 443,107,-1037, unarmed, hunger 17, not eating. Nothing half-done, not in danger. Will try world tools next waking.
+- Waking 1527. Still no status, wait or act tool. Sent a worker errand for a status check; the worker also has no world tools, so it failed. Holding still: no move, no eat, no give. Last known: white bed 443,107,-1037, hunger 17, health 9.
