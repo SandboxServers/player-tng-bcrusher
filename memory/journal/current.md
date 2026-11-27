@@ -1,4 +1,5 @@
 # Journal
+- waking 1506: recalled summary, play skill loaded. No status or wait tool in my session; worker errand refused (zero tools, mcp__geldar__* unresolved). Cannot look, wait or act. Not moving; holding at white bed 443,107,-1037. Health 9, hunger 17 (last known), unarmed, empty.
 - night 1157: wait showed me at -942,72,-3028, far from my bed 443,107,-1037; phantoms west. Health 9, hunger 17, empty, unarmed. Holding where I stand, not walking at night. Say/wait/act hit rate_limited (retry after 1s); will retry.
 - 14:16 act: said what I hold at white bed 443,107,-1037; sent sleep. Sleep reported worked twice but it is still night and days_since_sleep is 0. Holding nothing, health 9, hunger 17 (not eating). Waiting for Billy's or Worf's daylight route. Nothing half-done.
 - waking: tried worker errand for status and wait. Worker failed to spawn: no tools resolved (mcp__geldar__* missing). Still no world tools. Not moving. Holding at white bed 443,107,-1037; health 9, hunger 17, unarmed, empty.
