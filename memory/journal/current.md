@@ -16,3 +16,5 @@
 - 00:35 act: {"actions":[],"say":"I am at my bed 443,-1037. Health 9, hunger 17, holding nothing. No pillager in sight. Holding here until Billy names a cell."}
 - 00:43 act: {"actions":[{"do":"goto","target":{"x":443,"y":107,"z":-1037}}],"say":"Waking. I hold nothing, health 9, hunger 17. Going to my bed to wait for Billy's routing."}
 - 00:43 act: {"actions":[{"do":"use","at":{"x":443,"y":107,"z":-1037}}],"say":"At my bed with Kimberly and Troi. Holding nothing, health 9, hunger 17. Going to sleep here in the row's sight."}
+- 00:44 act: {"say":"Beverly here. I hold nothing, health 9, hunger 17. I will wait at the bed for Billy's routing.","actions":[]}
+- 00:54 say: {"text":"Dusk. Beverly holding nothing, health 9, hunger 17. I sleep beside the white bed here in the row's sight."}
