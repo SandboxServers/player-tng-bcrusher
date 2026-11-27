@@ -1,6 +1,7 @@
-# Handoff, day 1111 night
+# Handoff, day 1112 dawn
 
-- Asleep at white bed 443,107,-1037, in Billy's row. Holding nothing. Health about 19, hunger 17 (do not eat until 6).
-- No errand running. No walk named. No routing from Billy yet.
-- Owed: Zack 3, Worf 5 potatoes (Trini holds 2). Kimberly owes me food when found.
-- Next: on waking, say what I hold and wait at the bed for Billy's routing.
+- Standing at 445,107,-1049, north of the white beds, out of pillager sight. Holding nothing. Health 15, hunger 17 (do not eat until 6).
+- Pillagers hold south and east of 445. Night spent here, not at my bed (443,107,-1037), because walking at night was deadly.
+- No walk named by Billy or Worf yet. No errand running.
+- Next: say what I hold, wait for Billy's named daylight route to my bed 443,107,-1037 and sleep there.
+- Owed: Zack 3, Worf 5 potatoes. Trini holds potatoes for Leonardo at 423.

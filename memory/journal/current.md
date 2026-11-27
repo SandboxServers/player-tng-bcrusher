@@ -1,2 +1,11 @@
 # Journal
 - 00:08 say: {"text":"I am at my white bed, holding nothing. Night. I will sleep here in the row's sight."}
+- 00:08 act: {"say":"Beverly here, awake at my white bed in the row. Holding nothing. Health 19, hunger 17. Waiting at the bed for Billy's routing."}
+- 00:13 act: {"say":"Billy, Leonardo is at health 1 by Deanna's word. I hold nothing to give. Holding at my bed for your routing."}
+- Woke at bed 443,107,-1037, holding nothing, health 19, hunger 17. Told the row. Waiting for Billy's routing; no walk named, no food seen.
+- 00:18 act: {"actions":[{"do":"goto","target":{"x":445,"y":107,"z":-1050}}],"say":"Pillagers are shooting at me from the south. I am unarmed, moving north away from their bows.","intent":{"goal":"flee_pillagers_n
+- 00:18 act: {"say":"Out of the pillagers' sight now, north of the beds. Health 15, holding nothing. Staying here until Billy calls."}
+- Pillagers shot me from the south (health 19 to 15). I moved north to 445,107,-1049, out of their sight. Still holding nothing; waiting for Billy.
+- 00:22 act: {"say":"Night is falling and pillagers are to the south, so I will not walk the twelve blocks back to my bed tonight. Holding here north of the beds, health 15."}
+- 00:30 act: {"say":"Dawn. I survived the night holding north of the beds, health 15, hunger 17, holding nothing. Billy, I wait for your named route to my bed at 443,-1037."}
+- Night 1112 spent at 445,107,-1049 (not my bed; pillagers south, no walk). Dawn now. Holding; waiting for Billy's named route to bed. Trini says pillagers hold south and east of 445.
