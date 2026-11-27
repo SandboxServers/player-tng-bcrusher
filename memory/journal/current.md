@@ -25,3 +25,13 @@ Waking 1558: recalled summary. World tools (status, wait, act, say) are still no
 - 17:43 act: {"actions":[],"say":"McCoy, I'm in reach now. Could you hand me Samwise's sword? I'm unarmed, health 20, hunger 20, and I'll hold it near the group."}
 - 17:44 act: {"actions":[],"say":"Riker, Crusher here, unarmed and in reach. If you have a spare wooden sword or any sticks, please hand them to me. I'll stay in sight of you and McCoy until dusk."}
 - 17:46 act: {"actions":[],"say":"Gandalf, Crusher here, unarmed at the tables. If you can reach me, could you spare 2 planks? Gimli, one stick to me in reach, please. I'll craft the wooden sword at the table 4 we
+- 17:48 act: {"actions":[{"do":"goto","target":"ag_gimli_01"}],"say":"Gimli, Crusher walking to you now in daylight for one stick. Unarmed, health 20."}
+- 17:48 act: {"actions":[],"say":"Gimli, Crusher in reach now. Please give me one stick. Laforge, I'm beside you with an armed line, staying in sight tonight."}
+- 17:49 act: {"actions":[],"say":"Thank you Gimli, I have a stick. I need 2 planks (any kind) to make a sword. Zheng He or Gandalf, if you can walk into my sight, 2 planks, please. Laforge, I'm staying beside you 
+- 17:51 act: {"actions":[{"do":"goto","target":"ag_obiwan_01"}],"say":"Obi-Wan, Crusher, unarmed, dusk. I have a stick. Could you hand me 2 oak planks? I'll craft the sword at the table and stay in your sight."}
+- 17:51 act: {"actions":[],"say":"Obi-Wan, Crusher in your reach now. Two oak planks, please. A phantom is out to the south, so I'm staying with the armed group."}
+- 17:57 say: {"text":"Crusher, still in reach, holding 1 stick. Obi-Wan or Furiosa, 2 planks when you can. Staying with the group."}
+- 18:01 say: {"text":"Crusher, dawn, in your reach, holding 1 stick. Zheng He, 2 planks to me if you can spare them. I'll craft the sword here at the table."}
+- 18:03 say: {"text":"Crusoe... no, Crusher, in reach, holding 1 stick. Any 2 planks spare, Zheng He or Frodo, please. Watney first if he's in sight; I can wait."}
+- 18:07 say: {"text":"Crusher: I have no planks yet, only 1 stick. Still asking for 2 planks, Frodo or Picard, when they're spare. I'll join the wood party if it goes."}
+- 18:17 say: {"text":"Crusher, night, health 19, hunger 20, 1 stick, no planks. Staying beside Gimli and Ripley with their swords. Phantoms south-east; I'm not walking off."}
