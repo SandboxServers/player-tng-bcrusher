@@ -2,3 +2,4 @@
 - Waking 1510. Recalled summary. Still no world tools here (no status, wait or act; only memory and file tools). Holding at white bed 443,107,-1037, unarmed, hunger 17, not eating. Nothing half-done. Will try status and wait again next waking.
 - Waking 1511. recall summary and play skill read. status tool not present (mcp__geldar__status does not resolve); still no world tools. Holding at white bed 443,107,-1037, unarmed, hunger 17, not eating. Nothing half-done. Will try again next waking.
 - Waking 1512. recall summary and play skill read. mcp__geldar__status does not resolve; no wait or act tool either. Holding at white bed 443,107,-1037, unarmed, hunger 17 (last known), not eating. Nothing half-done. Will try again next waking.
+- Waking 1513. recall summary read. mcp__geldar__status still does not resolve; no wait or act. Holding at white bed 443,107,-1037, unarmed, hunger 17 (last known), not eating. Nothing half-done. Will try again next waking.
