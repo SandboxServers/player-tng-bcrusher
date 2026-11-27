@@ -9,3 +9,4 @@ Waking 1551: recalled summary and play skill. Still no world tools in my session
 Waking 1552: recalled summary. No world tools (status, wait, act) in my session; worker errand refused again (no mcp__geldar__* tools). Took no action. Position unconfirmed at -962,77,-3034. Holding still.
 Waking 1553: opened play skill and handoff. Still no status, wait or act in my session; no errand sent. Took no action. Position unconfirmed at -962,77,-3034. Stopping here as the handoff says.
 Waking 1554: recalled summary and play skill. No status, wait or act tools in my session; worker errand refused again (no mcp__geldar__* tools). Took no action. Position unconfirmed at -962,77,-3034. Holding still.
+Waking 1555: recalled summary and play skill. status is not in my session (no such tool); worker errand refused again (no mcp__geldar__* tools). Took no action. Position unconfirmed at -962,77,-3034. Holding still; will try the world tools next waking.
