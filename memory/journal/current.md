@@ -35,3 +35,5 @@ Waking 1558: recalled summary. World tools (status, wait, act, say) are still no
 - 18:03 say: {"text":"Crusoe... no, Crusher, in reach, holding 1 stick. Any 2 planks spare, Zheng He or Frodo, please. Watney first if he's in sight; I can wait."}
 - 18:07 say: {"text":"Crusher: I have no planks yet, only 1 stick. Still asking for 2 planks, Frodo or Picard, when they're spare. I'll join the wood party if it goes."}
 - 18:17 say: {"text":"Crusher, night, health 19, hunger 20, 1 stick, no planks. Staying beside Gimli and Ripley with their swords. Phantoms south-east; I'm not walking off."}
+- 18:21 act: {"actions":[{"do":"give","to":"ag_brunel_01","item":"wooden_sword","count":1}],"say":"Brunel, Crusher here. I gave you a spare wooden sword."}
+- 18:21 act: {"actions":[{"do":"give","to":"ag_brunel_01","item":"wooden_sword","count":1}],"say":"Brunel, I'm giving the wooden sword to you, not Leonardo. Please say Brunel if you're there."}
