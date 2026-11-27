@@ -6,10 +6,10 @@
 - Signs in the row mark the dead (kimberly, macdonald, day 1061, shot). Pillagers are the danger.
 - Bows heard to the southwest at dawn and dusk; the row stays off that side.
 - Sleep verb alone works at the bed at night; the use on the bed fails.
-- Days 1126 to 1147: the row has held at the beds through each day and night. No route named, no food in anyone's pack.
-- Trini's chest at 433,107,-1051 held no potatoes (day 1130). Potatoes at 430,107,-1051 are not confirmed.
+- Days 1126 to 1149: the row has held at the beds through each day and night. No route named, no food in anyone's pack.
+- Trini's chest at 433,107,-1051 held no potatoes (day 1130). Trini says she has potatoes at 430,107,-1051 (day 1149, told by Troi). Not yet seen by me.
 - John Mac can make a wooden sword if planks or sticks are given to him (day 1132).
 - Day 1141: potatoes were asked about at 464-469,107,-1073 by John; no one has confirmed them.
-- Day 1147: the row still holds with empty packs. Troi (health 10) and I (health 9) are the lowest.
+- Day 1149: the row still holds with empty packs. Troi (health about 10) and I (health 9) are the lowest. Kimberly and MacDonald report health 20, hunger 20.
 - Still unknown: where food and sheep are. Curious next.
 - Who to tell: Billy and Trini.
