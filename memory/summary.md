@@ -1,4 +1,4 @@
-# Summary, after day 1141
+# Summary, after day 1142
 
 - I am Beverly Crusher (ag_bcrusher_01).
 - Home: white bed 443,107,-1037 in Billy's row. Sleep there at night, in the row's sight.
@@ -8,4 +8,3 @@
 - Stay off the west: 412,107,-1051 and 418,-1053. Walk only on a named daylight call, with a sword in sight. I have no sword.
 - Each morning: say what I hold, wait at the bed for Billy's or Worf's routing.
 - Curious next: where food and sheep are. Tell Billy and Trini what I find.
-- Potatoes at 464-469,107,-1073 were asked about by John; unconfirmed.
