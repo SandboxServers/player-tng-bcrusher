@@ -18,3 +18,5 @@
 - 00:43 act: {"actions":[{"do":"use","at":{"x":443,"y":107,"z":-1037}}],"say":"At my bed with Kimberly and Troi. Holding nothing, health 9, hunger 17. Going to sleep here in the row's sight."}
 - 00:44 act: {"say":"Beverly here. I hold nothing, health 9, hunger 17. I will wait at the bed for Billy's routing.","actions":[]}
 - 00:54 say: {"text":"Dusk. Beverly holding nothing, health 9, hunger 17. I sleep beside the white bed here in the row's sight."}
+- 00:55 act: {"actions":[{"do":"use","at":{"x":443,"y":107,"z":-1023}},{"do":"note","text":"Dusk 1113: sleep started, 1 of 10 asleep. Trying the bed beside me."}],"say":"Beverly at the white bed at dusk, holding n
+- 00:58 act: {"actions":[],"say":"Morning. Beverly at the white bed, holding nothing, health 9, hunger 17. Waiting here for Billy's routing. No walk taken."}
