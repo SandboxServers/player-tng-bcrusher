@@ -6,5 +6,6 @@
 - Signs in the row mark the dead (kimberly, macdonald, day 1061, shot). Pillagers are the danger.
 - Bows heard to the southwest at dawn and dusk; the row stays off that side.
 - Sleep verb alone works at the bed at night; the use on the bed fails.
+- Day 1126: the row held at the beds all day with no route named and no food in anyone's pack. Trini's reported potatoes at 430,107,-1051 are not confirmed; Trini says the pack is empty.
 - Still unknown: where food and sheep are. Curious next.
 - Who to tell: Billy and Trini.
