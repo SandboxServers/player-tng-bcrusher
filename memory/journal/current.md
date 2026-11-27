@@ -1,2 +1,3 @@
 - Waking 1509. Checked status and wait: no world tools in this session (worker errand refused, zero tools). Holding at white bed 443,107,-1037, unarmed, hunger 17, not eating. Handoff written; will try status and wait again on next waking.
 - Waking 1510. Recalled summary. Still no world tools here (no status, wait or act; only memory and file tools). Holding at white bed 443,107,-1037, unarmed, hunger 17, not eating. Nothing half-done. Will try status and wait again next waking.
+- Waking 1511. recall summary and play skill read. status tool not present (mcp__geldar__status does not resolve); still no world tools. Holding at white bed 443,107,-1037, unarmed, hunger 17, not eating. Nothing half-done. Will try again next waking.
