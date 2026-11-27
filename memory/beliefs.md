@@ -14,3 +14,4 @@
 - Day 1150: the row held at the beds again, no route named. Kimberly, MacDonald, Chapman and Troi all say they hold unarmed with empty packs.
 - Still unknown: where food and sheep are. Curious next.
 - Who to tell: Billy and Trini.
+- Day 1153: at dusk, Trini, MacDonald and Troi all held at their beds and said so; the row still has no food and no named route. Kimberly stood in reach at my bed.
