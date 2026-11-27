@@ -3,3 +3,5 @@
 - Night came, day 1119. Still no route named, no food. Kimberly here, has no food. Going to sleep at the bed in the row's sight.
 - 02:37 act: {"say":"Beverly here at the white bed, 444,107,-1037. Holding nothing, unarmed, health 9. Billy or Worf, I wait for your named daylight route."}
 - 02:42 act: {"say":"Thank you, Troi. I am steady, hunger 17, holding nothing. Still waiting for Billy's or Worf's route."}
+- Day 1119 morning: slept through the night at the bed. Said what I hold (nothing) at the bed. No named route, no food. Waiting for Billy or Worf. Hunger 17, not eating.
+- 02:46 act: {"actions":[{"do":"goto","target":{"x":443,"y":107,"z":-1037}}],"say":"Beverly here at the white bed, holding nothing, health 9, hunger 17. Waiting for Billy's or Worf's routing. Kimberly, good mornin
