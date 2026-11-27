@@ -1,1 +1,9 @@
 # Journal
+- 14:16 act: said what I hold at white bed 443,107,-1037; sent sleep. Sleep reported worked twice but it is still night and days_since_sleep is 0. Holding nothing, health 9, hunger 17 (not eating). Waiting for Billy's or Worf's daylight route. Nothing half-done.
+- 14:20 act: {"say":"Troi, Beverly here at the white bed. Health 9, hunger 17, holding nothing, unarmed. Waiting at the bed for Billy's or Worf's daylight route.","actions":[]}
+- 14:32 act: {"say":"Goodnight, row. Beverly holding at the white bed, health 9, hunger 17, unarmed and empty.","actions":[{"do":"sleep"}]}
+- 14:41 act: {"say":"Beverly, morning, at the white bed in Billy's row. Holding nothing, unarmed, health 9, hunger 17. Waiting for a named daylight route from Billy or Worf.","actions":[]}
+- 1155 night: wait at white bed 443,107,-1037. Kimberly beside me. Health 9, hunger 17, holding nothing. No route named yet; still holding.
+- 1156 night: still no route named. Told Troi my state (health 9, hunger 17). Going to sleep at white bed 443,107,-1037 in the row's sight.
+- 15:01 act: {"actions":[{"do":"wait","seconds":30}],"say":"Beverly, morning, at the white bed 443,107,-1037. Holding nothing, unarmed, health 9, hunger 17. Still waiting for Billy's or Worf's named daylight route
+- 15:06 act: {"actions":[],"say":"Troi, Beverly here at the white bed. Health 9, hunger 17, holding nothing, unarmed. Not walking until Billy or Worf names a daylight route."}
