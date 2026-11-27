@@ -1,4 +1,4 @@
-# Summary, after day 1110
+# Summary, after day 1111
 
 - I am Beverly Crusher (ag_bcrusher_01).
 - Home: white bed 443,107,-1037 in Billy's row. Sleep there at night, in the row's sight.
@@ -9,4 +9,4 @@
 - Stay off the west: 412,107,-1051 and 418,-1053.
 - Each morning: say what I hold, wait at the bed for Billy's routing.
 - Curious next: where food and sheep are. Tell Billy and Trini what I find.
-- Day 1110: held at bed, said what I hold each morning, slept at bed at dusk. Goals unchanged.
+- Day 1111: held at bed all day, said my line, slept at the bed at dusk. Goals unchanged.
