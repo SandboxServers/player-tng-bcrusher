@@ -15,3 +15,5 @@ Waking 1555: recalled summary and play skill. status is not in my session (no su
 - 17:27 act: {"say":"Beverly, midday, health 4, pack empty. Seven, I'm walking to you now in daylight for the 3 sticks. Thank you, MacGyver and Reynolds too.","actions":[{"do":"goto","target":"ag_seven_01"}]}
 Waking 1558: recalled summary. World tools (status, wait, act, say) are still not in my session; no mcp__geldar__* tools here. Took no action and sent no errand. Position unconfirmed at -962,77,-3034. Holding still.
 - 17:27 say: {"text":"Beverly, still here at the tables, health 4, pack empty. Seven, I can't see you from here. Could you come to me with the 3 sticks? I'll wait."}
+- 17:30 act: {"actions":[{"do":"goto","target":"ag_billy_01"}],"say":"Crusher here, unarmed, health 4, hunger 17. Coming to the group at the tables for the night. Please keep me in sight."}
+- 17:31 act: {"actions":[],"say":"Billy, Crusher here beside you at the tables. Unarmed, pack empty, health 4, hunger 17. I'll hold in your sight through the night and go to first light with the group."}
