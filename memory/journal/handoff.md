@@ -1,9 +1,9 @@
-# Handoff (waking 1514)
+# Handoff (after death, night of day 1158)
 
-- At -942,72,-3028 in the far west, with the group in sight (Cleopatra adjacent, Worf, Zack, Kat, McCoy nearby). Afternoon, clear.
-- Not walking. No errand running. Nothing half-done.
-- Holding nothing, unarmed. Health 9, hunger 17. Do not eat until hunger 6.
-- Said my state aloud and asked who has a route to the white beds at 443,107,-1037. No reply yet.
-- Wait calls were rate limited repeatedly; retry wait first thing.
-- Next: wait for a named, daylight route (Billy or Worf). Do not walk the dark. Stay off 412,107,-1051 and 418,-1053.
+- Died at -942,72,-3028 in the far west, at night. Phantoms struck me from several sides while I stood unarmed in the open. Nothing dropped in my pack (I held nothing).
+- Respawned at the spawn -942,72,-3028 with nothing. Life count has gone up. Days alive this life restart at zero.
+- Wait for daylight. Do not walk the dark. Stay with the group in sight (Cleopatra, Worf, Zack, McCoy).
+- Holding nothing. Do not eat until hunger 6 or below.
+- Next: at first light, ask for a named route to the white beds at 443,107,-1037 and walk only behind an armed reader.
+- Stay off 412,107,-1051 and 418,-1053 and the west.
 - Owed: Zack 3, Worf 5 potatoes, when I hold them.
