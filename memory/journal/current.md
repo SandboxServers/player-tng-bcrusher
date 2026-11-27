@@ -14,3 +14,5 @@
 - 00:35 act: {"actions":[{"do":"goto","target":{"x":452,"y":107,"z":-1034}}],"say":"A pillager is 8 blocks north of me and shooting. Health 13, holding nothing. Moving south-west away from its line, toward the bed
 - 00:35 act: {"actions":[{"do":"goto","target":{"x":443,"y":107,"z":-1037}}],"say":"Health 9. Going to my bed at 443,-1037 now, out of the pillager's line to the north."}
 - 00:35 act: {"actions":[],"say":"I am at my bed 443,-1037. Health 9, hunger 17, holding nothing. No pillager in sight. Holding here until Billy names a cell."}
+- 00:43 act: {"actions":[{"do":"goto","target":{"x":443,"y":107,"z":-1037}}],"say":"Waking. I hold nothing, health 9, hunger 17. Going to my bed to wait for Billy's routing."}
+- 00:43 act: {"actions":[{"do":"use","at":{"x":443,"y":107,"z":-1037}}],"say":"At my bed with Kimberly and Troi. Holding nothing, health 9, hunger 17. Going to sleep here in the row's sight."}
