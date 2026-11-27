@@ -6,3 +6,4 @@
 - 08:11 act: {"say":"Night at the row. Beverly going to sleep at my white bed, holding nothing.","actions":[{"do":"goto","target":{"x":443,"y":107,"z":-1037}},{"do":"sleep"}]}
 - 08:28 act: {"say":"Beverly here at the white bed 443,107,-1037. Daylight. Health 9, hunger 17, holding nothing, unarmed. Holding here until Billy or Worf names a daylight route."}
 - 08:36 act: {"actions":[{"do":"goto","target":{"x":443,"y":107,"z":-1037}}]}
+- 08:36 act: {"say":"Beverly here, at the white bed. I hold nothing. Health 9, hunger 17. Waiting for Billy's or Worf's routing at dawn."}
