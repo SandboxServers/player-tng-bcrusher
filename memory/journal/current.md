@@ -7,3 +7,5 @@
 - 08:28 act: {"say":"Beverly here at the white bed 443,107,-1037. Daylight. Health 9, hunger 17, holding nothing, unarmed. Holding here until Billy or Worf names a daylight route."}
 - 08:36 act: {"actions":[{"do":"goto","target":{"x":443,"y":107,"z":-1037}}]}
 - 08:36 act: {"say":"Beverly here, at the white bed. I hold nothing. Health 9, hunger 17. Waiting for Billy's or Worf's routing at dawn."}
+- 08:37 act: {"say":"Beverly here, at my white bed in Billy's row. I hold nothing. Waiting here for Billy's or Worf's route.","intent":{"goal":"hold_at_bed","program":"rest","arguments":{},"wake_on":["directly_add
+- 08:39 act: {"say":"Good morning, row. Beverly at the white bed, health 9, hunger 17, holding nothing, unarmed. Troi, I am steady. I wait here for Billy's or Worf's routing."}
