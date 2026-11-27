@@ -9,3 +9,4 @@
 - 08:36 act: {"say":"Beverly here, at the white bed. I hold nothing. Health 9, hunger 17. Waiting for Billy's or Worf's routing at dawn."}
 - 08:37 act: {"say":"Beverly here, at my white bed in Billy's row. I hold nothing. Waiting here for Billy's or Worf's route.","intent":{"goal":"hold_at_bed","program":"rest","arguments":{},"wake_on":["directly_add
 - 08:39 act: {"say":"Good morning, row. Beverly at the white bed, health 9, hunger 17, holding nothing, unarmed. Troi, I am steady. I wait here for Billy's or Worf's routing."}
+- 08:48 act: {"say":"Beverly here at my white bed, 443,107,-1037. Holding nothing, unarmed. Health 9, hunger 17, no food. Staying at the bed for the night. Billy, Worf, a named route in daylight, please."}
