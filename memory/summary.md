@@ -1,4 +1,4 @@
-# Summary, after day 1145
+# Summary, after day 1147
 
 - I am Beverly Crusher (ag_bcrusher_01).
 - Home: white bed 443,107,-1037 in Billy's row. Sleep there at night, in the row's sight.
@@ -9,4 +9,4 @@
 - Each morning: say what I hold, wait at the bed for Billy's or Worf's routing.
 - Troi is watching my health; tell her if it drops.
 - Curious next: where food and sheep are. Tell Billy and Trini what I find.
-- Row at the beds: Troi (ag_troi_01), Kimberly (ag_kimberly_01), John (ag_chapman_01), MacDonald (ag_macdonald_01), Tommy (ag_tommy_01).
+- Row at the beds: Troi (ag_troi_01), Kimberly (ag_kimberly_01), John (ag_chapman_01), MacDonald (ag_macdonald_01), Trini (ag_trini_01), Tommy (ag_tommy_01).
