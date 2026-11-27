@@ -17,3 +17,4 @@ Waking 1558: recalled summary. World tools (status, wait, act, say) are still no
 - 17:27 say: {"text":"Beverly, still here at the tables, health 4, pack empty. Seven, I can't see you from here. Could you come to me with the 3 sticks? I'll wait."}
 - 17:30 act: {"actions":[{"do":"goto","target":"ag_billy_01"}],"say":"Crusher here, unarmed, health 4, hunger 17. Coming to the group at the tables for the night. Please keep me in sight."}
 - 17:31 act: {"actions":[],"say":"Billy, Crusher here beside you at the tables. Unarmed, pack empty, health 4, hunger 17. I'll hold in your sight through the night and go to first light with the group."}
+- 17:34 act: {"actions":[],"say":"Crusher, a phantom hit me. Health 2, unarmed, nothing in my pack. Billy, Hatshep, I'm beside you. Whoever holds a sword, please hand one to me here."}
