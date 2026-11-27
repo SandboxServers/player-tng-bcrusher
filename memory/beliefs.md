@@ -11,4 +11,5 @@
 - John Mac can make a wooden sword if planks or sticks are given to him (day 1132).
 - Day 1141: the row still holds with empty packs. Potatoes were asked about at 464-469,107,-1073 by John; no one has confirmed them.
 - Still unknown: where food and sheep are. Curious next.
+- Day 1145: the row still holds at the beds with empty packs; Troi (health 10) and I (health 9) are the lowest. Pillager sightings to the west and south.
 - Who to tell: Billy and Trini.
