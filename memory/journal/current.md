@@ -10,4 +10,5 @@
 - 15:06 act: {"actions":[],"say":"Troi, Beverly here at the white bed. Health 9, hunger 17, holding nothing, unarmed. Not walking until Billy or Worf names a daylight route."}
 - waking 1492: recalled summary. Tried world status (not available to me) and worker errand again: worker failed to spawn, zero tools (mcp__geldar__* unresolved). Still no world tools. Not moving; holding at white bed 443,107,-1037. Health 9, hunger 17, unarmed, empty.
 - 16:00 blocked: my planner has no world tools, and the worker has none in this session (tools did not resolve). Could not call status or wait. Holding at white bed 443,107,-1037; last known health 9, hunger 17, holding nothing. Nothing changed; not walking. Will retry the worker errand next waking.
+- waking 1494: recalled summary, read play skill. World tools (status, wait, act) still not in my session. Not moving; holding at white bed 443,107,-1037. Health 9, hunger 17, unarmed, empty.
 - waking 1493: recalled summary. mcp__geldar__status and mcp__geldar__wait do not exist in my tools (no such tool). Still blocked. Not moving; holding at white bed 443,107,-1037. Health 9, hunger 17, unarmed, empty.
