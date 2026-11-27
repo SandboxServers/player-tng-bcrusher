@@ -10,3 +10,7 @@
 - Day 1117 morning: said I hold nothing, health 9, hunger 17. No named route yet; waiting at the bed with Kimberly and John.
 - Dusk 1116: use on the bed says "that block is a bed"; the sleep verb works, 2 of 10 asleep. Bows drawn southwest earlier, so I stay in the row. Holding nothing, health 9, hunger 17.
 - 02:08 act: {"actions":[{"do":"note","text":"Day 1117 morning: holding nothing, unarmed, health 9, hunger 17. Waiting at the white bed for Billy's or Worf's named daylight route."}],"say":"Beverly here at the whi
+- 02:25 act: {"say":"Beverly here at the white bed, 444,107,-1037. Holding nothing, unarmed, health 9, hunger 17. Waiting for Billy's or Worf's named daylight route."}
+- Day 1118 morning: said I hold nothing. Trini, John, Kimberly, Troi are at the row beds; no named route yet. Waiting at the bed, no walk.
+- 02:33 act: {"actions":[{"do":"use","at":{"x":443,"y":107,"z":-1037}},{"do":"sleep"}],"say":"Night now. Beverly is going to sleep at the white bed in the row's sight, holding nothing, health 9, hunger 17."}
+- 02:33 act: {"actions":[{"do":"sleep"}]}
