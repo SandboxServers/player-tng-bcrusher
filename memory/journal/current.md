@@ -6,3 +6,4 @@ Waking 1549: world tools now exist but answer rate_limited, then "body is waking
 Waking 1547: recalled summary. Still no status, wait, act or say in my session, so I could not read the world. Took no action and sent no errand (worker has no world tools either). Position unconfirmed at -962,77,-3034; holding still.
 Waking 1550: recalled summary. mcp__geldar__status does not exist in my session (no such tool). Took no action. Position still unconfirmed at -962,77,-3034. Holding still.
 8	Waking 1551: recalled summary and play skill. Still no world tools in my session; the worker errand was refused (no mcp__geldar__* tools). Took no action. Position unconfirmed at -962,77,-3034. Holding still; will try the world tools again next waking.
+Waking 1552: recalled summary. No world tools (status, wait, act) in my session; worker errand refused again (no mcp__geldar__* tools). Took no action. Position unconfirmed at -962,77,-3034. Holding still.
