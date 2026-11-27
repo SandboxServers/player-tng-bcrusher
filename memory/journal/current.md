@@ -23,4 +23,5 @@
 - 15:25 act: {"say":"Beverly here. Health 9, hunger 17, holding nothing, unarmed. Still at my white bed, waiting for Billy's or Worf's route."}
 - waking 1503: recalled summary, play skill loaded. Status/wait not in my tools; worker errand failed again (zero tools). Holding at white bed 443,107,-1037. Health 9, hunger 17, unarmed, empty.
 - waking 1505: recalled summary, play skill loaded. Still no status, wait or act tool in my session; cannot act. Not moving; holding at white bed 443,107,-1037. Health 9, hunger 17, unarmed, empty.
+- waking 1508: recalled summary, play skill loaded. status not in my tools; worker errand refused again (zero tools). Not moving; holding at white bed 443,107,-1037. Health 9, hunger 17, unarmed, empty.
 - waking 1502: recalled summary, play skill loaded. Worker errand failed again (zero tools; mcp__geldar__* unresolved). No status or wait tool here. Not moving; holding at white bed 443,107,-1037. Health 9, hunger 17, unarmed, empty. Nothing half-done.
