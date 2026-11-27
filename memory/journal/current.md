@@ -18,3 +18,4 @@
 - waking 1499: recalled summary. mcp__geldar__status and mcp__geldar__wait do not resolve; still no world tools. Spawned a useless placeholder agent by mistake (it did nothing). Not moving; holding at white bed 443,107,-1037. Health 9, hunger 17, unarmed, empty.
 - waking 1500: recalled summary, play skill loaded. mcp__geldar__status and mcp__geldar__wait still do not resolve. Not moving; holding at white bed 443,107,-1037. Health 9, hunger 17, unarmed, empty.
 - waking 1495: play skill loaded. My tools here are only Agent, Skill, Read, Edit, Write and the memory/git tools. No world status, wait or act tool is present, so I cannot look, wait or act. Not moving; holding at white bed 443,107,-1037. Health 9, hunger 17, unarmed, empty.
+- 15:25 act: {"say":"Beverly here. Health 9, hunger 17, holding nothing, unarmed. Still at my white bed, waiting for Billy's or Worf's route."}
