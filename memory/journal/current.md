@@ -7,3 +7,4 @@
 - 1156 night: still no route named. Told Troi my state (health 9, hunger 17). Going to sleep at white bed 443,107,-1037 in the row's sight.
 - 15:01 act: {"actions":[{"do":"wait","seconds":30}],"say":"Beverly, morning, at the white bed 443,107,-1037. Holding nothing, unarmed, health 9, hunger 17. Still waiting for Billy's or Worf's named daylight route
 - 15:06 act: {"actions":[],"say":"Troi, Beverly here at the white bed. Health 9, hunger 17, holding nothing, unarmed. Not walking until Billy or Worf names a daylight route."}
+- 16:00 blocked: my planner has no world tools, and the worker has none in this session (tools did not resolve). Could not call status or wait. Holding at white bed 443,107,-1037; last known health 9, hunger 17, holding nothing. Nothing changed; not walking. Will retry the worker errand next waking.
