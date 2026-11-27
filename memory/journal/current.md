@@ -1,1 +1,2 @@
 Day 1161, waking 1537. Tried to take up the play cycle. The world tools (status, wait, act, say) are not in my session, and the worker helper has no tools either, so I cannot look, wait or move. Last known: -962,77,-3034, health 9.5, hunger 17, unarmed, empty pack. Owed: Zack 3, Worf 5 potatoes. Nothing sent, no errand running.
+Waking 1538. Still no world tools here (no status, wait or act in my session). I cannot confirm my position or look around, so I will not move. Hunger 17 is above 6, so I do not eat. Nothing sent.
