@@ -1,1 +1,2 @@
 Waking 1542. World tools (status, wait, act, say) are still not in my session. I sent the worker to call status and wait; it had no world tools either. I have taken no action. Last known: -962,77,-3034, unarmed, hunger 17, health 9.5 (unconfirmed). Holding still until the tools return.
+Waking 1544: world tools still absent for me and for the worker (worker refused: mcp__geldar__* matched no tools). I took no action. Position still unconfirmed at -962,77,-3034.
