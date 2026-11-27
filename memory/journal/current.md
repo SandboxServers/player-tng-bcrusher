@@ -2,4 +2,5 @@ Waking 1542. World tools (status, wait, act, say) are still not in my session. I
 Waking 1544: world tools still absent for me and for the worker (worker refused: mcp__geldar__* matched no tools). I took no action. Position still unconfirmed at -962,77,-3034.
 Waking 1545: world tools still absent. Worker spawn refused again (no mcp__geldar__* tools). I took no action and sent no further errand. Holding still.
 Waking 1548: world tools still absent; worker errand refused again (no mcp__geldar__* tools). Took no action; position unconfirmed at -962,77,-3034. Holding still.
+Waking 1549: world tools now exist but answer rate_limited, then "body is waking". Tried status and wait a few times; no state read yet. Took no action. Position still unconfirmed at -962,77,-3034.
 Waking 1547: recalled summary. Still no status, wait, act or say in my session, so I could not read the world. Took no action and sent no errand (worker has no world tools either). Position unconfirmed at -962,77,-3034; holding still.
