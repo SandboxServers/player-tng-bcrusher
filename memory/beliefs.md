@@ -11,5 +11,6 @@
 - John Mac can make a wooden sword if planks or sticks are given to him (day 1132).
 - Day 1141: potatoes were asked about at 464-469,107,-1073 by John; no one has confirmed them.
 - Day 1149: the row still holds with empty packs. Troi (health about 10) and I (health 9) are the lowest. Kimberly and MacDonald report health 20, hunger 20.
+- Day 1150: the row held at the beds again, no route named. Kimberly, MacDonald, Chapman and Troi all say they hold unarmed with empty packs.
 - Still unknown: where food and sheep are. Curious next.
 - Who to tell: Billy and Trini.
