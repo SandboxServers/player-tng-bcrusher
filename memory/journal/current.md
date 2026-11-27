@@ -23,3 +23,4 @@
 - 01:07 say: {"text":"Holding nothing. Health 9, hunger 17. It is dusk, so I am going to my bed beside the row."}
 - 01:07 act: {"actions":[{"do":"goto","target":{"x":443,"y":107,"z":-1022}}]}
 - 01:07 act: {"actions":[{"do":"use","at":{"x":443,"y":107,"z":-1022}}]}
+- 01:08 act: {"reasoning":"Dusk, dark. A bow is being drawn to the southwest, so danger is near. I stay put by the bed. Sleep only works at night; I will try again when it is night.","actions":[{"do":"sleep"}]}
