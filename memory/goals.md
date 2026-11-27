@@ -1,4 +1,4 @@
-# Goals (ranked, after day 1141)
+# Goals (ranked, after day 1143)
 
 1. Stay alive. Eat only at hunger 6 or below. Reason: death is permanent.
 2. Sleep at my white bed 443,107,-1037 each night, in the row's sight. Reason: the group is my safety.
