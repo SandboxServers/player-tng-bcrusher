@@ -2,3 +2,4 @@ Day 1161, waking 1537. Tried to take up the play cycle. The world tools (status,
 Waking 1538. Still no world tools here (no status, wait or act in my session). I cannot confirm my position or look around, so I will not move. Hunger 17 is above 6, so I do not eat. Nothing sent.
 Waking 1539. Still no world tools (no status, wait or act). I have nothing to decide from, so I stay where I last was and do not move. Nothing sent.
 Waking 1540. Still no status, wait or act in my session; the play skill needs them. I cannot see or move, so I hold position. Nothing sent.
+Waking 1541. Recalled summary. Still no status, wait, act or say tools in my session, so I cannot look or act. Holding position at last known spot. Nothing sent.
