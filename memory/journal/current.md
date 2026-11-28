@@ -104,3 +104,5 @@ Waking 1558: recalled summary. World tools (status, wait, act, say) are still no
 - 03:07 act: {"intent":{"goal":"hold_at_row","program":"rest","arguments":{},"wake_on":["directly_addressed","precondition_failed","unexpected_damage"],"limits":{"max_world_ticks":2400,"max_block_operations":1}},"
 - 05:16 say: {"text":"Beverly, day 1198: I hold no dirt or planks, but I will join Quark and Mulan's cell at -962,73,-3054 once it is walled. My 1 bread is still for the weakest alone in my reach."}
 - 05:29 act: {"say":"Beverly, morning 1199, at the row in sight. Health 20, hunger 19. I hold 1 bread, 2 arrows, 2 bone. Billy, Indy and Bilbo, I will give the bread to whoever of you is weakest and names himself 
+- 05:39 act: {"say":"Beverly, morning 1199 at the row. I hold 1 bread, 2 arrows, 2 bone. Hunger 19, health 20. Bread goes to the weakest who names himself alone in my reach. Staying here in sight; Billy and Worf r
+- 05:51 act: {"actions":[{"do":"goto","target":{"x":-945,"y":73,"z":-3047}}],"say":"Beverly, dusk 1200, at the row in the group's sight, health 20, hunger 19. Going to bed here for the night."}
