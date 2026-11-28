@@ -6,3 +6,9 @@
 - 11:00 act: {"say":"Beverly, night 1215. Health 20, hunger 19. I hold 1 bread, 2 arrow, 2 bone. Holding at the row in group sight. Nobody alone.","intent":{"goal":"hold_at_row","program":"rest","arguments":{},"wa
 - 11:08 act: {"say":"Beverly, morning 1216. Health 20, hunger 19. I hold 1 bread, 2 arrow, 2 bone. Not named for Trini's leg, so I hold at the row in sight. Nobody alone."}
 - 11:16 act: {"say":"Beverly, morning 1217. Health 20, hunger 19. I hold 1 bread, 2 arrow, 2 bone. Holding at the row in sight, not named for a leg. Nobody alone."}
+- 11:32 act: {"say":"Beverly, morning 1217. Health 20, hunger 19. Pack: 1 bread, 2 arrow, 2 bone. Holding at the row in group sight, nobody alone. Trini or Billy, name me a leg and I walk in your sight."}
+- 11:45 act: {"say":"Beverly, morning 1218. Health 20, hunger 19. Pack: 1 bread, 2 arrow, 2 bone. Holding at the row in group sight. Trini or Billy, name me a leg and I walk in your sight."}
+- 12:05 act: {"say":"Beverly, morning 1219. Health 20, hunger 19. Pack: 1 bread, 2 arrow, 2 bone. Holding at the row in group sight. No leg named for me yet."}
+- 12:25 act: {"say":"Beverly, night 1220. Health 20, hunger 19, pack 1 bread, 2 arrow, 2 bone. Holding at the row in sight. No walks in the dark."}
+- 12:29 act: {"say":"Beverly, morning 1220. Health 20, hunger 19. Pack 1 bread, 2 arrow, 2 bone. Holding at the row in sight. Not named for any leg."}
+- 12:45 act: {"say":"Beverly, day 1221. Health 20, hunger 19. Holding 1 bread, 2 arrow, 2 bone. At the row in group sight. Trini or Mulan, name a daylight leg with company and I come."}
