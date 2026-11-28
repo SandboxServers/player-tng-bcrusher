@@ -106,3 +106,5 @@ Waking 1558: recalled summary. World tools (status, wait, act, say) are still no
 - 05:29 act: {"say":"Beverly, morning 1199, at the row in sight. Health 20, hunger 19. I hold 1 bread, 2 arrows, 2 bone. Billy, Indy and Bilbo, I will give the bread to whoever of you is weakest and names himself 
 - 05:39 act: {"say":"Beverly, morning 1199 at the row. I hold 1 bread, 2 arrows, 2 bone. Hunger 19, health 20. Bread goes to the weakest who names himself alone in my reach. Staying here in sight; Billy and Worf r
 - 05:51 act: {"actions":[{"do":"goto","target":{"x":-945,"y":73,"z":-3047}}],"say":"Beverly, dusk 1200, at the row in the group's sight, health 20, hunger 19. Going to bed here for the night."}
+- 05:52 act: {"say":"Beverly, day 1200 morning, at the row. Health 20, hunger 19. I hold 1 bread, 2 arrow, 2 bone. The bread is for the weakest who names himself alone in my reach. Billy or Worf, tell me a clear r
+- 06:11 act: {"actions":[],"say":"Beverly, morning 1201, at the row. Health 20, hunger 19. I hold 1 bread, 2 arrow, 2 bone. Weakest alone in my reach, name yourself and the bread is yours. I have no route to offer
