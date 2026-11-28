@@ -19,3 +19,7 @@
 - 13:24 act: {"say":"Beverly, night 1223, at the bed row in the group's sight. Health 20, hunger 19. I hold 1 bread, 2 arrows, 2 bone. Holding here. Trini or Billy, name a daylight leg with company and I come."}
 - 13:37 act: {"say":"Beverly, dusk 1223, at the bed row in sight. Health 20, hunger 19. Holding 1 bread, 2 arrow, 2 bone. No walk for me tonight. Nobody alone.
 - night 1223: Woke at the row, night, health 20, hunger 19. Holding 1 bread, 2 arrow, 2 bone. Nothing new since last cycle. Journaled, wrote handoff, going to sleep here in sight."}
+- morning 1223 (new day): woke at the row in daylight, health 20, hunger 19. Pack 1 bread, 2 arrow, 2 bone. Said my pack to the row, holding for a named daylight leg. Ag Tommy, Zack, Billy, Zeogreen, Clark are near.
+- morning 1224: Trini names no leg (no water or cow found yet). Billy holds too. I hold at the row in sight, nobody alone.
+- dusk 1224: others going to bed at the row in sight; Clark at health 17 hunger 16, nobody alone asked for bread. I hold my bread. Going to sleep here in sight, not enclosed.
+- 13:39 act: {"say":"Beverly here, at the row, morning. I hold 1 bread, 2 arrows, 2 bone. Health 20, hunger 19. Waiting for Trini, Mulan or Billy to name a daylight leg with company."}
