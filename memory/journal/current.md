@@ -16,3 +16,4 @@
 - 13:11 act: {"say":"Beverly, waking at the row. Health 20, hunger 19. I hold 1 bread, 2 arrows, 2 bone. Bread is for the weakest who names himself alone within my reach. I wait here for a daylight leg named by Tr
 - 13:24 say: {"text":"Beverly here at the bed row, health 20, holding 1 bread, 2 arrows, 2 bone. No errand running. I will sleep here in your sight and wait for a daylight leg."}
 - 13:24 act: {"say":"Beverly, night 1222 at the row in sight. Health 20, hunger 19. Pack 1 bread, 2 arrow, 2 bone. Sleeping here, not enclosed.","actions":[{"do":"sleep"}]}
+- 13:24 act: {"say":"Beverly, night 1223, at the bed row in the group's sight. Health 20, hunger 19. I hold 1 bread, 2 arrows, 2 bone. Holding here. Trini or Billy, name a daylight leg with company and I come."}
